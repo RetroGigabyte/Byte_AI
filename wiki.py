@@ -254,9 +254,85 @@ if __name__ == "__main__":
     print("FLEXIBLE WIKIPEDIA TRAINING DATA EXTRACTOR")
     print("=" * 60)
 
-    # Check for recursive mode
+    # Check for list mode
     if len(sys.argv) > 1:
-        if sys.argv[1].lower() in ["--recursive", "-r"]:
+        if sys.argv[1].lower() in ["--list", "-l"]:
+            if len(sys.argv) < 3:
+                print("\n❌ Usage: python3 wiki.py --list <articles.txt>")
+                print("\nExample articles.txt:")
+                print("  Machine Learning")
+                print("  Artificial Intelligence")
+                print("  Python (programming language)")
+                print("  Deep Learning")
+                exit(1)
+
+            list_file = sys.argv[2]
+
+            if not os.path.exists(list_file):
+                print(f"\n❌ File not found: {list_file}")
+                exit(1)
+
+            # Read articles from file
+            with open(list_file, 'r', encoding='utf-8') as f:
+                articles = [line.strip() for line in f if line.strip() and not line.startswith('#')]
+
+            print(f"\n📋 LIST MODE")
+            print(f"  Reading from: {list_file}")
+            print(f"  Articles to download: {len(articles)}\n")
+
+            all_training_data = {}
+            successful = 0
+
+            for idx, article_title in enumerate(articles, 1):
+                print(f"[{idx}/{len(articles)}] 📥 {article_title}...")
+
+                content = fetch_wikipedia_article(article_title)
+
+                if content:
+                    # Create category from article title
+                    article_category = article_title.lower().replace(" ", "_").replace("(", "").replace(")", "")
+                    training_data = extract_training_data(content, article_category)
+
+                    if training_data:
+                        all_training_data[article_category] = training_data
+                        print(f"  ✓ Generated {len(training_data)} lines")
+                        successful += 1
+                    else:
+                        print(f"  ⚠️  No training data extracted")
+                else:
+                    print(f"  ⚠️  Article not found")
+
+            # Save all downloaded articles
+            if all_training_data:
+                print(f"\n" + "=" * 60)
+                print(f"SAVING {len(all_training_data)} ARTICLES")
+                print("=" * 60)
+
+                total_lines = 0
+                for article_category, lines in all_training_data.items():
+                    filename = f"{article_category}_wiki.txt"
+                    filepath = os.path.join(WIKI_FOLDER, filename)
+
+                    unique_lines = list(set(lines))
+                    total_lines += len(unique_lines)
+
+                    with open(filepath, 'w', encoding='utf-8') as f:
+                        for line in unique_lines:
+                            f.write(line + '\n')
+
+                    print(f"✓ {article_category:40s} → {len(unique_lines):5d} lines")
+
+                print("\n" + "=" * 60)
+                print(f"✅ COMPLETE: Downloaded {successful}/{len(articles)} articles")
+                print(f"📊 Total lines saved: {total_lines}")
+                print(f"📂 Location: {WIKI_FOLDER}/")
+                print("=" * 60)
+            else:
+                print("\n❌ No articles downloaded")
+
+            exit(0)
+
+        elif sys.argv[1].lower() in ["--recursive", "-r"]:
             if len(sys.argv) < 4:
                 print("\n❌ Usage: python3 wiki.py --recursive <article> <category> [depth]")
                 print("\nExamples:")
