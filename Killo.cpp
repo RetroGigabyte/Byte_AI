@@ -503,8 +503,33 @@ private:
 
         // Score sentences based on word matches and quality
         for (const auto& sentence : sentences) {
-            // Filter: skip very short sentences (likely incomplete)
+            // AGGRESSIVE FILTERING: Skip contaminated/low-quality content
+
+            // Filter: skip very short sentences
             if (sentence.length() < 40) continue;
+
+            // Filter: skip HTML-contaminated sentences
+            if (sentence.find("<") != string::npos ||
+                sentence.find(">") != string::npos ||
+                sentence.find("</") != string::npos ||
+                sentence.find("src=") != string::npos) {
+                continue;  // Skip HTML/markup
+            }
+
+            // Filter: skip URLs and code references
+            if (sentence.find("http") != string::npos ||
+                sentence.find("github") != string::npos ||
+                sentence.find("pyinstaller") != string::npos ||
+                sentence.find("bundle.") != string::npos) {
+                continue;  // Skip technical/URL references
+            }
+
+            // Filter: skip license/legal text
+            if (sentence.find("license") != string::npos ||
+                sentence.find("licensed") != string::npos ||
+                sentence.find("polyform") != string::npos) {
+                continue;
+            }
 
             string sentenceLower = toLower(sentence);
             int score = 0;
