@@ -80,8 +80,7 @@ Killo [time]: Current time: Monday, June 30, 2026 at 10:40 AM
 # 1. Collect Q&A pairs (interactive)
 python3 training_mode.py interactive
 
-# 2. Compile and run bot - it auto-loads all training data!
-g++ -std=c++17 Killo.cpp -o Killo
+# 2. it auto-loads all training data!
 ./Killo
 ```
 
