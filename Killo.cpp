@@ -507,9 +507,16 @@ private:
         // REJECT if clearly historical/context query
         vector<string> historyKeywords = {
             "what was", "what did", "what happened", "when did",
-            "during", "in", "at the time", "back then",
+            "during", "at the time", "back then",
             "history of", "describe", "explain", "tell me about"
         };
+
+        // Check if this contains history keywords - if so, it's NOT a time query
+        for (const auto& keyword : historyKeywords) {
+            if (queryLower.find(keyword) != string::npos) {
+                return false;  // This is a history/content query, not time
+            }
+        }
 
         // Check if this is a "what was X doing in YEAR" pattern
         if ((queryLower.find("what was") != string::npos ||
@@ -517,11 +524,6 @@ private:
             (queryLower.find("doing") != string::npos ||
              queryLower.find("in") != string::npos)) {
             return false;  // This is historical, not time
-        }
-
-        // Reject "during X period" historical queries
-        if (queryLower.find("during") != string::npos) {
-            return false;
         }
 
         vector<string> timeKeywords = {
