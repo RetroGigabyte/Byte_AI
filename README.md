@@ -16,8 +16,6 @@ Open-source AI bot framework - Killo (Byte 2.0):
 - Context-aware synthesis engine
 - Conversational memory and pattern learning
 
-Previous version archived in `old/` folder.
-
 ## Features
 
 ### Killo Core Capabilities
