@@ -54,61 +54,75 @@ private:
     };
     map<string, ConceptPattern> learnedPatterns;
 
-    // Extract keywords from sentences (generation base)
-    vector<string> extractKeywords(const string& sentence) {
-        vector<string> keywords;
+    // Extract key facts/information from sentences
+    string extractMainFact(const string& sentence) {
+        // Return the core fact (skip first article/prepositions)
         vector<string> words = split(sentence, ' ');
 
-        for (const auto& word : words) {
-            string w = toLower(word);
-            // Skip common words
-            if (w.length() > 4 && w.find_first_not_of("aeiou") != string::npos) {
-                // Remove punctuation
-                while (!w.empty() && !isalnum(w.back())) w.pop_back();
-                if (w.length() > 3) keywords.push_back(w);
+        // Skip: "The", "A", "An", "In", "On", "At", etc
+        vector<string> skipWords = {"the", "a", "an", "in", "on", "at", "is", "are", "was", "were"};
+
+        int startIdx = 0;
+        for (size_t i = 0; i < words.size(); i++) {
+            string w = toLower(words[i]);
+            bool shouldSkip = false;
+            for (const auto& skip : skipWords) {
+                if (w == skip) {
+                    shouldSkip = true;
+                    break;
+                }
+            }
+            if (!shouldSkip) {
+                startIdx = i;
+                break;
             }
         }
-        return keywords;
+
+        // Reconstruct from key words
+        string result;
+        for (size_t i = startIdx; i < min(startIdx + 15, (int)words.size()); i++) {
+            if (!result.empty()) result += " ";
+            result += words[i];
+        }
+
+        return result.empty() ? sentence : result;
     }
 
     // Learn patterns from training data (called once on startup)
     void learnPatternsFromData() {
         for (const auto& categoryPair : knowledge) {
             const string& category = categoryPair.first;
-            const vector<string>& sentences = categoryPair.second;
 
-            for (const auto& sentence : sentences) {
-                vector<string> keywords = extractKeywords(sentence);
-                if (!keywords.empty()) {
-                    string primaryKeyword = keywords[0];
-                    if (learnedPatterns.find(primaryKeyword) == learnedPatterns.end()) {
-                        learnedPatterns[primaryKeyword].concept = primaryKeyword;
-                    }
-                    learnedPatterns[primaryKeyword].frequency++;
-                }
+            if (learnedPatterns.find(category) == learnedPatterns.end()) {
+                learnedPatterns[category].concept = category;
             }
+            learnedPatterns[category].frequency += categoryPair.second.size();
         }
     }
 
-    // Generate new sentence based on learned patterns
-    string generateSentence(const string& concept, const string& category) {
-        vector<string> verbs = {"provides", "develops", "offers", "enables", "supports",
-                               "delivers", "creates", "ensures", "maintains", "improves"};
-        vector<string> descriptors = {"advanced", "modern", "innovative", "leading", "powerful",
-                                     "reliable", "efficient", "comprehensive", "robust", "seamless"};
+    // Generate direct, informative sentences
+    string generateDirectResponse(const string& topic, const vector<string>& facts) {
+        if (facts.empty()) return "";
 
-        random_device rd;
-        mt19937 gen(rd());
-        uniform_int_distribution<> verbDis(0, verbs.size() - 1);
-        uniform_int_distribution<> descDis(0, descriptors.size() - 1);
+        // Return the most informative fact directly
+        string longest = facts[0];
+        for (const auto& fact : facts) {
+            if (fact.length() > longest.length()) {
+                longest = fact;
+            }
+        }
 
-        string generated = category;
-        generated[0] = toupper(generated[0]);
-        generated += " " + verbs[verbDis(gen)] + " ";
-        generated += descriptors[descDis(gen)] + " ";
-        generated += concept + " solutions";
+        // Capitalize first letter
+        if (!longest.empty()) {
+            longest[0] = toupper(longest[0]);
+        }
 
-        return generated + ".";
+        // Ensure it ends with period
+        if (!longest.empty() && longest.back() != '.') {
+            longest += ".";
+        }
+
+        return longest;
     }
 
     // FEATURE 12: Holiday Calendar
@@ -1206,32 +1220,17 @@ private:
         return score;
     }
 
-    // KILLO: Response Synthesis Engine (Enhanced)
+    // KILLO: Response Synthesis Engine (Direct & Informative)
     string synthesizeResponse(const vector<string>& sentences) {
         if (sentences.empty()) return "";
         if (sentences.size() == 1) return sentences[0];
 
-        // Add transition words for natural flow
-        vector<string> transitions = {
-            "Furthermore, ",
-            "Additionally, ",
-            "In fact, ",
-            "Notably, ",
-            "As well, "
-        };
-
+        // Combine 2-3 sentences directly for clarity
         string result = sentences[0];
 
-        for (size_t i = 1; i < sentences.size() && i < 3; i++) {
-            // Add space and transition
-            result += " ";
-
-            // Randomly choose transition every other sentence
-            if (i % 2 == 1 && i < transitions.size()) {
-                result += transitions[i % transitions.size()];
-            }
-
-            result += sentences[i];
+        // Add second sentence if available and informative
+        if (sentences.size() > 1 && sentences[1].length() > 30) {
+            result += " " + sentences[1];
         }
 
         return result;
@@ -1474,18 +1473,11 @@ private:
 
             cout << "\nKillo [" << category << "]:\n";
 
-            // KILLO 2.0: Use synthesis engine + generation layer
+            // KILLO 2.0: Direct + Informative responses
             if (!answers.empty()) {
+                // Use synthesis engine to create coherent response
                 string synthesizedResponse = synthesizeResponse(answers);
                 cout << synthesizedResponse;
-
-                // Add generated content for more fluent responses
-                if (!answers.empty()) {
-                    vector<string> keywords = extractKeywords(answers[0]);
-                    if (!keywords.empty()) {
-                        cout << " " << generateSentence(keywords[0], category);
-                    }
-                }
             } else {
                 // Fallback to fluent generation
                 cout << generateFluentResponse(category);
