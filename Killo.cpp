@@ -82,7 +82,7 @@ private:
 public:
     // Extract zip files to temporary directory
     void extractZipFile(const string& zipPath) {
-        string tempDir = "training/.temp_extract";
+        string tempDir = "training/extracted_zips";
 
         // Create temp directory
         try {
