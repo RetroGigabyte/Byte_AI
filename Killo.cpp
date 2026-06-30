@@ -494,37 +494,58 @@ private:
         if (knowledge.find(category) == knowledge.end()) {
             return vector<string>();
         }
-        
+
         const auto& sentences = knowledge[category];
         vector<pair<string, int>> scored;
-        
+
         string queryLower = toLower(query);
         vector<string> queryWords = split(queryLower, ' ');
-        
-        // Score sentences based on word matches
+
+        // Score sentences based on word matches and quality
         for (const auto& sentence : sentences) {
+            // Filter: skip very short sentences (likely incomplete)
+            if (sentence.length() < 40) continue;
+
             string sentenceLower = toLower(sentence);
             int score = 0;
-            
+
+            // Score based on word matches
             for (const auto& word : queryWords) {
                 if (word.length() > 2 && sentenceLower.find(word) != string::npos) {
                     score++;
                 }
             }
-            
-            scored.push_back({sentence, score});
-        }
-        
-        // Sort by score (highest first)
-        sort(scored.begin(), scored.end(), 
-             [](const auto& a, const auto& b) { return a.second > b.second; });
-        
-        // Return top 5-6 sentences for comprehensive synthesis
-        vector<string> result;
-        for (size_t i = 0; i < min(size_t(6), scored.size()); i++) {
-            if (scored[i].second > 0 || i == 0) {  // Always return at least 1
-                result.push_back(scored[i].first);
+
+            // Bonus for longer, more comprehensive sentences
+            if (sentence.length() > 80) score += 2;
+            if (sentence.length() > 150) score += 3;
+
+            if (score > 0) {
+                scored.push_back({sentence, score});
             }
+        }
+
+        // Sort by score (highest first)
+        sort(scored.begin(), scored.end(),
+             [](const auto& a, const auto& b) { return a.second > b.second; });
+
+        // Return top 5-6 UNIQUE sentences
+        vector<string> result;
+        set<string> seen;  // Track seen sentences to avoid duplicates
+
+        for (size_t i = 0; i < scored.size() && result.size() < 6; i++) {
+            const string& sentence = scored[i].first;
+
+            // Skip if we've already added this sentence
+            if (seen.find(sentence) != seen.end()) continue;
+
+            result.push_back(sentence);
+            seen.insert(sentence);
+        }
+
+        // If we don't have enough good matches, that's okay - return what we have
+        if (result.empty() && !sentences.empty()) {
+            result.push_back(sentences[0]);  // Fallback to first sentence
         }
 
         // If no scored matches, return 5 random
@@ -1221,38 +1242,31 @@ private:
         return score;
     }
 
-    // KILLO 2.0: Comprehensive Response Synthesis (Qwen-inspired)
+    // KILLO 2.0: Comprehensive Response Synthesis (Quality-focused)
     string synthesizeResponse(const vector<string>& sentences) {
         if (sentences.empty()) return "";
         if (sentences.size() == 1) return sentences[0];
 
-        // Build comprehensive answer (WHAT + HOW + WHY pattern)
+        // Use the best sentences (already filtered for quality)
         vector<string> selected;
 
-        // Select diverse sentences that explain different aspects
         for (const auto& sent : sentences) {
-            if (sent.length() > 30) {  // Only substantial sentences
+            if (sent.length() > 40) {  // Verified substantial sentences
                 selected.push_back(sent);
-                if (selected.size() >= 4) break;  // Get up to 4 comprehensive sentences
+                if (selected.size() >= 3) break;  // Use top 3 quality sentences
             }
         }
 
-        // Synthesize into flowing paragraph
-        string result;
-        for (size_t i = 0; i < selected.size(); i++) {
-            if (i == 0) {
-                // First sentence: introduce the concept (WHAT)
-                result = selected[i];
-            } else if (i == 1) {
-                // Second: explain significance or context (WHY)
-                result += " " + selected[i];
-            } else if (i == 2) {
-                // Third: explain mechanism or application (HOW)
-                result += " " + selected[i];
-            } else {
-                // Additional context
-                result += " " + selected[i];
-            }
+        if (selected.empty()) {
+            return sentences[0];  // Fallback
+        }
+
+        // Combine selected sentences with proper flow
+        string result = selected[0];
+
+        for (size_t i = 1; i < selected.size(); i++) {
+            // Add space and next sentence
+            result += " " + selected[i];
         }
 
         return result;
