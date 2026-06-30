@@ -96,6 +96,8 @@ g++ -std=c++17 Killo.cpp -o Killo
 # Download Machine Learning + linked articles recursively
 python3 wiki.py -r "Machine learning" ai 2
 
+#Move all .txt(s) from "Wiki" folder to "training" folder
+
 # Compile and run - bot auto-loads on startup!
 g++ -std=c++17 Killo.cpp -o Killo
 ./Killo
