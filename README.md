@@ -208,9 +208,20 @@ python3 auto_train.py schedule 24
 
 ## License
 
-MIT License - Copyright (c) 2024 RetroGigabyte
+**100% Open Source** - MIT License
 
-See LICENSE file for details.
+Copyright (c) 2026 RetroGigabyte
+
+This project is completely free to use, modify, and distribute. You are free to:
+- ✅ Use the code for any purpose (commercial or personal)
+- ✅ Modify and distribute the code
+- ✅ Use it in your own projects
+- ✅ Fork and build your own version
+- ✅ Rename, rebrand, and customize everything
+
+See [LICENSE](LICENSE) file for details.
+
+**Fork-based model:** This repository accepts no pull requests. Fork it and build your own version instead!
 
 ## Architecture Credits
 
@@ -218,14 +229,22 @@ See LICENSE file for details.
 **AI Architecture & Implementation:** Claude AI (Claude 3.5 Sonnet)  
 **Training Data:** Wikipedia, News APIs, User-Contributed Q&A
 
-## Contributing
+## Customizing & Forking
 
-To contribute improvements to Byte:
+Byte AI is **100% open source**! This repository is the base version, but we encourage you to **fork it and build your own version**.
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your improvements
-4. Submit a pull request
+**No pull requests** — this keeps the main project focused. Instead:
+
+1. **Fork** the repository on GitHub
+2. **Clone** your fork and make it your own
+3. **Customize** everything: features, behavior, training data, branding
+4. **Publish** your fork and share what you built!
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for:
+- How to fork and customize
+- Ideas for your own version
+- How to share your fork
+- MIT License freedom
 
 ## Contact
 
