@@ -594,6 +594,18 @@ private:
             string sentenceLower = toLower(sentence);
             int score = 0;
 
+            // KILLO 2.5: Prioritize definition/introduction sentences
+            // Look for "is a", "is the", "refers to", etc.
+            if (sentenceLower.find(" is a ") != string::npos ||
+                sentenceLower.find(" is the ") != string::npos ||
+                sentenceLower.find(" is an ") != string::npos ||
+                sentenceLower.find("refers to") != string::npos ||
+                sentenceLower.find("also known as") != string::npos ||
+                sentenceLower.find("defined as") != string::npos ||
+                sentenceLower.find(" meaning ") != string::npos) {
+                score += 5;  // Huge bonus for definitions
+            }
+
             // Score based on word matches
             for (const auto& word : queryWords) {
                 if (word.length() > 2 && sentenceLower.find(word) != string::npos) {
