@@ -397,10 +397,32 @@ private:
         }
     }
     
+    string stripPunctuation(const string& word) {
+        string result;
+        for (char c : word) {
+            if (isalnum(c)) {
+                result += c;
+            }
+        }
+        return result;
+    }
+
     string findBestCategory(const string& query) {
         string queryLower = toLower(query);
         vector<string> queryWords = split(queryLower, ' ');
-        
+
+        // Strip punctuation from query words
+        for (auto& w : queryWords) {
+            w = stripPunctuation(w);
+        }
+
+        // Remove empty words (that were only punctuation)
+        queryWords.erase(
+            remove_if(queryWords.begin(), queryWords.end(),
+                     [](const string& s) { return s.empty(); }),
+            queryWords.end()
+        );
+
         // Check for math expressions
         if (query.find('^') != string::npos || 
             query.find('+') != string::npos || 

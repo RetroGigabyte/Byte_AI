@@ -6,41 +6,21 @@
   **By: RetroGigabyte**
 </div>
 
-Open-source AI bot framework with two generations:
+Open-source AI bot framework - Killo (Byte 2.0):
 
-**Byte 1.0** - High-performance retrieval-based knowledge bot (current)
+**Killo** - LLM-like generative knowledge bot (current)
 - Built in C++ with intelligent category matching
-- 4,500+ training sentences across 50+ categories
+- 500,000+ training lines across 2,300+ categories
+- Generates natural language responses from training data
 - Multi-threaded loading, Wikipedia integration, NTP time functions
-- Lightning fast responses from training data
-- There are some bugs...
+- Context-aware synthesis engine
+- Conversational memory and pattern learning
 
-**Byte 2.0/Killo** - LLM-like generative bot (coming soon)
-- Generates natural language responses
-- Learns from training data patterns
-- More conversational and contextual
-- Template-based synthesis engine
-
-## Versions
-
-### Byte 1.0 (Current)
-Fast retrieval-based bot with intelligent category matching. Perfect for:
-- Quick knowledge lookup
-- Instant responses
-- Precise category classification
-- Lightweight deployment
-- There are some bugs...
-
-### Byte 2.0/Killo (In Development)
-LLM-like generative bot that synthesizes responses. Better for:
-- Natural conversation
-- Multi-sentence answers
-- Context-aware generation
-- More human-like interactions
+Previous version archived in `old/` folder.
 
 ## Features
 
-### Byte 1.0 Core Capabilities
+### Killo Core Capabilities
 - ✅ **Multi-threaded Loading** - 4 parallel threads load 4,500+ training lines in 0.7 seconds
 - ✅ **Recursive Zip Extraction** - Automatically extracts and loads compressed training data
 - ✅ **Wikipedia Integration** - Recursive article downloading with linked article following
@@ -73,35 +53,36 @@ pip install -r url_lists/requirements.txt
 
 ### 3. Compile
 ```bash
-g++ -std=c++17 knowledge_bot.cpp -o knowledge_bot
+g++ -std=c++17 Killo.cpp -o Killo
 ```
 
 ### 4. Run
 ```bash
-./knowledge_bot
+./Killo
 ```
 
 ## Usage Examples
 
-### Chat with Byte
+### Chat with Killo
 ```
 You: What is machine learning?
-Byte [ai]: Machine learning is a subset of artificial intelligence...
+Killo [ai]: Machine learning is a subset of artificial intelligence...
 
 You: Tell me about dogs
-Byte [pets]: Labrador Retrievers are one of the most popular dog breeds...
+Killo [pets]: Labrador Retrievers are one of the most popular dog breeds...
 
 You: What time is it?
-Byte [time]: Current time: Monday, June 30, 2026 at 10:40 AM
+Killo [time]: Current time: Monday, June 30, 2026 at 10:40 AM
 ```
 
-### Train Byte (Simple Workflow)
+### Train Killo (Simple Workflow)
 ```bash
 # 1. Collect Q&A pairs (interactive)
 python3 training_mode.py interactive
 
-# 2. Run bot - it auto-loads all training data!
-./Byte
+# 2. Compile and run bot - it auto-loads all training data!
+g++ -std=c++17 Killo.cpp -o Killo
+./Killo
 ```
 
 **That's it!** The bot automatically:
@@ -113,13 +94,11 @@ python3 training_mode.py interactive
 ### Advanced: Download Wikipedia Articles
 ```bash
 # Download Machine Learning + linked articles recursively
-python3 url.py --urls url/url_lists/url.txt --recursive
-
-# Or Wikipedia
 python3 wiki.py -r "Machine learning" ai 2
 
-# Bot auto-loads on next run - no compilation needed!
-./Byte
+# Compile and run - bot auto-loads on startup!
+g++ -std=c++17 Killo.cpp -o Killo
+./Killo
 ```
 
 ### Optional: Use Groq AI for Better Answers
@@ -154,27 +133,24 @@ python3 training_mode.py interactive
 ```
 
 ### Key Files
-- `Byte.cpp` - Main C++ bot engine (600+ lines)
-- `Byte` - Compiled executable (398 KB)
+- `Killo.cpp` - Main C++ bot engine (800+ lines)
+- `Killo` - Compiled executable
 - `training_mode.py` - Interactive Q&A collection (with Groq support)
 - `wiki.py` - Wikipedia article extraction (recursive)
-- `url/` - URL extraction tools (news, webpages, recursive crawling)
+- `url.py` - URL extraction tool (recursive crawling)
 - `groq_enhancer.py` - Groq API integration (optional)
 
 ## Training Data
 
 ### Included Categories
-- **ai** (3,038 sentences) - Machine Learning, AI, Neural Networks
-- **pets** (1,345 sentences) - Dogs, Cats, Pet Care
-- **war** (history sentences) - World War 1, Military History
-- **news** (30+ articles) - Technology, Science, Business News
-- **dictionary** (781+ words) - Webster's 1828 Dictionary
+- **2,300+** total categories across domains
+- **500,000+** training lines (from Wikipedia, news, user data)
+- Including: AI, pets, history, news, dictionary, and more
 
 ### Add Your Own Training
 ```bash
 # Option 1: Use interactive training (easiest)
 python3 training_mode.py interactive
-# Bot auto-loads on next run!
 
 # Option 2: Create manual training file
 training/my_category.txt
@@ -184,11 +160,12 @@ training/my_category.txt
 # cooking: Preheat oven to 350 degrees
 # cooking: Add flour and sugar to bowl
 
-# Just run bot - it auto-loads everything!
-./Byte
+# Compile and run - bot auto-loads everything!
+g++ -std=c++17 Killo.cpp -o Killo
+./Killo
 ```
 
-**No compilation or special scripts needed!** The bot automatically:
+**The bot automatically:**
 - Scans `training/` directory
 - Loads all `.txt` files
 - Extracts and reads from `.zip` files
@@ -223,11 +200,11 @@ python3 auto_train.py schedule 24
 
 ## Performance
 
-- **Startup Time**: 0.7 seconds
+- **Startup Time**: < 2 seconds (with 500K training lines)
 - **Threading**: 4 parallel loaders
-- **Training Lines Loaded**: 4,500+
-- **Categories**: 50+
-- **Response Time**: Instant matching
+- **Training Lines Loaded**: 500,000+
+- **Categories**: 2,300+
+- **Response Time**: Instant synthesis
 
 ## System Requirements
 
@@ -283,4 +260,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 
 ---
 
-**Happy chatting with Byte! 🤖**
+**Happy chatting with Killo! 🤖**
