@@ -518,28 +518,28 @@ private:
         sort(scored.begin(), scored.end(), 
              [](const auto& a, const auto& b) { return a.second > b.second; });
         
-        // Return top 3 sentences
+        // Return top 5-6 sentences for comprehensive synthesis
         vector<string> result;
-        for (size_t i = 0; i < min(size_t(3), scored.size()); i++) {
+        for (size_t i = 0; i < min(size_t(6), scored.size()); i++) {
             if (scored[i].second > 0 || i == 0) {  // Always return at least 1
                 result.push_back(scored[i].first);
             }
         }
-        
-        // If no scored matches, return 3 random
+
+        // If no scored matches, return 5 random
         if (result.empty()) {
             random_device rd;
             mt19937 g(rd());
             
             vector<string> temp(sentences);
             shuffle(temp.begin(), temp.end(), g);
-            
-            for (size_t i = 0; i < min(size_t(3), temp.size()); i++) {
+
+            for (size_t i = 0; i < min(size_t(5), temp.size()); i++) {
                 result.push_back(temp[i]);
             }
         }
-        
-        lastIndex = 3;  // Remember we showed 3 sentences
+
+        lastIndex = result.size();  // Remember we showed N sentences
         return result;
     }
     
@@ -1220,17 +1220,38 @@ private:
         return score;
     }
 
-    // KILLO: Response Synthesis Engine (Direct & Informative)
+    // KILLO 2.0: Comprehensive Response Synthesis (Qwen-inspired)
     string synthesizeResponse(const vector<string>& sentences) {
         if (sentences.empty()) return "";
         if (sentences.size() == 1) return sentences[0];
 
-        // Combine 2-3 sentences directly for clarity
-        string result = sentences[0];
+        // Build comprehensive answer (WHAT + HOW + WHY pattern)
+        vector<string> selected;
 
-        // Add second sentence if available and informative
-        if (sentences.size() > 1 && sentences[1].length() > 30) {
-            result += " " + sentences[1];
+        // Select diverse sentences that explain different aspects
+        for (const auto& sent : sentences) {
+            if (sent.length() > 30) {  // Only substantial sentences
+                selected.push_back(sent);
+                if (selected.size() >= 4) break;  // Get up to 4 comprehensive sentences
+            }
+        }
+
+        // Synthesize into flowing paragraph
+        string result;
+        for (size_t i = 0; i < selected.size(); i++) {
+            if (i == 0) {
+                // First sentence: introduce the concept (WHAT)
+                result = selected[i];
+            } else if (i == 1) {
+                // Second: explain significance or context (WHY)
+                result += " " + selected[i];
+            } else if (i == 2) {
+                // Third: explain mechanism or application (HOW)
+                result += " " + selected[i];
+            } else {
+                // Additional context
+                result += " " + selected[i];
+            }
         }
 
         return result;
