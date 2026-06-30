@@ -61,28 +61,38 @@ You: What time is it?
 Byte [time]: Current time: Monday, June 30, 2026 at 10:40 AM
 ```
 
-### Train Byte
+### Train Byte (Simple Workflow)
 ```bash
-# Interactive training mode
+# 1. Collect Q&A pairs (interactive)
 python3 training_mode.py interactive
 
-# Use Groq to generate better answers
-# Select option 2 when prompted
+# 2. Run bot - it auto-loads all training data!
+./Byte
 ```
 
-### Download Wikipedia Articles
+**That's it!** The bot automatically:
+- Loads all .txt files from `training/`
+- Extracts and reads from .zip files
+- Finds and indexes all training data
+- Applies multi-threaded recursive loading
+
+### Advanced: Download Wikipedia Articles
 ```bash
-# Download Machine Learning articles recursively
+# Download Machine Learning + linked articles recursively
+python3 url.py --urls url/url_lists/url.txt --recursive
+
+# Or Wikipedia
 python3 wiki.py -r "Machine learning" ai 2
 
-# Then auto-train
-python3 auto_train.py run
+# Bot auto-loads on next run - no compilation needed!
+./Byte
 ```
 
-### Extract from URLs
+### Optional: Use Groq AI for Better Answers
 ```bash
-# Extract and load news articles
-python3 url.py --urls url_lists/url.txt --recursive
+# During training, select "Generate with Groq"
+python3 training_mode.py interactive
+# Choose option 2 to have Groq generate better answers
 ```
 
 ## Architecture
@@ -110,13 +120,12 @@ python3 url.py --urls url_lists/url.txt --recursive
 ```
 
 ### Key Files
-- `knowledge_bot.cpp` - Main C++ bot engine
-- `knowledge_bot` - Compiled executable
-- `training_mode.py` - Interactive Q&A collection
-- `auto_train.py` - Auto-training pipeline
-- `wiki.py` - Wikipedia article extraction
-- `url.py` - Webpage and news extraction
-- `groq_enhancer.py` - Groq API integration
+- `Byte.cpp` - Main C++ bot engine (600+ lines)
+- `Byte` - Compiled executable (398 KB)
+- `training_mode.py` - Interactive Q&A collection (with Groq support)
+- `wiki.py` - Wikipedia article extraction (recursive)
+- `url/` - URL extraction tools (news, webpages, recursive crawling)
+- `groq_enhancer.py` - Groq API integration (optional)
 
 ## Training Data
 
@@ -127,9 +136,13 @@ python3 url.py --urls url_lists/url.txt --recursive
 - **news** (30+ articles) - Technology, Science, Business News
 - **dictionary** (781+ words) - Webster's 1828 Dictionary
 
-### Add Your Own
+### Add Your Own Training
 ```bash
-# Create training file
+# Option 1: Use interactive training (easiest)
+python3 training_mode.py interactive
+# Bot auto-loads on next run!
+
+# Option 2: Create manual training file
 training/my_category.txt
 
 # Format: category: sentence
@@ -137,9 +150,16 @@ training/my_category.txt
 # cooking: Preheat oven to 350 degrees
 # cooking: Add flour and sugar to bowl
 
-# Auto-train picks it up on next run
-python3 auto_train.py run
+# Just run bot - it auto-loads everything!
+./Byte
 ```
+
+**No compilation or special scripts needed!** The bot automatically:
+- Scans `training/` directory
+- Loads all `.txt` files
+- Extracts and reads from `.zip` files
+- Uses multi-threaded loading for speed
+
 
 ## Advanced Features
 
@@ -158,11 +178,14 @@ cd extractors
 bash batch_extract.sh
 ```
 
-### Schedule Auto-Training
+### Optional: Schedule Auto-Training
+For automated daily backups and recompilation (optional):
 ```bash
-# Auto-train every 24 hours
+# Auto-train & backup every 24 hours
 python3 auto_train.py schedule 24
 ```
+
+**Note:** This is optional! The bot auto-loads training data on startup regardless.
 
 ## Performance
 
