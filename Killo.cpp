@@ -472,9 +472,10 @@ private:
                 }
             }
 
-            // Prefer longer category names for specificity, but only if score matches
+            // KILLO 2.0: Prefer SHORTER (more general) categories for direct answers
+            // "python" is better than "python_best_practices" when asking "Tell me about Python"
             if (score > bestScore ||
-                (score == bestScore && score > 0 && pair.first.length() > bestLength)) {
+                (score == bestScore && score > 0 && pair.first.length() < bestLength)) {
                 bestScore = score;
                 bestCategory = pair.first;
                 bestLength = pair.first.length();
