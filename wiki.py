@@ -262,11 +262,20 @@ if __name__ == "__main__":
                 print("\nExamples:")
                 print("  python3 wiki.py --recursive 'Machine Learning' ai 2")
                 print("  python3 wiki.py -r 'Python (programming language)' python 3")
+                print("  python3 wiki.py -r 'Kingdom of Great Britain' 'great britain' 4")
                 exit(1)
 
             title = sys.argv[2]
             category = sys.argv[3]
-            depth = int(sys.argv[4]) if len(sys.argv) > 4 else 2
+
+            # Find depth - look for last numeric argument
+            depth = 2  # default
+            for arg in reversed(sys.argv[4:]):
+                try:
+                    depth = int(arg)
+                    break
+                except ValueError:
+                    continue
 
             print(f"\n🔄 RECURSIVE WIKIPEDIA MODE")
             print(f"  Article: {title}")
