@@ -531,6 +531,35 @@ private:
                 continue;
             }
 
+            // Filter: skip search-engine-like fragmented content
+            // Count sentence-like fragments (periods, dashes separating topics)
+            int fragmentCount = 0;
+            for (char c : sentence) {
+                if (c == '.' || c == '-' || c == '`') fragmentCount++;
+            }
+            // If too many fragments/special chars, it's probably SEO/reference
+            if (fragmentCount > 8 || sentence.find("  ") != string::npos) {
+                continue;  // Skip fragmented/list-like content
+            }
+
+            // Filter: skip overly technical reference content
+            if (sentence.find("command") != string::npos ||
+                sentence.find("parameter") != string::npos ||
+                sentence.find("argument") != string::npos ||
+                sentence.find("flag") != string::npos ||
+                sentence.find("--") != string::npos) {
+                continue;  // Skip CLI/technical reference
+            }
+
+            // Filter: skip SEO-like content (keywords separated by /, &, |)
+            int separatorCount = 0;
+            for (char c : sentence) {
+                if (c == '/' || c == '&' || c == '|') separatorCount++;
+            }
+            if (separatorCount > 3) {
+                continue;  // Skip SEO-style content
+            }
+
             string sentenceLower = toLower(sentence);
             int score = 0;
 
