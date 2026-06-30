@@ -6,11 +6,39 @@
   **By: RetroGigabyte**
 </div>
 
-A high-performance knowledge bot built in C++ with Python integration, featuring multi-threaded recursive data loading, Wikipedia article extraction, and intelligent query matching.
+Open-source AI bot framework with two generations:
+
+**Byte 1.0** - High-performance retrieval-based knowledge bot (current)
+- Built in C++ with intelligent category matching
+- 4,500+ training sentences across 50+ categories
+- Multi-threaded loading, Wikipedia integration, NTP time functions
+- Lightning fast responses from training data
+
+**Byte 2.0/Killo** - LLM-like generative bot (coming soon)
+- Generates natural language responses
+- Learns from training data patterns
+- More conversational and contextual
+- Template-based synthesis engine
+
+## Versions
+
+### Byte 1.0 (Current)
+Fast retrieval-based bot with intelligent category matching. Perfect for:
+- Quick knowledge lookup
+- Instant responses
+- Precise category classification
+- Lightweight deployment
+
+### Byte 2.0/Killo (In Development)
+LLM-like generative bot that synthesizes responses. Better for:
+- Natural conversation
+- Multi-sentence answers
+- Context-aware generation
+- More human-like interactions
 
 ## Features
 
-### Core Capabilities
+### Byte 1.0 Core Capabilities
 - ✅ **Multi-threaded Loading** - 4 parallel threads load 4,500+ training lines in 0.7 seconds
 - ✅ **Recursive Zip Extraction** - Automatically extracts and loads compressed training data
 - ✅ **Wikipedia Integration** - Recursive article downloading with linked article following
