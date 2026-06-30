@@ -1082,16 +1082,55 @@ private:
         return result;
     }
 
-    // KILLO: Response Synthesis Engine
+    // KILLO: Filter similar sentences to avoid redundancy
+    bool isSimilarSentence(const string& s1, const string& s2) {
+        if (s1.length() < 20 || s2.length() < 20) return false;
+
+        string w1 = s1.substr(0, 30);
+        string w2 = s2.substr(0, 30);
+        return w1 == w2;
+    }
+
+    // KILLO: Score sentence quality (prefer medium-length, informative sentences)
+    int scoreQuality(const string& sentence) {
+        int score = 0;
+
+        if (sentence.length() > 40 && sentence.length() < 300) score += 10;
+        if (sentence.find("is") != string::npos || sentence.find("are") != string::npos) score += 3;
+        if (sentence.find("can") != string::npos || sentence.find("could") != string::npos) score += 2;
+        if (sentence.find(".") != string::npos) score += 1;
+
+        return score;
+    }
+
+    // KILLO: Response Synthesis Engine (Enhanced)
     string synthesizeResponse(const vector<string>& sentences) {
         if (sentences.empty()) return "";
         if (sentences.size() == 1) return sentences[0];
 
-        string result;
-        for (size_t i = 0; i < sentences.size() && i < 3; i++) {
-            if (i > 0) result += " ";
+        // Add transition words for natural flow
+        vector<string> transitions = {
+            "Furthermore, ",
+            "Additionally, ",
+            "In fact, ",
+            "Notably, ",
+            "As well, "
+        };
+
+        string result = sentences[0];
+
+        for (size_t i = 1; i < sentences.size() && i < 3; i++) {
+            // Add space and transition
+            result += " ";
+
+            // Randomly choose transition every other sentence
+            if (i % 2 == 1 && i < transitions.size()) {
+                result += transitions[i % transitions.size()];
+            }
+
             result += sentences[i];
         }
+
         return result;
     }
 
@@ -1110,7 +1149,7 @@ private:
         return patterns;
     }
 
-    // KILLO: Generate fluent multi-sentence response
+    // KILLO: Generate fluent multi-sentence response (Enhanced)
     string generateFluentResponse(const string& category) {
         lock_guard<mutex> lock(knowledgeMutex);
 
@@ -1122,21 +1161,40 @@ private:
 
         if (sentences.empty()) return "";
 
-        // Randomly select sentences for variety
-        random_device rd;
-        mt19937 gen(rd());
-        uniform_int_distribution<> dis(0, sentences.size() - 1);
+        // Score and sort sentences by quality
+        vector<pair<int, string>> scored;
+        for (const auto& sent : sentences) {
+            if (sent.length() > 30 && sent.length() < 500) {  // Filter by length
+                scored.push_back({scoreQuality(sent), sent});
+            }
+        }
+
+        // Sort by score (highest first)
+        sort(scored.begin(), scored.end(),
+             [](const auto& a, const auto& b) { return a.first > b.first; });
 
         vector<string> selected;
-        set<int> used;
 
-        // Select up to 3 unique sentences
-        for (int i = 0; i < 3 && selected.size() < min((size_t)3, sentences.size()); i++) {
-            int idx = dis(gen);
-            if (used.find(idx) == used.end()) {
-                used.insert(idx);
-                selected.push_back(sentences[idx]);
+        // Select high-quality sentences while avoiding duplicates
+        for (const auto& pair : scored) {
+            if (selected.size() >= 3) break;
+
+            bool isDuplicate = false;
+            for (const auto& existing : selected) {
+                if (isSimilarSentence(pair.second, existing)) {
+                    isDuplicate = true;
+                    break;
+                }
             }
+
+            if (!isDuplicate) {
+                selected.push_back(pair.second);
+            }
+        }
+
+        // Fallback to any sentences if quality filtering too strict
+        if (selected.empty() && !sentences.empty()) {
+            selected.push_back(sentences[0]);
         }
 
         // Synthesize into fluent response
