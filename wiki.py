@@ -118,16 +118,16 @@ def get_article_links(title):
         return []
 
 
-def download_recursive(start_title, category, max_depth=2, visited=None):
-    """Recursively download Wikipedia articles and extract training data"""
+def download_recursive(start_title, base_category, max_depth=2, visited=None):
+    """Recursively download Wikipedia articles - each article gets its own category and file"""
     if visited is None:
         visited = set()
 
     if not start_title or start_title in visited or max_depth == 0:
-        return []
+        return {}
 
     visited.add(start_title)
-    all_training_data = []
+    all_training_data = {}  # Changed to dict: {category: [training lines]}
 
     print(f"  📥 Downloading: {start_title}")
 
@@ -137,11 +137,14 @@ def download_recursive(start_title, category, max_depth=2, visited=None):
     if content:
         print(f"    ✓ Retrieved ({len(content)} chars)")
 
-        # Extract training data
-        training_data = extract_training_data(content, category)
+        # Create category for THIS article (based on title, not base_category)
+        article_category = start_title.lower().replace(" ", "_").replace("(", "").replace(")", "")
+
+        # Extract training data with article-specific category
+        training_data = extract_training_data(content, article_category)
         if training_data:
-            print(f"    ✓ Generated {len(training_data)} training lines")
-            all_training_data.extend(training_data)
+            print(f"    ✓ Generated {len(training_data)} training lines for category: {article_category}")
+            all_training_data[article_category] = training_data
 
         # Get linked articles
         if max_depth > 1:
@@ -151,8 +154,9 @@ def download_recursive(start_title, category, max_depth=2, visited=None):
             for link in links:
                 if link not in visited:
                     print(f"    → Following link: {link}")
-                    linked_data = download_recursive(link, category, max_depth - 1, visited)
-                    all_training_data.extend(linked_data)
+                    linked_data = download_recursive(link, base_category, max_depth - 1, visited)
+                    # Merge linked articles' data
+                    all_training_data.update(linked_data)
     else:
         print(f"    ⚠️  Article not found")
 
@@ -272,17 +276,30 @@ if __name__ == "__main__":
             training_data = download_recursive(title, category, max_depth=depth)
 
             if training_data:
-                print(f"\n✓ Generated {len(training_data)} training lines")
+                print(f"\n✓ Downloaded {len(training_data)} articles with separate categories")
+                print("\n" + "=" * 60)
+                print("SAVING SEPARATE FILES FOR EACH ARTICLE")
+                print("=" * 60)
 
-                filename = f"{category}_recursive.txt"
-                filepath = os.path.join(WIKI_FOLDER, filename)
-                unique_lines = list(set(training_data))
+                total_lines = 0
+                for article_category, lines in training_data.items():
+                    # Create filename from article category
+                    filename = f"{article_category}_wiki.txt"
+                    filepath = os.path.join(WIKI_FOLDER, filename)
 
-                with open(filepath, 'w', encoding='utf-8') as f:
-                    for line in unique_lines:
-                        f.write(line + '\n')
+                    unique_lines = list(set(lines))
+                    total_lines += len(unique_lines)
 
-                print(f"✓ Saved {len(unique_lines)} unique lines to {filepath}")
+                    with open(filepath, 'w', encoding='utf-8') as f:
+                        for line in unique_lines:
+                            f.write(line + '\n')
+
+                    print(f"✓ {article_category:40s} → {len(unique_lines):5d} lines")
+
+                print("\n" + "=" * 60)
+                print(f"✅ COMPLETE: Saved {len(training_data)} articles, {total_lines} total lines")
+                print(f"📂 Location: {WIKI_FOLDER}/")
+                print("=" * 60)
             else:
                 print("❌ No training data generated")
 
