@@ -29,6 +29,7 @@ Fast retrieval-based bot with intelligent category matching. Perfect for:
 - Instant responses
 - Precise category classification
 - Lightweight deployment
+- There are some bugs...
 
 ### Byte 2.0/Killo (In Development)
 LLM-like generative bot that synthesizes responses. Better for:
