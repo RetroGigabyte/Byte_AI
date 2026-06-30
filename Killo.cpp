@@ -334,39 +334,55 @@ private:
         string bestCategory;
         int bestScore = 0;
         int bestLength = 999;
-        
+
+        // Stopwords to ignore in matching
+        set<string> stopwords = {"tell", "me", "about", "explain", "what", "is", "the", "how", "why", "do", "does", "can", "could"};
+
+        // Filter out stopwords from query
+        vector<string> contentWords;
+        for (const auto& w : queryWords) {
+            if (stopwords.find(w) == stopwords.end()) {
+                contentWords.push_back(w);
+            }
+        }
+
+        // If all words are stopwords, use original query words
+        if (contentWords.empty()) {
+            contentWords = queryWords;
+        }
+
         // Score each category based on word matches
         for (const auto& pair : knowledge) {
             string categoryLower = toLower(pair.first);
             vector<string> categoryWords = split(categoryLower, '_');
-            
+
             int score = 0;
-            
-            // Simple exact and substring matching
-            for (const auto& qWord : queryWords) {
-                if (qWord.length() >= 2) {
+
+            // Match against content words (filtered stopwords)
+            for (const auto& cWord : contentWords) {
+                if (cWord.length() >= 2) {
                     for (const auto& catWord : categoryWords) {
                         // Exact word match (highest priority)
-                        if (qWord == catWord) {
+                        if (cWord == catWord) {
                             score += 10;
-                        } 
+                        }
                         // Substring match for longer words
-                        else if (qWord.length() > 3 && catWord.find(qWord) != string::npos) {
+                        else if (cWord.length() > 3 && catWord.find(cWord) != string::npos) {
                             score += 1;
                         }
                     }
                 }
             }
-            
-            // Prefer shorter, more specific category names
-            if (score > bestScore || 
-                (score == bestScore && score > 0 && pair.first.length() < bestLength)) {
+
+            // Prefer longer category names for specificity, but only if score matches
+            if (score > bestScore ||
+                (score == bestScore && score > 0 && pair.first.length() > bestLength)) {
                 bestScore = score;
                 bestCategory = pair.first;
                 bestLength = pair.first.length();
             }
         }
-        
+
         // Only return if we have a decent match (score > 0)
         if (bestScore > 0) {
             return bestCategory;
