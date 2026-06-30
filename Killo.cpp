@@ -471,6 +471,15 @@ private:
             contentWords = queryWords;
         }
 
+        // KILLO 2.5: Direct category lookup for simple queries
+        // If user just says "japan" or "python", look for exact category match
+        if (contentWords.size() == 1) {
+            string directLookup = contentWords[0];
+            if (knowledge.find(directLookup) != knowledge.end()) {
+                return directLookup;  // Found exact category match
+            }
+        }
+
         // Score each category based on word matches
         for (const auto& pair : knowledge) {
             string categoryLower = toLower(pair.first);
