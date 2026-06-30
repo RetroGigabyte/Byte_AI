@@ -30,6 +30,7 @@ Fast retrieval-based bot with intelligent category matching. Perfect for:
 - Precise category classification
 - Lightweight deployment
 - There are some bugs...
+- Only tested on Apple Silicon Mac (M4 Macbook Air)
 
 ### Byte 2.0/Killo (In Development)
 LLM-like generative bot that synthesizes responses. Better for:
@@ -73,12 +74,12 @@ pip install -r url_lists/requirements.txt
 
 ### 3. Compile
 ```bash
-g++ -std=c++17 knowledge_bot.cpp -o knowledge_bot
+g++ -std=c++17 Byte.cpp -o byte
 ```
 
 ### 4. Run
 ```bash
-./knowledge_bot
+./byte
 ```
 
 ## Usage Examples
