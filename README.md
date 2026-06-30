@@ -13,6 +13,7 @@ Open-source AI bot framework with two generations:
 - 4,500+ training sentences across 50+ categories
 - Multi-threaded loading, Wikipedia integration, NTP time functions
 - Lightning fast responses from training data
+- There are some bugs...
 
 **Byte 2.0/Killo** - LLM-like generative bot (coming soon)
 - Generates natural language responses
