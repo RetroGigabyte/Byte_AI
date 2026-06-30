@@ -1,0 +1,44 @@
+# Environment
+.env
+.env.local
+*.env
+
+# API Keys
+API.KEY
+*_key.txt
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+venv/
+env/
+chatbot_env/
+
+# Build
+*.o
+*.out
+knowledge_bot
+
+# Executables
+Byte
+
+# Temp files
+.temp_extract/
+__MACOSX/
+*.tmp
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Large data (exclude extracted folders and temp files)
+training/Batch1/
+training/.temp_extract/
+Wiki/
+old/
+old_trian/

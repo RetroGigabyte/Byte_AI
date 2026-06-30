@@ -1,0 +1,17 @@
+# Technology News - Specific sections
+https://www.theverge.com/tech
+https://techcrunch.com/category/artificial-intelligence/
+https://arstechnica.com/gadgets/
+
+# Science & Health News
+https://www.sciencedaily.com
+https://medicalxpress.com
+
+# Business News
+https://www.cnbc.com/business/
+https://www.cnbc.com/technology/
+
+# World News - Specific sections
+https://www.bbc.com/news/world
+https://apnews.com/hub/world-news
+https://www.theguardian.com/world/us-news
