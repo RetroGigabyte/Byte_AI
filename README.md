@@ -1,6 +1,10 @@
 # Byte AI - Knowledge Bot
 
-**By: RetroGigabyte**
+<div align="center">
+  <img src="assets/Byte_AI.png" alt="Byte AI Logo" width="300">
+  
+  **By: RetroGigabyte**
+</div>
 
 A high-performance knowledge bot built in C++ with Python integration, featuring multi-threaded recursive data loading, Wikipedia article extraction, and intelligent query matching.
 
