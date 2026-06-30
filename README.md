@@ -95,12 +95,12 @@ python3 wiki.py -r "Machine learning" ai 2
 
 #Move all .txt(s) from "Wiki" folder to "training" folder
 
-# Compile and run - bot auto-loads on startup!
-g++ -std=c++17 Killo.cpp -o Killo
+# Run Killo!
 ./Killo
 ```
 
 ### Optional: Use Groq AI for Better Answers
+(API KEY IS NEEDED)
 ```bash
 # During training, select "Generate with Groq"
 python3 training_mode.py interactive
