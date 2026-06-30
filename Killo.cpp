@@ -315,8 +315,8 @@ private:
             }
         }
         
-        // Check for common greetings
-        vector<string> greetings = {"hello", "hi", "hey", "sup", "whats", "what's", "yo"};
+        // Check for common greetings (but NOT question words like "what")
+        vector<string> greetings = {"hello", "hi", "hey", "sup", "yo"};
         for (const auto& greeting : greetings) {
             for (const auto& word : queryWords) {
                 if (word == greeting) {
@@ -325,7 +325,8 @@ private:
                         lastCategory = "greeting";
                         return "greeting";
                     }
-                    return "";
+                    // Don't return empty - continue searching for other matches
+                    break;
                 }
             }
         }
