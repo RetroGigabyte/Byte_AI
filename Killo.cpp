@@ -32,6 +32,19 @@ private:
     vector<string> queryHistory;
     const int MAX_HISTORY = 50;  // Store last 50 queries
 
+    // KILLO 2.0: Conversation Memory (Qwen-inspired)
+    struct ConversationTurn {
+        string query;
+        string category;
+        vector<string> response;
+        string timestamp;
+    };
+    vector<ConversationTurn> conversationHistory;
+    const int MAX_CONVERSATION = 20;  // Keep last 20 turns
+
+    // Multi-turn context
+    vector<string> recentCategories;  // Last 5 categories for context
+
     // FEATURE 12: Holiday Calendar
     map<string, string> holidays = {
         {"01-01", "New Year's Day"},
@@ -1218,6 +1231,44 @@ private:
 
         // Synthesize into fluent response
         return synthesizeResponse(selected);
+    }
+
+    // KILLO 2.0: Track conversation turns for context (Qwen-inspired)
+    void addConversationTurn(const string& query, const string& category, const vector<string>& response) {
+        ConversationTurn turn;
+        turn.query = query;
+        turn.category = category;
+        turn.response = response;
+        turn.timestamp = getCurrentDateTime();
+
+        conversationHistory.push_back(turn);
+
+        // Keep only last N turns
+        if (conversationHistory.size() > MAX_CONVERSATION) {
+            conversationHistory.erase(conversationHistory.begin());
+        }
+
+        // Track recent categories for context
+        recentCategories.push_back(category);
+        if (recentCategories.size() > 5) {
+            recentCategories.erase(recentCategories.begin());
+        }
+    }
+
+    // KILLO 2.0: Use conversation context for better matching
+    string findBestCategoryWithContext(const string& query) {
+        string primaryMatch = findBestCategory(query);
+
+        // If primary match is empty, try to use recent context
+        if (primaryMatch.empty() && !recentCategories.empty()) {
+            // Check if query is a follow-up (short, vague)
+            if (query.length() < 20) {
+                // Prefer the most recent category
+                return recentCategories.back();
+            }
+        }
+
+        return primaryMatch;
     }
 
     void chat() {
