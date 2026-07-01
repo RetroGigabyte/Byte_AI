@@ -28,7 +28,7 @@ if not os.path.exists(WIKI_FOLDER):
     os.makedirs(WIKI_FOLDER)
 
 # Rate limiting
-DELAY = 0.5  # seconds between requests
+DELAY = 2.0  # seconds between requests (increased to avoid 429 errors)
 
 def fetch_wikipedia_article(title, retries=2):
     """Fetch article from Wikipedia API with retries"""
@@ -48,7 +48,13 @@ def fetch_wikipedia_article(title, retries=2):
     for attempt in range(retries):
         try:
             response = requests.get(url, params=params, headers=headers, timeout=10)
-            if response.status_code != 200:
+            if response.status_code == 429:
+                # Rate limited - wait longer
+                wait_time = 5 * (attempt + 1)  # 5s, 10s, 15s
+                print(f"    ⏸️  Rate limited (429) - waiting {wait_time}s...")
+                time.sleep(wait_time)
+                continue
+            elif response.status_code != 200:
                 if attempt < retries - 1:
                     time.sleep(1)
                     continue
@@ -99,6 +105,12 @@ def get_articles_by_letter(letter, limit=None):
                     if response.status_code == 200:
                         data = response.json()
                         break
+                    elif response.status_code == 429:
+                        # Rate limited - wait much longer
+                        wait_time = 10 * (attempt + 1)  # 10s, 20s, 30s
+                        print(f"    ⏸️  Rate limited (429) - waiting {wait_time}s...")
+                        time.sleep(wait_time)
+                        continue
                     else:
                         print(f"    Retry {attempt + 1}/{retries} (status {response.status_code})...")
                         time.sleep(2)
