@@ -18,6 +18,7 @@ import re
 import os
 import sys
 from urllib.parse import unquote
+from user_agent_rotator import get_user_agent
 
 # Create Wiki folder if it doesn't exist
 WIKI_FOLDER = "Wiki"
@@ -30,7 +31,7 @@ def fetch_wikipedia_article(title):
     url = "https://en.wikipedia.org/w/api.php"
 
     headers = {
-        "User-Agent": "ChatbotTrainer/1.0 (Educational; +https://example.com)"
+        "User-Agent": get_user_agent()
     }
 
     params = {
@@ -87,7 +88,7 @@ def get_article_links(title):
     url = "https://en.wikipedia.org/w/api.php"
 
     headers = {
-        "User-Agent": "ChatbotTrainer/1.0 (Educational; +https://example.com)"
+        "User-Agent": get_user_agent()
     }
 
     params = {

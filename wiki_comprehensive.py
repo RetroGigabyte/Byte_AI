@@ -20,6 +20,7 @@ import sys
 import time
 from urllib.parse import unquote
 from collections import defaultdict
+from user_agent_rotator import get_user_agent
 
 # Create Wiki folder
 WIKI_FOLDER = "Wiki"
@@ -34,7 +35,7 @@ def fetch_wikipedia_article(title):
     time.sleep(DELAY)  # Rate limit
 
     url = "https://en.wikipedia.org/w/api.php"
-    headers = {"User-Agent": "ComprehensiveWikiScraper/1.0"}
+    headers = {"User-Agent": get_user_agent()}
 
     params = {
         "action": "query",
@@ -69,7 +70,7 @@ def get_articles_by_letter(letter, limit=None):
     time.sleep(DELAY)  # Rate limit
 
     url = "https://en.wikipedia.org/w/api.php"
-    headers = {"User-Agent": "ComprehensiveWikiScraper/1.0"}
+    headers = {"User-Agent": get_user_agent()}
 
     params = {
         "action": "query",
