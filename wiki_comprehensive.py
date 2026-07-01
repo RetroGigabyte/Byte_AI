@@ -20,6 +20,7 @@ import re
 import os
 import sys
 import time
+import random
 from urllib.parse import unquote
 from collections import defaultdict
 from user_agent_rotator import get_user_agent, switch_user_agent
@@ -43,8 +44,14 @@ WIKI_FOLDER = "Wiki"
 if not os.path.exists(WIKI_FOLDER):
     os.makedirs(WIKI_FOLDER)
 
-# Rate limiting
-DELAY = 0.5  # seconds between requests
+# Rate limiting with adaptive backoff
+BASE_DELAY = 1.5  # seconds between requests (increased from 0.5)
+JITTER_RANGE = (0.5, 1.5)  # random jitter to avoid pattern detection
+
+def smart_delay():
+    """Random delay with jitter to avoid rate limiting patterns"""
+    delay = BASE_DELAY + random.uniform(*JITTER_RANGE)
+    return delay
 
 def fetch_article_botasaurus(title):
     """Fetch article using Botasaurus (more robust)"""
@@ -70,9 +77,9 @@ def fetch_article_botasaurus(title):
     except Exception as e:
         return None
 
-def fetch_article_api(title, retries=2):
-    """Fetch article using Wikipedia API with retries"""
-    time.sleep(DELAY)
+def fetch_article_api(title, retries=3):
+    """Fetch article using Wikipedia API with retries and stall detection"""
+    time.sleep(smart_delay())  # Smart delay with jitter
 
     url = "https://en.wikipedia.org/w/api.php"
     headers = {"User-Agent": get_user_agent()}
@@ -87,25 +94,64 @@ def fetch_article_api(title, retries=2):
 
     for attempt in range(retries):
         try:
-            response = requests.get(url, params=params, headers=headers, timeout=10)
+            # Longer timeout for API calls (increased from 10s to 20s)
+            response = requests.get(url, params=params, headers=headers, timeout=20)
+
             if response.status_code == 429:
-                # Rate limited - switch user agent and retry immediately
+                # Rate limited - switch user agent and wait longer
                 headers["User-Agent"] = switch_user_agent()
+                wait_time = 5 * (attempt + 1) + random.uniform(0, 3)
+                print(f"    ⏸️  429 Rate Limited - waiting {wait_time:.1f}s...")
+                time.sleep(wait_time)
                 if attempt < retries - 1:
                     continue
                 return None
+
             elif response.status_code == 200:
-                data = response.json()
-                if 'query' in data and 'pages' in data['query']:
-                    pages = data['query']['pages']
-                    page = next(iter(pages.values()))
-                    if 'extract' in page and page['extract']:
-                        return page['extract']
-                return None
-        except Exception as e:
+                # Check if response is complete (has valid JSON)
+                try:
+                    data = response.json()
+                    if 'query' in data and 'pages' in data['query']:
+                        pages = data['query']['pages']
+                        page = next(iter(pages.values()))
+                        if 'extract' in page and page['extract']:
+                            return page['extract']
+                    return None
+                except ValueError as je:
+                    # JSON parsing failed - response was incomplete
+                    print(f"    ⚠️  Response incomplete (stalled) - retry {attempt + 1}/{retries}")
+                    if attempt < retries - 1:
+                        time.sleep(2 + random.uniform(0, 2))
+                        continue
+                    return None
+
+            else:
+                print(f"    Retry {attempt + 1}/{retries} (status {response.status_code})...")
+                time.sleep(2)
+
+        except requests.exceptions.Timeout:
+            # Connection timeout - stalled response
+            print(f"    ⚠️  Connection timeout (stalled) - retry {attempt + 1}/{retries}")
             if attempt < retries - 1:
-                time.sleep(1)
+                time.sleep(3 + random.uniform(0, 2))
                 continue
+            return None
+
+        except requests.exceptions.ConnectionError as ce:
+            # Connection error
+            print(f"    ⚠️  Connection error - retry {attempt + 1}/{retries}")
+            if attempt < retries - 1:
+                time.sleep(3 + random.uniform(0, 2))
+                continue
+            return None
+
+        except Exception as e:
+            error_msg = str(e)
+            if "stalled" in error_msg.lower() or "incomplete" in error_msg.lower():
+                print(f"    ⚠️  Response stalled - retry {attempt + 1}/{retries}")
+                if attempt < retries - 1:
+                    time.sleep(3 + random.uniform(0, 2))
+                    continue
             return None
 
     return None
@@ -156,7 +202,7 @@ def get_articles_by_letter_api(letter, limit=None):
     """Get articles using Wikipedia API"""
     print(f"\n📖 Fetching article list for '{letter}'...")
 
-    time.sleep(DELAY)
+    time.sleep(smart_delay())  # Smart delay with jitter
 
     url = "https://en.wikipedia.org/w/api.php"
     headers = {"User-Agent": get_user_agent()}
