@@ -43,3 +43,5 @@ Wiki/
 old/
 old_trian/
 Qwen3-main/
+scrapers/botasaurus_scraper/training_data/
+scrapers/botasaurus_scraper/__pycache__/
