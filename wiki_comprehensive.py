@@ -20,7 +20,7 @@ import sys
 import time
 from urllib.parse import unquote
 from collections import defaultdict
-from user_agent_rotator import get_user_agent
+from user_agent_rotator import get_user_agent, switch_user_agent
 
 # Create Wiki folder
 WIKI_FOLDER = "Wiki"
@@ -49,9 +49,12 @@ def fetch_wikipedia_article(title, retries=2):
         try:
             response = requests.get(url, params=params, headers=headers, timeout=10)
             if response.status_code == 429:
-                # Rate limited - wait longer
-                wait_time = 5 * (attempt + 1)  # 5s, 10s, 15s
-                print(f"    ⏸️  Rate limited (429) - waiting {wait_time}s...")
+                # Rate limited - switch user agent and wait
+                old_agent = headers["User-Agent"][:30]
+                headers["User-Agent"] = switch_user_agent()
+                new_agent = headers["User-Agent"][:30]
+                wait_time = 5 * (attempt + 1)
+                print(f"    ⏸️  429: Switching agent ({old_agent}... → {new_agent}...) wait {wait_time}s...")
                 time.sleep(wait_time)
                 continue
             elif response.status_code != 200:
@@ -106,9 +109,12 @@ def get_articles_by_letter(letter, limit=None):
                         data = response.json()
                         break
                     elif response.status_code == 429:
-                        # Rate limited - wait much longer
-                        wait_time = 10 * (attempt + 1)  # 10s, 20s, 30s
-                        print(f"    ⏸️  Rate limited (429) - waiting {wait_time}s...")
+                        # Rate limited - switch user agent and wait longer
+                        old_agent = headers["User-Agent"][:30]
+                        headers["User-Agent"] = switch_user_agent()
+                        new_agent = headers["User-Agent"][:30]
+                        wait_time = 10 * (attempt + 1)
+                        print(f"    ⏸️  429: Switching agent ({old_agent}... → {new_agent}...) wait {wait_time}s...")
                         time.sleep(wait_time)
                         continue
                     else:

@@ -70,9 +70,13 @@ def get_rotator():
     return _rotator
 
 def get_user_agent():
-    """Get next user agent"""
+    """Get next user agent (round-robin)"""
     return get_rotator().get()
 
 def get_random_user_agent():
     """Get random user agent"""
+    return get_rotator().get_random()
+
+def switch_user_agent():
+    """Force switch to a different random user agent"""
     return get_rotator().get_random()
