@@ -30,8 +30,8 @@ if not os.path.exists(WIKI_FOLDER):
 # Rate limiting
 DELAY = 0.5  # seconds between requests
 
-def fetch_wikipedia_article(title):
-    """Fetch article from Wikipedia API"""
+def fetch_wikipedia_article(title, retries=2):
+    """Fetch article from Wikipedia API with retries"""
     time.sleep(DELAY)  # Rate limit
 
     url = "https://en.wikipedia.org/w/api.php"
@@ -45,23 +45,30 @@ def fetch_wikipedia_article(title):
         "format": "json"
     }
 
-    try:
-        response = requests.get(url, params=params, headers=headers, timeout=10)
-        if response.status_code != 200:
+    for attempt in range(retries):
+        try:
+            response = requests.get(url, params=params, headers=headers, timeout=10)
+            if response.status_code != 200:
+                if attempt < retries - 1:
+                    time.sleep(1)
+                    continue
+                return None
+
+            data = response.json()
+            if 'query' not in data or 'pages' not in data['query']:
+                return None
+
+            pages = data['query']['pages']
+            page = next(iter(pages.values()))
+
+            if 'extract' in page and page['extract']:
+                return page['extract']
             return None
-        
-        data = response.json()
-        if 'query' not in data or 'pages' not in data['query']:
+        except Exception as e:
+            if attempt < retries - 1:
+                time.sleep(1)
+                continue
             return None
-        
-        pages = data['query']['pages']
-        page = next(iter(pages.values()))
-        
-        if 'extract' in page and page['extract']:
-            return page['extract']
-        return None
-    except Exception as e:
-        return None
 
 def get_articles_by_letter(letter, limit=None):
     """Get all articles starting with a letter from Wikipedia"""
@@ -85,41 +92,53 @@ def get_articles_by_letter(letter, limit=None):
 
     try:
         while True:
+            data = None
             for attempt in range(retries):
                 try:
                     response = requests.get(url, params=params, headers=headers, timeout=10)
-                    data = response.json()
-                    break
+                    if response.status_code == 200:
+                        data = response.json()
+                        break
+                    else:
+                        print(f"    Retry {attempt + 1}/{retries} (status {response.status_code})...")
+                        time.sleep(2)
                 except Exception as e:
                     if attempt < retries - 1:
-                        time.sleep(2)  # Wait before retry
+                        print(f"    Retry {attempt + 1}/{retries}...")
+                        time.sleep(2)
                         continue
-                    raise
-            
-            if 'query' not in data or 'allpages' not in data['query']:
+                    else:
+                        print(f"  ⚠️  Failed after retries: {str(e)[:50]}")
+                        return articles  # Return what we have so far
+
+            if not data or 'query' not in data or 'allpages' not in data['query']:
                 break
-            
+
             page_list = data['query']['allpages']
-            
+
             for page in page_list:
                 # Skip disambiguation pages, redirects, and special pages
                 title = page['title']
                 if any(skip in title for skip in ['(disambiguation)', 'Wikipedia:', 'Special:', 'Template:']):
                     continue
-                
+
                 articles.append(title)
-                
+
                 if limit and len(articles) >= limit:
                     return articles
-            
+
             # Check for continuation
             if 'continue' not in data:
                 break
-            
+
             params['apcontinue'] = data['continue']['apcontinue']
-    
+            time.sleep(1)  # Extra delay between pages
+
+    except KeyboardInterrupt:
+        print(f"\n  ⏹️  Stopped by user. Found {len(articles)} articles so far.")
+        return articles
     except Exception as e:
-        print(f"  ⚠️  Error fetching list: {e}")
+        print(f"  ⚠️  Error: {e}")
     
     return articles
 
