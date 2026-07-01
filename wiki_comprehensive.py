@@ -28,7 +28,7 @@ if not os.path.exists(WIKI_FOLDER):
     os.makedirs(WIKI_FOLDER)
 
 # Rate limiting
-DELAY = 2.0  # seconds between requests (increased to avoid 429 errors)
+DELAY = 0.5  # seconds between requests (fast, but switch agents on failures)
 
 def fetch_wikipedia_article(title, retries=2):
     """Fetch article from Wikipedia API with retries"""
@@ -49,14 +49,11 @@ def fetch_wikipedia_article(title, retries=2):
         try:
             response = requests.get(url, params=params, headers=headers, timeout=10)
             if response.status_code == 429:
-                # Rate limited - switch user agent and wait
-                old_agent = headers["User-Agent"][:30]
+                # Rate limited - switch user agent and retry immediately
                 headers["User-Agent"] = switch_user_agent()
-                new_agent = headers["User-Agent"][:30]
-                wait_time = 5 * (attempt + 1)
-                print(f"    ⏸️  429: Switching agent ({old_agent}... → {new_agent}...) wait {wait_time}s...")
-                time.sleep(wait_time)
-                continue
+                if attempt < retries - 1:
+                    continue  # Try next agent without waiting
+                return None
             elif response.status_code != 200:
                 if attempt < retries - 1:
                     time.sleep(1)
@@ -109,14 +106,11 @@ def get_articles_by_letter(letter, limit=None):
                         data = response.json()
                         break
                     elif response.status_code == 429:
-                        # Rate limited - switch user agent and wait longer
-                        old_agent = headers["User-Agent"][:30]
+                        # Rate limited - switch user agent and retry
                         headers["User-Agent"] = switch_user_agent()
-                        new_agent = headers["User-Agent"][:30]
-                        wait_time = 10 * (attempt + 1)
-                        print(f"    ⏸️  429: Switching agent ({old_agent}... → {new_agent}...) wait {wait_time}s...")
-                        time.sleep(wait_time)
-                        continue
+                        if attempt < retries - 1:
+                            continue  # Retry with new agent
+                        return articles  # Out of retries
                     else:
                         print(f"    Retry {attempt + 1}/{retries} (status {response.status_code})...")
                         time.sleep(2)
