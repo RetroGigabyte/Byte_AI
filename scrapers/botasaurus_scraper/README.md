@@ -23,7 +23,7 @@ python3 generic_scraper.py "https://example.com" tech
 
 ## Output
 
-All scraped content goes to `training_data/` folder as:
+All scraped content goes to `training/` folder as:
 - `category_name_scraped.txt`
 - `category_name_blog.txt`
 - etc.
@@ -39,10 +39,7 @@ python3 scraper.py "https://example.com" myopic
 # 2. Copy to Killo training folder
 cp training_data/* ../../training/
 
-# 3. Recompile Killo
-cd ../.. && g++ -std=c++17 -O2 Killo.cpp -o Killo
-
-# 4. Run with new training data
+# 3. Run with new training data
 ./Killo
 ```
 
