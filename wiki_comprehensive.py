@@ -123,7 +123,17 @@ def get_articles_by_letter(letter, limit=None):
                         print(f"  ⚠️  Failed after retries: {str(e)[:50]}")
                         return articles  # Return what we have so far
 
-            if not data or 'query' not in data or 'allpages' not in data['query']:
+            if not data:
+                print(f"  ⚠️  No data returned from API")
+                break
+
+            if 'query' not in data:
+                if 'error' in data:
+                    print(f"  ⚠️  API Error: {data['error'].get('info', 'Unknown')}")
+                break
+
+            if 'allpages' not in data['query']:
+                print(f"  ℹ️  No allpages in response (may be empty or filtered)")
                 break
 
             page_list = data['query']['allpages']
