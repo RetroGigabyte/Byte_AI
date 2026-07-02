@@ -1,0 +1,414 @@
+quantum_computing: Each additional qubit doubles the dimension of the state space.
+quantum_computing: ISBN 978-0-511-34258-5.
+quantum_computing: Scaling these systems to support a growing number of qubits is an additional challenge.
+quantum_computing: In particular, building computers with large numbers of qubits may be futile if those qubits are not connected well enough and cannot maintain a sufficiently high degree of entanglement for a long time.
+quantum_computing: Computation time is about L2 or about 107 steps and at 1 MHz, about 10 seconds.
+quantum_computing: Physicist Mikhail Dyakonov has expressed skepticism of quantum computing as follows:
+quantum_computing: Quantum Computation and Quantum Information (10th anniversary ed.).
+quantum_computing: As of 2025, Microsoft and other organizations are investing in quasi-particle research.
+quantum_computing: It is expected that an early use of quantum computing will be modeling that improves the efficiency of the Haber–Bosch process by the mid-2020s although some have predicted it will take longer.
+quantum_computing: Quantum cryptography replaces conventional algorithms with computations based on quantum computing.
+quantum_computing: Negative amplitudes allow for destructive wave interference.
+quantum_computing: Superdense coding is the complementary protocol: using one shared e-bit and sending only one qubit, Alice can transmit two classical bits to Bob.
+quantum_computing: These tasks are not necessarily useful for real-world applications.
+quantum_computing: This appears to violate Holevo's theorem—which states that a single qubit can carry at most one bit of classical information—but the shared entanglement circumvents this limit.
+quantum_computing: Some public-key algorithms are based on problems other than the integer factorization and discrete logarithm problems to which Shor's algorithm applies, such as the McEliece cryptosystem, which relies on a hard problem in coding theory.
+quantum_computing: Intuitively, this is because it is believed that all physical phenomena, including the operation of classical computers, can be described using quantum mechanics, which underlies the operation of quantum computers.
+quantum_computing: A choice of gate family that enables this construction is known as a universal gate set, since a computer that can run such circuits is a universal quantum computer.
+quantum_computing: For problems with all these properties, the running time of Grover's algorithm on a quantum computer scales as the square root of the number of inputs (or elements in the database), as opposed to the linear scaling of classical algorithms.
+quantum_computing: (2024, August 5).
+quantum_computing: This means that quantum computers cannot solve undecidable problems like the halting problem, and the existence of quantum computers does not disprove the Church–Turing thesis.
+quantum_computing: In this case, the advantage is not only provable but also optimal: it has been shown that Grover's algorithm gives the maximal possible probability of finding the desired element for any number of oracle lookups.
+quantum_computing: The problem need not be useful, so some view the quantum supremacy test only as a potential future benchmark.
+quantum_computing: Non-Abelian anyons can, in effect, remember how they have been manipulated, making them potentially useful in quantum computing.
+quantum_computing: Deep generative chemistry models have been explored for potential applications in drug discovery.
+quantum_computing: {\displaystyle \operatorname {CNOT} :={\begin{pmatrix}1&0&0&0\\0&1&0&0\\0&0&0&1\\0&0&1&0\end{pmatrix}}.}
+quantum_computing: Where do classical slowdowns come from?"
+quantum_computing: For instance, integer factorization and the discrete logarithm problem are known to be in BQP and are suspected to be outside of P.
+quantum_computing: Implementation of Boolean functions using the few-qubit quantum gates is presented here.
+quantum_computing: about 10300...
+quantum_computing: In a 1984 paper, Charles Bennett and Gilles Brassard applied quantum theory to cryptography protocols and demonstrated that quantum key distribution could enhance information security.
+quantum_computing: These algorithms depend on the primitive of the quantum Fourier transform.
+quantum_computing: Physicists describe these systems mathematically using linear algebra.
+quantum_computing: However, the error rates for larger machines have been on the order of 5%.
+quantum_computing: Quantum Computing: Progress and Prospects.
+quantum_computing: ISBN 978-0-511-99277-3.
+quantum_computing: Grumbling, Emily; Horowitz, Mark, eds.
+quantum_computing: Conversely, any problem solvable by a quantum computer is also solvable by a classical computer.
+quantum_computing: The result of measuring a qubit is one of the two states given by a probabilistic rule.
+quantum_computing: About 2% of the annual global energy output is used for nitrogen fixation to produce ammonia for the Haber process in the agricultural fertiliser industry (even though naturally occurring organisms also produce ammonia).
+quantum_computing: This demonstrates that quantum communication requires both entanglement and classical communication; neither alone is sufficient.
+quantum_computing: A conventional digital computer can be described by classical states and transition rules: memory stores bits, while logic elements transform one configuration of bits into another.
+quantum_computing: ISBN 978-0-521-19956-8.
+quantum_computing: Both disciplines had practical applications during World War II; computers played a major role in wartime cryptography, and quantum physics was essential for nuclear physics used in the Manhattan Project.
+quantum_computing: These issues are more difficult for optical approaches as the timescales are orders of magnitude shorter, and an often-cited approach to overcoming them is optical pulse shaping.
+quantum_computing: https://www.ibm.com/think/topics/quantum-computing
+Lectures
+quantum_computing: Some quantum algorithms, such as Grover's algorithm and amplitude amplification, give polynomial speedups over corresponding classical algorithms.
+quantum_computing: Such a quantum state vector behaves similarly to a (classical) probability vector, with one key difference: unlike probabilities, probability amplitudes are not necessarily positive numbers.
+quantum_computing: Physically engineering high-quality qubits has proven to be challenging.
+quantum_computing: In October 2019, Google AI Quantum, with the help of NASA, became the first to claim to have achieved quantum supremacy by performing calculations on the Sycamore quantum computer more than 3,000,000 times faster than they could be done on Summit, generally considered the world's fastest computer.
+quantum_computing: The class of problems that can be efficiently solved by a quantum computer with bounded error is called BQP, for "bounded error, quantum, polynomial time".
+quantum_computing: The controlled NOT (CNOT) gate can then be represented using the following matrix:
+quantum_computing: Quantum computing for the determined – 22 video lectures by Michael Nielsen
+Video Lectures Archived 10 February 2010 at the Wayback Machine by David Deutsch
+Lomonaco, Sam.
+quantum_computing: {\displaystyle |00\rangle :={\begin{pmatrix}1\\0\\0\\0\end{pmatrix}};\quad |01\rangle :={\begin{pmatrix}0\\1\\0\\0\end{pmatrix}};\quad |10\rangle :={\begin{pmatrix}0\\0\\1\\0\end{pmatrix}};\quad |11\rangle :={\begin{pmatrix}0\\0\\0\\1\end{pmatrix}}.}
+quantum_computing: Washington, DC: The National Academies Press.
+quantum_computing: These two choices can be illustrated using another example.
+quantum_computing: However, unlike a classical bit, which can be in one of two states (a binary), a qubit can exist in a linear combination of two states known as a quantum superposition.
+quantum_computing: Neutral atom quantum computer — approach using neutral atoms trapped and controlled with optical techniques.
+quantum_computing: OCLC 422727925.
+quantum_computing: For example, input data may not already be available encoded in quantum states, and "oracle functions" used in Grover's algorithm often have internal structure that can be exploited for faster algorithms.
+quantum_computing: In particular, the RSA, Diffie–Hellman, and elliptic curve Diffie–Hellman algorithms could be broken.
+quantum_computing: Quantum Computing Since Democritus.
+quantum_computing: The authors claim that a classical contemporary supercomputer would require a computational time of 600 million years to generate the number of samples their quantum processor can generate in 20 seconds.
+quantum_computing: Meeting this scalability condition is possible for a wide range of systems.
+quantum_computing: In terms of the number of physical qubits, to date, this remains the lowest estimate for practically useful integer factorization problem sizing 1,024-bit or larger.
+quantum_computing: Both traditional quantum computing and neuromorphic quantum computing are physics-based unconventional computing approaches to computations and do not follow the von Neumann architecture.
+quantum_computing: One way is simply to select a qubit and apply that gate to the target qubit while leaving the remainder of the memory unaffected.
+quantum_computing: Superdense coding thus demonstrates that entanglement can effectively double the classical information-carrying capacity of quantum communication.
+quantum_computing: For example, the HHL Algorithm, named after its discoverers Harrow, Hassidim, and Lloyd, is believed to provide speedup over classical counterparts.
+quantum_computing: Superconducting quantum computing — approach using superconducting electronic circuits.
+quantum_computing: Currently, some quantum computers require their qubits to be cooled to 20 millikelvin (usually using a dilution refrigerator) in order to prevent significant decoherence.
+quantum_computing: doi:10.17226/25196.
+quantum_computing: Moreover, the trapped ion system itself has engineering challenges to overcome.
+quantum_computing: Encryption is also the basis for digital signatures and authentication mechanisms.
+quantum_computing: Quantum algorithms then emerged for solving oracle problems, such as Deutsch's algorithm in 1985, the Bernstein–Vazirani algorithm in 1993, and Simon's algorithm in 1994.
+quantum_computing: Physically scalable to increase the number of qubits
+Qubits that can be initialized to arbitrary values
+Quantum gates that are faster than decoherence time
+Universal gate set
+Qubits that can be read easily.
+quantum_computing: In principle, the same classical transition rules can be implemented by some entirely classical mechanical device, possibly with a fixed slow-down in physical time.
+quantum_computing: Breaking these would have significant ramifications for electronic privacy and security.
+quantum_computing: Some research groups have recently explored the use of quantum annealing hardware for training Boltzmann machines and deep neural networks.
+quantum_computing: A quantum computation can be described as a network of quantum logic gates and measurements.
+quantum_computing: A two-dimensional vector mathematically represents a qubit state.
+quantum_computing: Recent reviews identify quantum chemistry as one of the most promising application areas for quantum computing, particularly for problems in electronic structure, chemical dynamics, and spectroscopy, while noting that useful implementations remain limited by current hardware.
+quantum_computing: This usually means isolating the system from its environment, as interactions with the external world cause the system to decohere.
+quantum_computing: Bill Unruh doubted the practicality of quantum computers in a paper published in 1994.
+quantum_computing: Current quantum computing hardware generates only a limited amount of entanglement before getting overwhelmed by noise.
+quantum_computing: In response to this future challenge, organizations, including the National Institute of Standards and Technology (NIST), have initiated detailed standardization processes for post-quantum cryptography.
+quantum_computing: A notable application of quantum computing is in attacking cryptographic systems that are currently in use.
+quantum_computing: These developments represent a critical step toward scaling systems beyond the noisy intermediate-scale quantum (NISQ) era into reliable, fault-tolerant computing architectures, though large-scale physical implementation remains an ongoing engineering challenge.
+quantum_computing: In 1998, a two-qubit quantum computer demonstrated the feasibility of the technology, and subsequent experiments have increased the number of qubits and reduced error rates.
+quantum_computing: More formally, any quantum computer can be simulated by a Turing machine.
+quantum_computing: By contrast, a quantum computer could solve this problem exponentially faster using Shor's algorithm to factor the integer.
+quantum_computing: As a result, time-consuming tasks may render some quantum algorithms inoperable, as attempting to maintain the state of qubits for a long enough duration will eventually corrupt the superpositions.
+quantum_computing: Quantum cryptography enables new ways to transmit data securely; for example, quantum key distribution uses entangled quantum states to establish secure cryptographic keys.
+quantum_computing: This advantage comes at a significant cost in terms of elaborate infrastructure, while effectively preventing legitimate decoding of messages by governmental security officials.
+quantum_computing: A classical computer is a quantum computer ...
+quantum_computing: No, never."
+quantum_computing: For many years, the fields of quantum mechanics and computer science formed distinct academic communities.
+quantum_computing: In principle, quantum encryption would be impossible to decode even with a quantum computer.
+quantum_computing: The control of multi-qubit systems requires the generation and coordination of a large number of electrical signals with tight and deterministic timing resolution.
+quantum_computing: Modern quantum theory was developed in the 1920s to explain perplexing physical phenomena observed at atomic scales, and digital computers emerged in the following decades to replace human computers for tedious calculations.
+quantum_computing: Therefore, it is desirable to prove lower bounds on the complexity of best possible non-quantum algorithms (which may be unknown) and show that some quantum algorithms asymptotically improve upon those bounds.
+quantum_computing: Quantum programs instead rely on precise control of coherent quantum systems.
+quantum_computing: Four Lectures on Quantum Computing given at Oxford University in July 2006
+quantum_computing: Some promising tasks and applications require resources far beyond those available today.
+quantum_computing: Skeptics like Gil Kalai doubt that quantum supremacy will ever be achieved.
+quantum_computing: As physicists applied quantum mechanical models to computational problems and swapped digital bits for qubits, the fields of quantum mechanics and computer science began to converge.
+quantum_computing: Technologically, these devices are all cryogenic and scaling to large numbers of qubits requires wafer-scale integration, a serious engineering challenge by itself.
+quantum_computing: Cuffaro
+"Quantum computation, theory of", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Introduction to Quantum Computing for Business by Koen Groenland
+Schneider, J., & Smalley, I.
+quantum_computing: Physicist Charlie Bennett noted that since classical computers are composed of quantum atoms, one might study them from the opposite direction:
+quantum_computing: S2CID 59717455.
+quantum_computing: Quantum Computer Science: An Introduction.
+quantum_computing: More formally, BQP is the class of problems that can be solved by a polynomial-time quantum Turing machine with an error probability of at most 1/3.
+quantum_computing: This ability would allow a quantum computer to break many of the cryptographic systems in use today, in the sense that there would be a polynomial time (in the number of digits of the integer) algorithm for solving the problem.
+quantum_computing: Kane quantum computer — proposed silicon-based nuclear spin quantum-computer architecture.
+quantum_computing: The same year, Seth Lloyd proved that quantum computers could simulate quantum systems without the exponential overhead present in classical simulations, validating Feynman's 1982 conjecture.
+quantum_computing: However, current hardware implementations of quantum computation are largely experimental and only suitable for specialized tasks.
+quantum_computing: Therefore, one can expect that quantum-enhanced generative models including quantum GANs may eventually be developed into ultimate generative chemistry algorithms.
+quantum_computing: In 2024, researchers demonstrated theoretical and practical approaches for high threshold, low-overhead fault-tolerant quantum memory.
+quantum_computing: If either 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+ or 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  
+ is zero, the qubit is effectively a classical bit; when both are nonzero, the qubit is in superposition.
+quantum_computing: Lattice-based cryptosystems are also not known to be broken by quantum computers, and finding a polynomial time algorithm for solving the dihedral hidden subgroup problem, which would break many lattice-based cryptosystems, is a well-studied open problem.
+quantum_computing: However, the use of error correction brings with it the cost of a greatly increased number of required qubits.
+quantum_computing: Modern fiber-optic cables can transmit quantum information over relatively short distances.
+quantum_computing: Accordingly, benchmark-level quantum advantage should not be interpreted as proof that quantum computers are already broadly useful across practical computing workloads.
+quantum_computing: This has led to the development of quantum controllers that enable interfacing with the qubits.
+quantum_computing: In February 2026, the Chinese Academy of Sciences announced the testing of a rare-earth alloy, EuCo2Al9, which could fill a similar role.
+quantum_computing: Hanyuan-1 — 100-qubit neutral atom quantum computer from the Chinese Academy of Sciences in China.
+quantum_computing: Quantum computers are not yet practical for real-world applications.
+quantum_computing: When digital computers became faster, physicists faced an exponential increase in overhead when simulating quantum dynamics, prompting Yuri Manin and Richard Feynman to independently suggest that hardware based on quantum phenomena might be more efficient for computer simulation.
+quantum_computing: Because these problems are BQP-complete, an equally fast classical algorithm for them would imply that "no quantum algorithm" provides a super-polynomial speedup, which is believed to be unlikely.
+quantum_computing: Progress in finding quantum algorithms typically focuses on the quantum circuit model, though exceptions like the quantum adiabatic algorithm exist.
+quantum_computing: A quantum computer, by contrast, uses coherent quantum states, so that superposition, relative phase, and interference are part of the computation itself, and has no classical counterpart.
+quantum_computing: The state of this one-qubit quantum memory can be manipulated by applying quantum logic gates, analogous to how classical memory can be manipulated with classical logic gates.
+quantum_computing: These are used to protect secure Web pages, encrypted email, and many other types of data.
+quantum_computing: The exact relationship of BQP to P, NP, and PSPACE is not known.
+quantum_computing: Complexity analysis of algorithms sometimes makes abstract assumptions that do not hold in applications.
+quantum_computing: This equivalence need not hold for practical quantum computers, since the overhead of simulation may be too large to be practical.
+quantum_computing: OCLC 1091904777.
+quantum_computing: For a 1000-bit number, this implies a need for about 104 bits without error correction.
+quantum_computing: Physicist David DiVincenzo has listed these requirements for a practical quantum computer:
+quantum_computing: An often-cited figure for the required error rate in each gate for fault-tolerant computation is 10−3, assuming the noise is depolarizing.
+quantum_computing: Researchers have claimed, and are widely believed to be correct, that certain quantum devices can outperform classical computers on narrowly defined tasks, a milestone referred to as quantum advantage or quantum supremacy.
+quantum_computing: It argues that the most promising candidates for achieving speedup with quantum computers are "small-data problems", for example, in chemistry and materials science.
+quantum_computing: Mathematically, the application of such a logic gate to a quantum state vector is modeled with matrix multiplication.
+quantum_computing: According to some researchers, noisy intermediate-scale quantum (NISQ) machines may have specialized uses in the near future, but noise in quantum gates limits their reliability.
+quantum_computing: It is possible to simulate both quantum and classical computers manually with just some paper and a pen, if given enough time.
+quantum_computing: As described by the threshold theorem, if the error rate is small enough, it is thought to be possible to use quantum error correction to suppress errors and decoherence.
+quantum_computing: The most well-known example of a problem that allows for a polynomial quantum speedup is unstructured search, which involves finding a marked item out of a list of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ items in a database.
+quantum_computing: This computational behavior is not tied to electronics, and can be abstracted through the idea of a Turing machine, a mechanical device that performs deterministic transformations on a finite state.
+quantum_computing: The design of quantum algorithms involves creating procedures that allow a quantum computer to perform this amplification.
+quantum_computing: The theoretical potential for large-scale quantum computers to eventually break widely used public-key encryption schemes has prompted significant motivated changes in global cybersecurity strategies.
+quantum_computing: With appropriate cryptographic protocols, the sender and receiver can thus establish shared private information resistant to eavesdropping.
+quantum_computing: On the relationship of BQP to NP, little is known beyond the fact that some NP problems that are believed not to be in P are also in BQP (integer factorization and the discrete logarithm problem are both in NP, for example).
+quantum_computing: It is widely believed that a quantum computer could perform some calculations exponentially faster than any classical computer.
+quantum_computing: Nuclear magnetic resonance quantum computer — approach using nuclear magnetic resonance and molecular nuclear-spin states.
+quantum_computing: Ongoing experimental research aims to develop more reliable hardware (such as quantum repeaters), hoping to scale this technology to long-distance quantum networks with end-to-end entanglement.
+quantum_computing: There is no searchable structure in the collection of possible answers,
+The number of possible answers to check is the same as the number of inputs to the algorithm, and
+There exists a Boolean function that evaluates each input and determines whether it is the correct answer.
+quantum_computing: The largest commercial systems are based on superconductor devices and have scaled to 2000 qubits.
+quantum_computing: The same term qubit is used to refer to an abstract mathematical model and to any physical system that is represented by that model.
+quantum_computing: Spin qubit quantum computer — semiconductor architecture using spin states as qubits.
+quantum_computing: These global efforts are designed to develop, evaluate, and deploy cryptographic algorithms that remain safe against both quantum and classical computer attacks, well before fully fault-tolerant quantum systems become available.
+quantum_computing: Example implementations include superconductors (which isolate an electrical current by eliminating electrical resistance) and ion traps (which confine a single atomic particle using electromagnetic fields).
+quantum_computing: This state of affairs can be traced to several current and long-term considerations.
+quantum_computing: {\displaystyle X:={\begin{pmatrix}0&1\\1&0\end{pmatrix}}.}
+quantum_computing: A 2023 Communications of the ACM article found that current quantum computing algorithms are "insufficient for practical quantum advantage without significant improvements across the software/hardware stack".
+quantum_computing: The number required to factor integers using Shor's algorithm is still polynomial, and thought to be between L and L2, where L is the number of binary digits in the number to be factored; error correction algorithms would inflate this figure by an additional factor of L.
+quantum_computing: Theoretically, this could enable novel technological applications, such as distributed quantum computing and enhanced quantum sensing.
+quantum_computing: Scientists at Harvard University successfully created "quantum circuits" that correct errors more efficiently than alternative methods, which may potentially remove a major obstacle to practical quantum computers.
+quantum_computing: The "classical" in classical computation thus refers to the computational model, not to whether the microscopic physics of the hardware is ultimately quantum-mechanical.
+quantum_computing: The possible states of a two-qubit quantum memory are
+quantum_computing: Could we ever learn to control the more than 10300 continuously variable parameters defining the quantum state of such a system?
+quantum_computing: While current quantum computers may speed up solutions to particular mathematical problems, they give no computational advantage for practical tasks.
+quantum_computing: The resulting state encodes the function's output values for all input values in the superposition, enabling the simultaneous computation of multiple outputs.
+quantum_computing: No mathematical proof has been found that shows that an equally fast classical algorithm cannot be discovered, but evidence suggests that this is unlikely.
+quantum_computing: These speed-ups are, however, over the theoretical worst-case of classical algorithms, and concrete real-world speed-ups over algorithms used in practice have not been demonstrated.
+quantum_computing: Programming a quantum computer is then a matter of composing operations in such a way that the resulting program computes a useful result in theory and is implementable in practice.
+quantum_computing: doi:10.1017/CBO9780511813870.
+quantum_computing: There are multiple models of computation for quantum computing, distinguished by the basic elements in which the computation is decomposed.
+quantum_computing: A general class of problems to which Grover's algorithm can be applied is a Boolean satisfiability problem, where the database through which the algorithm iterates is that of all possible answers.
+quantum_computing: Over the years, experimentalists have constructed small-scale quantum computers using trapped ions and superconductors.
+quantum_computing: In practice, improvements in qubit counts alone are not enough, because error rates, connectivity, and data movement also affect whether an end-to-end application can outperform classical methods.
+quantum_computing: However, other sources of decoherence also exist.
+quantum_computing: It was suggested that quantum algorithms, which are algorithms that run on a realistic model of quantum computation, can be computed equally efficiently with neuromorphic quantum computing.
+quantum_computing: It is further suspected that BQP is a strict superset of P, meaning that there exist problems that are efficiently solvable by quantum computers that are not efficiently solvable by deterministic classical computers.
+quantum_computing: If the first qubit is 
+  
+    
+      
+        
+          |
+        
+        0
+        ⟩
+      
+    
+    {\textstyle |0\rangle }
+  
+, nothing is done to either qubit.
+quantum_computing: In other words, the CNOT applies a NOT gate (
+  
+    
+      
+        X
+      
+    
+    {\textstyle X}
+  
+ from before) to the second qubit if and only if the first qubit is in the state 
+  
+    
+      
+        
+          |
+        
+        1
+        ⟩
+      
+    
+    {\textstyle |1\rangle }
+  
+.
+quantum_computing: With error correction, the figure would rise to about 107 bits.
+quantum_computing: An example and possible application of this is a password cracker that attempts to guess a password.
+quantum_computing: Careful estimates show that at least 3 million physical qubits would factor 2,048-bit integer in 5 months on a fully error-corrected trapped-ion quantum computer.
+quantum_computing: If a physical qubit is not sufficiently isolated from its environment, it suffers from quantum decoherence, introducing noise into calculations.
+quantum_computing: However, any measurement can be deferred to the end of quantum computation, though this deferment may come at a computational cost, so most quantum circuits depict a network consisting only of quantum logic gates and no measurements.
+quantum_computing: Such room-temperature, chip-integrated spin–photon interfaces are being investigated as potential building blocks for heterogeneous quantum networks that combine different qubit modalities and reduce reliance on large cryogenic infrastructures.
+quantum_computing: As an example, the vector ⁠1/√2⁠|00⟩ + ⁠1/√2⁠|01⟩ represents a two-qubit state, a tensor product of the qubit |0⟩ with the qubit ⁠1/√2⁠|0⟩ + ⁠1/√2⁠|1⟩.
+quantum_computing: Another approach to the stability-decoherence problem is to create a topological quantum computer with anyons, quasi-particles used as threads, and relying on braid theory to form stable logic gates.
+quantum_computing: They both construct a system (a circuit) that represents the physical problem at hand and then leverage their respective physics properties of the system to seek the "minimum".
+quantum_computing: Identifying cryptographic systems that may be secure against quantum algorithms is an actively researched topic under the field of post-quantum cryptography.
+quantum_computing: Quantum simulations might be used to understand this process and increase the energy efficiency of production.
+quantum_computing: However, the technology behind these devices combines complex vacuum equipment, lasers, and microwave and radio frequency equipment, making full-scale processors difficult to integrate with standard computing equipment.
+quantum_computing: Conventional computer hardware and algorithms are not only optimized for practical tasks, but are still improving rapidly, particularly GPU accelerators.
+quantum_computing: Teleportation cannot be used to transmit information faster than light because the classical bits must travel through normal channels.
+quantum_computing: Error rates are typically proportional to the ratio of operating time to decoherence time; hence, any operation must be completed much more quickly than the decoherence time.
+quantum_computing: For instance, it is known that quantum computers can efficiently factor integers, while this is not believed to be the case for classical computers.
+quantum_computing: Quantum algorithms can be roughly categorized by the type of speedup achieved over corresponding classical algorithms.
+quantum_computing: In December 2024, Google's Willow chip achieved below-threshold error correction, a milestone 30 years in the making, while global government investment in quantum computing reached $10 billion by April 2025.
+quantum_computing: As a direct consequence of this belief, it is also suspected that BQP is disjoint from the class of NP-complete problems (if an NP-complete problem were in BQP, then it would follow from NP-hardness that all problems in NP are in BQP).
+quantum_computing: Quantum computing may be sufficiently more powerful that difficult reversals are feasible, allowing messages relying on conventional encryption to be read.
+quantum_computing: While quantum computers cannot solve any problems that classical computers cannot already solve, it is suspected that they can solve certain problems faster than classical computers.
+quantum_computing: When a sender and receiver exchange quantum states, they can guarantee that an adversary does not intercept the message, as any unauthorized eavesdropper would disturb the delicate quantum system and introduce a detectable change.
+quantum_computing: Since chemistry and nanotechnology rely on understanding quantum systems, and such systems are impossible to simulate in an efficient manner classically, quantum simulation may be an important application of quantum computing.
+quantum_computing: In December 2020, a group at USTC implemented a type of boson sampling on 76 photons with a photonic quantum computer, Jiuzhang, to demonstrate quantum supremacy.
+quantum_computing: Neuromorphic quantum computing and quantum computing share similar physical properties during computation.
+quantum_computing: In particular, most of the popular public key ciphers are based on the difficulty of factoring integers or the discrete logarithm problem, both of which can be solved by Shor's algorithm.
+quantum_computing: Paul Davies argued that a 400-qubit computer would even come into conflict with the cosmological information bound implied by the holographic principle.
+quantum_computing: The first quantum logic gates were implemented with trapped ions and prototype general-purpose machines with up to 20 qubits have been realized.
+quantum_computing: Problems that can be efficiently addressed with Grover's algorithm have the following properties:
+quantum_computing: However, the immense size and complexity of the structural space of all possible drug-like molecules pose significant obstacles, which could be overcome in the future by quantum computers.
+quantum_computing: However, "parallelism" in this sense is insufficient to speed up a computation, because the measurement at the end of the computation gives only one value.
+quantum_computing: Integer factorization, which underpins the security of public key cryptographic systems, is believed to be computationally infeasible on a classical computer for large integers if they are the product of a few prime numbers (e.g., the product of two 300-digit primes).
+quantum_computing: doi:10.1017/CBO9780511976667.
+quantum_computing: When trying to outperform conventional computers, quantum computing researchers often look for new tasks that can be solved on quantum computers, but this leaves the possibility that efficient non-quantum techniques will be developed in response, as seen for Quantum supremacy demonstrations.
+quantum_computing: The article elaborated that quantum computers are yet to be more useful or efficient than conventional computers in any case, though it also argued that, in the long term, such computers are likely to be useful.
+quantum_computing: This means any quantum computation can be performed by executing a sequence of single-qubit gates together with CNOT gates.
+quantum_computing: As a result, current demonstrations are best understood as scientific milestones rather than evidence of broad near-term deployment.
+quantum_computing: In summary, quantum computation can be described as a network of quantum logic gates and measurements.
+quantum_computing: Jiuzhang — photonic quantum-computing prototype for Gaussian boson sampling.
+quantum_computing: A 2020 study argues that ionizing radiation such as cosmic rays can nevertheless cause certain systems to decohere within milliseconds.
+quantum_computing: so we shouldn't be asking about "where do quantum speedups come from?" We should say, "Well, all computers are quantum.
+quantum_computing: Conventional encryption, the obscuring of a message with a key through an algorithm, relies on the algorithm being difficult to reverse.
+quantum_computing: In 1980, Paul Benioff introduced the quantum Turing machine, which uses quantum theory to describe a simplified computer.
+quantum_computing: In these "classical" computers, some components (such as semiconductors and random number generators) may rely on quantum behavior; however, because they are not isolated from their environment, any quantum information eventually quickly decoheres.
+quantum_computing: What Is Quantum Computing?
+quantum_computing: For example, topological quantum computer approaches are being explored for more fault-tolerance computing systems.
+quantum_computing: National governments have invested heavily in experimental research aimed at developing scalable qubits with longer coherence times and lower error rates.
+quantum_computing: A quantum computer is a real or theoretical computer that exploits quantum phenomena like superposition and entanglement in an essential way.
+quantum_computing: David (2007).
+quantum_computing: Such a combination is known as a superposition of 
+  
+    
+      
+        
+          |
+        
+        0
+        ⟩
+      
+    
+    {\displaystyle |0\rangle }
+  
+ and 
+  
+    
+      
+        
+          |
+        
+        1
+        ⟩
+      
+    
+    {\displaystyle |1\rangle }
+  
+.
+quantum_computing: Superconducting quantum computers, like those constructed by Google and IBM, need helium-3, a nuclear research byproduct, and special superconducting cables made only by the Japanese company Coax Co.
+quantum_computing: Certain oracle problems like Simon's problem and the Bernstein–Vazirani problem do give provable speedups, though this is in the quantum query model, which is a restricted model where lower bounds are much easier to prove and don't necessarily translate to speedups for practical problems.
+quantum_computing: Peter Shor built on these results with his 1994 algorithm for breaking the widely used RSA and Diffie–Hellman encryption protocols, which drew significant attention to the field of quantum computing.
+quantum_computing: Decoherence is irreversible, as it is effectively non-unitary, and is usually something that should be highly controlled, if not avoided.
+quantum_computing: In 1996, Grover's algorithm established a quantum speedup for the widely applicable unstructured search problem.
+quantum_computing: Adiabatic optimization may be helpful for solving computational biology problems.
+quantum_computing: AlphaEvolve, a Google DeepMind system based on large language models and evolutionary algorithms, has been described as a coding agent for scientific and algorithmic discovery.
+quantum_computing: Linear optical quantum computing — photonic model using photons and linear optical elements.
+quantum_computing: Though this gate set is infinite, it can be replaced with a finite gate set by appealing to the Solovay-Kitaev theorem.
+quantum_computing: While programmers may depend on probability theory when designing a randomized algorithm, quantum-mechanical notions such as superposition and wave interference are largely irrelevant in program analysis.
+quantum_computing: On 27 January 2026, the US DARPA agency made a call for proposals for a quantum computing coolant below 1 kelvin, which does not use helium-3.
+quantum_computing: Examples include the quantum gates, the lattice vibrations, and the background thermonuclear spin of the physical system used to implement the qubits.
+quantum_computing: One approach to overcoming errors combines low-density parity-check code with cat qubits that have intrinsic bit-flip error suppression.
+quantum_computing: Though these algorithms give comparably modest quadratic speedup, they are widely applicable and thus give speedups for a wide range of problems.
+quantum_computing: Implementing 100 logical qubits with 768 cat qubits could reduce the error rate to one part in 108 per cycle per bit.
+quantum_computing: Breaking symmetric ciphers with this algorithm is of interest to government agencies.
+quantum_computing: Topological quantum computer — proposed approach using topological states such as anyons.
+quantum_computing: ISBN 978-0-309-47970-7.
+quantum_computing: "So the number of continuous parameters describing the state of such a useful quantum computer at any given moment must be...
+quantum_computing: Ongoing research in quantum and post-quantum cryptography has led to new algorithms for quantum key distribution, initial work on quantum random number generation and to some early technology demonstrations.
+quantum_computing: A practical quantum computer must use a physical system as a programmable quantum register.
+quantum_computing: OCLC 700706156.
+quantum_computing: In other words, quantum computers provide no additional power over classical computers in terms of computability.
+quantum_computing: Any computational problem solvable by a classical computer is also solvable by a quantum computer.
+quantum_computing: If a classical computation uses randomness, this can be modeled as access to random classical bits rather than as coherent quantum information.
+quantum_computing: As a class of probabilistic problems, BQP is the quantum counterpart to BPP ("bounded error, probabilistic, polynomial time"), the class of problems that can be solved by polynomial-time probabilistic Turing machines with bounded error.
+quantum_computing: Quantum computers are naturally good for solving complex quantum many-body problems and thus may be instrumental in applications involving quantum chemistry.
+quantum_computing: For example, a large-scale quantum computer could break some widely used encryption schemes and aid physicists in performing physical simulations.
+quantum_computing: S2CID 125635007.
+quantum_computing: This vector inhabits a four-dimensional vector space spanned by the basis vectors |00⟩, |01⟩, |10⟩, and |11⟩.
+quantum_computing: One important gate for both classical and quantum computation is the NOT gate, which can be represented by a matrix
+quantum_computing: The state of Alice's qubit is not physically transmitted—instead, it is reconstructed at Bob's end through classically communicated measurement outcomes and local unitary corrections.
+quantum_computing: Superconductors and trapped ions are some of the most developed proposals, but experimentalists are considering other hardware possibilities as well.
+quantum_computing: Trapped-ion quantum computer — approach using trapped charged atoms as qubits.
+quantum_computing: Some promising algorithms have been "dequantized", i.e., their non-quantum analogues with similar complexity have been found.
+quantum_computing: In particular, processing large amounts of non-quantum data is a challenge for quantum computers.
+quantum_computing: Quantum annealing can solve Ising models and the (computationally equivalent) QUBO problem, which in turn can be used to encode a wide range of combinatorial optimization problems.
+quantum_computing: QpiAI-Indus — 25-qubit superconducting quantum computer from QpiAI in India.
+quantum_computing: Quantum simulation could also be used to simulate the behavior of atoms and particles at unusual conditions such as the reactions inside a collider.
+quantum_computing: Recent milestones in quantum computing have increasingly focused on controlling decoherence through quantum error correction.
+quantum_computing: Complex numbers model probability amplitudes, vectors model quantum states, and matrices model the operations that can be performed on these states.
+quantum_computing: The basic unit of information in quantum computing, the qubit (or "quantum bit"), serves the same function as the bit in ordinary or "classical" computing.
+quantum_computing: IBM Quantum System Two — modular superconducting system using IBM Heron processors.
+quantum_computing: This property is key to the speedup of many quantum algorithms.
+quantum_computing: Decoherence times for candidate systems in particular, the transverse relaxation time T2 (for NMR and MRI technology, also called the dephasing time), typically range between nanoseconds and seconds at low temperatures.
+quantum_computing: The adiabatic theorem states that if the evolution is slow enough, the system will stay in its ground state at all times through the process.
+quantum_computing: Scientists and engineers are exploring multiple technologies for quantum computing hardware and hope to develop scalable quantum architectures, but serious obstacles remain.
+quantum_computing: This allows the total calculation time to be longer than the decoherence time if the error correction scheme can correct errors faster than decoherence introduces them.
+quantum_computing: Early experimental work has explored the use of near-term quantum hardware in molecular generative modeling for drug discovery.
+quantum_computing: In quantum-computing research, AlphaEvolve-optimized quantum circuits have been used in work on quantum computation of molecular geometry through many-body nuclear spin echoes.
+quantum_computing: A system is placed in the ground state for a simple Hamiltonian, which slowly evolves to a more complicated Hamiltonian whose ground state represents the solution to the problem in question.
+quantum_computing: Nielsen, Michael; Chuang, Isaac (2010).
+quantum_computing: OCLC 829706638.
+quantum_computing: Cambridge University Press.
+quantum_computing: IBM Quantum System One — IBM superconducting quantum-computing system introduced in 2019.
+quantum_computing: These algorithms did not solve practical problems, but demonstrated mathematically that one could obtain more information by querying a black box with a quantum state in superposition, sometimes referred to as quantum parallelism.
+quantum_computing: Since quantum computers can produce outputs that classical computers cannot produce efficiently, and since quantum computation is fundamentally linear algebraic, some express hope in developing quantum algorithms that can speed up machine learning tasks.
+quantum_computing: In addition to cryogenic platforms, room-temperature approaches to spin–photon interfaces have been experimentally demonstrated.
+quantum_computing: Researchers are exploring several technologies as candidates for reliable qubit implementations.
+quantum_computing: The Harvard research team was supported by MIT, QuEra Computing, Caltech, and Princeton University and funded by DARPA's Optimization with Noisy Intermediate-Scale Quantum devices (ONISQ) program.
+quantum_computing: To be useful, a quantum algorithm must also incorporate some other conceptual ingredient.
+quantum_computing: doi:10.1017/CBO9780511979309.
+quantum_computing: One common such set includes all single-qubit gates as well as the CNOT gate from above.
+quantum_computing: My answer is simple.
+quantum_computing: The mathematics of single-qubit gates can be extended to operate on multi-qubit quantum memories in two important ways.
+quantum_computing: If a quantum computer manipulates the qubit in a particular way, wave interference effects amplify the probability of the desired measurement result.
+quantum_computing: However, the encoding and error-correction overheads increase the size of a real fault-tolerant quantum computer by several orders of magnitude.
+quantum_computing: Claims of quantum supremacy have generated hype around quantum computing, but they are based on contrived benchmark tasks that do not directly imply useful real-world applications.
+quantum_computing: Quantum algorithms provide speedup over conventional algorithms only for some tasks, and matching these tasks with practical applications proved challenging.
+quantum_computing: When a qubit is measured in the standard basis, the result is a classical bit.
+quantum_computing: However, review literature notes that many proposed quantum machine-learning advantages rely on assumptions about efficient data encoding or continued access to quantum hardware, and have not yet translated into broad practical end-to-end advantage on current devices.
+quantum_computing: Many examples of provable quantum speedups for query problems are based on Grover's algorithm, including Brassard, Høyer, and Tapp's algorithm for finding collisions in two-to-one functions, and Farhi, Goldstone, and Gutmann's algorithm for evaluating NAND trees.
+quantum_computing: A quantum gate array decomposes computation into a sequence of few-qubit quantum gates.
+quantum_computing: In June 2023, IBM computer scientists reported that a quantum computer produced better results for a physics problem than a conventional supercomputer.
+quantum_computing: Digital cryptography enables communications to remain private, preventing unauthorized parties from accessing them.
+quantum_computing: This can be achieved by preparing a quantum system in a superposition of input states and applying a unitary transformation that encodes the function to be evaluated.
+quantum_computing: In general, the vector space for an n-qubit system is 2n-dimensional, and this makes it challenging for a classical computer to simulate a quantum one: representing a 100-qubit system requires storing 2100 classical values.
+quantum_computing: If quantum error correction is used to scale quantum computers to practical applications, its overhead may undermine the speedup offered by many quantum algorithms.
+quantum_computing: A classical bit, by definition, exists in either of two physical states, which can be denoted 0 and 1.
+quantum_computing: Another way is to apply the gate to its target only if another part of the memory is in a desired state.

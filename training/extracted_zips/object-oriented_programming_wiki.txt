@@ -1,0 +1,256 @@
+object-oriented_programming: Delegation is another language feature that can be used as an alternative to inheritance.
+object-oriented_programming: Structure and Interpretation of Computer Programs.
+object-oriented_programming: John Wiley & Sons.
+object-oriented_programming: ISBN 978-0-201-54435-0.
+object-oriented_programming: These included Visual FoxPro 3.0, C++, and Delphi.
+object-oriented_programming: Here, "object" referred to LISP atoms with identified properties (attributes).
+object-oriented_programming: A field (a.k.a.
+object-oriented_programming: Although far from trivial, static analysis of object-oriented programming languages such as Java is a mature field, with several commercial tools.
+object-oriented_programming: In fact, subtype polymorphism as enforced by the type checker in OOP languages cannot guarantee behavioral subtyping in most if not all contexts.
+object-oriented_programming: In August 1981, Byte Magazine highlighted Smalltalk and OOP, introducing these ideas to a wide audience.
+object-oriented_programming: Some databases, called object databases, are designed to work with OOP.
+object-oriented_programming: A study by Potok et al.
+object-oriented_programming: "Effective Java: Programming Language Guide" (third ed.).
+object-oriented_programming: The subclass may add variables and methods that do not affect the super-class.
+object-oriented_programming: ISBN 978-0-8053-5340-2.
+object-oriented_programming: He would go on to create Smalltalk, an influential OOP language.
+object-oriented_programming: In the 1990s, OOP became the main way of programming, especially as more languages supported it.
+object-oriented_programming: However, this is often not true, especially in programming languages that allow mutable objects, objects that change after they are created.
+object-oriented_programming: OOP – Learn Object Oriented Thinking & Programming.
+object-oriented_programming: ISBN 978-80-904661-8-0.
+object-oriented_programming: Raymond compares this unfavourably to the approach taken with Unix and the C language.
+object-oriented_programming: Most languages also allow the subclass to override super-class methods.
+object-oriented_programming: Simula is generally accepted as being the first language with the primary features and framework of an object-oriented language.
+object-oriented_programming: Bjarne Stroustrup created C++ based on his experience using Simula for his PhD thesis.
+object-oriented_programming: According to Wirfs-Brock and Wilkerson, the originators of responsibility-driven design, responsibility-driven design is the better approach.
+object-oriented_programming: Decoupling makes it easier to change how an object works on the inside without affecting other parts of the codebase, such as in code refactoring.
+object-oriented_programming: Object-oriented programming (OOP) is a programming paradigm based on objects – software entities that encapsulate data and function(s).
+object-oriented_programming: Single responsibility principle: A class should have only one reason to change.
+object-oriented_programming: ISBN 978-0-471-54364-0.
+object-oriented_programming: Rob Pike has criticized inheritance for creating complex hierarchies instead of simpler solutions.
+object-oriented_programming: People often call them the "Gang of Four".
+object-oriented_programming: At ETH Zürich, Niklaus Wirth and his colleagues created new approaches to OOP.
+object-oriented_programming: By 1967, Kay was already using the term "object-oriented programming" in conversation.
+object-oriented_programming: In the late 1970s and 1980s, OOP rose to prominence.
+object-oriented_programming: A Theory of Objects.
+object-oriented_programming: Addison-Wesley.
+object-oriented_programming: Dynamic dispatch works together with inheritance: if an object doesn't have the requested method, it looks up to its parent class (delegation), and continues up the chain to find a matching method.
+object-oriented_programming: Pure Fabrication Principle: create helper classes to improve design, boost cohesion, and reduce coupling.
+object-oriented_programming: ISBN 978-0-387-94775-4.
+object-oriented_programming: To solve this problem, developers use different methods, but none of them are perfect.
+object-oriented_programming: Rich Hickey, creator of Clojure, described OOP as overly simplistic, especially when it comes to representing real-world things that change over time.
+object-oriented_programming: OOP was created to make code easier to reuse and maintain.
+object-oriented_programming: Booch, Grady (1997).
+object-oriented_programming: However, relational databases don't store objects directly, which creates a challenge when using them together.
+object-oriented_programming: Abelson, Harold; Gerald Jay Sussman (1997).
+object-oriented_programming: Creator Principle: allows classes create objects they closely use.
+object-oriented_programming: Harmon, Paul; William Morrissey (1996).
+object-oriented_programming: Examples of ORM tools include Visual FoxPro, Java Data Objects, and Ruby on Rails ActiveRecord.
+object-oriented_programming: High Cohesion Principle: designing classes with a single, focused responsibility.
+object-oriented_programming: However, others argue that OOP does not enhance readability or modularity.
+object-oriented_programming: Some programming languages, like Java, provide information hiding via visibility key words (private and public).
+object-oriented_programming: Polymorphism: allows different classes to be used through a common interface, promoting flexibility and reuse.
+object-oriented_programming: Elements may include:
+object-oriented_programming: Building Business Objects.
+object-oriented_programming: ISBN 978-0-471-19176-6.
+object-oriented_programming: With subtype polymorphism, the program doesn't need to know the type of each shape, and can simply call the "Draw" method for each shape.
+object-oriented_programming: Gamma, Erich; Richard Helm; Ralph Johnson; John Vlissides (1995).
+object-oriented_programming: Retrieved 22 January 2006.
+object-oriented_programming: Object-Oriented Software Construction.
+object-oriented_programming: Nirosh
+Discussion on Cons of OOP
+OOP Concepts (Java Tutorials)
+object-oriented_programming: The Flavors object-oriented Lisp was developed starting 1979, introducing multiple inheritance and mixins.
+object-oriented_programming: For example, if you have an object fruit, you can make two objects apple and orange that share traits of the fruit prototype.
+object-oriented_programming: Simula introduced essential object-oriented ideas, such as classes, inheritance, and dynamic binding.
+object-oriented_programming: Influenced by both MIT and Simula, Alan Kay began developing his own ideas in November 1966.
+object-oriented_programming: This is different from data-driven design, where classes are built based on the data they need to store.
+object-oriented_programming: Low Coupling Principle: reduces class dependencies to improve flexibility and maintainability.
+object-oriented_programming: Retrieved 18 April 2005.
+object-oriented_programming: Liskov substitution principle: Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it.
+object-oriented_programming: Later, in 1968, AED-0, MIT's version of the ALGOL programming language, connected data structures ("plexes") and procedures, prefiguring what were later termed "messages", "methods", and "member functions".
+object-oriented_programming: Object-Oriented Information Systems – Planning and Implementation.
+object-oriented_programming: Alexander Stepanov said that OOP tries to fit everything into a single type, which can be limiting.
+object-oriented_programming: Richard Feldman says that, while OOP features helped some languages stay organized, their popularity comes from other reasons.
+object-oriented_programming: Smalltalk-72 was notable for use of objects at the language level and its graphical development environment.
+object-oriented_programming: Some languages support multiple inheritance, where a class can inherit from more than one class, and other languages similarly support mixins or traits.
+object-oriented_programming: An online shopping system might have objects such as shopping cart, customer, and product.
+object-oriented_programming: Bob Martin suggests that because classes are software, their relationships don't match the real-world relationships they represent.
+object-oriented_programming: Information Expert Principle: assigns tasks to classes with the needed information.
+object-oriented_programming: A 1976 MIT memo co-authored by Barbara Liskov lists Simula 67, CLU, and Alphard as object-oriented languages, but does not mention Smalltalk.
+object-oriented_programming: Meyer, Bertrand (1997).
+object-oriented_programming: OOP became even more popular with the rise of graphical user interfaces, which used objects for buttons, menus and other elements.
+object-oriented_programming: West, David (2004).
+object-oriented_programming: Date and Darwen have proposed a theoretical foundation that uses OOP as a kind of customizable type system to support RDBMSs, but it forbids objects containing pointers to other objects.
+object-oriented_programming: Inheritance is not obvious in Wirth's design since his nomenclature looks in the opposite direction: It is called type extension and the viewpoint is from the parent down to the inheritor.
+object-oriented_programming: Introduction to Object Oriented Programming Concepts (OOP) and More by L.W.C.
+object-oriented_programming: As paradigms are not mutually exclusive, a language can be multi-paradigm (i.e.
+object-oriented_programming: Object-Oriented and Classical Software Engineering, Seventh Edition.
+object-oriented_programming: Object Thinking (Developer Reference).
+object-oriented_programming: For example, a graphics program may have objects such as circle, square, and menu.
+object-oriented_programming: Much of the theory of OOP was developed in the context of Smalltalk, for example multiple inheritance.
+object-oriented_programming: state) as a variable.
+object-oriented_programming: Controller Principle: assigns system operations to separate classes that manage flow and interactions.
+object-oriented_programming: Instead, they encourage "composition over inheritance", where objects are built using smaller parts instead of parent-child relationships.
+object-oriented_programming: doi:10.1145/1113034.1113040.
+object-oriented_programming: Bibcode:1992oose.book.....J.
+object-oriented_programming: Not everyone agrees that OOP makes it easy to copy the real world exactly or that doing so is even necessary.
+object-oriented_programming: In the 1970s, the first version of the Smalltalk programming language was developed at Xerox PARC by Alan Kay, Dan Ingalls and Adele Goldberg.
+object-oriented_programming: In the past, OOP was widely accepted, but recently, some programmers have criticized it and prefer functional programming instead.
+object-oriented_programming: ISSN 0001-0782.
+object-oriented_programming: Objects act as a boundary between their internal workings and external, consuming code.
+object-oriented_programming: ISBN 978-0-13-629155-8.
+object-oriented_programming: Bertrand Meyer argues that a program is not a model of the world but a model of some part of the world; "Reality is a cousin twice removed".
+object-oriented_programming: ISBN 978-0-262-01153-2.
+object-oriented_programming: In 1986, the first Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA) was attended by 1,000 people.
+object-oriented_programming: "The Quarks of Object-Oriented Development".
+object-oriented_programming: That was left to the compiler.
+object-oriented_programming: Both OOP and relational database management systems (RDBMSs) are widely used in software today.
+object-oriented_programming: Bibcode:1995dper.book.....G.
+object-oriented_programming: Pecinovsky, Rudolf (2013).
+object-oriented_programming: Consuming code can only interact with an object via its public members, due to the language providing access modifiers that control visibility.
+object-oriented_programming: Object-Oriented Analysis and Design with Applications.
+object-oriented_programming: Objective-C was developed by Brad Cox, who had used Smalltalk at ITT Inc.
+object-oriented_programming: Bloch, Joshua (2018).
+object-oriented_programming: Archived from the original on 26 December 2017.
+object-oriented_programming: 49 (2): 123–128.
+object-oriented_programming: Some design patterns are especially useful for OOP, and design patterns are typically introduced in an OOP context.
+object-oriented_programming: Raymond, a Unix programmer and open-source software advocate, argues that OOP is not the best way to write programs.
+object-oriented_programming: ISBN 978-0134685991.
+object-oriented_programming: As computers began using more parallel processing and multiple threads, it became more important to understand and control how instructions flow.
+object-oriented_programming: In this context, a method call is also known as message passing, meaning the method name and its inputs are like a message sent to the object for it to act on.
+object-oriented_programming: Schreiner, Axel-Tobias (1993).
+object-oriented_programming: Bruckner Publishing.
+object-oriented_programming: Supporters of information hiding and data abstraction say it makes code easier to reuse and intuitively represents real-world situations.
+object-oriented_programming: However, it was not designed to clearly show the flow of a program's instructions.
+object-oriented_programming: One of the most common solutions is object-relational mapping (ORM), which helps connect object-oriented programs to relational databases.
+object-oriented_programming: Because of this, programmers must carefully design class hierarchies to avoid mistakes that the programming language itself cannot catch.
+object-oriented_programming: The latter point is reiterated by Joe Armstrong, the principal inventor of Erlang, who is quoted as saying:
+object-oriented_programming: Luca Cardelli says that OOP is slower and takes longer to compile than procedural programming.
+object-oriented_programming: Luca Cardelli has stated that OOP languages have "extremely poor modularity properties with respect to class extension and modification", and tend to be extremely complex.
+object-oriented_programming: OOP toolkits also enhanced the popularity of event-driven programming.
+object-oriented_programming: The problem with object-oriented languages is they've got all this implicit environment that they carry around with them.
+object-oriented_programming: The Early History of Smalltalk.
+object-oriented_programming: Archived from the original on 4 April 2005.
+object-oriented_programming: found no major difference in productivity between OOP and procedural programming.
+object-oriented_programming: In languages that support open recursion, a method in an object can call other methods in the same object, including itself, using this special word.
+object-oriented_programming: Object oriented programming with ANSI-C.
+object-oriented_programming: This presumes the program semantics are that objects from the subclass can always replace objects from the original class without problems.
+object-oriented_programming: In Self, an object may have multiple or no parents, but in the most popular prototype-based language, JavaScript, an object has exactly one prototype link, up to the base object whose prototype is null.
+object-oriented_programming: Topics such as data abstraction and modular programming were common points of discussion at this time.
+object-oriented_programming: ISBN 978-0-672-33016-2.
+object-oriented_programming: Inheritance presents difficulties, particularly with the interactions between open recursion and encapsulated state.
+object-oriented_programming: It is only used as a super-class.
+object-oriented_programming: Eeles, Peter; Oliver Sims (1998).
+object-oriented_programming: Raymond has written that OOP languages tend to encourage thickly layered programs that destroy transparency.
+object-oriented_programming: Both come from a common class called "Shape." Each shape has its own way of drawing itself.
+object-oriented_programming: Because the details of each shape are handled inside their own classes, this makes the code simpler and more organized, enabling strong separation of concerns.
+object-oriented_programming: Jacobson, Ivar (1992).
+object-oriented_programming: In the mid-1980s, new object-oriented languages like Objective-C, C++, and the Eiffel language emerged.
+object-oriented_programming: McGraw-Hill.
+object-oriented_programming: Another early example was Sketchpad created by Ivan Sutherland at MIT in 1960–1961.
+object-oriented_programming: Some languages like Python don't provide a visibility feature, but developers might follow a convention such as starting a private member name with an underscore.
+object-oriented_programming: Comparing OOP with other styles, like relational programming, is difficult because there isn't a clear, agreed-upon definition of OOP.
+object-oriented_programming: Dependency inversion principle: Depend upon abstractions, not concretes.
+object-oriented_programming: Simula was used mainly by researchers involved with physical modelling, like the movement of ships and their content through cargo ports.
+object-oriented_programming: Niklaus Wirth said, "This paradigm [OOP] closely reflects the structure of systems in the real world and is therefore well suited to model complex systems with complex behavior".
+object-oriented_programming: Decoupling, organizing code so that only certain parts of the data are used by related functions.
+object-oriented_programming: This is difficult to do with OOP.
+object-oriented_programming: This conference marked the start of efforts to consolidate Lisp object systems, eventually resulting in the Common Lisp Object System.
+object-oriented_programming: Smalltalk was a fully dynamic system, allowing users to create and modify classes as they worked.
+object-oriented_programming: The Object Technology Casebook – Lessons from Award-Winning Business Applications.
+object-oriented_programming: Examples include the Intel iAPX 432 and the Linn Smart Rekursiv.
+object-oriented_programming: This issue is called object-relational impedance mismatch.
+object-oriented_programming: In the glossary of his technical report, Sutherland defined terms like "object" and "instance" (with the class concept covered by "master" or "definition"), albeit specialized to graphical interaction.
+object-oriented_programming: However, more often, objects represent abstract entities, like an open file or a unit converter.
+object-oriented_programming: Rumbaugh, James; Blaha, Michael; Premerlani, William; Eddy, Frederick; Lorensen, William (1991).
+object-oriented_programming: categorized as more than only OOP).
+object-oriented_programming: Composition is a "has-a" relationships, like "an employee has an address".
+object-oriented_programming: He argued that sometimes we need multisorted algebras: families of interfaces that span multiple types, such as in generic programming.
+object-oriented_programming: Bertrand Meyer produced the first design of the Eiffel language in 1985, which focused on software quality using a design by contract approach.
+object-oriented_programming: hdl:1850/8544.
+object-oriented_programming: S2CID 11485502.
+object-oriented_programming: ISBN 978-0-471-14717-6.
+object-oriented_programming: A method (a.k.a.
+object-oriented_programming: This concept is known as behavioral subtyping, more specifically the Liskov substitution principle.
+object-oriented_programming: The Object-Oriented Thought Process, Third Edition.
+object-oriented_programming: For example, imagine a program has two shapes: a circle and a square.
+object-oriented_programming: Many programming languages use a special word, like this or self, to refer to the current object.
+object-oriented_programming: Although sometimes called the "father" of OOP, Kay has said his ideas differ from how OOP is commonly understood, and has implied that the computer science establishment did not adopt his notion.
+object-oriented_programming: Abadi and Cardelli defined several extensions of System F<: that deal with mutable objects, allowing both subtype polymorphism and parametric polymorphism (generics), and were able to formally model many OOP concepts and constructs.
+object-oriented_programming: ISBN 978-0-7356-1965-4.
+object-oriented_programming: For example, an Employee object might contain an Address object, along with other information like name and position.
+object-oriented_programming: If the method choice depends on more than one type of object (such as other objects passed as parameters), it's called multiple dispatch.
+object-oriented_programming: An OOP language is one that provides object-oriented programming features, but as the set of features that contribute to OOP is contested, classifying a language as OOP – and the degree to which it supports OOP – is debatable.
+object-oriented_programming: Steve Yegge noted that natural languages lack the OOP approach of naming a thing (object) before an action (method), as opposed to functional programming which does the reverse.
+object-oriented_programming: One well-known example is Apple's Cocoa framework, used on macOS and written in Objective-C.
+object-oriented_programming: The book talks about the strengths and weaknesses of OOP and explains 23 common ways to solve programming problems.
+object-oriented_programming: These solutions, called "design patterns," are grouped into three types:
+object-oriented_programming: For example, programmer Rob Pike pointed out that OOP can make programmers think more about type hierarchy than composition.
+object-oriented_programming: He has called OOP "the Roman numerals of computing".
+object-oriented_programming: Intermediate levels of access also exist, such as Java's protected keyword, (which allows access from the same class and its subclasses, but not objects of a different class), and the internal keyword in C#, Swift, and Kotlin, which restricts access to files within the same module.
+object-oriented_programming: (February 2006).
+object-oriented_programming: Object-Oriented Software Engineering: A Use Case-Driven Approach.
+object-oriented_programming: Weisfeld, Matt (2009).
+object-oriented_programming: For example, instead of inheriting from class Person, the Employee class could simply contain a Person object.
+object-oriented_programming: Behavioral subtyping is undecidable in general, so it cannot be easily implemented by a compiler.
+object-oriented_programming: Stepanov also said that calling everything an "object" doesn't add much understanding.
+object-oriented_programming: Programmers have different opinions on inheritance.
+object-oriented_programming: Schach, Stephen (2006).
+object-oriented_programming: Leo Brodie says that information hiding can lead to duplicate code, which goes against the don't repeat yourself rule of software development.
+object-oriented_programming: For example, a mixin called UnicodeConversionMixin might add a method unicode_to_ascii() to both a FileReader and a WebPageScraper class.
+object-oriented_programming: Below are some common features of OOP languages.
+object-oriented_programming: Interface segregation principle: Clients should not be forced to depend upon interfaces that they do not use.
+object-oriented_programming: An abstract class cannot be directly instantiated as an object.
+object-oriented_programming: ISBN 978-0-13-629841-0.
+object-oriented_programming: Modula-2 (1978) and Oberon (1987), included a distinctive approach to object orientation, classes, and type checking across module boundaries.
+object-oriented_programming: Prentice Hall.
+object-oriented_programming: This allows a method in one class to call another method defined later in a subclass, a feature known as late binding.
+object-oriented_programming: ISBN 978-0-201-63361-0.
+object-oriented_programming: Notable languages with OOP support include Ada, ActionScript, C++, Common Lisp, C#, Dart, Eiffel, Fortran 2003, Haxe, Java, JavaScript, Kotlin, Logo, MATLAB, Objective-C, Object Pascal, Perl, PHP, Python, R, Raku, Ruby, Scala, SIMSCRIPT, Simula, Smalltalk, Swift, Vala and Visual Basic (.NET).
+object-oriented_programming: The programming language runtime will ensure the correct version of the "Draw" method runs for each shape.
+object-oriented_programming: Every instance of the class has the same set of variables and methods.
+object-oriented_programming: Lawrence Krubner argues that OOP doesn't offer special advantages compared to other styles, like functional programming, and can complicate coding.
+object-oriented_programming: An OOP computer program consists of objects that interact with one another.
+object-oriented_programming: An object is created via the constructor.
+object-oriented_programming: For example, the circle-ellipse problem is notoriously difficult to handle using OOP's concept of inheritance.
+object-oriented_programming: This lets the Employee class control how much of Person it exposes to other parts of the program.
+object-oriented_programming: data-driven design ===
+In responsibility-driven design, classes are built around what they need to do and the information they share, in the form of a contract.
+object-oriented_programming: Springer Verlag.
+object-oriented_programming: Data hiding, keeping the internal details of an object hidden from outside code.
+object-oriented_programming: GRASP (General Responsibility Assignment Software Patterns) is another set of software design rules, created by Craig Larman, that helps developers assign responsibilities to different parts of a program:
+object-oriented_programming: Researchers have used recursive types and co-algebraic data types to incorporate essential features of OOP.
+object-oriented_programming: Communications of the ACM.
+object-oriented_programming: Some believe that OOP places too much focus on using objects rather than on algorithms and data structures.
+object-oriented_programming: Many popular programming languages, like C++, Java, and Python, use OOP.
+object-oriented_programming: Design Patterns: Elements of Reusable Object-Oriented Software is a famous book published in 1994 by four authors: Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.
+object-oriented_programming: Object-Oriented Modeling and Design.
+object-oriented_programming: This can make an OOP solution more complex than one written via procedural programming.
+object-oriented_programming: ISBN 978-3-446-17426-9.
+object-oriented_programming: Taylor, David A.
+object-oriented_programming: Microsoft Press.
+object-oriented_programming: Armstrong, Deborah J.
+object-oriented_programming: Prototype-based languages also allow objects to have their own unique properties, so the apple object might have an attribute sugar_content, while the orange or fruit objects do not.
+object-oriented_programming: However, they have not been as popular or successful as relational databases.
+object-oriented_programming: Cohesion, keeping related fields and methods together.
+object-oriented_programming: Some languages, like Go, don't support inheritance.
+object-oriented_programming: Many programming languages that were initially developed before OOP was popular have been augmented with object-oriented features, including Ada, BASIC, Fortran, Pascal, and COBOL.
+object-oriented_programming: Design Patterns: Elements of Reusable Object Oriented Software.
+object-oriented_programming: SOLID includes the open/closed principle, which says that classes and functions should be "open for extension, but closed for modification".
+object-oriented_programming: Other classes are utility classes which contain only class variables and methods and are not meant to be instantiated or subclassed.
+object-oriented_programming: For example, an Employee class might inherit from a Person class which endows the Employee object with the variables from Person.
+object-oriented_programming: ISBN 978-0-07-319126-3.
+object-oriented_programming: Paul Graham believes big companies like OOP because it helps manage large teams of average programmers.
+object-oriented_programming: The class defines the data (variables) and methods (logic).
+object-oriented_programming: attribute or property) contains information (a.k.a.
+object-oriented_programming: You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+object-oriented_programming: The OOP features provided by languages vary.
+object-oriented_programming: In the 1980s, there were a few attempts to design processor architectures that included hardware support for objects in memory, but these were not successful.
+object-oriented_programming: LOOPS, the object system for Interlisp-D, was influenced by Smalltalk and Flavors, and a paper about it was published in 1982.
+object-oriented_programming: Bjarne Stroustrup, author of C++, has stated that it is possible to do OOP without inheritance.
+object-oriented_programming: A prototype acts as a model for new objects.
+object-oriented_programming: function or action) defines behavior via logic code.
+object-oriented_programming: Open/closed principle: Software entities should be open for extension, but closed for modification.
+object-oriented_programming: He argues that OOP adds structure, making it harder for one person to make serious mistakes, but at the same time restrains smart programmers.
+object-oriented_programming: Meanwhile, in Norway, Simula was developed during the years 1961–1967.

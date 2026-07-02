@@ -1,0 +1,252 @@
+blockchain: Such games also represent a high risk to investors as their revenues can be difficult to predict.
+blockchain: Proponents of permissioned or private chains argue that the term "blockchain" may be applied to any data structure that batches data into time-stamped blocks.
+blockchain: Namecoin was forked from bitcoin in 2011.
+blockchain: This proposal resulted in the creation of ISO Technical Committee 307, Blockchain and Distributed Ledger Technologies.
+blockchain: A private key is like a password that gives its owner access to their digital assets or the means to otherwise interact with the various capabilities that blockchains now support.
+blockchain: Usually, such networks offer economic incentives for those who secure them and utilize some type of a proof-of-stake or proof-of-work algorithm.
+blockchain: The use of a blockchain removes the characteristic of infinite reproducibility from a digital asset.
+blockchain: Bitcoin and other cryptocurrencies currently secure their blockchain by requiring new entries to include proof of work.
+blockchain: A common belief has been that cryptocurrency is private and untraceable, thus leading many actors to use it for illegal purposes.
+blockchain: Consortium blockchains are permissioned, meaning that only certain individuals or organizations are allowed to participate in the network.
+blockchain: Specific TLDs include ".eth", ".luxe", and ".kred", which are associated with the Ethereum blockchain through the Ethereum Name Service (ENS).
+blockchain: Researchers have estimated that bitcoin consumes 100,000 times as much energy as proof-of-stake networks.
+blockchain: The EUIPO established an Anti-Counterfeiting Blockathon Forum, with the objective of "defining, piloting and implementing" an anti-counterfeiting infrastructure at the European level.
+blockchain: The Dutch Standardisation organisation NEN uses blockchain together with QR Codes to authenticate certificates.
+blockchain: A public key (a long, random-looking string of numbers) is an address on the blockchain.
+blockchain: In 2019, the BBC World Service radio and podcast series 50 Things That Made the Modern Economy identified blockchain as a technology that would have far-reaching consequences for economics and society.
+blockchain: Sometimes separate blocks can be produced concurrently, creating a temporary fork.
+blockchain: Namecoin is a cryptocurrency that supports the ".bit" top-level domain (TLD).
+blockchain: As cryptocurrencies have gained prominence, several countries have made advancements in their private and commercial law treatment to address legal uncertainties.
+blockchain: In June 2018, the Bank for International Settlements criticized the use of public proof-of-work blockchains for their high energy consumption.
+blockchain: A mainnet launch marks the transition from a testnet to a live blockchain, involving security audits, network deployment, and token migration.
+blockchain: Scott Stornetta.
+blockchain: In 2019, it was estimated that around $2.9 billion were invested in blockchain technology, which represents an 89% increase from the year prior.
+blockchain: The game made headlines in December 2017 when one virtual pet sold for more than US$100,000.
+blockchain: The sharing economy and IoT are also set to benefit from blockchains because they involve many collaborating peers.
+blockchain: It is however argued that blockchain technology needs to be supplemented with technologies that provide a strong binding between physical objects and blockchain systems, as well as provisions for content creator verification ala KYC standards.
+blockchain: Participant and validator access is restricted.
+blockchain: Additionally, consortium blockchains can provide greater security and reliability than private blockchains, as the consortium members work together to maintain the network.
+blockchain: A modification of this method, an "economic finality", is used in practical protocols, like the Casper protocol used in Ethereum: validators which sign two different blocks at the same position in the blockchain are subject to "slashing", where their leveraged stake is forfeited.
+blockchain: Peers supporting the database have different versions of the history from time to time.
+blockchain: Nikolai Hampton of Computerworld said that "many in-house blockchain solutions will be nothing more than cumbersome databases," and "without a clear security model, proprietary blockchains should be eyed with suspicion."
+blockchain: A blockchain database is managed autonomously using a peer-to-peer network and a distributed timestamping server.
+blockchain: Just as MVCC prevents two transactions from concurrently modifying a single object in a database, blockchains prevent two transactions from spending the same single output in a blockchain.
+blockchain: It is "an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way".
+blockchain: Another is Quorum, a permissioned private blockchain by JPMorgan Chase with private storage, used for contract applications.
+blockchain: Beijing and Shanghai are among the cities designated by China to trial blockchain applications as January 30, 2022.
+blockchain: In October 2014, the MIT Bitcoin Club, with funding from MIT alumni, provided undergraduate students at the Massachusetts Institute of Technology access to $100 of bitcoin.
+blockchain: Further work on a cryptographically secured chain of blocks was described in 1991 by Stuart Haber and W.
+blockchain: According to a September 2016 IBM study, this implementation was occurring faster than expected.
+blockchain: In February 2021, U.S.
+blockchain: It has been argued that permissioned blockchains can guarantee a certain level of decentralization, if carefully designed, as opposed to permissionless blockchains, which are often centralized in practice.
+blockchain: The 31TWh-45TWh of electricity used for bitcoin in 2018 produced 17–23 million tonnes of CO2.
+blockchain: infrastructure (hardware)
+networking (node discovery, information propagation and verification)
+consensus (proof of work, proof of stake)
+data (blocks, transactions)
+application (smart contracts/decentralized applications, if applicable)
+blockchain: Contrary to contracts, blockchains do not directly rely on the legal system to enforce agreements.
+blockchain: Blocks not selected for inclusion in the chain are called orphan blocks.
+blockchain: Data stored on the blockchain is generally considered incorruptible.
+blockchain: In 2016, venture capital investment for blockchain-related projects was weakening in the US but increasing in China.
+blockchain: Under their company Surety, their document certificate hashes have been published in The New York Times every week since 1995.
+blockchain: In 2021, a study by Cambridge University determined that bitcoin (at 121 terawatt-hours per year) used more electricity than Argentina (at 121TWh) and the Netherlands (109TWh).
+blockchain: Blockchain could make this information transparent, assisting sustainable development of the industry.
+blockchain: Therefore, the probability of an entry becoming superseded decreases exponentially as more blocks are built on top of it, eventually becoming very low.
+blockchain: Many live-service games offer in-game customization options, such as character skins or other in-game items, which the players can earn and trade with other players using in-game currency.
+blockchain: This means that many in-house blockchain solutions will be nothing more than cumbersome databases."
+blockchain: The implementation of the blockchain within bitcoin made it the first digital currency to solve the double-spending problem without the need for a trusted authority or central server.
+blockchain: They can be classified into three categories: cryptocurrency interoperability approaches, blockchain engines, and blockchain connectors.
+blockchain: Cryptocurrencies use various timestamping schemes to "prove the validity of transactions added to the blockchain ledger without the need for a trusted third party".
+blockchain: As of 2019, the Diamond Trading Company (DTC) has been involved in building a diamond trading supply chain product called Tracer.
+blockchain: In the same year, Edinburgh became "one of the first big European universities to launch a blockchain course", according to the Financial Times.
+blockchain: To distinguish between open blockchains and other peer-to-peer decentralized database applications that are not open ad-hoc compute clusters, the terminology Distributed Ledger (DLT) is normally used for private blockchains.
+blockchain: This allows the participants to verify and audit transactions independently and relatively inexpensively.
+blockchain: This framework provides legal clarity for the ownership, transfer, and use of cryptocurrencies as CERs, with the concept of "control" serving as a functional equivalent to possession for digital assets.
+blockchain: It has been argued that blockchains can foster both cooperation (i.e., prevention of opportunistic behavior) and coordination (i.e., communication and information sharing).
+blockchain: Testnets allow for the development of blockchain applications without the risk of losing funds.
+blockchain: Many universities have founded departments focusing on crypto and blockchain, including MIT, in 2017.
+blockchain: As of 2016, some businesses have been testing the technology and conducting low-level implementation to gauge blockchain's effects on organizational efficiency in their back office.
+blockchain: Within a blockchain the computation is carried out redundantly rather than in the traditional segregated and parallel manner.
+blockchain: Blockchains are typically built to add the score of new blocks onto old blocks and are given incentives to extend with new blocks rather than overwrite old blocks.
+blockchain: It's unlikely that any private blockchain will try to protect records using gigawatts of computing power — it's time-consuming and expensive." He also said, "Within a private blockchain there is also no 'race'; there's no incentive to use more power or discover blocks faster than competitors.
+blockchain: Permissioned blockchains use an access control layer to govern who has access to the network.
+blockchain: An issue in this ongoing debate is whether a private system with verifiers tasked and authorized (permissioned) by a central authority should be considered a blockchain.
+blockchain: The development, some argue, has led criminals to prioritise the use of new cryptos such as Monero.
+blockchain: As of 2015, .bit was used by 28 websites, out of 120,000 registered names.
+blockchain: Blockchain technology, such as cryptocurrencies and non-fungible tokens (NFTs), has been used in video games for monetization.
+blockchain: This may reduce friction between entities when transferring value and could subsequently open the door to a higher level of transaction automation.
+blockchain: By the early 2020s, there had not been a breakout success in video games using blockchain, as these games tend to focus on using blockchain for speculation instead of more traditional forms of gameplay, which offers limited appeal to most players.
+blockchain: Lightweight blockchains, or simplified blockchains, are more suitable for internet of things (IoT) applications than conventional blockchains.
+blockchain: These domain names can be controlled by the use of a private key, which purports to allow for uncensorable websites.
+blockchain: A blockchain is a continuously growing list of records, called blocks, which are linked and secured using cryptography.
+blockchain: Valve's prior history with gambling, specifically skin gambling, was speculated to be a factor in the decision to ban blockchain games.
+blockchain: Blockchains use various time-stamping schemes, such as proof-of-work, to serialize changes.
+blockchain: Because all early blockchains were permissionless, controversy has arisen over the blockchain definition.
+blockchain: Thanks to reliability, transparency, traceability of records, and information immutability, blockchains facilitate collaboration in a way that differs both from the traditional use of contracts and from relational norms.
+blockchain: This allows for greater control over who can access the blockchain and helps to ensure that sensitive information is kept confidential.
+blockchain: linked list data structure), with each additional block linking to the ones before it.
+blockchain: It confirms that each unit of value was transferred only once, solving the long-standing problem of double-spending.
+blockchain: The exact workings of the chain can vary based on which portions of centralization and decentralization are used.
+blockchain: In another project, the company uses blockchain technology to track the emissions of climate-relevant gases and the amount of secondary material along the supply chain for its battery cell manufacturers.
+blockchain: A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes.
+blockchain: Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree, where data nodes are represented by leaves).
+blockchain: This would also bypass a registrar's ability to suppress domains used for fraud, abuse, or illegal content.
+blockchain: Namecoin was dropped by OpenNIC in 2019, due to malware and potential other legal issues.
+blockchain: This is changing now that specialised tech companies provide blockchain tracking services, making crypto exchanges, law-enforcement and banks more aware of what is happening with crypto funds and fiat-crypto exchanges.
+blockchain: Scott Stornetta, and Dave Bayer.
+blockchain: There are already several blockchain interoperability solutions available.
+blockchain: The words block and chain were used separately in Satoshi Nakamoto's original paper, but were eventually popularized as a single word, blockchain, by 2016.
+blockchain: A key feature of smart contracts is that they do not need a trusted third party (such as a trustee) to act as an intermediary between contracting entities — the blockchain network executes the contract on its own.
+blockchain: The economist and Financial Times journalist and broadcaster Tim Harford discussed why the underlying technology might have much wider applications and the challenges that needed to be overcome.
+blockchain: Other blockchain alternatives to ICANN include The Handshake Network, EmerDNS, and Unstoppable Domains.
+blockchain: The design was implemented the following year by Nakamoto as a core component of the cryptocurrency bitcoin, where it serves as the public ledger for all transactions on the network.
+blockchain: Compared with ordinary currencies held by financial institutions or kept as cash on hand, cryptocurrencies can be more difficult for seizure by law enforcement.
+blockchain: Blockchain is also being used in peer-to-peer energy trading.
+blockchain: By design, blockchains are inherently resistant to modification of the data.
+blockchain: In the United States, for example, the 2022 amendments to the Uniform Commercial Code (UCC) introduced Article 12, which establishes "controllable electronic records" (CERs) as a new category of personal property.
+blockchain: These reforms aim to align legal standards with market practices, reducing title disputes and supporting the integration of cryptocurrencies into commercial transactions.
+blockchain: Oracle introduced a blockchain table feature in its Oracle 21c database.
+blockchain: For example, Janssen, et al.
+blockchain: Data quality is maintained by massive database replication and computational trust.
+blockchain: Byzantine fault tolerance-based proof-of-stake protocols purport to provide so called "absolute finality": a randomly chosen validator proposes a block, the rest of validators vote on it, and, if a supermajority decision approves it, the block is irreversibly committed into the blockchain.
+blockchain: In Chinese legal proceedings, blockchain technology was first accepted as a method for authenticating internet evidence by the Hangzhou Internet Court in 2019 and has since been accepted by other Chinese courts.
+blockchain: The .kred TLD also acts as an alternative to conventional cryptocurrency wallet addresses as a convenience for transferring cryptocurrency.
+blockchain: This requires a large amount of energy.
+blockchain: Blockchain games typically allow players to trade these in-game items for cryptocurrency, which can then be exchanged for money.
+blockchain: A blockchain has been described as a value-exchange protocol.
+blockchain: Fashion industry — There is an opaque relationship between brands, distributors, and customers in the fashion industry, which prevents the sustainable and stable development of the fashion industry.
+blockchain: Since each block contains information about the previous block, they effectively form a chain (viz.
+blockchain: Value tokens sent across the network are recorded as belonging to that address.
+blockchain: Each block typically contains a hash pointer as a link to a previous block, a timestamp and transaction data.
+blockchain: The technical committee has working groups relating to blockchain terminology, reference architecture, security and privacy, identity, smart contracts, governance and interoperability for blockchain and DLT, as well as standards specific to industry sectors and generic government requirements.
+blockchain: Since 2022, the block time for Ethereum is set to exactly 12 seconds, while for bitcoin it is on average 10 minutes.
+blockchain: Blockchain technology has allowed for new forms of fundraising such as initial coin offerings (ICOs) and security token offerings (STOs), also sometimes referred to as digital security offerings (DSOs).
+blockchain: Blockchain adoption requires a framework to identify the risk of exposure associated with transactions using blockchain.
+blockchain: provided a framework for analysis, and Koens & Poll pointed out that adoption could be heavily driven by non-technical factors.
+blockchain: A blockchain is a decentralized, distributed, and often public, digital ledger consisting of records called blocks that are used to record transactions across many computers so that any involved block cannot be altered retroactively, without the alteration of all subsequent blocks.
+blockchain: Private blockchains have been proposed for business use.
+blockchain: They are authenticated by mass collaboration powered by collective self-interests.
+blockchain: In cryptocurrency, this is practically when the transaction takes place, so a shorter block time means faster transactions.
+blockchain: Blockchains are secure by design and are an example of a distributed computing system with high Byzantine fault tolerance.
+blockchain: They wanted to implement a system wherein document timestamps could not be tampered with.
+blockchain: Bitcoin and many other cryptocurrencies use open (public) blockchains.
+blockchain: The need for internal audits to provide effective oversight of organizational efficiency will require a change in the way that information is accessed in new formats.
+blockchain: Authors are also asked to include a personal bitcoin address on the first page of their papers for non-repudiation purposes.
+blockchain: Early blockchains rely on energy-intensive mining nodes to validate transactions, add them to the block they are building, and then broadcast the completed block to other nodes.
+blockchain: A report from to PricewaterhouseCoopers (PwC) in 2021 said that blockchain technology had the potential to generate an annual business value of more than $3 trillion by 2030.
+blockchain: The consortium members jointly manage the blockchain network and are responsible for validating transactions.
+blockchain: Nakamoto improved the design in an important way using a Hashcash-like method to timestamp blocks without requiring them to be signed by a trusted party and introducing a difficulty parameter to stabilize the rate at which blocks are added to the chain.
+blockchain: By 2024, the bitcoin blockchain exceeded 600 GB.
+blockchain: The validity of each cryptocurrency's coins is provided by a blockchain.
+blockchain: An IMF staff discussion from 2018 reported that smart contracts based on blockchain technology might reduce moral hazards and optimize the use of contracts in general, but "no viable smart contract systems have yet emerged." Due to the lack of widespread use, their legal status was unclear.
+blockchain: Many other national standards bodies and open standards bodies are also working on blockchain standards.
+blockchain: This iterative process confirms the integrity of the previous block, all the way back to the initial block, which is known as the genesis block (Block 0).
+blockchain: Later consensus methods include proof of stake.
+blockchain: Blockchain could be used in detecting counterfeits by associating unique identifiers to products, documents and shipments, and storing records associated with transactions that cannot be forged or altered.
+blockchain: Every node in a decentralized system has a copy of the blockchain.
+blockchain: By 2022, the University of Cambridge and Digiconomist estimated that the two largest proof-of-work blockchains, bitcoin and Ethereum, together used twice as much electricity in one year as the whole of Sweden, leading to the release of up to 120 million tonnes of CO2 each year.
+blockchain: In 2017, the German bank Berenberg described blockchain as an "overhyped technology" that has had a large number of "proofs of concept", but still has major challenges, and very few success stories.
+blockchain: Whenever a peer receives a higher-scoring version (usually the old version with a single new block added) they extend or overwrite their own database and retransmit the improvement to their peers.
+blockchain: Logically, a blockchain can be seen as consisting of several layers:
+blockchain: The journal encourages authors to digitally sign a file hash of submitted papers, which are then timestamped into the bitcoin blockchain.
+blockchain: These blockchains serve as a distributed version of multiversion concurrency control (MVCC) in databases.
+blockchain: STO/DSOs may be conducted privately or on public, regulated stock exchange and are used to tokenize assets such as company shares, intellectual property, real estate, and others.
+blockchain: One advantage of consortium blockchains is that they can be more efficient and scalable than public blockchains, as the number of nodes required to validate transactions is typically smaller.
+blockchain: His first broadcast was on 29 June 2019.
+blockchain: PwC surveyed 600 business executives and determined that 84% have at least some exposure to utilizing blockchain technology.
+blockchain: To prolong the blockchain, bitcoin uses Hashcash puzzles.
+blockchain: They keep only the highest-scoring version of the database known to them.
+blockchain: A blockchain was created by a person (or group of people) using the name (or pseudonym) Satoshi Nakamoto in 2008 to serve as the public distributed ledger for bitcoin cryptocurrency transactions, based on previous work by Stuart Haber, W.
+blockchain: Although blockchain records are not unalterable, since blockchain forks are possible, blockchains may be considered secure by design and exemplify a distributed computing system with high Byzantine fault tolerance.
+blockchain: There are a number of methods that can be used to demonstrate a sufficient level of computation.
+blockchain: Treasury secretary Janet Yellen called bitcoin "an extremely inefficient way to conduct transactions", saying "the amount of energy consumed in processing those transactions is staggering".
+blockchain: In Sept, 2022, Ethereum converted from proof-of-work to proof-of-stake.
+blockchain: The first known game to use blockchain technologies was CryptoKitties, launched in November 2017, where the player would purchase NFTs with Ethereum cryptocurrency, each NFT consisting of a virtual pet that the player could breed with others to create offspring with combined traits as new NFTs.
+blockchain: Such a design facilitates robust workflow where participants' uncertainty regarding data security is marginal.
+blockchain: Some examples of consortium blockchains include Quorum and Hyperledger.
+blockchain: To assure the integrity of a block and the data contained in it, the block is usually digitally signed.
+blockchain: Based on behavioral models, Li has discussed the differences between adoption at the individual level and organizational levels.
+blockchain: Testnet coins are separate and distinct from the official mainnet coins, don't have value, and can be obtained freely from faucets.
+blockchain: The American Institute of Certified Public Accountants has outlined new roles for auditors as a result of blockchain.
+blockchain: Messages are delivered on a best-effort basis.
+blockchain: The Gartner 2019 CIO Survey reported 2% of higher education respondents had launched blockchain projects and another 18% were planning academic projects in the next 24 months.
+blockchain: Blockchain-based smart contracts are contracts that can be partially or fully executed or enforced without human interaction.
+blockchain: The decentralized blockchain may use ad hoc message passing and distributed networking.
+blockchain: The Blockchain Table in Oracle 21c database is a centralized blockchain which provide immutable feature.
+blockchain: Wegner stated that "interoperability is the ability of two or more software components to cooperate despite differences in language, interface, and execution platform".
+blockchain: Several individual IETF participants produced the draft of a blockchain interoperability architecture.
+blockchain: Transactions are broadcast to the network using the software.
+blockchain: Early concern over the high energy consumption was a factor in later blockchains such as Cardano (2017), Solana (2020) and Polkadot (2020) adopting the less energy-intensive proof-of-stake model.
+blockchain: According to Digiconomist, one bitcoin transaction required 708 kilowatt-hours of electrical energy, the amount an average U.S.
+blockchain: By the time of block completion, the included data becomes verifiable.
+blockchain: While Hashcash was designed in 1997 by Adam Back, the original idea was first proposed by Cynthia Dwork and Moni Naor and Eli Ponyatovski in their 1992 paper "Pricing via Processing or Combatting Junk Mail".
+blockchain: Consortium blockchains are commonly used in industries where multiple organizations need to collaborate on a common goal, such as supply chain management or financial services.
+blockchain: The journal covers aspects of mathematics, computer science, engineering, law, economics and philosophy that relate to cryptocurrencies.
+blockchain: One of the main objectives of a smart contract is automated escrow.
+blockchain: household consumed in 24 days.
+blockchain: New methods are required to develop audit plans that identify threats and risks.
+blockchain: In addition, contrary to the use of relational norms, blockchains do not require a trust or direct connections between collaborators.
+blockchain: According to Accenture, an application of the diffusion of innovations theory suggests that blockchains attained a 13.5% adoption rate within financial services in 2016, therefore reaching the early adopters' phase.
+blockchain: The Internal Audit Foundation study, Blockchain and Internal Audit, assesses these factors.
+blockchain: The first decentralized blockchain was conceptualized by a person (or group of people) known as Satoshi Nakamoto in 2008.
+blockchain: Each block includes the cryptographic hash of the prior block in the blockchain, linking the two.
+blockchain: Consequently, blockchain transactions are resistant to alteration because, once recorded, the data in any given block cannot be changed retroactively without altering all subsequent blocks and obtaining network consensus to accept these changes.
+blockchain: Blockchain technology can be used to create a permanent, public, transparent ledger system for compiling data on sales, tracking digital use and payments to content creators, such as wireless users or musicians.
+blockchain: The blockchain may be considered a type of payment rail.
+blockchain: There is never an absolute guarantee that any particular entry will remain in the best version of history forever.
+blockchain: Some of the largest, most known public blockchains are the bitcoin blockchain and the Ethereum blockchain.
+blockchain: Decentralized consensus has therefore been achieved with a blockchain.
+blockchain: The use of blockchain in libraries is being studied with a grant from the U.S.
+blockchain: The Institute of Internal Auditors has identified the need for internal auditors to address this transformational technology.
+blockchain: Anyone with an Internet connection can send transactions to it as well as become a validator (i.e., participate in the execution of a consensus protocol).
+blockchain: Some cryptocurrency developers are considering moving from the proof-of-work model to the proof-of-stake model.
+blockchain: Industry trade groups joined to create the Global Blockchain Forum in 2016, an initiative of the Chamber of Digital Commerce.
+blockchain: Several major publishers, including Ubisoft, Electronic Arts, and Take Two Interactive, have stated that blockchain and NFT-based games are under serious consideration for their companies in the future.
+blockchain: In 2017, IBM partnered with ASCAP and PRS for Music to adopt blockchain technology in music distribution.
+blockchain: The inaugural issue was published in December 2016.
+blockchain: The adoption rates, as studied by Catalini and Tucker (2016), revealed that when people who typically adopt technologies early are given delayed access, they tend to reject the technology.
+blockchain: The linked blocks form a chain.
+blockchain: Blockchain security methods include the use of public-key cryptography.
+blockchain: Food supply — As of 2018, Walmart and IBM were running a trial to use a blockchain-backed system for supply chain monitoring for lettuce and spinach – all nodes of the blockchain were administered by Walmart and located on the IBM cloud.
+blockchain: In 2016, The Wall Street Journal reported that the blockchain technology company Everledger was partnering with IBM's blockchain-based tracking service to trace the origin of diamonds to ensure that they were ethically mined.
+blockchain: It is secured through consensus mechanisms like Proof of Work or Proof of Stake and supports smart contracts, token transfers, and decentralized applications.
+blockchain: For example, bitcoin uses a proof-of-work system, where the chain with the most cumulative proof-of-work is considered the valid one by the network.
+blockchain: There have been several different efforts to employ blockchains in supply chain management.
+blockchain: The reason for this is accusations of blockchain-enabled cryptocurrencies enabling illicit dark market trading of drugs, weapons, money laundering, etc.
+blockchain: In a so-called "51% attack" a central entity gains control of more than half of a network and can then manipulate that specific blockchain record at will, allowing double-spending.
+blockchain: The process of understanding and accessing the flow of crypto has been an issue for many cryptocurrencies, crypto exchanges and banks.
+blockchain: Using testnets, a bug was discovered in the Bitcoin Core software that gave miners the ability to take down essential parts of the Bitcoin infrastructure (nodes) by sending a 'bad' block to the blockchain.
+blockchain: The bitcoin design has inspired other applications and blockchains that are readable by the public and are widely used by cryptocurrencies.
+blockchain: No centralized "official" copy exists and no user is "trusted" more than any other.
+blockchain: In 1992, Haber, Stornetta, and Dave Bayer incorporated Merkle trees into the design, which improved its efficiency by allowing several document certificates to be collected into one block.
+blockchain: In the context of cryptocurrencies, the blockchain serves as a public ledger for all transactions.
+blockchain: Precious commodities mining — Blockchain technology has been used for tracking the origins of gemstones and other precious commodities.
+blockchain: For use as a distributed ledger, a blockchain is typically managed by a peer-to-peer network collectively adhering to a protocol for validating new blocks.
+blockchain: Institute of Museum and Library Services.
+blockchain: Media related to Blockchain at Wikimedia Commons
+blockchain: Other blockchain designs include Hyperledger, a collaborative effort from the Linux Foundation to support blockchain-based distributed ledgers, with projects under this initiative including Hyperledger Burrow (by Monax) and Hyperledger Fabric (spearheaded by IBM).
+blockchain: In a consortium blockchain, a group of organizations come together to create and operate the blockchain, rather than a single entity.
+blockchain: A blockchain, if it is public, provides access to anyone to observe and analyse the chain data, given the know-how.
+blockchain: CryptoKitties also illustrated scalability problems for games on Ethereum when it created significant congestion on the Ethereum network in early 2018 with approximately 30% of all Ethereum transactions being for the game.
+blockchain: In September 2015, the first peer-reviewed academic journal dedicated to cryptocurrency and blockchain technology research, Ledger, was announced.
+blockchain: As of April 2018, bitcoin has the highest market capitalization.
+blockchain: Computerworld called the marketing of such privatized blockchains without a proper security model "snake oil"; however, others have argued that permissioned blockchains, if carefully designed, may be more decentralized and therefore more secure in practice than permissionless ones.
+blockchain: The first cryptocurrency was Bitcoin, which was first released as open-source software in 2009.
+blockchain: Once recorded, the data in any given block cannot be altered retroactively without the alteration of all subsequent blocks, which requires collusion of the network majority.
+blockchain: The objective of blockchain interoperability is therefore to support such cooperation among blockchain systems, despite those kinds of differences.
+blockchain: The objective is to support transferring assets from one blockchain system to another blockchain system.
+blockchain: Blockchain technology has been proposed as a way to speed up back office settlement systems.
+blockchain: For the year 2019 Gartner reported 5% of CIOs believed blockchain technology was a 'game-changer' for their business.
+blockchain: Opponents say that permissioned systems resemble traditional corporate databases, not supporting decentralized data verification, and that such systems are not hardened against operator tampering and revision.
+blockchain: One cannot join it unless invited by the network administrators.
+blockchain: One experiment suggested that a lightweight blockchain-based network could accommodate up to 1.34 million authentication processes every second, which could be sufficient for resource-constrained IoT networks.
+blockchain: This means that applications can be added to the network without the approval or trust of others, using the blockchain as a transport layer.
+blockchain: Blockchains are typically managed by a peer-to-peer (P2P) computer network for use as a public distributed ledger, where nodes collectively adhere to a consensus algorithm protocol to add and validate new transaction blocks.
+blockchain: In addition to a secure hash-based history, any blockchain has a specified algorithm for scoring different versions of the history so that one with a higher score can be selected over others.
+blockchain: In May 2018, Gartner found that only 1% of CIOs indicated any kind of blockchain adoption within their organisations, and only 8% of CIOs were in the short-term "planning or [looking at] active experimentation with blockchain".
+blockchain: In 2017, UBS opened a lab dedicated to researching how blockchain technology could be used in financial services.
+blockchain: In August 2014, the bitcoin blockchain file size, containing records of all transactions that have occurred on the network, reached 20 GB (gigabytes).
+blockchain: Compared to decentralized blockchains, centralized blockchains normally can provide a higher throughput and lower latency of transactions than consensus-based distributed blockchains.
+blockchain: The .bit TLD is not sanctioned by ICANN, instead requiring an alternative DNS root.
+blockchain: The growth of a decentralized blockchain is accompanied by the risk of centralization because the computer resources required to process larger amounts of data become more expensive.

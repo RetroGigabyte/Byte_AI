@@ -1,0 +1,292 @@
+perfect_competition: “Monopolistic Competition as a Mathematical Complication.” The Theory of Imperfect Competition: A Radical Reconstruction, Columbia Univ.
+perfect_competition: Léon Walras gave the first rigorous definition of perfect competition and derived some of its main results.
+perfect_competition: A firm that has shut down is not producing.
+perfect_competition: "Experimental methods in economics", The New Palgrave: A Dictionary of Economics, v.
+perfect_competition: If 
+  
+    
+      
+        P
+        <
+        
+          AC
+        
+      
+    
+    {\displaystyle P<{\text{AC}}}
+  
+, then the firm will exit the industry.
+perfect_competition: Frank, R., Microeconomics and Behavior 7th ed.
+perfect_competition: Because fixed costs must be paid regardless of whether a firm operates they should not be considered in deciding whether to produce or shut down.
+perfect_competition: In these scenarios, individual firms have some element of market power: Though monopolists are constrained by consumer demand, they are not price takers, but instead either price-setters or quantity setters.
+perfect_competition: Another way to state the rule is that a firm should compare the profits from operating to those realized if it shut down and select the option that produces the greater profit.
+perfect_competition: Sonnenschein (1987), "General Equilibrium with Free Entry: A Synthetic Approach to the Theory of Perfect Competition", Journal of Economic Literature, Vol.
+perfect_competition: 3, September, pp.
+perfect_competition: As it is well known, requirements for a firm's cost-curve under perfect competition is for the slope to move upwards after a certain amount is produced.
+perfect_competition: In economics, specifically general equilibrium theory, a perfect market, also known as an atomistic market, is defined by several idealizing conditions, collectively called perfect competition, or atomistic competition.
+perfect_competition: Perfect competition assumes many buyers and sellers, none of whom possess market power, so that wages and prices are determined solely by supply and demand.
+perfect_competition: In such markets, the theory of the second best proves that if one optimality condition in an economic model cannot be satisfied, it is possible that the next-best solution involves changing other variables away from the values that would otherwise be optimal.
+perfect_competition: Although a regulated firm will not have an economic profit as large as it would in an unregulated situation, it can still make profits well above a competitive firm in a truly competitive market.
+perfect_competition: However, the firm must still pay fixed costs.
+perfect_competition: Competition reduces price and cost to the minimum of the long run average costs.
+perfect_competition: The existence of economic profits in the long run depends on the prevalence of barriers to entry: these stop other firms from entering into the industry and sapping away profits, as they would in a more competitive market.
+perfect_competition: “Chapter 13: New Prospectives on Markets and Competition.” Economics Evolving: A History of Economic Thought, Princeton University Press, Princeton, NJ, 2011.
+perfect_competition: The enterprise component of normal profit is thus the profit that a business owner considers necessary to make running the business worth while: that is, it is comparable to the next best amount the entrepreneur could earn doing another job.
+perfect_competition: In order not to misinterpret this zero-long-run-profits thesis, it must be remembered that the term 'profit' is used in different ways:
+perfect_competition: For example, in the United States, Microsoft Corporation was initially convicted of breaking Anti-Trust Law and engaging in anti-competitive behavior in order to form one such barrier in United States v.
+perfect_competition: Real markets are never perfect.
+perfect_competition: Robinson, Joan.
+perfect_competition: Bell and I.
+perfect_competition: However, a firm cannot continue to incur losses indefinitely.
+perfect_competition: (The size of the fixed costs is irrelevant as it is a sunk cost.
+perfect_competition: For example, the old AT&T (regulated) monopoly, which existed before the courts ordered its breakup, had to get government approval to raise its prices.
+perfect_competition: Thus, the classical approach does not account for opportunity costs.
+perfect_competition: the rate of profit tending to coincide with the rate of interest).
+perfect_competition: price (MC = AR).
+perfect_competition: Normally, a firm that introduces a differentiated product can initially secure a temporary market power for a short while (See "Persistence" in Monopoly Profit).
+perfect_competition: Dewey, Donald.
+perfect_competition: This includes the use of predatory pricing toward smaller competitors.
+perfect_competition: Portions of the marginal cost curve below the shutdown point are not part of the 
+  
+    
+      
+        
+          SR
+        
+      
+    
+    {\displaystyle {\text{SR}}}
+  
+ supply curve because the firm is not producing any positive quantity in that range.
+perfect_competition: In the short run, equilibrium will be affected by demand.
+perfect_competition: The rule is conventionally stated in terms of price (average revenue) and average variable costs.
+perfect_competition: However, the firm still has to pay fixed cost.
+perfect_competition: (1959), "Toward a theory of price adjustment", in M.
+perfect_competition: With our choice of units the marginal utility of the amount of the factor consumed directly by the optimizing consumer is again w, so the amount supplied of the factor too satisfies the condition of optimal allocation.
+perfect_competition: The government examined the monopoly's costs to determine whether the monopoly should be able raise its price, and could reject the monopoly's application for a higher price if the cost did not justify it.
+perfect_competition: Thus, if 
+  
+    
+      
+        
+          R
+        
+        ≥
+        
+          VC
+        
+      
+    
+    {\displaystyle {\text{R}}\geq {\text{VC}}}
+  
+ then firm should operate.
+perfect_competition: One must distinguish neoclassical from non-neoclassical economists.
+perfect_competition: Neoclassical theory defines profit as what is left of revenue after all costs have been subtracted; including normal interest on capital plus the normal excess over it required to cover risk, and normal salary for managerial activity.
+perfect_competition: With lower barriers, new firms can enter the market again, making the long run equilibrium more like that of a competitive industry, with no economic profit for firms.
+perfect_competition: This is called the First Theorem of Welfare Economics.
+perfect_competition: 1, August, pp.
+perfect_competition: They are not criticizing the price taker assumption because it makes economic agents too "passive", but because it then raises the question of who sets the prices.
+perfect_competition: In theoretical models where conditions of perfect competition hold, it has been demonstrated that a market will reach an equilibrium in which the quantity supplied for every product or service, including labor, equals the quantity demanded at the current price.
+perfect_competition: This allows the firm to set a price that is higher than that which would be found in a similar but more competitive industry, allowing them economic profit in both the long and short run.
+perfect_competition: In modern conditions, the theory of perfect competition has been modified from a quantitative assessment of competitors to a more natural atomic balance (equilibrium) in the market.
+perfect_competition: Most non-neoclassical economists deny that a full flexibility of wages would ensure the full employment of labour and find a stickiness of wages an indispensable component of a market economy, without which the economy would lack the regularity and persistence indispensable to its smooth working.
+perfect_competition: He argues that, in practice, firms and labor markets are characterized by frictions, institutional constraints, and market power that violate these assumptions.
+perfect_competition: Shutting down is a short-run decision.
+perfect_competition: There are many instances in which there exist "similar" products that are close substitutes (such as butter and margarine), which are relatively easily interchangeable, so that a rise in the price of one good will cause a significant shift to the consumption of the close substitute.
+perfect_competition: "Competition", The New Palgrave: A Dictionary of Economics, Ist edition, vol.
+perfect_competition: In the 1950s, the theory was further formalized by Kenneth Arrow and Gérard Debreu.
+perfect_competition: Sandmo, Agnar.
+perfect_competition: This means that profit is calculated after the actors are compensated for their opportunity costs.
+perfect_competition: A decision to shut down means that the firm is temporarily suspending production.
+perfect_competition: The Perfect Market Economy Archived 2016-03-20 at the Wayback Machine
+perfect_competition: Perfect competition provides both allocative efficiency and productive efficiency:
+perfect_competition: Antitrust (US) or competition (elsewhere) laws were created to prevent powerful firms from using their economic power to artificially create the barriers to entry they need to protect their economic profits.
+perfect_competition: Thus, if one leaves aside risk coverage for simplicity, the neoclassical zero-long-run-profit thesis would be re-expressed in classical parlance as profits coinciding with interest in the long period (i.e.
+perfect_competition: The shutdown rule states "in the short run a firm should continue to operate if price exceeds average variable costs".
+perfect_competition: When this finally occurs, all monopoly profit associated with producing and selling the product disappears, and the initial monopoly turns into a competitive industry.
+perfect_competition: 395–99
+Novshek, W., and H.
+perfect_competition: The abandonment of price taking creates considerable difficulties for the demonstration of a general equilibrium except under other, very specific conditions such as that of monopolistic competition.
+perfect_competition: In cases where barriers are present, but more than one firm, firms can collude to limit production, thereby restricting supply in order to ensure that the price of the product remains high enough for all firms in the industry to achieve an economic profit.
+perfect_competition: A firm's price will be determined at this point.
+perfect_competition: The firm still retains its capital assets; however, the firm cannot leave the industry or avoid its fixed costs in the short run.
+perfect_competition: This equilibrium would be a Pareto optimum.
+perfect_competition: Exit is a long-term decision.
+perfect_competition: In reality, markets frequently deviate from the perfectly competitive model.
+perfect_competition: This adjustment will cause their marginal cost to shift to the left causing the market supply curve to shift inward.
+perfect_competition: In the case of contestable markets, the cycle is often ended with the departure of the former "hit and run" entrants to the market, returning the industry to its previous state, just with a lower price and no economic profit for the incumbent firms.
+perfect_competition: Laboratory experiments in which participants have significant price setting power and little or no information about their counterparts consistently produce efficient results given the proper trading institutions.
+perfect_competition: Normal profit is a component of (implicit) costs and not a component of business profit at all.
+perfect_competition: The rationale for the rule is straightforward: By shutting down a firm avoids all variable costs.
+perfect_competition: Restated, the rule is that for a firm to continue producing in the short run it must earn sufficient revenue to cover its variable costs.
+perfect_competition: Economic profit does not occur in perfect competition in long run equilibrium; if it did, there would be an incentive for new firms to enter the industry, aided by a lack of barriers to entry until there was no longer any economic profit.
+perfect_competition: (1990), A Course in Microeconomic Theory, New York: Harvester Wheatsheaf.
+perfect_competition: At this point, price equals both the marginal cost and the average total cost for each good (P = MC = AC).
+perfect_competition: (1990), "Sraffa: classical versus marginalist analysis", in K.
+perfect_competition: One requirement for this is non-increasing returns to scale (including network effects), ensuring that a monopoly doesn't push out competitors.
+perfect_competition: Indeed, if everyone is price taker, there is the need for a benevolent planner who gives and sets the prices, in other word, there is a need for a "price maker".
+perfect_competition: In a single-goods case, a positive economic profit happens when the firm's average cost is less than the price of the product or service at the profit-maximizing output.
+perfect_competition: In the absence of externalities and public goods, perfectly competitive equilibria are Pareto-efficient, i.e.
+perfect_competition: While no real market is perfect, many markets are considered to be near enough to perfect for predictions from economic theory to be reasonably accurate.
+perfect_competition: Economic profit is, however, much more prevalent in uncompetitive markets such as in a perfect monopoly or oligopoly situation.
+perfect_competition: The same is likewise true of the long run equilibria of monopolistically competitive industries and, more generally, any market which is held to be contestable.
+perfect_competition: It has been proven that if the above conditions hold, that every participant will be a price taker and will not have market power to set prices, and all sellers will operate such that their marginal costs equal their marginal revenue.
+perfect_competition: As other firms enter the market, the market supply curve will shift out, causing prices to fall.
+perfect_competition: 112–40 (reprinted 1992 by Routledge, London).
+perfect_competition: As a result, individuals are unable to significantly influence prices.
+perfect_competition: The market price will be driven down until all firms are earning normal profit only.
+perfect_competition: But if the principle of atomic balance operates in the market, then even between two equal forces perfect competition may arise.
+perfect_competition: (1981), "The 'Austrian' perspective on the crisis", in D.
+perfect_competition: Abramovitz (ed.), The Allocation of Economic Resources, Stanford: Stanford University Press, pp.
+perfect_competition: The theory of perfect competition has its roots in late-19th century economic thought.
+perfect_competition: No externalities: Costs or benefits of an activity do not affect third parties.
+perfect_competition: At this stage, the initial price the consumer must pay for the product is high, and the demand for, as well as the availability of the product in the market, will be limited.
+perfect_competition: It allows for derivation of the supply curve on which the neoclassical approach is based.
+perfect_competition: This in turn means that such kind of model has more to do with communism than capitalism.
+perfect_competition: For the short-run, the supply of some factors are assumed to be fixed and as the price of the other factors are given, costs per unit must necessarily rise after a certain point.
+perfect_competition: However, in the long-run, productive efficiency occurs as new firms enter the industry.
+perfect_competition: (2004), General Equilibrium, Capital and Macroeconomics, Cheltenham: Edward Elgar.
+perfect_competition: Microsoft; after a successful appeal on technical grounds, Microsoft agreed to a settlement with the Department of Justice in which they were faced with stringent oversight procedures and explicit requirements designed to prevent this predatory behaviour.
+perfect_competition: Kristol (eds), The Crisis in Economic Theory, New York: Basic Books, pp.
+perfect_competition: no improvement in the utility of a consumer is possible without a worsening of the utility of some other consumer.
+perfect_competition: If we try to artificially increase the number of competitors and to reduce honest local big business to small size, we will open the way for unscrupulous monopolies from outside.
+perfect_competition: Therefore, it makes the perfect competition model appropriate not to describe a decentralized "market" economy but a centralized one.
+perfect_competition: Such markets are allocatively efficient, as output will always occur where marginal cost is equal to average revenue i.e.
+perfect_competition: In perfect competition, any profit-maximizing producer faces a market price equal to its marginal cost (P = MC).
+perfect_competition: A large number of sellers and buyers – A large number of consumers with the willingness and ability to buy the product at a certain price, and a large number of producers with the willingness and ability to supply the product at a certain price.
+perfect_competition: Utility maximizing participants: Rational buyers always attempt to maximize their economic utility and sellers attempt to maximize their profit.
+perfect_competition: Perfect competition is a sufficient condition for allocative and productive efficiency, but it is not a necessary condition.
+perfect_competition: Perfect information: All consumers and producers know all prices of products and utilities they would get from owning each product.
+perfect_competition: Roberts, J.
+perfect_competition: This criterion also excludes any government intervention.
+perfect_competition: The long-run decision is based on the relationship of the price and long-run average costs.
+perfect_competition: Existing firms will react to this lower price by adjusting their capital stock downward.
+perfect_competition: Despite their similarities or disagreements about who discovered the idea, both were extremely helpful in allowing firms to understand better how to center their goods around the wants of the consumer to achieve the highest amount of revenue possible.
+perfect_competition: 1/2, Jan.–Apr., pp.
+perfect_competition: A simple proof assuming differentiable utility functions and production functions is the following.
+perfect_competition: There may be many competitors in the market, but if there is hidden collusion between them, the competition will not be maximally perfect.
+perfect_competition: Monopoly violates this optimal allocation condition, because in a monopolized industry market price is above marginal cost, and this means that factors are underutilized in the monopolized industry, they have a higher indirect marginal utility than in their uses in competitive industries.
+perfect_competition: An operating firm is generating revenue, incurring variable costs and paying fixed costs.
+perfect_competition: From a theoretical point of view, given the assumptions that there will be a tendency for continuous growth in size for firms, long-period static equilibrium alongside perfect competition may be incompatible.
+perfect_competition: (1964), "Markets with a Continuum of Traders", Econometrica, Vol.
+perfect_competition: Schefold (eds), Essays on Piero Sraffa, London: Unwin and Hyman, pp.
+perfect_competition: Kirzner, I.
+perfect_competition: However, the net effect of entry by new firms and adjustment by existing firms will be to shift the supply curve outward.
+perfect_competition: Zero transaction costs: Buyers and sellers do not incur costs in making an exchange of goods.
+perfect_competition: This includes no barriers to entry or exit (no sunk costs) and perfect factor mobility where the factors of production are perfectly mobile and costlessly, allowing workers to freely move between firms and other adjustments to changing market conditions.
+perfect_competition: Profits in the classical meaning do not necessarily disappear in the long period but tend to normal profit.
+perfect_competition: A firm will receive only normal profit in the long run at the equilibrium point.
+perfect_competition: In other words, the cost of normal profit varies both within and across industries; it is commensurate with the riskiness associated with each type of investment, as per the risk–return spectrum.
+perfect_competition: These comparisons will be made after the firm has made the necessary and feasible long-term adjustments.
+perfect_competition: It does not mean that the firm is going out of business (exiting the industry).
+perfect_competition: The critics of the assumption of perfect competition in product markets seldom question the basic neoclassical view of the working of market economies for this reason.
+perfect_competition: If market conditions improve, and prices increase, the firm can resume production.
+perfect_competition: The operating firm's profit is 
+  
+    
+      
+        
+          R
+        
+        −
+        
+          VC
+        
+        −
+        
+          FC
+        
+      
+    
+    {\displaystyle {\text{R}}-{\text{VC}}-{\text{FC}}}
+  
+.
+perfect_competition: If a government feels it is impractical to have a competitive market – such as in the case of a natural monopoly – it will sometimes try to regulate the existing uncompetitive market by controlling the price firms charge for their product.
+perfect_competition: The Austrian School insists strongly on this criticism, and yet the neoclassical view of the working of market economies as fundamentally efficient, reflecting consumer choices and assigning to each agent his contribution to social welfare, is esteemed to be fundamentally correct.
+perfect_competition: This amount is small enough to leave a sufficiently large number of firms in the field (for any given total outputs in the industry) for the conditions of perfect competition to be preserved.
+perfect_competition: Another frequent criticism is that it is often not true that in the short run differences between supply and demand cause changes in price; especially in manufacturing, the more common behaviour is alteration of production without nearly any alteration of price.
+perfect_competition: If 
+  
+    
+      
+        P
+        ≥
+        A
+        C
+      
+    
+    {\displaystyle P\geq AC}
+  
+ then the firm will not exit the industry.
+perfect_competition: "Perfectly and imperfectly competitive markets", The New Palgrave: A Dictionary of Economics, v.
+perfect_competition: When this happens, economic agents outside of the industry find no advantage to forming new firms that enter into the industry, the supply of the product stops increasing, and the price charged for the product stabilizes, settling into an equilibrium.
+perfect_competition: Imperfect competition was a theory created to explain the more realistic kind of market interaction that lies in between perfect competition and a monopoly.
+perfect_competition: New firms will continue to enter the industry until the price of the product is lowered to the point that it is the same as the average cost of producing the product, and all of the economic profit disappears.
+perfect_competition: In the short-run, perfectly competitive markets are not necessarily productively efficient, as output will not always occur where marginal cost is equal to average cost (MC = AC).
+perfect_competition: (McGraw-Hill) ISBN 978-0-07-126349-8.
+perfect_competition: Classical economists on the contrary define profit as what is left after subtracting costs except interest and risk coverage.
+perfect_competition: Press, New York, NY, 1969.
+perfect_competition: Once risk is accounted for, long-lasting economic profit in a competitive market is thus viewed as the result of constant cost-cutting and performance improvement ahead of industry competitors, allowing costs to be below the market-set price.
+perfect_competition: The real estate market is an example of a very imperfect market.
+perfect_competition: Garegnani, P.
+perfect_competition: In circumstances of perfect competition, only normal profits arise when the long run economic equilibrium is reached; there is no incentive for firms to either enter or leave the industry.
+perfect_competition: (1998), Post-Keynesian Price Theory, Cambridge: Cambridge University Press.
+perfect_competition: Some economists have a different kind of criticism concerning perfect competition model.
+perfect_competition: “Chapter 16.” The Theory of Imperfect Competition, 2nd ed.
+perfect_competition: If the cost of changing a firm's manufacturing process to produce the substitute is also relatively "immaterial" in relationship to the firm's overall profit and cost, this is sufficient to ensure that an economic situation isn't significantly different from a perfectly competitive economic market.
+perfect_competition: Homogeneous products: The products are perfect substitutes for each other (i.e., the qualities and characteristics of a market good or service do not vary between different suppliers).
+perfect_competition: Particularly if enterprise is not included as a factor of production, it can also be viewed a return to capital for investors including the entrepreneur, equivalent to the return the capital owner could have expected (in a safe investment), plus compensation for risk.
+perfect_competition: Profit can, however, occur in competitive and contestable markets in the short run, as firms jostle for market position.
+perfect_competition: In a perfectly competitive market, the demand curve facing a firm is perfectly elastic.
+perfect_competition: If 
+  
+    
+      
+        
+          R
+        
+        <
+        
+          VC
+        
+      
+    
+    {\displaystyle {\text{R}}<{\text{VC}}}
+  
+ the firm should shut down.
+perfect_competition: In the long run, both demand and supply of a product will affect the equilibrium in perfect competition.
+perfect_competition: This implies that a factor's price equals the factor's marginal revenue product.
+perfect_competition: A firm that is shut down is generating zero revenue and incurring no variable costs.
+perfect_competition: Acemoglu (2023) views perfect competition primarily as a theoretical benchmark and emphasizes that real-world markets are rarely perfectly competitive.
+perfect_competition: With this terminology, if a firm is earning abnormal profit in the short term, this will act as a trigger for other firms to enter the market.
+perfect_competition: The issue is different with respect to factor markets.
+perfect_competition: This was, for example, John Maynard Keynes's opinion.
+perfect_competition: In the long run, the firm will have to earn sufficient revenue to cover all its expenses and must decide whether to continue in business or to leave the industry and pursue profits elsewhere.
+perfect_competition: On this few economists, it would seem, would disagree, even among the neoclassical ones.
+perfect_competition: In the long run a firm operates where marginal revenue equals long-run marginal costs.
+perfect_competition: So the firm's profit equals fixed costs or 
+  
+    
+      
+        −
+        
+          FC
+        
+      
+    
+    {\displaystyle -{\text{FC}}}
+  
+.
+perfect_competition: This is also the reason why a monopoly does not have a supply curve.
+perfect_competition: Well defined property rights: These determine what may be sold, as well as what rights are conferred on the buyer.
+perfect_competition: Here the acceptance or denial of perfect competition in labour markets does make a big difference to the view of the working of market economies.
+perfect_competition: (1967), "A note on the history of perfect competition", Journal of Political Economy, vol.
+perfect_competition: For the former, absence of perfect competition in labour markets, e.g.
+perfect_competition: Bharadwaj and B.
+perfect_competition: McNulty, P.
+perfect_competition: It represents all the opportunity cost, as the time that the owner spends running the firm could be spent on running a different firm.
+perfect_competition: A firm that has exited an industry has avoided all commitments and freed all capital for use in more profitable enterprises.
+perfect_competition: The economic profit is equal to the quantity of output multiplied by the difference between the average cost and the price.
+perfect_competition: Incumbent firms within the industry face losing their existing customers to the new firms entering the industry, and are therefore forced to lower their prices to match the lower prices set by the new firms.
+perfect_competition: If the firm decides to operate, the firm will continue to produce where marginal revenue equals marginal costs because these conditions insure not only profit maximization (loss minimization) but also maximum contribution.
+perfect_competition: Those economists who believe in perfect competition as a useful approximation to real markets may classify those as ranging from close-to-perfect to very imperfect.

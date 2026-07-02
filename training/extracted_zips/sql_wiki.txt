@@ -1,0 +1,102 @@
+sql: Many database vendors have large existing customer bases; where the newer version of the SQL standard conflicts with the prior behavior of the vendor's database, the vendor may be unwilling to break backward compatibility.
+sql: Distributed SQL processing ala DRDA is distinctive from contemporary distributed SQL databases.
+sql: government agencies.
+sql: In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor.
+sql: Interested parties may purchase the standards documents from ISO, IEC, or ANSI.
+sql: Some old drafts are freely available.
+sql: Chamberlin and Boyce's first attempt at a relational database language was SQUARE (Specifying Queries in A Relational Environment), but it was difficult to use due to subscript/superscript notation.
+sql: By 1986, ANSI and ISO standard groups officially adopted the standard "Database Language SQL" language definition.
+sql: Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics.
+sql: The original standard declared that the official pronunciation for "SQL" was an initialism:  ("ess cue el").
+sql: Critics argue that SQL should be replaced with a language that returns strictly to the original foundation: for example, see The Third Manifesto by Hugh Darwen and C.J.
+sql: DRDA enables network-connected relational databases to cooperate to fulfill SQL requests.
+sql: JSON support, for example, needed to be added by a new standard in 2016.
+sql: Constructed types are one of ARRAY, MULTISET, REF (reference), or ROW.
+sql: This is important for the efficient operation of application programs that issue complex, high-frequency queries.
+sql: American National Standards Institute.
+sql: Although SQL is essentially a declarative language (4GL), it also includes procedural elements.
+sql: The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, are Oracle (whose DATE behaves as DATETIME, and lacks a TIME type) and MS SQL Server (before the 2008 version).
+sql: This is an important element of SQL.
+sql: Codd in the early 1970s.
+sql: Microsoft SQL Server 2005 uses the SQLCLR (SQL Server Common Language Runtime) to host managed .NET assemblies in the database, while prior versions of SQL Server were restricted to unmanaged extended stored procedures primarily written in C.
+sql: In that model, a table is a set of tuples, while in SQL, tables and query results are lists of rows; the same row may occur multiple times, and the order of rows can be employed in queries (e.g., in the LIMIT clause).
+sql: For example, the folding of unquoted names to lower case in PostgreSQL is incompatible with the SQL standard, which says that unquoted names should be folded to upper case.
+sql: The SQL standard defines SQL/JRT extensions (SQL Routines and Types for the Java Programming Language) to support Java code in SQL databases.
+sql: Queries, which retrieve the data based on specific criteria.
+sql: Predefined data types are intrinsically supported by the implementation.
+sql: SQL statements can also be compiled and stored in remote RDBs as packages and then invoked by package name.
+sql: SQL was one of the first commercial languages to use Edgar F.
+sql: Chamberlin also briefly discusses his more recent research on XML query languages.
+sql: These were added in 1992.
+sql: Despite the existence of standards, virtually no implementations in existence adhere to it fully, and most SQL code requires at least some changes before being ported to different database systems.
+sql: An interactive user or program can issue SQL statements to a local RDB and receive tables of data and status indicators in reply from remote RDBs.
+sql: SQL is a set-based, declarative programming language, not an imperative programming language like C or BASIC.
+sql: (now Oracle Corporation) saw the potential of the concepts described by Codd, Chamberlin, and Boyce, and developed their own SQL-based RDBMS with aspirations of selling it to the U.S.
+sql: As a result, SQL code can rarely be ported between database systems without modifications.
+sql: The SQL standard defers some decisions to individual implementations, such as how to name a results column that was not named explicitly.
+sql: Users evaluating database software tend to place other factors such as performance higher in their priorities than standards conformance.
+sql: The SQL standard does not specify the database behavior in some important areas (e.g., indices, file storage), leaving implementations to decide how to behave.
+sql: The SQL standard has gone through a number of revisions:
+sql: Vendors now self-certify the compliance of their products.
+sql: Though not required on every platform, it is defined as a standard part of the SQL grammar.
+sql: Insignificant whitespace is generally ignored in SQL statements and queries, making it easier to format SQL code for readability.
+sql: In addition to the standard SQL/PSM extensions and proprietary SQL extensions, procedural and object-oriented programmability is available on many SQL platforms via DBMS integration with other languages.
+sql: PostgreSQL lets users write functions in a wide variety of languages—including Perl, Python, Tcl, JavaScript (PL/V8) and C.
+sql: Oral history interview with Donald D.
+sql: Originally based upon relational algebra and tuple relational calculus, SQL consists of many types of statements, which may be informally classed as sublanguages, commonly: data query language (DQL), data definition language (DDL), data control language (DCL), and data manipulation language (DML).
+sql: Despite not entirely adhering to the relational model as described by Codd, SQL became the most widely used database language.
+sql: The model was described in his influential 1970 paper, "A Relational Model of Data for Large Shared Data Banks".
+sql: Boyce, developed the SQL database language.
+sql: It is especially important when the tables to be accessed are located in remote systems.
+sql: The concept of Nulls enforces the 3-valued-logic in SQL, which is a concrete implementation of the general 3-valued logic.
+sql: Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the DATE or TIME data types.
+sql: Firstly, it introduced the concept of accessing many records with one single command.
+sql: Navy, Central Intelligence Agency, and other U.S.
+sql: In June 1979, Relational Software introduced one of the first commercially available implementations of SQL, Oracle V2 (Version2) for VAX computers.
+sql: Until 1996, the National Institute of Standards and Technology (NIST) data-management standards program certified SQL DBMS compliance with the SQL standard.
+sql: After testing SQL at customer test sites to determine the usefulness and practicality of the system, IBM began developing commercial products based on their System R prototype, including System/38, SQL/DS, and IBM Db2, which were commercially available in 1979, 1981, and 1983, respectively.
+sql: New versions of the standard were published in 1989, 1992, 1996, 1999, 2003, 2006, 2008, 2011, 2016 and, most recently, 2023.
+sql: Boyce after learning about the relational model from Edgar F.
+sql: The lack of sum types has been described as a roadblock to full use of SQL's user-defined types.
+sql: The Null marker indicates the absence of a value, and is distinct from a value of 0 for an integer column or an empty string for a text column.
+sql: ISO/IEC 9075 is complemented by ISO/IEC 13249: SQL Multimedia and Application Packages and some Technical reports.
+sql: Chamberlin Charles Babbage Institute In this oral history Chamberlin recounts his early life, his education at Harvey Mudd College and Stanford University, and his work on relational database technology.
+sql: Chamberlin was a member of the System R research team and, with Raymond F.
+sql: IBM's endorsement caused the industry to move to SQL from alternatives like QUEL.
+sql: However, the standard's specification of the semantics of language constructs is less well-defined, leading to ambiguity.
+sql: Regardless, many English-speaking database professionals (including Donald Chamberlin himself) use the acronym-like pronunciation of  ("sequel"), mirroring the language's prerelease development name, "SEQUEL".
+sql: It is maintained by ISO/IEC JTC 1, Information technology, Subcommittee SC 32, Data management and interchange.
+sql: User-defined types are comparable to classes in object-oriented language with their own constructors, observers, mutators, methods, inheritance, overloading, overwriting, interfaces, and so on.
+sql: Introduced in the 1970s, SQL offered two main advantages over older read–write APIs such as ISAM or VSAM.
+sql: Below are proposed relational alternatives to the SQL language.
+sql: In the late 1970s, Relational Software, Inc.
+sql: This version, initially called SEQUEL (Structured English Query Language), was designed to manipulate and retrieve data stored in IBM's original quasirelational database management system, System R, which a group at IBM San Jose Research Laboratory had developed during the 1970s.
+sql: SQL became a standard of the American National Standards Institute (ANSI) in 1986 and of the International Organization for Standardization (ISO) in 1987.
+sql: However, extensions to Standard SQL add procedural programming language functionality, such as control-of-flow constructs.
+sql: This is usually avoided by declaring a primary key, or a unique constraint, with one or more columns that uniquely identify a row in the table.
+sql: Clauses, which are constituent components of statements and queries.
+sql: X3H2 Records, 1978–1995 Charles Babbage Institute Collection documents the H2 committee's development of the NDL and SQL standards.
+sql: After moving to the San Jose Research Laboratory in 1973, they began work on a sequel to SQUARE.
+sql: Secondly, it eliminates the need to specify how to reach a record, i.e., with or without an index.
+sql: Result sets could not be named, and subqueries had not been defined.
+sql: Chamberlin and Raymond F.
+sql: predefined data types
+constructed types
+user-defined types.
+sql: The messages, protocols, and structural components of DRDA are defined by the Distributed Data Management Architecture.
+sql: It is particularly useful in handling structured data, i.e., data incorporating relations among entities and variables.
+sql: The SQL language is subdivided into several language elements, including:
+sql: See navigational database and NoSQL for alternatives to the relational model.
+sql: Since then, the standard has been revised multiple times to include a larger set of features and incorporate common extensions.
+sql: Codd's relational model.
+sql: SQL statements also include the semicolon (";") statement terminator.
+sql: Date (2006, ISBN 0-321-39942-0).
+sql: The scope of SQL includes data query, data manipulation (insert, update, and delete), data definition (schema creation and modification), and data access control.
+sql: The complexity and size of the SQL standard means that most implementers do not support the entire standard.
+sql: Thus, according to the standard, Foo should be equivalent to FOO, not foo.
+sql: The SQL standard precisely specifies the syntax that a conforming database system must implement.
+sql: PostgreSQL and Mimer SQL strive for standards compliance, though PostgreSQL does not adhere to the standard in all cases.
+sql: Little commercial incentive exists for vendors to make changing database suppliers easier (see vendor lock-in).
+sql: The original name SEQUEL, which is widely regarded as a pun on QUEL, the query language of Ingres, was later changed to SQL (dropping the vowels) because "SEQUEL" was a trademark of the UK-based Hawker Siddeley Dynamics Engineering Limited company.
+sql: The label SQL later became the acronym for Structured Query Language.
+sql: Structured Query Language (SQL) (pronounced  S-Q-L; or alternatively as   "sequel") is a domain-specific language used to manage data, especially in a relational database management system (RDBMS).

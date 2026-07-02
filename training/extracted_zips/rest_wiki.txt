@@ -1,0 +1,48 @@
+rest: The formal REST constraints are as follows:
+rest: For instance, several experimental extensions had been added to the communication protocol (HTTP) to support proxies, and more extensions were being proposed, but there was a need for a formal Web architecture with which to evaluate the impact of these changes.
+rest: At the time, only a fragmented description existed of the Web's architecture, and there was pressure within the community to agree on a standard for the Web interface protocols.
+rest: "Richardson Maturity Model: steps towards the glory of REST".
+rest: martinfowler.com.
+rest: Self-descriptive messages: Each message includes enough information to describe how to process the message.
+rest: Retrieved 2017-06-26.
+rest: For example, the server could send data from its database as HTML, XML or as JSON—none of which are the server's internal representation.
+rest: Resource identification in requests: Individual resources are identified in requests using URIs.
+rest: 805–814, doi:10.1145/1367497.1367606, ISBN 9781605580852, S2CID 207167438
+Ferreira, Otavio (Nov 2009), Semantic Web Services: A RESTful Approach, IADIS, ISBN 978-972-8924-93-5
+Fowler, Martin (2010-03-18).
+rest: Any such request will in turn receive the representation of a resource, and so on.
+rest: This means that those identifiers can change without the need to inform the client beforehand and that client and server must be inherently loosely coupled.
+rest: It simplifies and decouples the architecture, which enables each part to evolve independently.
+rest: He also surveyed many existing architectural styles for network-based applications, identifying which features are shared with other styles, such as caching and client–server features, and those which are unique to REST, such as the concept of resources.
+rest: There is no need for the client to be hard-coded with information regarding the structure of the server.
+rest: REST defines a set of constraints for how the architecture of a distributed, Internet-scale hypermedia system, such as the Web, should behave.
+rest: The REST architectural style emphasizes uniform interfaces, independent deployment of components, the scalability of interactions between them, and creating a layered architecture to promote caching to reduce user-perceived latency, enforce security, and encapsulate legacy systems.
+rest: It means that a server will respond with the representation of a resource (today, it will most often be an HTML document) and that resource will contain hypermedia links that can be followed to make the state of the system change.
+rest: "big"' web services", Proceedings of the 17th international conference on World Wide Web, pp.
+rest: An important consequence is that the only identifier that needs to be known is the identifier of the first resource requested, and all other identifiers will be discovered.
+rest: The four constraints for this uniform interface are:
+rest: The constraints of the REST architectural style affect the following architectural properties:
+rest: For example, Fielding identified the embedding of session information in URIs as a violation of the constraints of REST which can negatively affect shared caching and server scalability.
+rest: As access proceeds, the server responds with text that includes hyperlinks to other resources that are currently available.
+rest: The Web began to enter everyday use in 1993–1994, when websites for general use started to become available.
+rest: Mismatches can occur due to ignorance or oversight, but the existence of the REST architectural style means that they can be identified before they become standardised.
+rest: By their nature, architectural styles are independent of any specific implementation, and while REST was created as part of the development of the Web standards, the implementation of the Web does not obey every constraint in the REST architectural style.
+rest: The W3C and IETF working groups together started work on creating formal descriptions of the Web's three primary standards: URI, HTTP, and HTML.
+rest: Fielding defined REST in his 2000 PhD dissertation "Architectural Styles and the Design of Network-based Software Architectures" at UC Irvine.
+rest: Resource manipulation through representations: When a client holds a representation of a resource, including any metadata attached, it has enough information to modify or delete the resource's state.
+rest: For example, which parser to invoke can be specified by a media type.
+rest: To create the REST architectural style, Fielding identified the requirements that apply when creating a world-wide network-based application, such as the need for a low entry barrier to enable global adoption.
+rest: But more than that, it is designed for Internet-scale usage, so the coupling between the user agent (client) and the origin server must be as loose as possible to facilitate large-scale adoption.
+rest: Performance in component interactions, which can be the dominant factor in user-perceived performance and network efficiency;
+Scalability allowing the support of large numbers of components and interactions among components;
+Simplicity of a uniform interface;
+Modifiability (a.k.a.
+rest: REST has been employed throughout the software industry to create stateless, reliable, web-based applications.
+rest: REST (Representational State Transfer) is a software architectural style that was created to describe the design and guide the development of the architecture for the World Wide Web.
+rest: HTTP cookies also violate REST constraints because they can become out of sync with the browser's application state, making them unreliable; they also contain opaque data that can be a concern for privacy and security.
+rest: When these constraints are applied to the system architecture, it gains desirable non-functional properties, such as performance, scalability, simplicity, modifiability, visibility, portability, and reliability.
+rest: Fielding was trying to both categorise the existing architecture of the current implementation and identify which aspects should be considered central to the behavioural and performance requirements of the Web.
+rest: The resources themselves are conceptually separate from the representations that are returned to the client.
+rest: the Richardson Maturity Model
+the Classification of HTTP-based APIs
+the W S3 maturity model

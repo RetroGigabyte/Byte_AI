@@ -1,0 +1,90 @@
+cloud_storage: This is comparable in certain respects to direct attached storage (DAS) or a storage area network (SAN).
+cloud_storage: This rating was based on ability to execute in market and innovation vision.
+cloud_storage: For example, in cloud based architecture, data is replicated and moved frequently so the risk of unauthorized data recovery increases dramatically.
+cloud_storage: Cloud storage services can be used from an off-premises service (Amazon S3) or deployed on-premises (ViON Capacity Services).
+cloud_storage: The physical storage spans multiple servers (sometimes in multiple locations), and the physical environment is typically owned and managed by a cloud computing provider.
+cloud_storage: The resources used to produce large data centers, especially those needed to power them, are causing nations to drastically increase their energy production.
+cloud_storage: Cloud storage can be mapped as a local drive with the WebDAV protocol.
+cloud_storage: It increases the number of networks over which the data travels.
+cloud_storage: Examples of file storage services include Amazon Elastic File System (EFS) and Qumulo Core, used for applications that need access to shared files and require a file system.
+cloud_storage: Instead, eligible users may receive credits as outlined in the corresponding SLA.
+cloud_storage: These cloud storage providers are responsible for keeping the data available and accessible, and the physical environment secured, protected, and running.
+cloud_storage: Decryption keys that are kept by the service user, as opposed to the service provider, limit access to data by service provider employees.
+cloud_storage: By sharing storage and networks with many other users/customers it is possible for other customers to access your data.
+cloud_storage: To overcome that, key-aggregate cryptosystem can be used.
+cloud_storage: As of 2024, Gartner ranked cloud storage platforms as follows: AWS, Google, Microsoft, Oracle, Alibaba, IBM, Huawei and Tencent.
+cloud_storage: Also, he explained that they expect much of the internal AI workload to run on Alibaba Cloud.
+cloud_storage: Additionally, hybrid cloud storage can provide organizations with greater redundancy and fault tolerance, as data is stored in both on-premises and cloud storage infrastructure.
+cloud_storage: Cloud storage services may be accessed through a colocated cloud computing service, a web service application programming interface (API) or by applications that use the API, such as cloud desktop storage, a cloud storage gateway or Web-based content management systems.
+cloud_storage: Encryption at rest protects data that is stored at the service provider.
+cloud_storage: This can lead to further climate damaging implications.
+cloud_storage: There are several benefits to using hybrid cloud storage, including the ability to cache frequently used data on-site for quick access, while inactive cold data is stored off-site in the cloud.
+cloud_storage: There are three types of cloud storage: a hosted object storage service, file storage, and block storage.
+cloud_storage: Typically, customers bear the responsibility of monitoring SLA compliance and must file claims for any unmet SLAs within a designated timeframe.
+cloud_storage: The risk of having data read during transmission can be mitigated through encryption technology.
+cloud_storage: Customers should be aware of how deviations from SLAs are calculated, as these parameters may vary by other services offered within the same provider.
+cloud_storage: In cases of service interruptions due to hardware failures in the cloud provider, service providers typically do not offer monetary compensation.
+cloud_storage: The on-premises storage is usually managed by the organization, while the public cloud storage provider is responsible for the management and security of the data stored in the cloud.
+cloud_storage: Data centers will also be expanding, and AI models like Qwen.
+cloud_storage: In 2023, 80% of China's technology companies and half of AI LLM companies ran on Alibaba Cloud while in the US dominance belonged to AWS with 31 to 50% share.
+cloud_storage: It can function as a central file server for organizations with multiple office locations.
+cloud_storage: The legal aspect, from a regulatory compliance standpoint, is of concern when storing files domestically and especially internationally.
+cloud_storage: The cloud storage gateway transparently transfers the data to and from the cloud storage service, providing low latency access to the data through a local cache.
+cloud_storage: When data has been distributed it is stored at more locations increasing the risk of unauthorized physical access to the data.
+cloud_storage: In 1983, CompuServe offered its consumer users a small amount of disk space that could be used to store any files they chose to upload.
+cloud_storage: The manner that data is replicated depends on the service level a customer chooses and on the service provided.
+cloud_storage: In 1994, AT&T launched PersonaLink Services, an online platform for personal and business communication and entrepreneurship.
+cloud_storage: Because the cloud holds data from many different users and organizations, hackers see it as a very valuable target.
+cloud_storage: Hybrid cloud storage is a term for a storage infrastructure that uses a combination of on-premises storage resources with cloud storage.
+cloud_storage: Alibaba's CEO, Eddie Wu, describes the amount spent as the largest to date on cloud and AI.
+cloud_storage: Cloud storage can be used as natural disaster proof backup, as normally there are 2 or 3 different backup servers located in different places around the globe.
+cloud_storage: Encryption in transit protects data as it is being transmitted to and from the cloud service.
+cloud_storage: Exclusions typically include planned maintenance, downtime resulting from external factors such as network issues, human errors like misconfigurations, natural disasters, force majeure events, or security breaches.
+cloud_storage: Reliability should be based on hardware as well as various algorithms used.
+cloud_storage: Crypto-shredding can be used when disposing of data (on a disk).
+cloud_storage: Licklider in the 1960s with his work on ARPANET to connect people and data from anywhere at any time.
+cloud_storage: Hybrid cloud storage can be implemented by an on-premises cloud storage gateway that presents a file system or object storage interface that users can access in the same way they would access a local storage system.
+cloud_storage: Sometimes because of erroneous actions, faulty equipment, a bug and sometimes because of criminal intent.
+cloud_storage: There are several options available to avoid security issues.
+cloud_storage: In addition, cloud storage can be used to move virtual machine images between user accounts or between data centers.
+cloud_storage: For instance, the U.S.
+cloud_storage: Businesses using cloud storage can cut their energy consumption by up to 70% making them a more green business.
+cloud_storage: For example, the CodexCloud ebook storage site has faced litigation from the owners of the intellectual property uploaded and shared there, as have the Grooveshark and YouTube sites it has been compared to.
+cloud_storage: Cloud storage is a rich resource for both hackers and national security agencies.
+cloud_storage: Instead of just a local area network (LAN) or storage area network (SAN), data stored on a cloud requires a WAN (wide area network) to connect them both.
+cloud_storage: Cloud storage is a model of computer data storage in which data, said to be on "the cloud", is stored remotely in logical pools and is accessible to users over a network, typically the Internet.
+cloud_storage: This can save space, reduce storage costs and improve performance.
+cloud_storage: Additionally, SLA percentages and conditions can differ across various services within the same provider, with some services lacking any SLA altogether.
+cloud_storage: These requirements can place a considerable burden on customers.
+cloud_storage: Cloud storage is:
+cloud_storage: Cloud storage provides users with immediate access to a broad range of resources and applications hosted in the infrastructure of another organization via a web service interface.
+cloud_storage: Security of stored data and data in transit may be a concern when storing sensitive data at a cloud storage provider.
+cloud_storage: A block storage service like Amazon Elastic Block Store (EBS) is used for other enterprise applications like databases and often requires dedicated, low latency storage for each host.
+cloud_storage: In either case, hybrid cloud storage can provide organizations with greater flexibility and scalability than traditional on-premises storage infrastructure.
+cloud_storage: Storage availability and data protection are intrinsic to object storage architecture, so depending on the application, the additional technology, effort and cost to add availability and protection can be eliminated.
+cloud_storage: Another option is to ingest data in an encrypted format where the key is held within the on-premise infrastructure.
+cloud_storage: To this end, access is often by use of on-premise cloud storage gateways that have options to encrypt the data prior to transfer.
+cloud_storage: Cloud storage is based on highly virtualized infrastructure and is like broader cloud computing in terms of interfaces, near-instant elasticity and scalability, multi-tenancy, and metered resources.
+cloud_storage: As for sharing multiple data in the cloud with multiple users, a large number of keys has to be distributed to users via secure channels for decryption, also it has to be securely stored and managed by the users in their devices.
+cloud_storage: This risk applies to all types of storage and not only cloud storage.
+cloud_storage: This does not mean that cloud storage is less expensive, only that it incurs operating expenses rather than capital expenses.
+cloud_storage: People and organizations buy or lease storage capacity from the providers to store user, organization, or application data.
+cloud_storage: One option is to use a private cloud instead of a public cloud.
+cloud_storage: In 2026, Alibaba is scheduled to spend more than 300 million yuan, about $52 billion, on artificial intelligence and cloud infrastructure over the next three years, a figure much larger than the amount spent the previous year.
+cloud_storage: Storing these keys requires rather expensive secure storage.
+cloud_storage: These account for 97% of the global cloud services market.
+cloud_storage: Alibaba Cloud is another example of object storage services or OSS that is fully managed, scalable, secure, and cost-effective cloud storage that is made for storing and accessing large amounts of unstructured data, similar to Amazon S3 and Microsoft Azure Storage.
+cloud_storage: The number of people with access to the data who could be compromised (e.g., bribed, or coerced) increases dramatically.
+cloud_storage: Hybrid cloud storage can be used to supplement an organization's internal storage resources, or it can be used as the primary storage infrastructure.
+cloud_storage: Encrypting data in an on-premises cloud service on-ramp system can provide both kinds of encryption protection.
+cloud_storage: Alibaba Cloud was launched in September 2009, three years after AWS.
+cloud_storage: Cloud storage can be used for copying virtual machine images from the cloud to on-premises locations or to import a virtual machine image from an on-premises location to the cloud image library.
+cloud_storage: When encryption is in place it can ensure confidentiality.
+cloud_storage: Such as in the case of disposal of old equipment, reuse of drives, and reallocation of storage space.
+cloud_storage: Spending will include specific items such as GPU-like accelerators and large-scale data centers to support internal workloads and external client functions, underscoring Alibaba's pivot from e-commerce to cloud infrastructure.
+cloud_storage: Storage maintenance tasks, such as purchasing additional storage capacity, are offloaded to the responsibility of a service provider.
+cloud_storage: In 2005, Box announced an online file sharing and personal cloud content management service for businesses.
+cloud_storage: Each of these cloud storage types offer their own unique advantages.
+cloud_storage: OSS supports bucket-based storage, global access and high durability, making it a standard cloud object storage platform.
+cloud_storage: This storage is often supported with a Network Attached Storage (NAS) server, used for large content repositories, development environments, media stores, or user home directories.
+cloud_storage: Outsourcing data storage increases the attack surface area.

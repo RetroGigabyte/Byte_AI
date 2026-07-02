@@ -1,0 +1,156 @@
+salesforce: As of 2026, no public record of a resolution to this case has been reported.
+salesforce: Additional technologies include Slack.Salesforce also offers a free CRM for small teams of up to two people.
+salesforce: In 2012, Salesforce acquired Buddy Media, a social media marketer, for $689 million, and GoInstant, a browser collaboration startup, for $70 million.
+salesforce: The decision contrasted with Benioff's earlier remarks suggesting that artificial intelligence would augment, rather than replace, white-collar workers.
+salesforce: Rypple became known as Work.com in 2012.
+salesforce: In 2013, Salesforce acquired ExactTarget, an email marketer, for $2.5 billion.
+salesforce: According to Benioff, the company hired too aggressively during the COVID-19 pandemic and the increase in working from home led to the layoff.
+salesforce: Beginning in 2015, the "Lightning Components" framework has been supported.
+salesforce: The incident led to a public rebuke from co-founder Parker Harris, who stated he was "not OK" with the remarks.
+salesforce: The deal was completed ahead of the original early-2026 target.
+salesforce: As of March 2026, Salesforce has a market capitalization of approximately US$186 billion.
+salesforce: As of 2014, the Force.com platform had 1.5 million registered developers according to Salesforce.
+salesforce: For fiscal year 2026 (ending January 31, 2026), the company reported record annual revenue of $41.5 billion.
+salesforce: In September 2014, SFV set up Salesforce1 Fund, aimed at start-ups creating applications primarily for mobile phones.
+salesforce: In January 2024, Salesforce announced it was laying off 700 of its global staff.
+salesforce: In November 2025, Salesforce announced the successful completion of its acquisition of Informatica for approximately $8 billion in equity value.
+salesforce: In 2010, Salesforce acquired multiple companies, including Jigsaw, a cloud-based data service provider, for $142 million, Heroku, a Ruby application platform-as-a-service, for $212 million, and Activa Live Chat, a live chat software provider.
+salesforce: Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California.
+salesforce: In 2013, Salesforce and Oracle announced a nine-year partnership focusing on applications, platforms, and infrastructure.
+salesforce: Salesforce Japan reportedly failed to meet this threshold from 2009 to 2021 (except in 2017) and did not report the number of disabled employees to labor officials in 2020.[174] The firm declined to comment on the suit to the media.
+salesforce: In 2016, Salesforce acquired Demandware, a cloud-based provider of e-commerce services, for $2.8 billion and Quip, a word processing app, for $750 million.
+salesforce: In March 2026, company president Robin Washington held a town hall to address "internal tensions" and the resulting leaks to the press regarding the incident.
+salesforce: Heroku immediately revoked all affected tokens and notified customers to update their credentials.
+salesforce: Other services include app creation, data integration and visualization, and training.
+salesforce: Customs and Border Protection.
+salesforce: By February 2026, Salesforce reported that Informatica had already begun contributing significantly to its financial results, including nearly $400 million in revenue during the fourth quarter of fiscal year 2026.
+salesforce: Salesforce also made smaller acquisitions between 2020 and 2021, including consulting firm Acumen Solutions for $570 million, CRM firm Vlocity for $1.33 billion, privacy compliance startup Phennecs for $16.5 million, and robotic process automation firm Servicetrace.
+salesforce: In February 2021, Weaver, previously the chief legal officer, became CFO, where she served until stepping down in August 2024.
+salesforce: Salesforce acquired the visual analytics and business intelligence software platform Tableau in August 2019 for $15.7 billion.
+salesforce: In 2008, Salesforce acquired Instranet for $31.5 million.
+salesforce: Salesforce released another major security advisory linking a "known threat group", believed to be ShinyHunters, to exploiting misconfigurations in their Salesforce Experience Cloud software.
+salesforce: Prior negotiations in 2024 failed due to disagreements over valuation and deal structure.
+salesforce: Their findings were published in a report based on the 379 Fortune 500 companies that declared a profit in 2018.
+salesforce: In 2012, Salesforce announced plans to build a data center in the UK to handle European citizens' personal data.
+salesforce: In March 2024, Salesforce launched Einstein Copilot: Health Actions, an assistant based on its earlier artificial intelligence platform Einstein.
+salesforce: In 2021, Salesforce announced that its investments had resulted in a $2.17 billion annual gain.
+salesforce: Because the Dow Jones factors its components by market price, Salesforce was the largest technology component of the index at its accession.
+salesforce: The deal strengthens Salesforce's data integration and governance capabilities across its platform ecosystem.
+salesforce: The hacking group claimed responsibility for these data theft attacks and issued a warning to affected Salesforce customers to pay up or their data would be leaked.
+salesforce: In 2019, Salesforce completed its acquisition of analytics software company Tableau for $15.7 billion.
+salesforce: Salesforce is headquartered in San Francisco in the Salesforce Tower.
+salesforce: In November 2022, Salesforce announced it would terminate some employees from its sales team.
+salesforce: The first prototype of Salesforce was launched in November 1999.
+salesforce: A Salesforce employee's credentials were stolen through social engineering.
+salesforce: The Apex language and compiler were initially designed by Craig Weissman.
+salesforce: These applications are hosted on Salesforce.com infrastructure.
+salesforce: In September 2024, Salesforce acquired data management firm Own for $1.9 billion, and enterprise management platform Zoomin.
+salesforce: In August 2020, S&P Dow Jones Indices announced that Salesforce would replace ExxonMobil in the Dow Jones Industrial Average.
+salesforce: Founded by former Oracle executive Marc Benioff in March 1999, Salesforce grew quickly, making its initial public offering in 2004.
+salesforce: Salesforce launched a suite of features called Salesforce Foundations in September 2024, bundling connected functionality across department-specific Sales Cloud and Service Cloud products.
+salesforce: Salesforce CEO Marc Benioff said in a June 2025 interview that artificial intelligence performed between 30% and 50% of internal work at Salesforce, including functions such as software engineering, customer service, marketing, and analytics.
+salesforce: In June 2023, Salesforce increased the size of its Generative AI Fund for startups from $250 million to $500 million, and in September 2024 to $1 billion.
+salesforce: When asked about departures, Benioff stated, "people come and people go." Following these executive transitions, Salesforce's stock declined significantly, with market analysts attributing the decline to concerns about leadership stability and strategic continuity.
+salesforce: In December 2020, Salesforce announced its acquisition of Slack for $27.7 billion, the largest in company history; the deal closed in July 2021.
+salesforce: The company is a component of the Dow Jones Industrial Average (since 2020) and the S&P 500.
+salesforce: The purchase price represented a 54% premium over Slack's closing market capitalization at the announcement date, valued at approximately $18 billion.
+salesforce: In 2003, Salesforce held its first annual Dreamforce conference in San Francisco.
+salesforce: Salesforce launched the Sustainability Cloud (Net Zero Cloud as of 2022), which is used by companies to track progress towards achieving their net zero emissions goals.
+salesforce: The hacking group claimed to have breached about 400 companies.
+salesforce: Force.com applications are built using Apex, a proprietary Java-like programming language, to generate HTML originally via the "Visualforce" framework.
+salesforce: In March 2024, the case was dismissed without prejudice, meaning the plaintiffs could potentially refile their claims in the future.
+salesforce: In December 2018, Salesforce Ventures announced the launch of the Japan Trailblazer Fund, focused on Japanese startups.
+salesforce: In September 2024, the US Court of Appeals for the Ninth Circuit denied a motion to reverse the dismissal.
+salesforce: The terminated employees called on the company to open-source the software after being dismissed.
+salesforce: That same month, Salesforce announced its co-CEO and vice chair, Bret Taylor, would be stepping down from his roles at the end of January 2023, with Benioff continuing to run the company and serve as board chair.
+salesforce: In 2014, Salesforce acquired RelateIQ, a data company, for $390 million.
+salesforce: In June 2004, the company had its initial public offering on the New York Stock Exchange (under the stock symbol CRM) and raised US$110 million.
+salesforce: Salesforce stated the incident resulted from human manipulation rather than a software vulnerability in its platform.
+salesforce: Also, in 2009, the company launched Service Cloud, an application that helps companies manage service conversations about their products and services.
+salesforce: This enables the use of chatbots within its software.
+salesforce: In 2014, the company released Trailhead, a free online learning platform for its products.
+salesforce: In 2015, Salesforce acquired multiple companies for undisclosed sums, including Toopher, a mobile authentication company, Tempo, an AI calendar app, and MinHash, an AI platform.
+salesforce: The comments generated significant controversy for Benioff and Salesforce, including push-back from San Francisco mayor Daniel Lurie and District Attorney Brooke Jenkins and the resignation of Ron Conway from the Salesforce Foundation board.
+salesforce: Salesforce licensed the right to use Albert Einstein's image and likeness from the Einstein Estate under a 20-year agreement for $20 million, restricted to business software applications.
+salesforce: In 2006, Salesforce launched Idea Exchange, a platform that allows customers to connect with company product managers.
+salesforce: Immigration and Customs Enforcement (ICE).
+salesforce: In 2007, Koral, a content management service, was acquired.
+salesforce: In 2011, Salesforce acquired Dimdim, a web conferencing platform, for $31 million, Radian6, a social media tracking company, for $340 million, and Rypple, a performance management software company.
+salesforce: Salesforce also gained notability during this period for its "the end of software" tagline and marketing campaign, and even hired actors to hold up signs with its slogan outside a Siebel Systems conference.
+salesforce: Salesforce has 110 offices, including offices in Hong Kong, Tel Aviv, London, Paris, Sydney and Tokyo.
+salesforce: RAICES stated that accepting funds from a company supporting immigration enforcement conflicted with its mission to advocate for immigrant and refugee rights.
+salesforce: Benioff subsequently apologized for his National Guard comments.
+salesforce: In 2018, Salesforce acquired several companies, including MuleSoft, a cloud service company, for $6.5 billion, as well as Rebel, an email services provider, and Datorama, an AI marketing platform.
+salesforce: Salesforce's acquired Slack-bot maker Troops.ai in July 2022.
+salesforce: In 2021, Cynthia Perry, a design research senior manager, publicly resigned from Salesforce alleging workplace discrimination related to diversity and inclusion practices and posting her resignation letter on LinkedIn.
+salesforce: In July 2021, a former Salesforce Japan employee sued the company in Tokyo District Court, alleging discrimination based on disabilities (autism and ADHD), including denial of reasonable workplace accommodations.
+salesforce: ShinyHunters/UNC6395 threat actors compromised another OAuth and refresh tokens through Gainsight integration, enabling unauthorized access to Salesforce customer instances.
+salesforce: In 2017, the company acquired Sequence, a user experience design agency.
+salesforce: It can be used to assist in making appointments, referrals, and gathering patient information.
+salesforce: In October 2025, Salesforce CEO Marc Benioff declared his avid support of Donald Trump and urged him to deploy the National Guard to San Francisco as Trump was deploying federal troops to other cities.
+salesforce: The deal called for Meta's consumer application WhatsApp to integrate Salesforce's Customer 360 platform to allow consumers to communicate with companies directly.
+salesforce: The Trojan horse (computing) client functioned as a malware dropper, enabling credential theft, unauthorized access, and large-scale data exfiltration, which was subsequently used for extortion against multiple organizations.
+salesforce: Do.com was a cloud-based task management system for small groups and businesses, introduced in 2011, and discontinued in 2014.
+salesforce: Salesforce also acquired ClickSoftware for $1.35 billion in 2019.
+salesforce: It is primarily known for its customer relationship management software and related applications which it delivers through a software as a service subscription business model.
+salesforce: ShinyHunters/UNC6395 threat actors compromised OAuth and refresh tokens through the Salesloft-Drift integration, enabling unauthorized access to Salesforce customer instance.
+salesforce: Salesforce was severely affected by the dot-com bubble bursting at the beginning of the new millennium, resulting in the company laying off 20% of its workforce.
+salesforce: Salesforce's revenue continued to increase, moving from $5.4 million in 2000 to $22.4 million in 2001.
+salesforce: Former CFO Mark Hawkins announced that he would be retiring in October.
+salesforce: In 2019, SFV's five largest investments—Domo (data-visualization software), SurveyMonkey (online survey software), Twilio (cloud-communication), Dropbox (cloud storage), and DocuSign (secure e-signature company)—accounted for nearly half of its portfolio.
+salesforce: In December 2023, Salesforce acquired Spiff, an automated commission management platform.
+salesforce: Salesforce has also acquired PredictSpring and Tenyx in 2024.
+salesforce: In June 2026, Salesforce announced the acqusition of Contentful for a reported sum of between $1 billion and $1.5 billion.
+salesforce: In June 2026, Salesforce announced that it had signed a definitive agreement to acquire m3ter, a London-based metering and rating platform for consumption-based billing.
+salesforce: In January 2023, the company announced a layoff of about 10%, or approximately 8,000 positions.
+salesforce: In April 2022, "Salesforce.com, Inc." changed its legal name to "Salesforce, Inc."
+In August 2022, Salesforce surpassed SAP in total revenue and market capitalization to become the world's largest enterprise applications software company, according to industry analysis.
+salesforce: In September 2023, Salesforce acquired Airkit.ai, a creator of AI-powered customer service applications and experiences.
+salesforce: The next month, Salesforce announced a partnership with Meta Platforms.
+salesforce: There were around 1,300 attendees and 50 exhibitors at the conference.
+salesforce: Benioff has described this philosophy as prioritizing employee well-being and broader stakeholder relationships.
+salesforce: In November 2021, Bret Taylor was named vice chair and co-CEO of the company alongside Benioff.
+salesforce: The report attributed this to provisions in the 2017 Tax Cuts and Jobs Act of 2017 and available tax credits and deductions.
+salesforce: At that time, Japanese law required private companies to employ at least 2.3% disabled employees or pay a mandatory levy.
+salesforce: These investments became Salesforce Ventures, headed by John Somorjai.
+salesforce: In March 2021, a judge granted partial dismissal of the case, dismissing charges of negligence and conspiracy, but allowed the case to proceed regarding charges of sex trafficking.
+salesforce: In 2016, Salesforce announced that it will use Amazon Web Services hosting for countries with restrictive data residency requirements and where no Salesforce data centers are operating.
+salesforce: Salesforce confirmed the campaign abused user trust and vishing techniques, clarifying that no vulnerability in the Salesforce platform itself was exploited.
+salesforce: The cuts reportedly included staff from the Agentforce AI product team, the department responsible for the company's pivot to autonomous agents.
+salesforce: Salesforce justified the premium based on anticipated synergies from integrating Slack's messaging platform with its CRM services.
+salesforce: In 2009, Salesforce passed $1 billion in annual revenue.
+salesforce: The company had previously contracted for ICE under the Obama and Biden administrations.
+salesforce: American musician will.i.am was also cited as being on the company's payroll due to his "strong understanding of technology".
+salesforce: UNC6040 Modified Data Loader / Vishing - ShinyHunters threat actors executed a social engineering (security) campaign in which employees were persuaded to install a tampered version of Salesforce Data Loader.
+salesforce: In response, Salesforce and Salesloft revoked all affected Drift tokens and removed the application software from AppExchange pending investigation.
+salesforce: In March 2023, the Wall Street Journal reported that actor Matthew McConaughey received annual compensation of approximately $10 million as a 'creative advisor and TV pitchman.' The arrangement was disclosed amid scrutiny of executive spending during the company's major 2023 layoffs.
+salesforce: In September and October 2024, the company deployed Agentforce (succeeding Salesforce Einstein), an agentic AI.
+salesforce: The center opened in 2014.
+salesforce: Salesforce experienced significant leadership transitions between 2020 and 2021; Keith Block stepped down as co-CEO in February 2020, leaving Marc Benioff as sole chairman and CEO.
+salesforce: She alleged that her attempts to resolve the problem were met with pressure from HR and a job coach.
+salesforce: Salesforce's ascension to the Dow Jones was concurrent with that of Amgen and Honeywell.
+salesforce: Despite its losses, Salesforce held up during the early 2000s.
+salesforce: It also provides software for sales, customer service, marketing automation, e-commerce, analytics, artificial intelligence, agentic AI, and application development.
+salesforce: The ex-employee, who is autistic with ADHD, claimed she was discriminated against because of her disability and was terminated from the firm's Japanese web marketing team.
+salesforce: The suit alleged that the anonymous woman, as an employee at Salesforce Japan from 2018 to 2020, faced hate speech, microaggressions, and rejection of reasonable accommodation from the manager.
+salesforce: In response, Salesforce and Gainsight revoked all their integration apps pending further investigation.
+salesforce: The company also acquired SteelBrick, a software company, for $360 million.
+salesforce: On September 10, 2021, Benioff tweeted that the company is prepared to help any employee who wishes to move out of the state of Texas, following abortion legislation in Texas, announced on September 1, 2021.
+salesforce: The same month brought an announcement from activist investor Elliott Management that it would acquire a "big stake" in the company.
+salesforce: Two of Salesforce's earliest investors were Larry Ellison, the co-founder and first CEO of Oracle, and Halsey Minor, the founder of CNET.
+salesforce: In August 2018, Salesforce Ventures reported investments totaling over $1 billion in 275 companies, including CloudCraze (e-commerce), Figure Eight (artificial intelligence), Forter (online fraud prevention), and FinancialForce (automation software).
+salesforce: In October 2014, Salesforce announced the development of its Customer Success Platform.
+salesforce: In June 2025, Salesforce announced plans to acquire data management platform Informatica for approximately $8 billion.
+salesforce: MEATPISTOL was a Salesforce-developed exploit framework similar to (and named after) Metasploit.
+salesforce: In March 2023, Salesforce announced ChatGPT integration in Slack was available to any organization, and the launch of Einstein GPT, a generative AI service.
+salesforce: The company also reduced office space as part of the restructuring plan.
+salesforce: To date, Salesforce Ventures has invested $5 billion in companies based in 27 different countries.
+salesforce: In July, Salesforce released an AI agent with the ability to perform customer service actions, like enabling product returns or refunds.
+salesforce: Standard & Poor's added Salesforce to the S&P 500 Index in September 2008.
+salesforce: In September 2016, Salesforce announced the launch of Einstein, an artificial intelligence platform that supports several of Salesforce's cloud services.
+salesforce: That same month, Salesforce pitched the Trump administration on ways that Salesforce's AI tools could help Immigration and Customs Enforcement (ICE) triple its staff to support the administration's mass deportation campaign.
+salesforce: Some customers then received phishing emails that appeared to be invoices from Salesforce.
+salesforce: Its major acquisitions included Tableau and Slack.
+salesforce: Within the week, former Tableau CEO Mark Nelson and former Slack CEO Stewart Butterfield also announced their departures.
+salesforce: In 2020, Salesforce joined the Dow Jones Industrial Average, replacing energy giant and Standard Oil-descendant ExxonMobil.
+salesforce: Business data for Salesforce, Inc.:

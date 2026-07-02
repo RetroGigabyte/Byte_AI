@@ -1,0 +1,236 @@
+web_server: This can happen because of required or urgent maintenance or upgrade, hardware or software failures such as back-end (e.g., database) failures; in these cases the remaining web servers may get too much traffic and become overloaded.
+web_server: One or more configuration files of web server may specify the mapping of parts of URL path (e.g., initial parts of file path, filename extension and other path components) to a specific URL handler (file, directory, external program or internal module).
+web_server: Web servers that run in user-mode have to ask the system for permission to use more memory or more CPU resources.
+web_server: Tuning OS parameters for hardware capabilities and usage.
+web_server: can be freely accessed by everybody;
+requires a user authentication (request of user credentials such as user name and password);
+access is forbidden to some or all kind of users.
+web_server: Usage of dynamically generated directory listings is usually avoided or limited to a few selected directories of a website because that generation takes much more OS resources than sending a static index page.
+web_server: A web server is computer software that accepts requests via HTTP (the network protocol created to distribute web content) or its secure variant HTTPS.
+web_server: Technologies such as REST and SOAP, which use HTTP as a basis for general computer-to-computer communication, as well as support for WebDAV extensions, have extended the application of web servers well beyond their original purpose of serving human-readable pages.
+web_server: In other words, a web server should always be very responsive, even under high load of web traffic, in order to keep total user's wait (sum of browser time + network time + web server response time) for a response as low as possible.
+web_server: That kind of content is called static because usually it is not changed by the web server when it is sent to clients and because it remains the same until it is modified (file modification) by some program.
+web_server: In those years there was also another commercial web server called Zeus (now discontinued) that was known as one of the fastest and most scalable web servers available on market, at least till the first decade of 2000s, despite its low percentage of usage.
+web_server: Example of a dynamic request using a program file to generate output:
+web_server: Soon after, those programs, along with their source code, were made available to people interested in their usage.
+web_server: The wide spread adoption of RAID and fast solid-state drives (storage hardware with very high I/O speed) has slightly reduced but of course not eliminated the advantage of having a file cache incorporated in a web server.
+web_server: A processing unit can return any kind of web content, also by using data retrieved from a data repository:
+web_server: The aim is to avoid undesirable side effects when serving static web resources.
+web_server: Authorization: to be able to allow, to forbid or to authorize access to portions of website paths (web resources).
+web_server: Managing network traffic, by using:
+Firewalls to block unwanted traffic coming from bad IP sources or having bad patterns;
+HTTP traffic managers to drop, redirect or rewrite requests having bad HTTP patterns;
+Bandwidth management and traffic shaping, in order to smooth down peaks in network usage.
+web_server: The main usage of directory listings is to allow the download of files (usually when their names, sizes, modification date-times or file attributes may change randomly and frequently) as they are, without requiring to provide further information to requesting user.
+web_server: In August 1991 Tim Berners-Lee announced the birth of WWW technology and encouraged scientists to adopt and develop it.
+web_server: n) of concurrent client connections used during a test is an important parameter because it allows to correlate the concurrency level supported by web server with results of the tested performance metrics.
+web_server: See the following examples of how it may result.
+web_server: HTTP client errors, due to the type of request message or to the availability of requested web resource;
+HTTP server errors, due to internal server errors.
+web_server: In addition to this, the web server reads data sent from the external program and resends that data to the client that made the request.
+web_server: If the authorization or access-rights feature has been implemented and enabled and access to web resource is not granted, then, depending on the required access rights, a web server program:
+web_server: The web server appends the path found in requested URL (HTTP request message) and appends it to the path of the (Host) website root directory.
+web_server: URL path translation for a dynamic program request
+For a dynamic request the URL path specified by the client should refer to an existing external program (usually an executable file with a CGI) used by the web server to generate dynamic content.
+web_server: Below are the latest statistics of the market share of all sites of the top web servers on the Internet by Netcraft.
+web_server: Netcraft: news about web server survey
+web_server: At the end of 1994, a new commercial web server, named Netsite, was released with specific features.
+web_server: Path translation to file system is done for the following types of web resources:
+web_server: Using more efficient computer programs for web servers (see also: software efficiency).
+web_server: A web server can also accept and store resources sent from the user agent if configured to do so.
+web_server: This requires many other steps, including security checks.
+web_server: Modern URL mapping mechanisms analyse the structure of the requested URL and use routing rules or configuration patterns to deliver static resources, invoke dynamic handlers, or perform rewrites and redirects without directly relying on file system paths.
+web_server: The web server then reads the file, if it exists, and sends a response to the client's web browser.
+web_server: NOTE: when serving static content only, a web server program usually does not change file contents of served websites (as they are only read and never written) and so it suffices to support only these HTTP methods:
+web_server: Using the most efficient Web Server Gateway Interface to process dynamic requests (spawning one or more external programs every time a dynamic page is retrieved, kills performances).
+web_server: If web resource data is sent back to client, then it can be static content or dynamic content depending on how it has been retrieved (from a file or from the output of some program or module).
+web_server: The publication of RFCs about protocol versions HTTP/1.0 (1996) and HTTP/1.1 (1997, 1999), forced most web servers to comply (not always completely) with those standards.
+web_server: Content is usually cached by its origin:
+web_server: At the low end of the range are embedded systems, such as a router that runs a small web server as its configuration interface.
+web_server: In practice whenever there is content that may vary, depending on one or more parameters contained in client request or in configuration settings, then, usually, it is generated dynamically.
+web_server: The result is the local file system resource:
+web_server: static content:
+file cache;
+dynamic content:
+dynamic cache (module or program output).
+web_server: These are basic features that most web servers usually have.
+web_server: This statement freed web server developers from any possible legal issue about the development of derivative work based on that source code (a threat that in practice never existed).
+web_server: It was the first one of many other similar products that were developed first by Netscape, then also by Sun Microsystems, and finally by Oracle Corporation.
+web_server: /home/www/www.example.com/path/file.html
+web_server: Excess legitimate web traffic.
+web_server: Website's root directory may be specified by a configuration file or by some internal rule of the web server by using the name of the website which is the host part of the URL found in HTTP client request.
+web_server: This marked the entry, in the field of World Wide Web technologies, of a commercial developer and vendor that has played and still is playing a key role on both sides (client and server) of the web.
+web_server: Internet bots Traffic not filtered or limited on large websites with very few network resources (e.g., bandwidth) or hardware resources (CPUs, RAM, disks).
+web_server: Adding more hardware resources (i.e., RAM, fast disks) to each computer.
+web_server: After that, the web server program reads from it its data response (that it has generated, often on the fly) and then it resends it to the client program who made the request.
+web_server: URL path translation for a directory request (without a static index file)
+Example of an implicit dynamic request of an existing directory specified by the following URL:
+web_server: HTTP: support for one or more versions of HTTP protocol in order to send versions of HTTP responses compatible with versions of client HTTP requests, (e.g., HTTP/1.0, HTTP/1.1, HTTP/2, HTTP/3).
+web_server: Among the most important normalizations are the removal of "." and ".." path segments and adding trailing slashes to a non-empty path component.
+web_server: to read an HTTP request message;
+to interpret it;
+to verify its syntax;
+to identify known HTTP headers and to extract their values from them.
+web_server: In 1991–1993, CERN web server program continued to be actively developed by the www group, meanwhile, thanks to the availability of its source code and the public specifications of the HTTP protocol, many other implementations of web servers started to be developed.
+web_server: A high-traffic Internet website might handle requests with hundreds of servers that run on racks of high-speed computers.
+web_server: Anyway, in most cases those kind of caches are implemented by external servers (e.g., reverse proxy) or by storing dynamic data output in separate computers, managed by specific applications (e.g., memcached), in order to not compete for hardware resources (CPU, RAM, disks) with web servers.
+web_server: In mid-1995, the first version of IIS was released by Microsoft for Windows NT OS.
+web_server: This was a very important event because it started trans-continental web communications between web browsers and web servers.
+web_server: The hardware used to run a web server can vary according to the volume of requests that it needs to handle.
+web_server: The web server executes that program, passing in the path-info and the query string action=view&orderby=thread&date=2021-10-15 so that the program has the info it needs to run.
+web_server: An error response message may be sent because a request message could not be successfully read or decoded or analyzed or executed.
+web_server: 2%), about adding or not adding support for that new protocol version.
+web_server: A few years after 2000 started, not only other commercial and highly competitive web servers (e.g., LiteSpeed) but also many other open-source programs such as Hiawatha, Cherokee HTTP server, Lighttpd, Nginx and other derived and related products also available with commercial support emerged.
+web_server: Web server programs usually perform some type of URL normalization (URL found in most HTTP request messages) in order to:
+web_server: URL path translation for a static file request
+Example of a static request of an existing file specified by the following URL:
+web_server: Those early browsers retrieved web pages written in a simple early form of HTML from web servers using a new basic communication protocol that was named HTTP 0.9.
+web_server: Among the operating conditions, the number (1 ..
+web_server: Many of them lived only shortly and were replaced by other web servers.
+web_server: Apache resulted in the most used web server from mid-1996 to the end of 2015 when, after a few years of decline, it was surpassed initially by IIS and then by Nginx.
+web_server: a document (e.g., HTML, XML, etc.);
+an image;
+a video;
+structured data (e.g., that may be used to update one or more values displayed by a dynamic page (DHTML) of a web interface and that maybe was requested by an XMLHttpRequest API) (see also: dynamic page).
+web_server: single process or multi-process;
+single thread (no thread) or multi-thread for each process;
+usage of coroutines or not;
+...
+web_server: It may also not address overloads caused by excessively large files uploaded at high speed, because they are optimized for concurrency.
+web_server: This may not prevent overloads of RAM and CPU caused by the need for encryption.
+web_server: used to implement a web server program, can bias a lot the performances and in particular the scalability level that can be achieved under heavy load or when using high end hardware (many CPUs, disks and lots of RAM).
+web_server: The response will describe the content of the directory (list of contained subdirectories and files) or an error message will return saying that the directory does not exist or its access is forbidden.
+web_server: Computer worms that sometimes cause abnormal traffic because of millions of infected computers (not coordinated among them).
+web_server: At the end of 1996, there were already over fifty known, different web-server-software programs that were available to everybody who wanted to own an Internet domain name or to host websites.
+web_server: Not only do these requests to the kernel take time, but they might not always be satisfied because the system reserves resources for its own usage and has the responsibility to share hardware resources with all the other running applications.
+web_server: GET /path/file.html HTTP/1.1
+Host: www.example.com
+Connection: keep-alive
+web_server: Internet (network) slowdowns (e.g., due to packet losses) so that client requests are served more slowly and the number of connections increases so much that server limits are reached.
+web_server: SSI Server Side Includes, rarely used, static HTML documents containing SSI directives are interpreted by server software to include small dynamic data on the fly when pages are served (e.g., date and time, other static file contents, etc.).
+web_server: The complexity and the efficiency of a web server program may vary a lot depending on:
+web_server: Once an HTTP request message has been decoded and verified, its values can be used to determine whether that request can be satisfied or not.
+web_server: A resource sent from a web server can be a pre-existing file (static content) available to the web server, or it can be generated at the time of the request (dynamic content) by another program that communicates with the server software.
+web_server: A web server program may be capable to manage the dynamic generation (on the fly) of a directory index list of files and sub-directories.
+web_server: files (file system);
+databases (DBs);
+other sources located in local computer or in other computers.
+web_server: The three standard and historical gateway interfaces are the following ones.
+web_server: (In this case, it will return an HTML document containing a view of forum entries ordered by thread from October 15, 2021).
+web_server: Between late 1990 and early 1991 the project resulted in Berners-Lee and his developers writing and testing several software libraries along with three programs, which initially ran on NeXTSTEP OS installed on NeXT workstations:
+web_server: Most used names for static index files are: index.html, index.htm and Default.htm.
+web_server: The client's user agent connects to www.example.com and then sends the following HTTP/1.1 request:
+web_server: NOTE: the following sections are reported only as examples to help to understand what a web server, more or less, does; these sections are by any means neither exhaustive nor complete.
+web_server: CGI Common Gateway Interface
+SCGI Simple Common Gateway Interface
+FastCGI Fast Common Gateway Interface
+A few other Web Server Interfaces (server or programming language specific) used for dynamic contents:
+web_server: In practice, nowadays, many web server programs include their own userland file cache, tailored for a web server usage and using their specific implementation and parameters.
+web_server: Bandwidth throttling: to limit the speed of content responses in order to not saturate the network and to be able to serve more clients;
+Rewrite engine: to map parts of clean URLs (found in client requests) to their real names.
+web_server: NOTE: (*) percentage rounded to integer number, because its decimal values are not publicly reported by source page (only its rounded value is reported in graph).
+web_server: Static content serving: to be able to serve static content (web files) to clients via HTTP protocol.
+web_server: The result is the local directory path:
+web_server: The typical usage of a dynamic cache is when a website has dynamic web pages about news, weather, images, maps, etc.
+web_server: From 2005–2006, Apache started to improve its speed and its scalability level by introducing new performance features (e.g., event MPM and new content cache).
+web_server: When a web server is near to or over its load limits, it gets overloaded and so it may become unresponsive.
+web_server: Requests are served with (possibly long) delays (from one second to a few hundred seconds).
+web_server: At the beginning of 1994, the most notable among new web servers was NCSA httpd which ran on a variety of Unix-based OSs and could serve dynamically generated content by implementing the POST HTTP method and the CGI to communicate with external programs.
+web_server: In 2020–2021 the HTTP/2 dynamics about its implementation (by top web servers and popular web browsers) were partly replicated after the publication of advanced drafts of future RFC about HTTP/3 protocol.
+web_server: XSS worms can cause high traffic because of millions of infected browsers or web servers.
+web_server: Distributed Denial of Service attacks.
+web_server: Web servers (computers) partial unavailability.
+web_server: http://www.example.com/directory1/directory2/
+web_server: /home/www/www.example.com/cgi-bin/forum.php
+web_server: A user agent, commonly a web browser or web crawler, initiates communication by making a request for a web page or other resource using HTTP, and the server responds with the content of that resource or an error message.
+web_server: The proposal titled "HyperText and CERN", asked for comments and it was read by several people.
+web_server: The following technical overview should be considered only as an attempt to give a few very limited examples about some features that may be implemented in a web server and some of the tasks that it may perform in order to have a sufficiently wide scenario about the topic.
+web_server: to give a new URL to another domain when current domain has too much load.
+web_server: Example 1: a URL path points to a directory name but it does not have a final slash '/' so web server sends a redirect to client in order to instruct it to redo the request with the fixed path name.
+web_server: The former usually can be served faster and can be more easily cached for repeated requests, while the latter supports a broader range of applications.
+web_server: The web server returns an HTTP error code, such as 500, 502, 503, 504, 408, or even an intermittent 404.
+web_server: Virtual hosting: to be able to serve many websites (domain names) using only one IP address.
+web_server: From:
+  http://www.example.com/directory1/directory2/2021-10-08/
+To:
+  https://docs.example.com/directory1/2021-10-08/
+Above examples are only a few of the possible kind of redirections.
+web_server: to fix a directory name by adding a final slash '/';
+to give a new URL for a no more existing URL path to a new path where that kind of web resource can be found.
+web_server: The result is the local file path of the program (in this example, a PHP program):
+web_server: Although the source code was not formally licensed or placed in the public domain, CERN informally allowed users and developers to experiment and further develop on top of them.
+web_server: When an error response or message is received by a client browser, then if it is related to the main user request (e.g., an URL of a web resource such as a web page) then usually that error message is shown in some browser window or message.
+web_server: At the beginning of 1995 those patches were all applied to the last release of NCSA source code and, after several tests, the Apache HTTP server project was started.
+web_server: http://www.example.com/cgi-bin/forum.php?action=view&orderby=thread&date=2021-10-15
+web_server: POST
+In order to be able to communicate with its internal modules or external programs, a web server program must have implemented one or more of the many available gateway interfaces (see also Web Server Gateway Interfaces used for dynamic content).
+web_server: In April 1993, CERN issued a public official statement stating that the three components of Web software (the basic line-mode client, the web server and the library of common code), along with their source code, were put in the public domain.
+web_server: Thousands or even millions of clients connecting to the website in a short amount of time (e.g., the Slashdot effect).
+web_server: On an Apache server, this is commonly /home/www/website (on Unix machines, usually it is: /var/www/website).
+web_server: In very rare cases, the web server returns only a part of the requested content.
+web_server: The term URL normalization refers to the process of modifying and standardizing a URL in a consistent manner.
+web_server: CGI
+An external CGI program is run by web server program for each dynamic request, then web server program reads from it the generated data response and then resends it to client.
+web_server: A few other more advanced and popular features (only a very short selection) are the following ones.
+web_server: a graphical web browser, called WorldWideWeb;
+a portable line mode web browser;
+a web server, later known as CERN httpd.
+web_server: Executing in user mode can also mean using more buffer or data copies (between user-space and kernel-space) which can lead to a decrease in the performance of a user-mode web server.
+web_server: minimization of possible CPU cache misses;
+minimization of possible CPU branch mispredictions in critical paths for speed;
+minimization of the number of system calls used to perform a certain function or task;
+other tricks;
+...
+web_server: "URL mapping is the process by which a web server or application framework determines how an incoming URL request is routed to the appropriate resource, handler, or action.
+web_server: In October 1990 the proposal was reformulated and enriched (having as co-author Robert Cailliau), and finally, it was approved.
+web_server: http://www.example.com/path/file.html
+web_server: Berners-Lee started promoting the adoption and the usage of those programs along with their porting to other operating systems.
+web_server: OPTIONS
+HEAD
+GET
+Response of static file content can be sped up by a file cache.
+web_server: Logging: usually web servers have also the capability of logging some information, about client requests and server responses, to log files for security and statistical purposes.
+web_server: Performances of a web server are typically benchmarked by using one or more of the available
+automated load testing tools.
+web_server: Tuning web servers parameters to improve their security and performances.
+web_server: GET /directory1/directory2 HTTP/1.1
+Host: www.example.com
+Connection: keep-alive
+web_server: There are several types of normalization that may be performed, including the conversion of the scheme and host to lowercase.
+web_server: In practice, the web server has to handle the request by using one of these response paths:
+web_server: and other programming techniques, such as:
+web_server: If a web server program is capable of serving dynamic content and it has been configured to do so, then it is able to communicate with the proper internal module or external program (associated with the requested URL path) in order to pass to it the parameters of the client request.
+web_server: The web server refuses or resets (interrupts) TCP connections before it returns any content.
+web_server: A web server program plays the role of a server in a client–server model by implementing one or more versions of HTTP protocol, often including the HTTPS secure variant and other features and extensions that are considered useful for its planned usage.
+web_server: Dynamic content serving: to be able to serve dynamic content (generated on the fly) to clients via HTTP protocol.
+web_server: Custom error pages: support for customized HTTP error messages.
+web_server: A denial-of-service attack (DoS attack) or distributed denial-of-service attack (DDoS attack) is an attempt to make a computer or network resource unavailable to its intended users.
+web_server: If it cannot be generated an error is returned.
+web_server: The use of TCP/IP persistent connections (HTTP/1.1) required web servers both to increase the maximum number of concurrent connections allowed and to improve their level of scalability.
+web_server: The response will describe the content of the file and contain the file itself or an error message will return saying that the file does not exist or its access is forbidden.
+web_server: From:
+  /directory1/directory2
+To:
+  /directory1/directory2/
+Example 2: a whole set of documents has been moved inside website in order to reorganize their file system paths.
+web_server: Within a year, these changes, on average, nearly tripled the maximum number of persistent connections that web servers had to manage.
+web_server: Deploying web cache techniques (not only for static contents but, whenever possible, for dynamic contents too).
+web_server: Between 1996 and 1999, Netscape Enterprise Server and Microsoft's IIS emerged among the leading commercial options whereas among the freely available and open-source programs Apache HTTP Server held the lead as the preferred server (because of its reliability and its many features).
+web_server: In the second half of 1995, CERN and NCSA web servers started to decline (in global percentage usage) because of the widespread adoption of new web servers which had a much faster development cycle along with more features, more fixes applied, and more performances than the previous ones.
+web_server: Afterward IIS dropped to much lower percentages of usage than Apache (see also market share).
+web_server: URL redirection of location is used:
+web_server: From:
+  /directory1/directory2/2021-10-08/
+To:
+  /directory1/directory2/2021/10/08/
+Example 3: a whole set of documents has been moved to a new website and now it is mandatory to use secure HTTPS connections to access them.
+web_server: In practice some web server software models may require more OS resources (specially more CPUs and more RAM) than others to be able to work well and so to achieve target performances.
+web_server: Nowadays almost all web server software is executed in user mode (because many of the aforementioned small disadvantages have been overcome by faster hardware, new OS versions, much faster OS system calls and new optimized web server software).
+web_server: Usually, for security reasons, most web server programs are pre-configured to serve only regular files or to avoid to use special file types like device files, along with symbolic links or hard links to them.
+web_server: This behavior can be considered a bug, even if it usually arises as a symptom of overload.
+web_server: GET /cgi-bin/forum.php?action=view&ordeby=thread&date=2021-10-15 HTTP/1.1
+Host: www.example.com
+Connection: keep-alive
+web_server: /home/www/www.example.com/directory1/directory2/
+web_server: Content cache: to be able to cache content in order to speed up server responses;
+Large file support: to be able to serve files whose size is greater than 2 GB on 32 bit OS.

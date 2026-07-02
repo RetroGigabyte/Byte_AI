@@ -1,0 +1,191 @@
+interest_rate: Current interest rates in savings accounts often fail to keep up with the pace of inflation.
+interest_rate: It will generally be found that if the economy is strong then the interest rates will be high, if the economy is weak the interest rates will be low.
+interest_rate: The latter's policy was said at its inception to be trying to "change Japan's 'deflationary mindset.'" In 2016 Sweden, Denmark and Switzerland—not directly participants in the Euro currency zone—also had NIRPs in place.
+interest_rate: Under normal conditions, most economists think a cut in interest rates will only give a short term gain in economic activity that will soon be offset by inflation.
+interest_rate: Failure of a borrower to continue paying interest is an example of default, which may be followed by bankruptcy proceedings.
+interest_rate: This was proposed by an anonymous student of Greg Mankiw, though more as a thought experiment than a genuine proposal.
+interest_rate: However, the existence of deep secondary markets can partially mitigate illiquidity costs, as evidenced by US Treasury bonds, which maintain significant liquidity despite longer maturities due to their unique status as a safe asset and the associated financial sector stability benefits.
+interest_rate: For an interest-bearing security, coupon rate is the ratio of the annual coupon amount (the coupon paid per year) per unit of par value, whereas current yield is the ratio of the annual coupon divided by its current market price.
+interest_rate: pe is the expected inflation rate.
+interest_rate: Consumption, investment and net exports are all important components of aggregate demand.
+interest_rate: Changes in interest rates will affect firms' investment behaviour, either raising or lowering the opportunity cost of investing.
+interest_rate: From 1982 until 2012, most Western economies experienced a period of low inflation combined with relatively high returns on investments across all asset classes including government bonds.
+interest_rate: Alternative investments: The lender has a choice between using his money in different investments.
+interest_rate: r
+        =
+        
+          
+            
+              1
+              +
+              i
+            
+            
+              1
+              +
+              p
+            
+          
+        
+        −
+        1
+        
+        
+      
+    
+    {\displaystyle r={\frac {1+i}{1+p}}-1\,\!}
+interest_rate: treasury bills).
+interest_rate: These behavioral frictions can affect monetary policy transmission and optimal policy design.
+interest_rate: Interest rates reflect a borrower's willingness to pay for money now over money in the future.
+interest_rate: Likewise, a bank offering a negative deposit rate will find few takers, as savers will instead hold cash.
+interest_rate: The nominal interest rate is the interest rate without adjusting for inflation, whereas the real interest rate takes inflation into account.
+interest_rate: If he chooses one, he forgoes the returns from all the others.
+interest_rate: There are four kinds of risk:
+interest_rate: For low rates and short periods, the linear approximation applies:
+interest_rate: This brought a certain sense of complacency amongst some pension actuarial consultants and regulators, making it seem reasonable to use optimistic economic assumptions to calculate the present value of future pension liabilities.
+interest_rate: The Riksbank studied the impact of these changes and stated in a commentary report that they led to no disruptions in Swedish financial markets.
+interest_rate: Retrieved 2008-10-27.
+interest_rate: These various channels are collectively known as the monetary transmission mechanism.
+interest_rate: A maturity risk premium applied to a longer-term investment reflects a higher perceived risk of default.
+interest_rate: However, a low interest rate as a macro-economic policy can be risky and may lead to the creation of an economic bubble, in which large amounts of investments are poured into the real-estate market and stock market.
+interest_rate: In contrast, real interest rates can be negative, when nominal interest rates are below inflation.
+interest_rate: For instance,
+interest_rate: Different investments effectively compete for funds.
+interest_rate: For economies maintaining a fixed exchange rate system, determining the interest rate is also an important instrument of monetary policy as international capital flows are in part determined by interest rate differentials between countries.
+interest_rate: Riskier investments such as shares and junk bonds are normally expected to deliver higher returns than safer ones like government bonds.
+interest_rate: i
+          
+            n
+          
+        
+        =
+        
+          i
+          
+            r
+          
+        
+        +
+        
+          p
+          
+            e
+          
+        
+        
+        
+      
+    
+    {\displaystyle i_{n}=i_{r}+p_{e}\,\!}
+interest_rate: A negative interest rate can be described as a "tax on holding money"; Gesell proposed it as the Freigeld (free money) component of his Freiwirtschaft (free economy) system.
+interest_rate: The two approximations, eliminating higher order terms, are:
+interest_rate: A so-called "zero interest-rate policy" (ZIRP) is a very low—near-zero—central bank target interest rate.
+interest_rate: Yield to maturity is a bond's expected internal rate of return, assuming it will be held to maturity, that is, the discount rate which equates all remaining cash flows to the investor (all remaining coupons and repayment of the par value at maturity) with the current market price.
+interest_rate: The central banks of countries generally tend to reduce interest rates when they wish to increase investment and consumption in the country's economy.
+interest_rate: Suggested explanations include desire for safety and protection against the eurozone breaking up (in which case some eurozone countries might redenominate their debt into a stronger currency).
+interest_rate: An interest rate is the amount of interest due per period, as a proportion of the amount lent, deposited, or borrowed.
+interest_rate: Along similar lines, John Maynard Keynes approvingly cited the idea of a carrying tax on money, but dismissed it due to administrative difficulties.
+interest_rate: Alongside interest rates, three other variables determine total interest: principal sum, compounding frequency, and length of time.
+interest_rate: Liquidity preference: People prefer to have their resources available in a form that can immediately be exchanged, rather than a form that takes time to realize.
+interest_rate: This preference creates a term structure of required returns, exemplified by the higher yields typically demanded for longer-duration assets.
+interest_rate: The Fisher equation applies both ex ante and ex post.
+interest_rate: The annual percentage rate (APR) may refer either to a nominal APR or an effective APR (EAPR).
+interest_rate: Interest rates reflect:
+interest_rate: The risk-free cost of capital
+Expected inflation
+Risk premium
+Transaction costs
+interest_rate: Assuming perfect information, pe is the same for all participants in the market, and the interest rate model simplifies to
+interest_rate: The risk premium an investor requires on an investment depends on the risk preferences of the investor.
+interest_rate: rp is a risk premium reflecting the length of the investment and the likelihood the borrower will default
+lp is a liquidity premium (reflecting the perceived difficulty of converting the asset into money and thus into goods).
+interest_rate: A so-called "negative interest rate policy" (NIRP) is a negative central bank target interest rate.
+interest_rate: A History of Interest Rates.
+interest_rate: "Interest rate" is also sometimes used synonymously with overnight rate, bank rate, base rate, discount rate, coupon rate, repo rate, prime rate, yield to maturity, and internal rate of return.
+interest_rate: Banking competition tends to increase the savings account interest rates.
+interest_rate: Real interest rates measure the interest accumulated and repayment of principal in real terms by comparing the sum against the buying power of the amount at the time it was borrowed, lent, deposited or invested.
+interest_rate: The existence of the negative overnight deposit rate was a technical consequence of the fact that overnight deposit rates are generally set at 0.5% below or 0.75% below the policy rate.
+interest_rate: The real interest rate is given by the Fisher equation:
+interest_rate: The quick boost can influence elections.
+interest_rate: In reality, the relationship is
+interest_rate: Most economists advocate independent central banks to limit the influence of politics on interest rates.
+interest_rate: In monetary policy and macroeconomics, the term "interest rate" is often used as shorthand for a central bank's policy rate, such as the United States Federal Reserve's federal funds rate.
+interest_rate: Under behavioral expectations, the formation of expectations deviates from rational expectations due to cognitive limitations and information processing costs.
+interest_rate: Inflationary expectations: Most economies generally exhibit inflation, meaning a given amount of money buys fewer goods in the future than it will now.
+interest_rate: In July 2009, Sweden's central bank, the Riksbank, set its policy repo rate, the interest rate on its one-week deposit facility, at 0.25%, at the same time as setting its overnight deposit rate at −0.25%.
+interest_rate: r
+        ≈
+        i
+        −
+        p
+        
+        
+      
+    
+    {\displaystyle r\approx i-p\,\!}
+interest_rate: In the past two centuries, interest rates have been variously set either by national governments or central banks.
+interest_rate: Before modern capital markets, there have been accounts that savings deposits could achieve an annual return of at least 25% and up to as high as 50%.
+interest_rate: The annual equivalent rate (AER), also called the effective annual rate, factors into account compounding frequencies of products, but does not account for fees.
+interest_rate: This is the rate that banks charge each other for overnight loans of federal funds, which are the reserves held by banks at the Fed.
+interest_rate: Base rate usually refers to the annualized effective interest rate offered on overnight deposits by the central bank or other monetary authority.
+interest_rate: During an attempt to tackle spiraling hyperinflation in 2007, the Central Bank of Zimbabwe increased interest rates for borrowing to 800%.
+interest_rate: In 1999, a carry tax on currency was proposed by Federal Reserve employee Marvin Goodfriend, to be implemented via magnetic strips on bills, deducting the carry tax upon deposit, the tax being based on how long the bill had been held.
+interest_rate: Risks of investment: There is always a risk that the borrower will go bankrupt, abscond, die, or otherwise default on the loan.
+interest_rate: Changes in employment will over time affect wage setting, which again affects pricing and consequently ultimately inflation.
+interest_rate: The borrower needs to compensate the lender for this.
+interest_rate: Banks: Banks can tend to change the interest rate to either slow down or speed up economy growth.
+interest_rate: Based on the relationship between supply and demand of market interest rate, there are fixed interest rate and floating interest rate.
+interest_rate: Discount rate can both refer to the discount window of central banks and more generally as the annual rate used to discount future values into present value.
+interest_rate: Rutgers University Press.
+interest_rate: Collateral is sometimes given in the event of default.
+interest_rate: In developed economies, interest-rate adjustments are thus made to keep inflation within a target range for the health of economic activities or cap the interest rate concurrently with economic growth to safeguard economic momentum.
+interest_rate: The relation between employment (or unemployment) and inflation is known as the Phillips curve.
+interest_rate: ISBN 978-0-8135-2288-3.
+interest_rate: Consequently, by influencing the general interest rate level, monetary policy can affect overall demand for goods and services in the economy and hence output and employment.
+interest_rate: Where inflation is the same as nominal interest rate, the real interest rate is zero.
+interest_rate: In United Kingdom contexts, Official Bank Rate of the Bank of England is also known as "the interest rate".
+interest_rate: where p is the inflation rate.
+interest_rate: The difference between the two is that the EAPR accounts for fees and compounding, while the nominal APR does not.
+interest_rate: The formulae in this article are exact if logarithmic units are used for relative changes, or equivalently if logarithms of indices are used in place of rates, and hold even for large relative changes.
+interest_rate: selling and buying securities in the open market to adjust the supply of reserve balances so as to keep the FFR close to the Fed's target.
+interest_rate: Interest rate periods are ordinarily a year and are often annualized when not.
+interest_rate: Since according to time preference theory people prefer goods now to goods later, in a free market there will be a positive interest rate.
+interest_rate: Nominal interest rates are normally positive, but not always.
+interest_rate: During the European debt crisis, government bonds of some countries (Switzerland, Denmark, Germany, Finland, the Netherlands and Austria) have been sold at negative yields.
+interest_rate: For instance, while a 1-year loan offers relatively rapid convertibility to cash, a 10-year loan commands a greater liquidity premium.
+interest_rate: Negative interest rates have been proposed in the past, notably in the late 19th century by Silvio Gesell.
+interest_rate: Ex ante, the rates are projected rates, whereas ex post, the rates are historical.
+interest_rate: Interest rates vary according to:
+interest_rate: "Interest rate" is also sometimes used synonymously with base rate, discount rate, coupon rate, repo rate, prime rate, yield to maturity, internal rate of return, spot rate, forward rate, and benchmark rates such as Libor and SONIA.
+interest_rate: repricing risk
+basis risk
+yield curve risk
+optionality
+interest_rate: is only approximate.
+interest_rate: This means that a lender generally charges a risk premium to ensure that, across his investments, he is compensated for those that fail.
+interest_rate: In debt financing, companies borrow capital from a bank, in the expectation that the borrowed capital may be used to generate a return on investment greater than the interest rates.
+interest_rate: in is the nominal interest rate on a given investment
+ir is the risk-free return to capital
+i*n is the nominal interest rate on a short-term risk-free liquid bond (such as U.S.
+interest_rate: Economy: Interest rates can fluctuate according to the status of the economy.
+interest_rate: This involves either raising interest rates to slow the economy down, or lowering interest rates to promote economic growth.
+interest_rate: In the United States, the policy was used in 2008-2015, following the 2008 financial crisis, and 2020-2022, during the COVID-19 pandemic.
+interest_rate: The acceptable nominal interest rate at which they are willing and able to borrow or lend includes the real interest rate they require to receive, or are willing to pay, plus the rate of inflation they expect.
+interest_rate: Interest rate changes also affect asset prices like stock prices and house prices, which again influence households' consumption decisions through a wealth effect.
+interest_rate: Until the 2008 financial crisis, the Fed relied on open market operations, i.e.
+interest_rate: The additional return above the risk-free nominal interest rate which is expected from a risky investment is the risk premium.
+interest_rate: Agents may exhibit myopia (limited attention) to certain economic variables, form expectations based on simplified heuristics, or update their beliefs more gradually than under full rationality.
+interest_rate: In this regard, the United States Federal Reserve's Federal Funds Rate is often simply known as the "interest rate" or "rate", due to its global macroeconomic and financial significance.
+interest_rate: Deferred consumption: When money is loaned the lender delays spending the money on consumption goods.
+interest_rate: At this zero lower bound the central bank faces difficulties with conventional monetary policy, because it is generally believed that market interest rates cannot realistically be pushed down into negative territory.
+interest_rate: A negative spread is where a deposit rate is higher than the lending rate.
+interest_rate: The Federal Reserve (often referred to as 'the Fed') implements monetary policy largely by targeting the federal funds rate (FFR).
+interest_rate: Taxes: Because some of the gains from interest may be subject to taxes, the lender may insist on a higher rate to make up for this loss.
+interest_rate: Liquidity preference manifests in the yield differential between assets of varying maturities and convertibility costs, where cash provides immediate transaction capability with zero conversion costs.
+interest_rate: Countries such as Sweden and Denmark have set negative interest on reserves—that is to say, they have charged interest on reserves.
+interest_rate: To prevent people from holding cash, Gesell suggested issuing money for a limited duration, after which it must be exchanged for new bills; attempts to hold money thus result in it expiring and becoming worthless.
+interest_rate: Evidence suggests that most lenders are risk-averse.
+interest_rate: In the late 1970s, United States Treasury securities with negative real interest rates were deemed certificates of confiscation.
+interest_rate: This spread covers operating costs for banks providing loans and deposits.
+interest_rate: Additionally, international interest rate differentials affect exchange rates and consequently exports and imports.
+interest_rate: In theory, profit-seeking lenders will not lend below 0% if given the alternative of holding cash, as that will guarantee a loss.

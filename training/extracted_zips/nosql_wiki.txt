@@ -1,0 +1,91 @@
+nosql: "A vendor-independent comparison of NoSQL databases: Cassandra, HBase, MongoDB, Riak".
+nosql: Systems like Elasticsearch use inverted indexes for efficient text-based searches, but they can still require full scans for non-indexed fields.
+nosql: DeGruyter/Oldenbourg.
+nosql: For example, each blog comment might include the username in addition to a user id, thus providing easy access to the username without requiring another lookup.
+nosql: The central concept of a document store is that of a "document".
+nosql: Graph databases and their query language
+nosql: Edlich, Stefan.
+nosql: The key–value model is one of the simplest non-trivial data models, and richer data models are often implemented as an extension of it.
+nosql: Neubauer, Peter (2010).
+nosql: Consequently, while these databases excel at basic CRUD operations and key-based lookups, their suitability for complex queries involving joins or non-indexed filtering varies depending on the database type—document, key–value, wide-column, or graph—and the specific implementation.
+nosql: McCreary, Dan; Kelly, Ann (2013).
+nosql: There are three main techniques for handling relational data in a NoSQL database.
+nosql: In this model, data is represented as a collection of key–value pairs, such that each possible key appears at most once in the collection.
+nosql: Some databases support ordering of keys.
+nosql: Wiese, Lena (2015).
+nosql: NetworkWorld.
+nosql: However, modern NoSQL databases often incorporate advanced features to optimize query performance.
+nosql: If an excessive number of queries would be necessary, one of the other two approaches is more appropriate.
+nosql: However, many NoSQL systems prioritize speed and availability over strict consistency (per the CAP theorem), using eventual consistency—where updates reach all nodes eventually, typically within milliseconds, but may cause brief delays in accessing the latest data, known as stale reads.
+nosql: His NoSQL RDBMS is distinct from the around-2009 general concept of NoSQL databases.
+nosql: The term NoSQL was used by Carlo Strozzi in 1998 to name his lightweight Strozzi NoSQL open-source relational database that did not expose the standard Structured Query Language (SQL) interface, but was still relational.
+nosql: "NoSQL Database: New Era of Databases for Big data Analytics - Classification, Characteristics and Comparison".
+nosql: Unlike relational databases, which organize data into rows and columns like a spreadsheet, NoSQL databases use a single data structure—such as key–value pairs, wide columns, graphs, or documents—to hold information.
+nosql: But they are different – every record in a table has the same sequence of fields, while documents in a collection may have fields that are completely different.
+nosql: CiteSeerX 10.1.1.184.483.
+nosql: This extension is computationally powerful, in that it can efficiently retrieve selective key ranges.
+nosql: The name attempted to label the emergence of an increasing number of non-relational, distributed data stores, including open source clones of Google's Bigtable/MapReduce and Amazon's DynamoDB.
+nosql: While most lack full ACID transaction support, some, like MongoDB, include it as a key feature.
+nosql: B.; Hossain, S.
+nosql: These structures can speed up certain tasks and are often considered more adaptable than fixed database tables.
+nosql: "Analysis and Classification of NoSQL Databases and Evaluation of their Ability to Replace an Object-relational Persistence Layer".
+nosql: NoSQL (a colloquial title that became formal, meaning "not only SQL" or "non-relational") refers to a type of database design that stores and retrieves data differently from the traditional table-based structure of relational databases.
+nosql: For example, in a blogging application, one might choose to store comments within the blog post document, so that with a single retrieval one gets all the comments.
+nosql: Documents are addressed in the database via a unique key that represents that document.
+nosql: Non-relational databases date back to the late 1960s, but the term "NoSQL" emerged in the early 2000s, spurred by the needs of Web 2.0 companies like social media platforms.
+nosql: Encodings in use include XML, YAML, and JSON and binary forms like BSON.
+nosql: Examples of data include social relations, public transport links, road maps, network topologies, etc.
+nosql: ISBN 978-0-321-82662-6.
+nosql: NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence.
+nosql: arXiv:1307.0191 [cs.DB].
+nosql: Zicari, Roberto V.
+nosql: Stuttgart: Hochschule der Medien.
+nosql: Graph databases are designed for data whose relations are well represented as a graph consisting of elements connected by a finite number of relations.
+nosql: "NoSQL Data Stores – Articles, Papers, Presentations".
+nosql: "Method and system for versioned sharing, consolidating and reporting information".
+nosql: Strozzi suggests that, because the current NoSQL movement "departs from the relational model altogether, it should therefore have been called more appropriately 'NoREL'", referring to "not relational".
+nosql: Thus this approach works better when reads are much more common than writes.
+nosql: "NoSQL Databases" (PDF).
+nosql: ISBN 978-3-11-044140-6.
+nosql: Krishnan, Ganesh; Kulkarni, Sarang; Dadbhawala, Dharmesh Kirit.
+nosql: Moniruzzaman, A.
+nosql: NoSQL databases are popular in big data and real-time web applications due to their simple design, ability to scale across clusters of machines (called horizontal scaling), and precise control over data availability.
+nosql: For example, MongoDB supports compound indexes and query-optimization strategies, Cassandra offers secondary indexes and materialized views, and Redis employs custom indexing mechanisms tailored to specific use cases.
+nosql: While the details of this definition differ among document-oriented databases, they all assume that documents encapsulate and encode data (or information) in some standard formats or encodings.
+nosql: This behavior reflects the design focus of many NoSQL systems on scalability and efficient key-based operations rather than optimized querying for arbitrary fields.
+nosql: Since this non-relational design does not require a fixed schema, it scales easily to manage large, often unstructured datasets.
+nosql: Making Sense of NoSQL: A guide for managers and the rest of us.
+nosql: Advanced Data Management for SQL, NoSQL, Cloud and Distributed Databases.
+nosql: Thus in this approach a single document contains all the data needed for a specific task.
+nosql: Many perform full-table or collection scans for such queries, applying filtering operations after retrieving data.
+nosql: Another defining characteristic of a document-oriented database is an API or query language to retrieve documents based on their contents.
+nosql: Limitations within the interface environment are overcome using semantic virtualization protocols, such that NoSQL services are accessible to most operating systems.
+nosql: Addison-Wesley.
+nosql: The key–value model can be extended to a discretely ordered model that maintains keys in lexicographic order.
+nosql: Ben Scofield rated different categories of NoSQL databases as follows:
+nosql: Performance and scalability comparisons are most commonly done using the YCSB benchmark.
+nosql: NoSQL systems are sometimes called "Not only SQL" because they can support SQL-like query languages or work alongside SQL databases in polyglot-persistent setups, where multiple database types are combined.
+nosql: Key–value stores can use consistency models ranging from eventual consistency to serializability.
+nosql: "Graph Databases, NOSQL and Neo4j".
+nosql: What follows is a non-exhaustive classification by data model, with examples:
+nosql: "NoSQL database List".
+nosql: Collections
+Tags
+Non-visible metadata
+Directory hierarchies
+Compared to relational databases, collections could be considered analogous to tables and documents analogous to records.
+nosql: Orend, Kai (2013).
+nosql: Bushik, Sergey (2012).
+nosql: Key–value (KV) stores use the associative array (also called a map or dictionary) as their fundamental data model.
+nosql: There are various hardware implementations, and some users store data in memory (RAM), while others on solid-state drives (SSD) or rotating disks (aka hard disk drive (HDD)).
+nosql: NoSQL queries are often faster than traditional SQL queries, so the cost of additional queries may be acceptable.
+nosql: (See table join and ACID support for NoSQL databases that support joins.)
+nosql: Strauch, Christof (2012).
+nosql: Johan Oskarsson, then a developer at Last.fm, reintroduced the term NoSQL in early 2009 when he organized an event to discuss "open-source distributed, non-relational databases".
+nosql: However, this doesn't necessarily mean that the capability is fully supported in a manner similar to most SQL databases.
+nosql: Different implementations offer different ways of organizing and/or grouping documents:
+nosql: Some NoSQL systems risk losing data through lost writes or other forms, though features like write-ahead logging—a method to record changes before they’re applied—can help prevent this.
+nosql: When a username changes, however, this will now need to be changed in many places in the database.
+nosql: "NoSQL whitepaper" (PDF).
+nosql: ISBN 9781617291074.
+nosql: Performance evaluation must pay attention to the right benchmarks such as production configurations, parameters of the databases, anticipated data volume, and concurrent user workloads.

@@ -1,0 +1,156 @@
+digital_signature: Signing keys should never be backed up or escrowed unless the backup destination is securely encrypted.
+digital_signature: Many smart cards are designed to be tamper-resistant (although some designs have been broken, notably by Ross Anderson and his students).
+digital_signature: 'Closed' PKI systems are more expensive, but less easily subverted in this way.
+digital_signature: Uniqueness and malleability of signatures.
+digital_signature: The term WYSIWYS was coined by Peter Landrock and Torben Pedersen to describe some of the principles in delivering secure and legally binding digital signatures for Pan-European projects.
+digital_signature: Commercial PKI operators have suffered several publicly known problems.
+digital_signature: Used directly, this type of signature scheme is vulnerable to key-only existential forgery attack.
+digital_signature: properties rely on the secret key not having been revoked prior to its usage.
+digital_signature: Many risk averse companies, including governments, financial and medical institutions,  and payment processors require more secure standards, like FIPS 140-2 level 3 and FIPS 201 certification, to ensure the signature is validated and secure.
+digital_signature: Only when both parties come to an agreement do they sign a contract with their signing keys, and only then are they legally bound by the terms of a specific document.
+digital_signature: In the random oracle model, hash-then-sign (an idealized version of that practice where hash and padding combined have close to N possible outputs), this form of signature is existentially unforgeable, even against a chosen-plaintext attack.
+digital_signature: The branch office can later sign a message and the central office can use the public key to verify the signed message was not a forgery before acting on it.
+digital_signature: For compatibility
+Messages are typically bit strings, but some signature schemes operate on other domains (such as, in the case of RSA, numbers modulo a composite number N).
+digital_signature: Very roughly this is analogous to a vendor who receives credit-cards first checking online with the credit-card issuer to find if a given card has been reported lost or stolen.
+digital_signature: This could allow a malicious application to trick a user into signing any document by displaying the user's original on-screen, but presenting the attacker's own documents to the signing application.
+digital_signature: The first widely marketed software package to offer digital signature was Lotus Notes 1.0, released in 1989, which used the RSA algorithm.
+digital_signature: Tank, and R.
+digital_signature: For 'open' PKIs in which anyone can request such an attestation (universally embodied in a cryptographically protected public key certificate), the possibility of mistaken attestation is non-trivial.
+digital_signature: Checking revocation status requires an "online" check; e.g., checking a certificate revocation list or via the Online Certificate Status Protocol.
+digital_signature: Digital signatures are a type of public-key cryptography, and are commonly used for software distribution,
+financial transactions, contract management software, and in other cases where it is important to detect forgery or tampering.
+digital_signature: It can be arranged that the private key never leaves the smart card, although this is not always implemented.
+digital_signature: Katz and Y.
+digital_signature: M Schellenkens, Electronic Signatures Authentication Technology from a Legal Perspective, (TMC Asser Press, 2004)
+Jeremiah S.
+digital_signature: Thus, the loss of the smart card may be detected by the owner and the corresponding certificate can be immediately revoked.
+digital_signature: This is commonly done using a public key infrastructure (PKI) and the public key↔user association is attested by the operator of the PKI (called a certificate authority).
+digital_signature: They described a hierarchy of attack models for signature schemes, and also presented the GMR signature scheme, the first that could be proved to prevent even an existential forgery against a chosen message attack, which is the currently accepted security definition for signature schemes.
+digital_signature: To protect against this scenario, an authentication system can be set up between the user's application (word processor, email client, etc.) and the signing application.
+digital_signature: Similarly, access to the public key only does not enable a fraudulent party to fake a valid signature.
+digital_signature: Digital signatures are often used to implement electronic signatures, which include any electronic data that carries the intent of a signature, but not all electronic signatures use digital signatures.
+digital_signature: Other digital signature schemes were soon developed after RSA, the earliest being Lamport signatures, Merkle signatures (also known as "Merkle trees" or simply "Hash trees"), and Rabin signatures.
+digital_signature: David Whitaker, The Law of Electronic Signatures (3rd Edition, West Publishing, 2010).
+digital_signature: For that reason, it is often thought best to use separate key pairs for encrypting and signing.
+digital_signature: A digital signature scheme is secure if for every non-uniform probabilistic polynomial time adversary A,
+digital_signature: In 1988, Shafi Goldwasser, Silvio Micali, and Ronald Rivest became the first to rigorously define the security requirements of digital signature schemes.
+digital_signature: The general idea is to provide some means for both the user application and signing application to verify each other's integrity.
+digital_signature: The first appears to have been in Utah in the United States, followed closely by the states Massachusetts and California.
+digital_signature: A hash function can be used to convert an arbitrary input into the proper format.
+digital_signature: The strongest notion of security, therefore, is security against existential forgery under an adaptive chosen message attack.
+digital_signature: A digital signature scheme on its own does not prevent a valid signed message from being recorded and then maliciously reused in a replay attack.
+digital_signature: Private keys that are protected by software only may be easier to copy, and such compromises are far more difficult to detect.
+digital_signature: S (signing) returns a tag, t, on the inputs: the private key (sk), and a string (x).
+digital_signature: The user application presents a hash code to be signed by the digital signing algorithm using the private key.
+digital_signature: From a semantic perspective this creates uncertainty about what exactly has been signed.
+digital_signature: Typically, a user must activate their smart card by entering a personal identification number or PIN code (thus providing two-factor authentication).
+digital_signature: Technically speaking, a digital signature applies to a string of bits, whereas humans and applications "believe" that they sign the semantic interpretation of those bits.
+digital_signature: This is safer than using a card reader integrated into a PC, and then entering the PIN using that computer's keyboard.
+digital_signature: Here 1n refers to a unary number in the formalism of computational complexity theory.
+digital_signature: A total break results in the recovery of the signing key.
+digital_signature: They also describe a hierarchy of attack results:
+digital_signature: Correctness:  Signatures produced by the signing algorithm with a private key pass the verification algorithm with the corresponding public key.
+digital_signature: If the bank doesn't use a system of transaction IDs in their messages to detect which transfers have already happened, someone could illegitimately reuse the same signed message many times to drain an account.
+digital_signature: WYSIWYS (What You See Is What You Sign) means that the semantic interpretation of a signed message cannot be changed.
+digital_signature: Users (and their software) must carry out the signature protocol properly.
+digital_signature: The private key must remain private: If the private key becomes known to any other party, that party can produce perfect digital signatures of anything.
+digital_signature: Such mistakes could lead to falsely signed, and thus wrongly attributed, documents.
+digital_signature: A signature verifying algorithm that, given the message, public key and signature, either accepts or rejects the message's claim to authenticity.
+digital_signature: Digital signatures cryptographically bind an electronic identity to an electronic document and the digital signature cannot be copied to another document.
+digital_signature: A selective forgery attack results in a signature on a message of the adversary's choice.
+digital_signature: In particular this also means that a message cannot contain hidden information that the signer is unaware of, and that can be revealed after the signature has been applied.
+digital_signature: By this property, an entity that has signed some information cannot at a later time deny having signed it.
+digital_signature: A signing algorithm that, given a message and a private key, produces a signature.
+digital_signature: Some card readers have their own numeric keypad.
+digital_signature: However, the receiver of the signed blocks is not able to recognize if all the blocks are present and in the appropriate order.
+digital_signature: Prior knowledge of a public key can be used to verify authenticity of a signed message, but not the other way around—prior knowledge of a signed message cannot be used to verify authenticity of a public key.
+digital_signature: It is relatively easy to change the interpretation of a digital document by implementing changes on the computer system where the document is being processed.
+digital_signature: These include the Automotive Network Exchange for the automobile industry and the SAFE-BioPharma Association for the healthcare industry.
+digital_signature: If a signing key is lost or compromised, it can be revoked to mitigate any future transactions.
+digital_signature: A valid digital signature on a message gives a recipient confidence that the message came from a sender known to the recipient.
+digital_signature: The United States Government Printing Office (GPO) publishes electronic versions of the budget, public and private laws, and congressional bills with digital signatures.
+digital_signature: An existential forgery merely results in some valid message/signature pair not already known to the adversary.
+digital_signature: This single signature will convince the verifier that the n users did indeed sign the n original messages.
+digital_signature: If signatures are misused as transaction IDs in an attempt by a bank-like system such as a Bitcoin exchange to detect replays, this can be exploited to replay transactions.
+digital_signature: Lindell, "Introduction to Modern Cryptography" (Chapman & Hall/CRC Press, 2007)
+Lorna Brazell, Electronic Signatures and Identities Law and Regulation (2nd edn, London: Sweet & Maxwell, 2008)
+Dennis Campbell, editor, E-Commerce and the Law of Digital Signatures (Oceana Publications, 2005)
+M.
+digital_signature: For correctness, S and V must satisfy
+digital_signature: Quality implementations: An implementation of a good algorithm (or protocol) with mistake(s) will not work.
+digital_signature: In a key-only attack, the attacker is only given the public verification key.
+digital_signature: Using the encryption key pair, a person can engage in an encrypted conversation (e.g., regarding a real estate transaction), but the encryption does not legally sign every message he or she sends.
+digital_signature: Other countries have also passed statutes or issued regulations in this area as well and the UN has had an active model law project for some time.
+digital_signature: Of course, with stolen key pairs, the theft is often discovered only after the secret key's use, e.g., to sign a bogus certificate for espionage purpose.
+digital_signature: V (verifying) outputs accepted or rejected on the inputs: the public key (pk), a string (x), and a tag (t).
+digital_signature: Signatures with efficient protocols – are signature schemes that facilitate efficient cryptographic protocols such as zero-knowledge proofs or secure computation.
+digital_signature: Pr [(pk, sk) ← G(1n), V(pk, x, S(sk, x)) = accepted] = 1.
+digital_signature: An attacker who gains control of the user's PC can possibly replace the user application with a foreign substitute, in effect replacing the user's own communications with those of the attacker.
+digital_signature: ed.), Cambridge [u.a.]: Cambridge Univ.
+digital_signature: Below are some common reasons for applying a digital signature to communications:
+digital_signature: The first such scheme which is not built on trapdoor functions but rather on a family of function with a much weaker required property of one-way permutation was presented by Moni Naor and Moti Yung.
+digital_signature: For example, the signing application may require all requests to come from digitally signed binaries.
+digital_signature: In some signature schemes, given a signed message, it is easy to construct a public key under which the signed message will pass verification, even without knowledge of the private key that was used to make the signed message in the first place.
+digital_signature: Digital signatures can be applied to an entire document, such that the digital signature on the last page will indicate tampering if any data on any of the pages have been altered, but this can also be achieved by signing with ink and numbering all pages of the contract.
+digital_signature: This reduces the security of the scheme to that of the PIN system, although it still requires an attacker to possess the card.
+digital_signature: A signature itself cannot be used to uniquely identify the message it signs—in some signature schemes, every message has a large number of possible valid signatures from the same signer, and it may be easy, even without knowledge of the private key, to transform one valid signature into another.
+digital_signature: In order to be semantically interpreted, the bit string must be transformed into a form that is meaningful for humans and applications, and this is done through a combination of hardware and software based processes on a computer system.
+digital_signature: Note that these authentication, non-repudiation etc.
+digital_signature: Press, ISBN 978-0-521-83084-3
+Pass, Rafael, A Course in Cryptography (PDF), retrieved 31 December 2015
+digital_signature: There are several reasons to sign such a hash (or message digest) instead of the whole document.
+digital_signature: Readers with a numeric keypad are meant to circumvent the eavesdropping threat where the computer might be running a keystroke logger, potentially compromising the PIN code.
+digital_signature: Security (existential unforgeability under chosen-message attack, or EUF-CMA):  It should be computationally infeasible to generate a valid signature for a party without knowing that party's private key.
+digital_signature: Quality algorithms: Some public-key algorithms are known to be insecure, as practical attacks against them have been discovered.
+digital_signature: Generally, these provisions mean that anything digitally signed legally binds the signer of the document to the terms therein.
+digital_signature: For example, the branch office may legitimately request that bank transfer be issued once in a signed message.
+digital_signature: the user can only sign documents on that particular computer
+the security of the private key depends entirely on the security of the computer
+A more secure alternative is to store the private key on a smart card.
+digital_signature: The algorithm outputs the private key and a corresponding public key.
+digital_signature: Buckley, John P.
+digital_signature: Kromer, Margo H.
+digital_signature: A private key can be stored on a user's computer, and protected by a local password, but this has two disadvantages:
+digital_signature: In a typical digital signature implementation, the hash calculated from the document is sent to the smart card, whose CPU signs the hash using the stored private key of the user, and then returns the signed hash.
+digital_signature: Only if all of these conditions are met will a digital signature actually be any evidence of who sent the message, and therefore of their assent to its contents.
+digital_signature: To create signature keys, generate an RSA key pair containing a modulus, N, that is the product of two random secret distinct large primes, along with integers, e and d, such that e d ≡ 1 (mod φ(N)), where φ is Euler's totient function.
+digital_signature: In an adaptive chosen message attack, the attacker first learns signatures on arbitrary messages of the attacker's choice.
+digital_signature: A mitigating factor is that private keys, if generated and stored on smart cards, are usually regarded as difficult to copy, and are assumed to exist in exactly one copy.
+digital_signature: The public key owner must be verifiable: A public key associated with Bob actually came from Bob.
+digital_signature: Two main properties are required:
+digital_signature: After signing, the document can be sent over the encrypted link.
+digital_signature: This forgery attack, then, only produces the padded hash function output that corresponds to σ, but not a message that leads to that value, which does not lead to an attack.
+digital_signature: A forger who doesn't know the sender's private key can't sign a different message, or even change a single digit in an existing message without making the recipient's signature verification fail.
+digital_signature: Public revocation of a key-pair is a required ability, else leaked secret keys would continue to implicate the claimed owner of the key-pair.
+digital_signature: In a known message attack, the attacker is given valid signatures for a variety of messages known by the attacker but not chosen by the attacker.
+digital_signature: Adoption of technical standards for digital signatures have lagged behind much of the legislation, delaying a more or less unified engineering position on interoperability, algorithm choice, key lengths, and so on what the engineering is attempting to provide.
+digital_signature: If an encryption key is lost, a backup or key escrow should be utilized to continue viewing encrypted content.
+digital_signature: One digital signature scheme (of many) is based on RSA.
+digital_signature: If the smart card is stolen, the thief will still need the PIN code to generate a digital signature.
+digital_signature: Authenticating a public key.
+digital_signature: Some industries have established common interoperability standards for the use of digital signatures between members of the industry and with regulators.
+digital_signature: Formally, a digital signature scheme is a triple of probabilistic polynomial-time algorithms, (G, S, V), satisfying:
+digital_signature: The signer's public key consists of N and e, and the signer's secret key contains d.
+digital_signature: To create a forgery, the attacker picks a random signature σ and uses the verification procedure to determine the message, m, corresponding to that signature.
+digital_signature: A universal forgery attack results in the ability to forge signatures for any message.
+digital_signature: Paper contracts sometimes have the ink signature block on the last page, and the previous pages may be replaced after a signature is applied.
+digital_signature: For efficiency
+The signature will be much shorter and thus save time since hashing is generally much faster than signing in practice.
+digital_signature: Universities including Penn State, University of Chicago, and Stanford are publishing electronic student transcripts with digital signatures.
+digital_signature: A scheme by Mihir Bellare and Gregory Neven may be used with Bitcoin.
+digital_signature: WYSIWYS is a requirement for the validity of digital signatures, but this requirement is difficult to guarantee because of the increasing complexity of modern computer systems.
+digital_signature: A digital signature is a mathematical scheme for verifying the authenticity of digital messages or documents.
+digital_signature: Soon afterwards, Ronald Rivest, Adi Shamir, and Len Adleman invented the RSA algorithm, which could be used to produce primitive digital signatures (although only as a proof-of-concept – "plain" RSA signatures are not secure).
+digital_signature: Digital Evidence and Electronic Signature Law Review Free open source
+digital_signature: Legal enactment cannot change this reality of the existing engineering possibilities, though some such have not reflected this actuality.
+digital_signature: A key generation algorithm that selects a private key at random from a set of possible private keys.
+digital_signature: Specialized card readers are also less vulnerable to tampering with their software or hardware and are often EAL3 certified.
+digital_signature: G (key-generator) generates a public key (pk), and a corresponding private key (sk), on input 1n, where n is the security parameter.
+digital_signature: In practice, however, this type of signature is not used directly, but rather, the message to be signed is first hashed to produce a short digest, that is then padded to larger width comparable to N, then signed with the reverse trapdoor function.
+digital_signature: The problem is that the semantic interpretation of bits can change as a function of the processes used to transform the bits into semantic content.
+digital_signature: Most digital signature schemes share the following goals regardless of cryptographic theory or legal provision:
+digital_signature: For integrity
+Without the hash function, the text "to be signed" may have to be split (separated) in blocks small enough for the signature scheme to act on them directly.
+digital_signature: With a digital signature scheme, the central office can arrange beforehand to have a public key on file whose private key is known only to the branch office.
+digital_signature: Even legitimate messages may be modified in transit.

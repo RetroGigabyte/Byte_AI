@@ -17,8 +17,19 @@ import requests
 import re
 import os
 import sys
+import time
+import random
 from urllib.parse import unquote
-from user_agent_rotator import get_user_agent
+from user_agent_rotator import get_user_agent, switch_user_agent
+
+# Rate limiting with adaptive backoff
+BASE_DELAY = 0.5  # seconds between requests
+JITTER_RANGE = (0.0, 0.3)  # random jitter to avoid pattern detection
+
+def smart_delay():
+    """Random delay with jitter to avoid rate limiting patterns"""
+    delay = BASE_DELAY + random.uniform(*JITTER_RANGE)
+    time.sleep(delay)
 
 # Create Wiki folder if it doesn't exist
 WIKI_FOLDER = "Wiki"
@@ -26,45 +37,82 @@ if not os.path.exists(WIKI_FOLDER):
     os.makedirs(WIKI_FOLDER)
     print(f"📁 Created folder: {WIKI_FOLDER}\n")
 
-def fetch_wikipedia_article(title):
-    """Fetch article from Wikipedia API"""
+def fetch_wikipedia_article(title, retries=3):
+    """Fetch article from Wikipedia API with rate limit handling and casing variants"""
     url = "https://en.wikipedia.org/w/api.php"
 
-    headers = {
-        "User-Agent": get_user_agent()
-    }
+    # Try multiple casing variants
+    title_variants = [
+        title,  # Original
+        title.lower(),  # all lowercase
+        title.upper(),  # ALL UPPERCASE
+        title.title(),  # Title Case
+        title[0].upper() + title[1:].lower() if len(title) > 1 else title,  # First letter capital only
+    ]
 
-    params = {
-        "action": "query",
-        "titles": title,
-        "prop": "extracts",
-        "explaintext": True,
-        "format": "json"
-    }
+    for title_attempt, test_title in enumerate(title_variants):
+        params = {
+            "action": "query",
+            "titles": test_title,
+            "prop": "extracts",
+            "explaintext": True,
+            "format": "json"
+        }
 
-    try:
-        response = requests.get(url, params=params, headers=headers, timeout=10)
+        for attempt in range(retries):
+            try:
+                smart_delay()  # Smart delay before each request
 
-        if response.status_code != 200:
-            print(f"  ⚠️  Wikipedia returned status {response.status_code}")
-            return None
+                headers = {
+                    "User-Agent": get_user_agent()
+                }
 
-        data = response.json()
+                response = requests.get(url, params=params, headers=headers, timeout=15)
 
-        if 'query' not in data or 'pages' not in data['query']:
-            print(f"  ⚠️  Invalid response from Wikipedia")
-            return None
+                if response.status_code == 429:
+                    # Rate limited - switch agent and retry quickly
+                    headers["User-Agent"] = switch_user_agent()
+                    print(f"    ⏸️  429 Rate Limited - switching agent...")
+                    time.sleep(0.25)
+                    continue
 
-        pages = data['query']['pages']
-        page = next(iter(pages.values()))
+                elif response.status_code == 200:
+                    try:
+                        data = response.json()
+                        if 'query' not in data or 'pages' not in data['query']:
+                            break
+                        pages = data['query']['pages']
+                        page = next(iter(pages.values()))
+                        if 'extract' in page and page['extract']:
+                            return page['extract']
+                        break
+                    except ValueError:
+                        # JSON parsing failed
+                        if attempt < retries - 1:
+                            time.sleep(0.5)
+                            continue
+                        break
 
-        if 'extract' in page and page['extract']:
-            return page['extract']
-        else:
-            return None
-    except Exception as e:
-        print(f"  ⚠️  Error fetching: {e}")
-        return None
+                else:
+                    if attempt < retries - 1:
+                        time.sleep(0.5)
+                        continue
+                    break
+
+            except requests.exceptions.Timeout:
+                if attempt < retries - 1:
+                    time.sleep(0.5)
+                    continue
+                break
+            except requests.exceptions.ConnectionError:
+                if attempt < retries - 1:
+                    time.sleep(0.5)
+                    continue
+                break
+            except Exception as e:
+                break
+
+    return None
 
 
 def extract_links(text):

@@ -1,0 +1,40 @@
+stack_overflow: Jeff Atwood stated in 2010 that duplicate questions are not seen as a problem but rather they constitute an advantage if such additional questions drive extra traffic to the site by multiplying relevant keyword hits in search engines.
+stack_overflow: Stack Overflow published on their blog that approximately 184 public network users were affected by this breach, which "could have returned IP address, names, or emails".
+stack_overflow: On 15 September 2008 it was announced that the public beta version was in session and that the general public was now able to use it to seek assistance on programming related issues.
+stack_overflow: The site and similar programming question-and-answer sites globally largely replaced programming books for day-to-day programming reference in the 2000s, and were an important part of computer programming.
+stack_overflow: Based on the type of tags assigned to questions, the top eight most-discussed topics on the site are JavaScript, Java, C#, PHP, Android, Python, jQuery, and HTML.
+stack_overflow: As of January 2026, new questions posted to the platform had declined significantly from the site's peak of 200,000 questions per month in 2014.
+stack_overflow: According to some, the site's perceived hostile moderation culture, as well as competition from generative artificial intelligence tools, have contributed to this decline.
+stack_overflow: Created in 2008 by Jeff Atwood and Joel Spolsky, it is the flagship site of the Stack Exchange network.
+stack_overflow: Stack Overflow is a question-and-answer website for computer programmers.
+stack_overflow: Stack Overflow features questions and answers on certain computer programming topics, and was created to be a more open alternative to earlier question-and-answer websites such as Experts-Exchange.
+stack_overflow: The design of the Stack Overflow logo was decided by a voting process.
+stack_overflow: general questions about software development.
+stack_overflow: The website was sold to Prosus, a Netherlands-based consumer-internet conglomerate, on 2 June 2021 for US$1.8 billion.
+stack_overflow: Closing questions is a main differentiation from other Q&A sites like Yahoo!
+stack_overflow: To empower a wider group of users to ask questions and then answer, Stack Overflow created a mentorship program resulting in users having a 50% increase in score on average.
+stack_overflow: The website was created by Jeff Atwood and Joel Spolsky in 2008.
+stack_overflow: The mechanism was overhauled in 2013; questions edited after being put "on hold" now appear in a review queue.
+stack_overflow: Reputation can be gained fastest by answering questions related to tags with lower expertise density, doing so promptly (in particular being the first one to answer a question), being active during off-peak hours, and contributing to diverse areas.
+stack_overflow: All user-generated content is licensed under Creative Commons Attribute-ShareAlike license, version 2.5, 3.0, or 4.0 depending on the date the content was contributed.
+stack_overflow: On 3 May 2010, it was announced that Stack Overflow had raised $6 million in venture capital from a group of investors led by Union Square Ventures.
+stack_overflow: Askbot (free engine)
+List of Internet forums
+MathOverflow and PhysicsOverflow
+Rosetta Code (multi-lingual algorithms)
+stack_overflow: In June 2021, Prosus, a Netherlands-based subsidiary of South African media company Naspers, announced a deal to acquire Stack Overflow for $1.8 billion.
+stack_overflow: As of 2011, 92% of the questions were answered, in a median time of 11 minutes.
+stack_overflow: Users unlock new privileges with an increase in reputation like the ability to vote, comment, and even edit other people's posts.
+stack_overflow: As of June 2025, Stack Overflow has over 29 million registered users, and has received over 24 million questions and 36 million answers.
+stack_overflow: As of August 2012, 443,000 of the 1.3 million registered users had answered at least one question, and of those, approximately 6,000 (0.46% of the total user count) had earned a reputation score greater than 5000.
+stack_overflow: In 2019, Stack Overflow named Prashanth Chandrasekar as its chief executive officer and Teresa Dietrich as its chief product officer.
+stack_overflow: A 2013 study has found that 75% of users only ask one question, 65% only answer one question, and only 8% of users answer more than 5 questions.
+stack_overflow: Answers and a way to prevent low quality questions.
+stack_overflow: Stack Overflow serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down similar to Reddit and edit questions and answers in a fashion similar to a wiki.
+stack_overflow: Questions of a broader nature—or those inviting answers that are inherently a matter of opinion—are usually rejected by the site's users, and marked as closed.
+stack_overflow: The site's culture has been criticized in the past for being unfriendly by one research paper, especially in the context of gender differences in participation and beginners learning computer science.
+stack_overflow: Questions submitted by users fell 78% between December 2024 and December 2025.
+stack_overflow: The name for the website was chosen by voting in April 2008 by readers of Coding Horror, Atwood's programming blog.
+stack_overflow: On 31 July 2008, Jeff Atwood sent out invitations encouraging his subscribers to take part in the private beta of the new website, limiting its use to those willing to test out the new software.
+stack_overflow: The sister site softwareengineering.stackexchange.com is intended to be a venue for broader queries, e.g.
+stack_overflow: It contained a bug which allowed an attacker to grant themselves privileges in accessing the production version of the site.

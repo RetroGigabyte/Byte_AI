@@ -1,0 +1,44 @@
+data_science: In 1998, Hayashi Chikio argued for data science as a new, interdisciplinary concept, with three aspects: data design, collection, and analysis.
+data_science: Ethical concerns include potential privacy violations, bias perpetuation, and negative societal impacts.
+data_science: Andrew Gelman of Columbia University has described statistics as a non-essential part of data science.
+data_science: The professional title of "data scientist" has been attributed to DJ Patil and Jeff Hammerbacher in 2008.
+data_science: Data science involves working with larger datasets that often require advanced computational and statistical methods to analyze.
+data_science: In contrast, data science deals with quantitative and qualitative data (e.g., from images, text, sensors, transactions, customer information, etc.) and emphasizes prediction and action.
+data_science: In 2014, the American Statistical Association's Section on Statistical Learning and Data Mining changed its name to the Section on Statistical Learning and Data Science, reflecting the ascendant popularity of data science.
+data_science: Some researchers argue that the combination of the different fields resembles how information science was decades ago.
+data_science: The modern conception of data science as an independent discipline is sometimes attributed to William S.
+data_science: However, the definition was still in flux.
+data_science: In big data, where volumes of information are continually generated and processed, these platforms can be used to handle complex and resource-intensive analytical tasks.
+data_science: Data science is "a concept to unify statistics, data analysis, informatics, and their related methods" to "understand and analyze actual phenomena" with data.
+data_science: Data science is multifaceted and can be described as a science, a research paradigm, a research method, a discipline, a workflow, and a profession.
+data_science: The term "data science" has been traced back to 1974, when Peter Naur proposed it as an alternative name to computer science.
+data_science: Data analysts typically use statistical methods to test these hypotheses and draw conclusions from the data.
+data_science: Machine learning models can amplify existing biases present in training data, leading to discriminatory or unfair outcomes.
+data_science: These similarities help clarify how data science gradually became its own field of study.
+data_science: It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge.
+data_science: Vasant Dhar writes that statistics emphasizes quantitative data and description.
+data_science: Data science is often described as a multidisciplinary and rapidly evolving field because it draws on techniques from diverse areas, such as computer science, statistics, information science, and other subject-specific disciplines.
+data_science: This can involve tasks such as data cleaning and data visualization to summarize data and develop hypotheses about relationships between variables.
+data_science: Data analysis typically involves working with structured datasets to answer specific questions or solve specific problems.
+data_science: A decade later, they reaffirmed it, stating that "the job is more in demand than ever with employers".
+data_science: Though it was used by the National Science Board in their 2005 report "Long-Lived Digital Data Collections: Enabling Research and Education in the 21st Century", it referred broadly to any key role in managing a digital data collection.
+data_science: Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of computing and that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data-science program.
+data_science: Some distributed computing frameworks are designed to handle big data workloads.
+data_science: However, data science is distinct from computer science and information science.
+data_science: Cloud computing can offer access to large amounts of computational power and storage.
+data_science: He reasoned that a new name would help statistics shed inaccurate stereotypes, such as being synonymous with accounting or limited to describing data.
+data_science: Data science also integrates domain knowledge from the underlying application domain (e.g., natural sciences, information technology, and medicine).
+data_science: After the 1985 lecture at the Chinese Academy of Sciences in Beijing, in 1997 C.
+data_science: Jeff Wu again suggested that statistics should be renamed data science.
+data_science: Data science often uses statistical analysis, data preprocessing, and supervised learning.
+data_science: The field encompasses preparing data for analysis, formulating data science problems, analyzing data, and summarizing these findings.
+data_science: Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.
+data_science: A data scientist is a professional who creates programming code and combines it with statistical knowledge to summarize data.
+data_science: He describes data science as an applied field growing out of traditional statistics.
+data_science: Data scientists often work with unstructured data such as text or images and use machine learning algorithms to build predictive models.
+data_science: As such, it incorporates skills from computer science, mathematics, data visualization, graphic design, communication, and business.
+data_science: Davenport and DJ Patil declared "Data Scientist: The Sexiest Job of the 21st Century", a catchphrase that was picked up even by major-city newspapers like the New York Times and the Boston Globe.
+data_science: Later, attendees at a 1992 statistics symposium at the University of Montpellier  II acknowledged the emergence of a new discipline focused on data of various origins and forms, combining established concepts and principles of statistics and data analysis with computing.
+data_science: Jeff Wu used the term "data science" for the first time as an alternative name for statistics.
+data_science: These frameworks can enable data scientists to process and analyze large datasets in parallel, which can reduce processing times.
+data_science: In 1985, in a lecture given to the Chinese Academy of Sciences in Beijing, C.

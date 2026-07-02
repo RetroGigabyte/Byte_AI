@@ -1,0 +1,265 @@
+avalanche: The start zone of an avalanche must be steep enough to allow snow to accelerate once set in motion, additionally convex slopes are less stable than concave slopes because of the disparity between the tensile strength of snow layers and their compressive strength.
+avalanche: Typically winter seasons at high latitudes, high altitudes, or both have weather that is sufficiently unsettled and cold enough for precipitated snow to accumulate into a seasonal snowpack.
+avalanche: Consolidated snow is less likely to slough than loose powdery layers or wet isothermal snow; however, consolidated snow is a necessary condition for the occurrence of slab avalanches, and persistent instabilities within the snowpack can hide below well-consolidated surface layers.
+avalanche: Even on a clear day, wind can quickly load a slope with snow by blowing snow from one place to another.
+avalanche: Explosives are used extensively to prevent avalanches, by triggering smaller avalanches that break down instabilities in the snowpack, and removing overburden that can result in larger avalanches.
+avalanche: On 28 January 2003, the Tatra Mountains avalanche swept away nine out of a thirteen-member group heading to the summit of Rysy in the Tatra Mountains.
+avalanche: Avalanches can be triggered spontaneously, by factors such as increased precipitation or snowpack weakening, or by external means such as humans, other animals, and earthquakes.
+avalanche: Slopes flatter than 25 degrees or steeper than 60 degrees typically have a lower incidence of avalanches.
+avalanche: Generally described in more detail in the avalanche bulletin (regarding the altitude, aspect, type of terrain etc.)
+[2] additional load:
+avalanche: Elsner (Eds.), Springer, 2007 
+Daffern, Tony: Avalanche Safety for Skiers, Climbers and Snowboarders, Rocky Mountain Books, 1999, ISBN 0-921102-72-0
+Billman, John: Mike Elggren on Surviving an Avalanche.
+avalanche: Doug Fesler and Jill Fredston developed a conceptual model of the three primary elements of avalanches: terrain, weather, and snowpack.
+avalanche: Once deposited, a snow layer continues to evolve under the influence of the meteorological conditions that prevail after deposition.
+avalanche: They are also expensive and vulnerable to damage from falling rocks in the warmer months.
+avalanche: Driving an avalanche is the component of the avalanche's weight parallel to the slope; as the avalanche progresses any unstable snow in its path will tend to become incorporated, so increasing the overall weight.
+avalanche: When a slab lying on top of a persistent weakness is loaded by a force greater than the strength of the slab and persistent weak layer, the persistent weak layer can fail and generate an avalanche.
+avalanche: When the avalanche loses its momentum and eventually stops it reaches the Runout Zone.
+avalanche: Two avalanches occurred in March 1910 in the Cascade and Selkirk Mountain ranges.
+avalanche: The result is a rating of slope stability on a seven step scale.
+avalanche: The melting and refreezing of water in the snow strengthens the snowpack during the freezing phase and weakens it during the thawing phase.
+avalanche: Five of them, who were thrown aside by the avalanche, would survive.
+avalanche: Finally, along transportation corridors, large shelters, called snow sheds, can be built directly in the slide path of an avalanche to protect traffic from avalanches.
+avalanche: Though they appear to share similarities, avalanches are distinct from slush flows, mudslides, rock slides, and serac collapses.
+avalanche: Explosive charges are delivered by a number of methods including hand-tossed charges, helicopter-dropped bombs, Gazex concussion lines, and ballistic projectiles launched by air cannons and artillery.
+avalanche: The frequency with which avalanches form in a given area is known as the return period.
+avalanche: When there is a sufficient density of trees, they can greatly reduce the strength of avalanches.
+avalanche: roads and rails) or evacuate (e.g.
+avalanche: Half sizes are commonly used.
+avalanche: In contrast, all the accidents in the residential, industrial, and transportation settings were due to spontaneous natural avalanches.
+avalanche: These angular crystals, which bond poorly to one another and the surrounding snow, often become a persistent weakness in the snowpack.
+avalanche: The top of the snowpack is also extensively influenced by incoming radiation and the local air flow.
+avalanche: The slope angle that can allow moving snow to accelerate depends on a variety of factors such as the snow's shear strength (which is itself dependent upon crystal form) and the configuration of layers and inter-layer interfaces.
+avalanche: Any wind stronger than a light breeze can contribute to a rapid accumulation of snow on sheltered slopes downwind.
+avalanche: A 2 m wide block of snow is isolated from the rest of the slope and progressively loaded.
+avalanche: "Avalanche" .
+avalanche: Voellmy used a simple empirical formula, treating an avalanche as a sliding block of snow moving with a drag force that was proportional to the square of the speed of its flow:
+avalanche: In mountainous areas, avalanches are among the most serious natural hazards to life and property, so great efforts are made in avalanche control.
+avalanche: The origin of an avalanche is called the Starting Point and typically occurs on a 30–45 degree slope.
+avalanche: Engineered drainages, such as the avalanche dam on Mount Stephen in Kicking Horse Pass, have been constructed to protect people and property by redirecting the flow of avalanches.
+avalanche: Among the critical factors controlling snowpack evolution are: heating by the sun, radiational cooling, vertical temperature gradients in standing snow, snowfall amounts, and snow types.
+avalanche: Descriptors vary depending on country.
+avalanche: The body of the flow of a wet snow avalanche can plough through soft snow, and can scour boulders, earth, trees, and other vegetation; leaving exposed and often scored ground in the avalanche track.
+avalanche: Higher elevations predicted to remain above the seasonal snow line will likely see an increase in avalanche activity due to the increases in precipitation during the winter season.
+avalanche: The rule of thumb is: A slope that is flat enough to hold snow but steep enough to ski has the potential to generate an avalanche, regardless of the angle.
+avalanche: These barriers are made out of concrete, rocks, or earth.
+avalanche: These properties may all metamorphose in time according to the local humidity, water vapour flux, temperature and heat flux.
+avalanche: When a temperature gradient greater than 10 °C change per vertical meter of snow is sustained for more than a day, angular crystals called depth hoar or facets begin forming in the snowpack because of rapid moisture transport along the temperature gradient.
+avalanche: They are typically very difficult to predict and almost impossible to mitigate.
+avalanche: The snowpack is composed of ground-parallel layers that accumulate over the winter.
+avalanche: In practice the formal mechanical and structural factors related to snowpack instability are not directly observable outside of laboratories, thus the more easily observed properties of the snow layers (e.g.
+avalanche: Predictions also show an increase in the number of rain on snow events, and wet avalanche cycles occurring earlier in the spring during the remainder of this century.
+avalanche: Moderate and high elevations may see an increase in volatile swings from one weather extreme to the other.
+avalanche: When the wind blows across a ridge that leads up the mountain, the leeward side of the ridge is subject to cross-loading.
+avalanche: This usually occurs when the slope has reached a steepness that is less than 20 degrees.
+avalanche: This force will increase as the steepness of the slope increases, and diminish as the slope flattens.
+avalanche: Downwind of the fence, snow build-up is lessened.
+avalanche: Avalanches can be described by their size, destructive potential, initiation mechanism, composition, and dynamics.
+avalanche: Slopes in the lee of a ridge or of another wind obstacle accumulate more snow and are more likely to include pockets of deep snow, wind slabs, and cornices, all of which, when disturbed, may result in avalanche formation.
+avalanche: Terrain describes the places where avalanches occur, weather describes the meteorological conditions that create the snowpack, and snowpack describes the structural characteristics of snow that make avalanche formation possible.
+avalanche: Some 10,000 men, from both sides, died in avalanches in December 1916.
+avalanche: Rigid barriers are often considered unsightly, especially when many rows must be built.
+avalanche: They can form from any type of snow or initiation mechanism, but usually occur with fresh dry powder.
+avalanche: Cross-loaded wind-slabs are usually difficult to identify visually.
+avalanche: Slab avalanches account for around 90% of avalanche-related fatalities.
+avalanche: Preventative measures are employed in areas where avalanches pose a significant threat to people, such as ski resorts, mountain towns, roads, and railways.
+avalanche: The resulting movement is more analogous to a rockfall or a landslide than a snow avalanche.
+avalanche: When sufficiently fine particles are present they can become airborne and, given a sufficient quantity of airborne snow, this portion of the avalanche can become separated from the bulk of the avalanche and travel a greater distance as a powder snow avalanche.
+avalanche: Persistent cold temperatures can either prevent new snow from stabilizing or destabilize the existing snowpack.
+avalanche: Daytime exposure to sunlight will rapidly destabilize the upper layers of the snowpack if the sunlight is strong enough to melt the snow, thereby reducing its hardness.
+avalanche: Encyclopædia Britannica (11th ed.).
+avalanche: Thirty-one people died.
+avalanche: However, the strength of the snowpack is much more difficult to determine and is extremely heterogeneous.
+avalanche: The low speed of travel is due to the friction between the sliding surface of the track and the water saturated flow.
+avalanche: An avalanche will continue to accelerate until the resistance exceeds the forward force.
+avalanche: Voellmy and popularised following the publication in 1955 of his Ueber die Zerstörungskraft von Lawinen (On the Destructive Force of Avalanches).
+avalanche: The angle of the slope that can hold snow, called the angle of repose, depends on a variety of factors, such as crystal form and moisture content.
+avalanche: Avalanche accidents are broadly differentiated into 2 categories: accidents in recreational settings, and accidents in residential, industrial, and transportation settings.
+avalanche: Storm slab
+Wind slab
+Wet slab avalanches
+Persistent slab
+Deep persistent slab
+Loose dry avalanches
+Loose wet avalanches
+Glide avalanches
+Cornice fall
+avalanche: (Rutsch means slide in German.)
+avalanche: Most avalanches occur spontaneously during storms under increased load due to snowfall and/or erosion.
+avalanche: Snow builds up around the fence, especially the side that faces the prevailing winds.
+avalanche: Artificial triggers of avalanches include skiers, snowmobiles, and controlled explosive work.
+avalanche: The simplest active measure is repeatedly traveling on a snowpack as snow accumulates; this can be by means of boot-packing, ski-cutting, or machine grooming.
+avalanche: ISBN 0-89886-834-3
+Munter, Werner: Drei mal drei (3x3) Lawinen.
+avalanche: At temperate latitudes wet snow avalanches are frequently associated with climatic avalanche cycles at the end of the winter season, when there is significant daytime warming.
+avalanche: Radiative heat loss occurs when the night air is significantly cooler than the snowpack, and the heat stored in the snow is re-radiated into the atmosphere.
+avalanche: Continentality, through its potentiating influence on the meteorological extremes experienced by snowpacks, is an important factor in the evolution of instabilities, and consequential occurrence of avalanches faster stabilization of the snowpack after storm cycles.
+avalanche: Additionally, the predicted thinner snowpacks may increase the frequency of injuries due to trauma, such as a buried skier striking a rock or tree.
+avalanche: The composition and structure of the ground surface beneath the snowpack influences the stability of the snowpack, either being a source of strength or weakness.
+avalanche: Uncertainty associated with the empirical understanding of the factors influencing snow stability leads most professional avalanche workers to recommend conservative use of avalanche terrain relative to current snowpack instability.
+avalanche: The load is straightforward; it is the weight of the snow.
+avalanche: The snowpack on slopes with sunny exposures is strongly influenced by sunshine.
+avalanche: Interferometric radars, high-resolution cameras, or motion sensors can monitor unstable areas over a long term, lasting from days to years.
+avalanche: Since the 1990s many more sophisticated models have been developed.
+avalanche: They are also different from large scale movements of ice.
+avalanche: The remaining 19 people – including 13 Russians, 4 citizens of East Germany, and two Polish citizens – were killed.
+avalanche: Avalanches are unlikely to form in very thick forests, but boulders and sparsely distributed vegetation can create weak areas deep within the snowpack through the formation of strong temperature gradients.
+avalanche: Storm precipitation intensity is also expected to increase, which is likely to lead to more days with enough snowfall to cause the snowpack to become unstable.
+avalanche: The isothermal characteristic of wet snow avalanches has led to the secondary term of isothermal slides found in the literature (for example in Daffern, 1999, p.
+avalanche: A total of 1,100 people took part in the rescue operation.
+avalanche: Despite the low speed of travel (≈10–40 km/h), wet snow avalanches are capable of generating powerful destructive forces, due to the large mass and density.
+avalanche: In coastal mountains, such as the Cordillera del Paine region of Patagonia, deep snowpacks collect on vertical and even overhanging rock faces.
+avalanche: Full-depth avalanches (avalanches that sweep a slope virtually clean of snow cover) are more common on slopes with smooth ground, such as grass or rock slabs.
+avalanche: There are several ways to prevent avalanches and lessen their power and develop preventative measures to reduce the likelihood and size of avalanches by disrupting the structure of the snowpack, while passive measures reinforce and stabilize the snowpack in situ.
+avalanche: If an avalanche moves fast enough, some of the snow may mix with the air, forming a powder snow avalanche.
+avalanche: They have the characteristic appearance of a block (slab) of snow cut out from its surroundings by fractures.
+avalanche: They hold snow in place and when there is an avalanche, the impact of the snow against the trees slows it down.
+avalanche: Modern radar technology enables the monitoring of large areas and the localization of avalanches at any weather condition, by day and by night.
+avalanche: Complex alarm systems are able to detect avalanches within a short time in order to close (e.g.
+avalanche: Precipitation is expected to increase, meaning more snow or rain depending on the elevation.
+avalanche: In contrast to powder snow avalanches, wet snow avalanches are a low velocity suspension of snow and water, with the flow confined to the track surface (McClung, 1999, p.
+avalanche: These degrees are not consistently true due to the fact that each avalanche is unique depending on the stability of the snowpack that it was derived from as well as the environmental or human influences that triggered the mass movement.
+avalanche: But note the myths cited above
+Utah Avalanche Center
+New Zealand Avalanche Advisory
+Gulmarg Avalanche Center
+US Avalanche.org
+Sierra Avalanche Center (Tahoe National Forest)
+avalanche: He and others subsequently derived other formulae that take other factors into account, with the Voellmy-Salm-Gubler and the Perla-Cheng-McClung models becoming most widely used as simple tools to model flowing (as opposed to powder snow) avalanches.
+avalanche: Scientific studies using radar, following the 1999 Galtür avalanche disaster, confirmed the hypothesis that a saltation layer forms between the surface and the airborne components of an avalanche, which can also separate from the bulk of the avalanche.
+avalanche: Snowpack layers will form differently depending on whether snow is falling in very cold or very warm conditions, and very dry or very humid conditions.
+avalanche: Other natural causes include rain, earthquakes, rockfall, and icefall.
+avalanche: One of the aims of avalanche research is to develop and validate computer models that can describe the evolution of the seasonal snowpack over time.
+avalanche: This increases the likelihood of death by asphyxia in the event of a burial.
+avalanche: A complicating factor is the complex interaction of terrain and weather, which causes significant spatial and temporal variability of the depths, crystal forms, and layering of the seasonal snowpack.
+avalanche: Passive preventive systems such as snow fences and light walls can be used to direct the placement of snow.
+avalanche: A large avalanche in Montroc, France, in 1999, 300,000 cubic metres of snow slid on a 30° slope, achieving a speed in the region of 100 km/h (62 mph).
+avalanche: Observation and experience has shown that newly fallen snow requires time to bond with the snow layers beneath it, especially if the new snow falls during very cold and dry conditions.
+avalanche: In the recreational setting most accidents are caused by the people involved in the avalanche.
+avalanche: The village was thought to be in a safe zone but the avalanche was exceptionally large and flowed into the village.
+avalanche: Denser avalanche debris decreases the ability for a buried person to breathe and the amount of time they have before they run out of oxygen.
+avalanche: His method was developed by A.
+avalanche: A mountain climbing camp on Lenin Peak, in what is now Kyrgyzstan, was wiped out in 1990 when an earthquake triggered a large avalanche that overran the camp.
+avalanche: An example of such a system is installed on the only access road of Zermatt in Switzerland.
+avalanche: tensile strength, friction coefficients, shear strength, and ductile strength).
+avalanche: In the long term, avalanche frequency at lower elevations is expected to decline corresponding to a decrease in snow cover and depth, and a short-term increase in the number of wet avalanches are predicted.
+avalanche: Second, the relationship between readily observable snowpack characteristics and the snowpack's critical mechanical properties has not been completely developed.
+avalanche: An avalanche is a rapid flow of snow down a slope, such as a hill or mountain.
+avalanche: gentle slopes: with an incline below about 30°
+steep slopes: with an incline over 30°
+very steep slopes: with an incline over 35°
+extremely steep slopes: extreme in terms of the incline (over 40°), the terrain profile, proximity of the ridge, smoothness of underlying ground
+avalanche: Each layer contains ice grains that are representative of the distinct meteorological conditions during which the snow formed and was deposited.
+avalanche: Climate change-caused temperature increases and changes in precipitation patterns will likely differ between the different mountain regions, and the impacts of these changes on avalanches will change at different elevations.
+avalanche: Contrary to popular belief, avalanches are not triggered by loud sound; the pressure from sound is orders of magnitude too small to trigger an avalanche.
+avalanche: Skiing magazine February 2007: 26.
+avalanche: At temperatures close to the freezing point of water, or during times of moderate solar radiation, a gentle freeze-thaw cycle will take place.
+avalanche: On 3 July 2022 a serac collapsed on the Marmolada Glacier, Italy, causing an avalanche that killed 11 alpinists and injured eight.
+avalanche: Forty-three climbers were killed.
+avalanche: McClung, David and Shaerer, Peter: The Avalanche Handbook, The Mountaineers: 2006.
+avalanche: They are most frequent in winter or spring, but may occur at any time of the year.
+avalanche: On average, 28 people die in avalanches every winter in the United States.
+avalanche: They usually have gaps between the beams and are built perpendicular to the slope, with reinforcing beams on the downhill side.
+avalanche: It killed 12 people in their chalets under 100,000 tons of snow, 5 meters (16 feet) deep.
+avalanche: At and below tree line, avalanche paths through drainages are well defined by vegetation boundaries called trim lines, which occur where avalanches have removed trees and prevented regrowth of large vegetation.
+avalanche: penetration resistance, grain size, grain type, temperature) are used as index measurements of the mechanical properties of the snow (e.g.
+avalanche: Avalanche initiation can start at a point with only a small amount of snow moving initially; this is typical of wet snow avalanches or avalanches in dry unconsolidated snow.
+avalanche: It varies in detail with properties of the snow grains, size, density, morphology, temperature, water content; and the properties of the bonds between the grains.
+avalanche: In Switzerland most occur at levels 2 and 3.
+avalanche: construction sites) endangered areas.
+avalanche: Slabs can vary in thickness from a few centimetres to three metres.
+avalanche: There are many classification systems for the different forms of avalanches.
+avalanche: Cold air temperatures on the snow surface produce a temperature gradient in the snow, because the ground temperature at the base of the snowpack is usually around 0 °C, and the ambient air temperature can be much colder.
+avalanche: With the D-scale, half sizes can be used.
+avalanche: It is thought that this may be due to national differences of interpretation when assessing the risks.
+avalanche: To mitigate the effect of avalanches the construction of artificial barriers can be very effective in reducing avalanche damage.
+avalanche: Conversely, the snowpack on a windward slope is often much shallower than on a lee slope.
+avalanche: Generally speaking, avalanches follow drainages down-slope, frequently sharing drainage features with summertime watersheds.
+avalanche: In France, most avalanche deaths occur at risk levels 3 and 4.
+avalanche: Human-triggered avalanches have the greatest incidence when the snow's angle of repose is between 35 and 45 degrees; the critical angle, the angle at which human-triggered avalanches are most frequent, is 38 degrees.
+avalanche: Generally, mild winter weather will promote the settlement and stabilization of the snowpack; conversely, very cold, windy, or hot weather will weaken the snowpack.
+avalanche: the monitoring of the Weissmies glacier in Switzerland) can recognize events several days in advance.
+avalanche: Some forms of drier and colder snow will only stick to shallower slopes, while wet and warm snow can bond to very steep surfaces.
+avalanche: For the 11-year period ending April 2006, 445 people died in avalanches throughout North America.
+avalanche: A rapid rise in temperature, to a point significantly above the freezing point of water, may cause avalanche formation at any time of year.
+avalanche: These barriers are similar to those used for rockslides.
+avalanche: If the fragments become small enough the outer layer of the avalanche, called a saltation layer, takes on the characteristics of a fluid.
+avalanche: Trees can either be planted or they can be conserved, such as in the building of a ski resort, to reduce the strength of avalanches.
+avalanche: Wet snow avalanches can be initiated from either loose snow releases, or slab releases, and only occur in snowpacks that are water saturated and isothermally equilibrated to the melting point of water.
+avalanche: This distinction is motivated by the observed difference in the causes of avalanche accidents in the two settings.
+avalanche: In a 1996 study, Jamieson et al.
+avalanche: Snow Avalanches as a Non-critical, Punctuated Equilibrium System: Chapter 24 in Nonlinear Dynamics in Geosciences, A.A.
+avalanche: The debris deposit is the accumulated mass of the avalanched snow once it has come to rest in the run-out zone.
+avalanche: In the Northern Hemisphere winter of 1950–1951 approximately 649 avalanches were recorded in a three-month period throughout the Alps in Austria, France, Switzerland, Italy and Germany.
+avalanche: During clear nights, the snowpack can re-freeze when ambient air temperatures fall below freezing, through the process of long-wave radiative cooling, or both.
+avalanche: This is caused by the loss of snow at the fence that would have been deposited and the pickup of the snow that is already there by the wind, which was depleted of snow at the fence.
+avalanche: Because of the difference in the causes of avalanche accidents, and the activities pursued in the two settings, avalanche and disaster management professionals have developed two related preparedness, rescue, and recovery strategies for each of the settings.
+avalanche: Wind slabs form quickly and, if present, weaker snow below the slab may not have time to adjust to the new load.
+avalanche: Rain has a similar effect.
+avalanche: In the short term, rain causes instability because, like a heavy snowfall, it imposes an additional load on the snowpack and once rainwater seeps down through the snow, acts as a lubricant, reducing the natural friction between snow layers that holds the snowpack together.
+avalanche: Experts interpret the recorded data and are able to recognize upcoming ruptures in order to initiate appropriate measures.
+avalanche: (pages 7–20) found that 83% of all avalanches in the recreational setting were caused by those who were involved in the accident.
+avalanche: Avalanches can happen in any mountain range that has an enduring snowpack.
+avalanche: The body of the pathway is called the Track of the avalanche and usually occurs on a 20–30 degree slope.
+avalanche: Deep debris deposits from avalanches will collect in catchments at the terminus of a run out, such as gullies and river beds.
+avalanche: Another type of barrier is a rigid fence-like structure (snow fence) and may be constructed of steel, wood or pre-stressed concrete.
+avalanche: After being set off, avalanches usually accelerate rapidly and grow in mass and volume as they capture more snow.
+avalanche: Primarily composed of flowing snow and air, large avalanches have the capability to capture and move ice, rocks, and trees.
+avalanche: Other known models are the SAMOS-AT avalanche simulation software and the RAMMS software.
+avalanche: For the image at left, many small avalanches form in this avalanche path every year, but most of these avalanches do not run the full vertical or horizontal length of the path.
+avalanche: Tsonsis and J.B.
+avalanche: When a wind blows over the top of a mountain, the leeward, or downwind, side of the mountain experiences top-loading, from the top to the bottom of that lee slope.
+avalanche: 1999 Galtür avalanche
+Montroc
+2012 Gayari Sector avalanche
+avalanche: Two radars monitor the slope of a mountain above the road.
+avalanche: In addition to industrially manufactured barriers, landscaped barriers, called avalanche dams stop or deflect avalanches with their weight and strength.
+avalanche: The small Austrian village of Galtür was hit by the Galtür avalanche in 1999.
+avalanche: Warm snow has a higher moisture content and is therefore denser than colder snow.
+avalanche: The avalanche in Biały Jar occurred on 20 March 1968, sweeping away 24 people who were walking along the bottom of Biały Jar ravine in the Giant Mountains.
+avalanche: Thus, climate change may affect when, where, and how often avalanches occur, and may also change the type of avalanches that are occurring.
+avalanche: The crown and flank fractures are vertical walls in the snow delineating the snow that was entrained in the avalanche from the snow that remained on the slope.
+avalanche: Metamorphic changes in the snowpack, such as melting due to solar radiation, is the second-largest cause of natural avalanches.
+avalanche: These consist of a powder cloud, which overlies a dense avalanche.
+avalanche: They are usually placed right above the structure, road, or railway that they are trying to protect, although they can also be used to channel avalanches into other barriers.
+avalanche: A snowpack will fail when the load exceeds the strength.
+avalanche: Snowstorms and rainstorms are important contributors to avalanche danger.
+avalanche: In 2001 it was reported that globally an average of 150 people die each year from avalanches.
+avalanche: While the deterministic relationship between snowpack characteristics and snowpack stability is still a matter of ongoing scientific study, there is a growing empirical understanding of the snow composition and deposition characteristics that influence the likelihood of an avalanche.
+avalanche: Top-loading occurs when wind deposits snow from the top of a slope; cross-loading occurs when wind deposits snow parallel to the slope.
+avalanche: Occasionally, earth mounds are placed in the avalanche's path to slow it down.
+avalanche: The evolution of the snowpack is critically sensitive to small variations within the narrow range of meteorological conditions that allow for the accumulation of snow into a snowpack.
+avalanche: If ambient air temperatures are cold enough, shallow snow above or around boulders, plants, and other discontinuities in the slope, weakens from rapid crystal growth that occurs in the presence of a critical temperature gradient.
+avalanche: Avalanches only occur in a standing snowpack.
+avalanche: Avalanches occur in two general forms, or combinations thereof: slab avalanches made of tightly packed snow, triggered by a collapse of an underlying weak snow layer, and loose snow avalanches made of looser snow.
+avalanche: Such systems (e.g.
+avalanche: The mayor of Chamonix was convicted of second-degree murder for not evacuating the area, but received a suspended sentence.
+avalanche: On 1 March the Wellington avalanche killed 96 in Washington state, United States.
+avalanche: Diurnal cycles of thawing and refreezing can stabilize the snowpack by promoting settlement.
+avalanche: This series of avalanches killed around 265 people and was termed the Winter of Terror.
+avalanche: The participants of the trip were students from the I Leon Kruczkowski High School in Tychy and individuals associated with the school's sports club.
+avalanche: Heavy snowfall will cause instability in the existing snowpack, both because of the additional weight and because the new snow has insufficient time to bond to underlying snow layers.
+avalanche: Risikomanagement im Wintersport, Bergverlag Rother, 2002.
+avalanche: For an avalanche to occur, it is necessary that a snowpack have a weak layer (or instability) below a slab of cohesive snow.
+avalanche: Cambridge University Press.
+avalanche: Descriptions were last updated in May 2003 to enhance uniformity.
+avalanche: In 1993, the Bayburt Üzengili avalanche killed 60 individuals in Üzengili in the province of Bayburt, Turkey.
+avalanche: Strong freeze-thaw cycles result in the formation of surface crusts during the night and of unstable surface snow during the day.
+avalanche: They can exceed speeds of 300 km/h (190 mph), and masses of 1,000,000 tons; their flows can travel long distances along flat valley bottoms and even uphill for short distances.
+avalanche: ISBN 978-0-89886-809-8
+Tremper, Bruce: Staying Alive in Avalanche Terrain, The Mountaineers: 2001.
+avalanche: Three days later 62 railroad workers were killed in the Rogers Pass avalanche in British Columbia, Canada.
+avalanche: During World War I, an estimated 40,000 to 80,000 soldiers died as a result of avalanches during the mountain campaign in the Alps at the Austrian-Italian front, many of which were caused by artillery fire.
+avalanche: The largest avalanches form turbulent suspension currents known as powder snow avalanches or mixed avalanches, a kind of gravity current.
+avalanche: Large, angular snow crystals are indicators of weak snow, because such crystals have fewer bonds per unit volume than small, rounded crystals that pack tightly together.
+avalanche: Both size scales range from 1 to 5.
+avalanche: The system automatically closes the road by activating several barriers and traffic lights within seconds such that no people are harmed.
+avalanche: There are several types: One kind of barrier (snow net) uses a net strung between poles that are anchored by guy wires in addition to their foundations.
+avalanche: However, if the snow has sintered into a stiff slab overlying a weak layer, then fractures can propagate very rapidly, so that a large volume of snow, possibly thousands of cubic metres, can start moving almost simultaneously.
+avalanche: Avalanches and avalanche paths share common elements: a start zone where the avalanche originates, a track along which the avalanche flows, and a runout zone where the avalanche comes to rest.
+avalanche: When the incidence of human triggered avalanches is normalized by the rates of recreational use, however, hazard increases uniformly with slope angle, and no significant difference in hazard for a given exposure direction can be found.
+avalanche: From "1950–1951 to 2020–2021" there were 1,169 people who died in avalanches in the United States.
+avalanche: Elements of slab avalanches include a crown fracture at the top of the start zone, flank fractures on the sides of the start zones, and a fracture at the bottom called the stauchwall.
+avalanche: Most avalanches happen during or soon after a storm.

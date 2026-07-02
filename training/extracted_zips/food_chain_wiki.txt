@@ -1,0 +1,59 @@
+food_chain: For example, a food chain might start with a green plant as the producer, which is eaten by a snail, the primary consumer.
+food_chain: The modern concepts of food chains and food webs were introduced by Charles Elton.
+food_chain: Regardless of where the energy is obtained, a species that produces its own energy lies at the base of the food chain model, and is a critically important part of an ecosystem.
+food_chain: It is estimated that there are more than 100,000 different decomposers in existence.
+food_chain: In the higher trophic levels lies consumers (secondary consumers, tertiary consumers, etc.).
+food_chain: Removing even one component from the food chain could result in extinction or significant decreases in a species' probability of surviving.
+food_chain: Ecologists have formulated and tested hypotheses regarding the nature of ecological patterns associated with food chain length, such as length increasing with ecosystem volume, limited by the reduction of energy at each successive level, or reflecting habitat type.
+food_chain: The food chain is an energy source diagram.
+food_chain: One way keystone species impact an ecosystem is through their presence in an ecosystem's food web and, by extension, a food chain within said ecosystem.
+food_chain: There are usually no more than five tropic levels in a food chain.
+food_chain: Without the presence of sea otters, sea urchins practice destructive grazing on kelp populations which contributes to declines in coastal ecosystems within the northern pacific regions.
+food_chain: The presence of sea otters controls sea urchin populations and helps maintain kelp forests, which are vital for other species within the ecosystem.
+food_chain: Keystone species' are so vital for an ecosystem that without their presence, an ecosystem could transform or stop existing entirely.
+food_chain: The absence of a keystone species could destroy the balance of the entire food chain.
+food_chain: Decomposers and detritivores break down the organic compounds into simple nutrients that are returned to the soil.
+food_chain: This complexity was denominated metaphoetesis by G.
+food_chain: This energy then moves through the trophic levels.
+food_chain: Primary producers, or autotrophs, utilize energy derived from either sunlight or inorganic chemical compounds to create complex organic compounds, such as starch, for energy.
+food_chain: Sea otters, a keystone species in Pacific coastal regions, prey on sea urchins.
+food_chain: Studies of food chains are essential to many biological studies.
+food_chain: Models of trophic levels also often model energy transfer between trophic levels.
+food_chain: Hutchinson, 1959.
+food_chain: Many food chains and food webs contain a keystone species, a species that could directly affect the food chain and has a significant impact on the environment.
+food_chain: Natural interconnections between food chains make a food web, which are non-linear and depict interconnecting pathways of consumption and energy transfer.
+food_chain: All organisms in a food chain, except the first organism, are consumers.
+food_chain: When any trophic level dies, detritivores and decomposers consume their organic material for energy and expel nutrients into the environment in their waste.
+food_chain: Food chains are often used in ecological modeling (such as a three-species food chain).
+food_chain: They are simplified abstractions of real food webs, but complex in their dynamics and mathematical implications.
+food_chain: The snail might then be the prey of a secondary consumer such as a frog, which itself may be eaten by a tertiary consumer such as a snake which in turn may be consumed by an eagle.
+food_chain: At the highest trophic level is typically an apex predator, a consumer with no natural predators in the food chain model.
+food_chain: Chemosynthetic bacteria and archaea use hydrogen sulfide and methane from hydrothermal vents and cold seeps as an energy source (just as plants use sunlight) to produce carbohydrates; they form the base of the food chain in regions with little to no sunlight.
+food_chain: Because the sun's light is necessary for photosynthesis, most life could not exist if the sun disappeared.
+food_chain: is often contrasted by the real situation in which the juveniles of a species belong to a lower trophic level than the adults, a situation more often seen in aquatic and amphibious environments, e.g., in insects and fishes.
+food_chain: The tertiary consumers may sometimes become prey to the top predators known as the quaternary consumers.
+food_chain: Secondary consumers eat and obtain energy from primary consumers, tertiary consumers eat and obtain energy from secondary consumers, etc.
+food_chain: Thus, the foundation of the food chain typically consists of primary producers.
+food_chain: Even so, it has recently been discovered that there are some forms of life, chemotrophs, that appear to gain all their metabolic energy from chemosynthesis driven by hydrothermal vents, thus showing that some life may not require solar energy to thrive.
+food_chain: Stability of the food chain is crucial for survival of most species.
+food_chain: Consumers are organisms that eat other organisms.
+food_chain: A food chain illustrates the associations between organisms according to the energy sources they consume in trophic levels, and the most common way to quantify them is in length: the number of links between a trophic consumer and the base of the chain.
+food_chain: It is also necessary to consider interactions amongst different trophic levels to predict community dynamics; food chains are often the base level for theory development of trophic levels and community/ecosystem investigations.
+food_chain: Higher trophic levels cannot produce their own energy and so must consume producers or other life that itself consumes producers.
+food_chain: Primary consumers get energy from the producer and pass it to the secondary and tertiary consumers.
+food_chain: In its simplest form, the length of a chain is the number of links between a trophic consumer and the base of the web.
+food_chain: This simple view of a food chain with fixed trophic levels within a species: species A is eaten by species B, B is eaten by C, ...
+food_chain: The length of a food chain is a continuous variable providing a measure of the passage of energy and an index of ecological structure that increases through the linkages from the lowest to the highest trophic (feeding) levels.
+food_chain: A keystone species is a singular species within an ecosystem that others within the same ecosystem, or the entire ecosystem itself, rely upon.
+food_chain: These are the simple nutrients that plants require to create organic compounds.
+food_chain: The food chain begins with a producer, which is eaten by a primary consumer.
+food_chain: The primary consumer may be eaten by a secondary consumer, which in turn may be consumed by a tertiary consumer.
+food_chain: Humans are able to receive more energy by going back a level in the chain and consuming the food before, for example getting more energy per pound from consuming a salad than an animal which ate lettuce.
+food_chain: Heterotroph
+Lithotroph
+Ecological pyramid
+Predator-prey interaction
+food_chain: Food chain length is important because the amount of energy transferred decreases as trophic level increases; generally only ten percent of the total energy at one trophic level is passed to the next, as the remainder is used in the metabolic process.
+food_chain: A food web is distinct from a food chain.
+food_chain: The mean chain length of an entire web is the arithmetic average of the lengths of all chains in the food web.
+food_chain: The efficiency of a food chain depends on the energy first consumed by the primary producers.

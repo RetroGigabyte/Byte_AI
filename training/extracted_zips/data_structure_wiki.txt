@@ -1,0 +1,73 @@
+data_structure: Many known data structures have concurrent versions which allow multiple computing threads to access a single concrete instance of a data structure simultaneously.
+data_structure: They use a hashing function to map keys to indexes in an array, allowing for constant-time access in the average case.
+data_structure: Trees represent a hierarchical organization of elements.
+data_structure: In a trie, each node represents a character of a string, and the edges between nodes represent the characters that connect them.
+data_structure: Some provide opaque data types that allow clients to hide implementation details.
+data_structure: Tries allow for quick searches and operations based on string prefixes.
+data_structure: In computer science, a data structure is a way to organize and store data that is usually chosen for efficient access to data.
+data_structure: Some authors do not use the term "abstract data type" and simply refer to the logical and physical forms of the data structure.
+data_structure: Object-oriented programming languages, such as C++, Java, and Smalltalk, typically use classes for this purpose.
+data_structure: Data structures can be implemented using a variety of programming languages and techniques.
+data_structure: There are numerous types of data structures, generally built upon simpler primitive data types.
+data_structure: Graph traversal algorithms include breadth-first search and depth-first search.
+data_structure: They consist of vertices (nodes) and edges (connections between nodes).
+data_structure: A record is a value that contains other values, typically in fixed number and sequence and typically indexed by names.
+data_structure: Descriptions from the Dictionary of Algorithms and Data Structures
+Data structures course
+An Examination of Data Structures from .NET perspective
+Schaffer, C.
+data_structure: Well known examples are:
+data_structure: In the context of object-oriented programming, records are known as plain old data structures to distinguish them from objects.
+data_structure: Graphs are collections of nodes connected by edges, representing relationships between entities.
+data_structure: Data structures generally rely on the ability of a computer to store and access data via memory addresses (as specified by a pointer—a bit string—or more abstractly via references) that can be itself stored in memory and manipulated by the program.
+data_structure: Filesystems and search engines make extensive use of specialized data structures.
+data_structure: Typical implementations allocate contiguous memory words for the elements of arrays (but this is not always a necessity).
+data_structure: Arrays may be fixed-length or resizable.
+data_structure: Gonnet and R.
+data_structure: Hash tables are commonly used in dictionaries, caches, and database indexing.
+data_structure: There may be multiple concrete data structures for the same ADT, for example a linked list or a resizable array for the list ADT.
+data_structure: A data structure corresponds directly to a single concrete implementation, in contrast to an ADT which describes behavior and operations independently of any particular implementation.
+data_structure: Queues have two main operations: enqueue (adds an element to the rear of the queue) and dequeue (removes an element from the front of the queue) that follow the First In, First Out (FIFO) principle.
+data_structure: Binary trees (particularly heaps), AVL trees, and B-trees are some popular types of trees.
+data_structure: This structure is especially useful for tasks like autocomplete, spell-checking, and creating dictionaries.
+data_structure: Addison-Wesley, 3rd edition, 1997, ISBN 978-0201896831
+Dinesh Mehta and Sartaj Sahni, Handbook of Data Structures and Applications, Chapman and Hall/CRC Press, 2004, ISBN 1584884355
+Niklaus Wirth, Algorithms and Data Structures, Prentice Hall, 1985, ISBN 978-0130220059
+data_structure: Baeza-Yates, Handbook of Algorithms and Data Structures - in Pascal and C, second edition, Addison-Wesley, 1991, ISBN 0-201-41607-7
+Ellis Horowitz and Sartaj Sahni, Fundamentals of Data Structures in Pascal, Computer Science Press, 1984, ISBN 0-914894-94-3
+data_structure: A stack has two primary operations: push (adds an element to the top of the stack) and pop (removes the topmost element from the stack), that follow the Last In, First Out (LIFO) principle.
+data_structure: As such, the efficiency of a data structure is closely tied to its concrete implementation, and must be evaluated through benchmarks and theoretical simulation.
+data_structure: However, hash collisions can occur, which can impact their performance.
+data_structure: The data structure describes the representation of data in memory and how operations are carried out, while the ADT describes the logical form or algebraic structure of the data type—what operations are allowed and what results they produce—without describing how those operations are implemented.
+data_structure: Rob Pike has stated that the choice of data structure almost always has a greater impact on efficiency than the choice of algorithm, as the algorithm is often self-evident.
+data_structure: A tree consists of nodes connected by edges, with one node being the root and all other nodes forming subtrees.
+data_structure: For example, the C (a direct descendant of BCPL) and Pascal languages support structs and records, respectively, in addition to vectors (one-dimensional arrays) and multi-dimensional arrays.
+data_structure: Trees are widely used in various algorithms and data storage scenarios.
+data_structure: Hash tables, also known as hash maps, are data structures that provide fast retrieval of values based on keys.
+data_structure: For example, arrays and records store elements in contiguous memory locations, requiring a rigid layout but allowing fast indexed access by computing the address through arithmetic operations.
+data_structure: Data structures are used to organize data in both primary memory (RAM) and secondary storage (such as disks).
+data_structure: Data structures are closely related to abstract data types (ADTs).
+data_structure: More precisely, a data structure is the physical implementation of a data type, including specifications of the data organization and storage format, as well functions or operations for working with this data.
+data_structure: Graphs can be directed or undirected, and they can have cycles or be acyclic.
+data_structure: Examples are the C++ Standard Template Library, the Java Collections Framework, and the Microsoft .NET Framework.
+data_structure: In contrast, linked data structures (such as linked lists and trees) store addresses of related elements within their structure, enabling flexible memory usage and dynamic resizing.
+data_structure: The principal advantage of a linked list over an array is that values can always be efficiently inserted and removed without relocating the rest of the list.
+data_structure: Graphs can be used to model social networks, computer networks, and transportation networks, among other things.
+data_structure: They enable efficient and optimal searching, sorting, and hierarchical representation of data.
+data_structure: On the other hand, many high-level programming languages and some higher-level assembly languages, such as MASM, have special syntax or other built-in support for certain data structures, such as records and arrays.
+data_structure: Techniques like chaining and open addressing are employed to handle collisions.
+data_structure: Most programming languages feature some sort of library mechanism that allows data structure implementations to be reused by different programs.
+data_structure: Modern languages usually come with standard libraries that implement the most common data structures.
+data_structure: Data Structures and Algorithm Analysis
+data_structure: Relational databases commonly use B-tree indice for data retrieval, while compiler implementations usually use hash tables to look up identifiers.
+data_structure: Elements are accessed using an integer index to specify which element is required.
+data_structure: Certain other operations, such as random access to a certain element, are however slower on lists than on arrays.
+data_structure: The elements of records are usually called fields or members.
+data_structure: These different methods of data structuring come with different tradeoffs and are suited to different tasks.
+data_structure: A linked list (also just called list) is a linear collection of data elements of any type, called nodes, where each node has itself a value, and points to the next node in the linked list.
+data_structure: A trie, or prefix tree, is a special type of tree used to efficiently retrieve strings.
+data_structure: A record (also called tuple or struct) is an aggregate data structure.
+data_structure: An array is a number of elements in a specific order, typically all of the same type (depending on the language, individual elements may either all be forced to be the same type, or may be of almost any type).
+data_structure: For instance, the contiguous memory allocation in arrays facilitates rapid access and modification operations, leading to optimized performance in sequential data processing scenarios.
+data_structure: Stacks and queues are abstract data types that can be implemented using arrays or linked lists.
+data_structure: Modern languages also generally support modular programming, the separation between the interface of a library module and its implementation.

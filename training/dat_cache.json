@@ -1,0 +1,35 @@
+{
+  "hello": {
+    "title": "Hello",
+    "sentences": [
+      "Hello is a salutation or greeting in the English language.",
+      "It is first attested in writing from 1826.",
+      "as early as the 18 January 1826 edition of the Norwich Courier of Norwich, Connecticut.",
+      "Another early use was an 1833 American book called The Sketches and Eccentricities of Col.",
+      "David Crockett, of West Tennessee, which was reprinted that same year in The London Literary Gazette."
+    ],
+    "learned_at": "2026-07-01T21:33:06.742481"
+  },
+  "united_states": {
+    "title": "United States",
+    "sentences": [
+      "The United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America.",
+      "It is a federal republic consisting of 50 states and a federal capital district, Washington, D.C.",
+      "The 48 contiguous states border Canada to the north and Mexico to the south, with the semi-exclave of Alaska in the northwest and the archipelago of Hawaii in the Pacific Ocean.",
+      "The United States also asserts sovereignty over five major island territories and various uninhabited islands in Oceania and the Caribbean.",
+      "It is a megadiverse country, with the world's third-largest land area and third-largest population, exceeding 341 million."
+    ],
+    "learned_at": "2026-07-01T21:34:22.170212"
+  },
+  "what_is_10*10": {
+    "title": "10x10 Photobooks",
+    "sentences": [
+      "In addition to this public programming, 10x10 publishes their own books based on specific themes that coincide with their major reading rooms.",
+      "Lederman is a writer, editor and photobook collector in New York City and teaches art writing at the School of Visual Arts in New York.",
+      "She writes on photobooks for print and online journals, including Foam Magazine (affiliated with Foam Fotografiemuseum Amsterdam), The Eyes, IMA, Aperture and the International Center of Photography's library blog.",
+      "She also co-edits The Gould Collection, lectures internationally on photobooks, and has received awards and grants from Prix Ars Electronica and the Smithsonian American Art museum.",
+      "Yatskevich is a photobook collector based in New York and contributing writer for Collector Daily, a platform that offers photography criticism from a collector's perspective."
+    ],
+    "learned_at": "2026-07-01T21:34:56.932937"
+  }
+}

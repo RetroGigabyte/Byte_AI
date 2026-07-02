@@ -1,0 +1,270 @@
+gravity: The second aspect of Newton's formulation was the inverse square of distance.
+gravity: These cases however have been transformational in our understanding of the cosmos.
+gravity: ISBN 978-0-7167-0344-0.
+gravity: His method was a form of graphical numerical integration since concepts of algebra and calculus were unknown at the time.
+gravity: In 1666, Giovanni Alfonso Borelli avoided the key problems that limited Kepler.
+gravity: Special relativity, as in special case, specifically did not cover gravity.
+gravity: Galaxies within galaxy clusters show a similar pattern.
+gravity: In October 2017, the LIGO and Virgo interferometer detectors received gravitational wave signals 2 seconds before gamma ray satellites and optical telescopes seeing signals from the same direction, from a source about 130 million light-years away.
+gravity: In contrast, Al-Khazini held the same position as Aristotle that all matter in the Universe is attracted to the center of the Earth.
+gravity: Newton's theory of gravity ran counter to a key idea of science, both then and now: forces should not rely on instantaneous action at a distance.
+gravity: The gravitational waves emitted during the collision of two black holes 1.3 billion light years from Earth were measured.
+gravity: Each vector gives the force experienced by an insignificantly small test mass at that point in space.
+gravity: However, this approach fails at short distances of the order of the Planck length, where a more complete theory of quantum gravity (or a new approach to quantum mechanics) is required.
+gravity: The Einstein field equations are a system of 10 partial differential equations which describe how matter affects the curvature of spacetime.
+gravity: The simplest generalization of Newton's approach would be a scalar field theory with the gravitational potential represented by a single number in a 4-dimensional spacetime.
+gravity: Furthermore, no theory without curvature in spacetime can be consistent with special relativity.
+gravity: This formulation does not express the forces or fields of the individual particles.
+gravity: In order to explain this discrepancy, many astronomers speculated that there might be a large object beyond the orbit of Uranus which was disrupting its orbit.
+gravity: With the 1586 Delft tower experiment, the Flemish physicist Simon Stevin observed that two cannonballs of differing sizes and weights fell at the same rate when dropped from a tower.
+gravity: While G is also called Newton's constant, Newton did not use this constant or formula, he only discussed proportionality.
+gravity: Galileo postulated that air resistance is the reason that objects with a low density and high surface area fall more slowly in an atmosphere.
+gravity: In 1846, the astronomers John Couch Adams and Urbain Le Verrier independently used Newton's law to predict Neptune's location in the night sky, and the planet was discovered there within a day.
+gravity: Newton's 2nd law defines force via 
+  
+    
+      
+        F
+        =
+        m
+        a
+      
+    
+    {\displaystyle F=ma}
+  
+ for inertial mass, his law of gravitational force uses the same mass.
+gravity: Scientists believe that the waves emanated from a black hole merger that occurred 1.5 billion light-years away.
+gravity: I will explain a system of the world very different from any yet received.
+gravity: At larger scales this resulted in galaxies and clusters, so gravity is a primary driver for the large-scale structures in the universe.
+gravity: Newton did experiments with pendulums to verify this concept as best he could.
+gravity: The black hole was detected because it was emitting bursts of x-rays as it consumed a smaller star, and it came to be known as Cygnus X-1.
+gravity: The force of gravity varies with latitude, and the resultant acceleration increases from about 9.780 m/s2 at the Equator to about 9.832 m/s2 at the poles.
+gravity: Although he did not understand gravity as a force, the ancient Greek philosopher Archimedes discovered the center of gravity of a triangle.
+gravity: This phenomenon was first confirmed by observation in 1979 using the 2.1 meter telescope at Kitt Peak National Observatory in Arizona, which saw two mirror images of the same quasar whose light had been bent around the galaxy YGKOW G1.
+gravity: One path is to describe gravity in the framework of quantum field theory (QFT), which has been successful to accurately describe the other fundamental interactions.
+gravity: Gravity is considered to be one of four fundamental interactions.
+gravity: Consequently the effect of gravity can be described as curving spacetime.
+gravity: Brooks/Cole.
+gravity: The force of gravity experienced by objects on Earth's surface is the vector sum of two forces: (a) The gravitational attraction in accordance with Newton's universal law of gravitation, and (b) the centrifugal force, which results from the choice of an earthbound, rotating frame of reference.
+gravity: There are some observations that are not adequately accounted for, which may point to the need for better theories of gravity or perhaps be explained in other ways.
+gravity: The observed shift also supports the idea that time runs more slowly in the presence of a gravitational field (many more wave crests pass in a given interval).
+gravity: This means orbits are more complex than simple ellipses.
+gravity: In particular, the Spanish Dominican priest Domingo de Soto wrote in 1551 that bodies in free fall uniformly accelerate.
+gravity: A wide range of experiments provided support of general relativity.
+gravity: This contradiction is especially vexing to physicists because the other three fundamental forces (strong force, weak force and electromagnetism) were reconciled with a quantum framework decades ago.
+gravity: As a result, gravity can generally be neglected at the level of subatomic particles.
+gravity: Nevertheless the model explains a vast number of physical effects including cannon ball trajectories, tidal motion and planetary orbits.
+gravity: Gravity is also fundamental in another sense: the inertial mass that appears in Newton's second law is the same as the gravitational mass.
+gravity: In a free-falling or co-moving coordinate system, an object travels in a straight line.
+gravity: In 1915, Albert Einstein developed a theory of general relativity which was able to accurately model Mercury's orbit.
+gravity: While relativity was associated with mechanics and thus gravity, the idea of altering geometry only joined the story of gravity once mechanics required the Lorentz transformations.
+gravity: Gravitation.
+gravity: In last quarter of the 16th century Tycho Brahe created accurate tools for astrometry, providing careful observations of the planets.
+gravity: Planets orbit the Sun in an ellipse as a consequence of the law of gravity.
+gravity: Despite its success in predicting the effects of gravity at large scales, general relativity is ultimately incompatible with quantum mechanics.
+gravity: While Aristotle's view was widely accepted throughout Ancient Greece, there were other thinkers such as Plutarch who correctly predicted that the attraction of gravity was not unique to the Earth.
+gravity: Before 1684, scientists including Christopher Wren, Robert Hooke and Edmund Halley determined that Kepler's third law, relating to planetary orbital periods, would prove the inverse square law if the orbits were circles.
+gravity: First was equating inertial mass and gravitational mass.
+gravity: The force of gravity, F is written using the gravitational constant, G, as
+gravity: More than a century later, in 1821, his theory of gravitation rose to even greater prominence when it was used to predict the existence of Neptune.
+gravity: The next phase depends upon the total mass of the star.
+gravity: Fields are also used in general relativity, but rather than vectors over Euclidean space, the entities are tensors over spacetime.
+gravity: This is because general relativity describes gravity as a smooth, continuous distortion of spacetime, while quantum mechanics holds that all forces arise from the exchange of discrete particles known as quanta.
+gravity: These laws were central to the development of a theory of gravity a hundred years later.
+gravity: In 1907, Einstein took his first step by using special relativity to create a new form of the equivalence principle.
+gravity: If light moves outward from a strong source of gravity it will be observed with a redshift.
+gravity: Newton was well aware of this issue and his decision to continue anyway marked a shift in scientific thinking away from philosophically sound but empirically flawed models.
+gravity: In physics, gravity (from Latin  gravitas 'weight'), also known as gravitation or a gravitational interaction, is a fundamental interaction, which may be described as the force that draws material objects towards each other.
+gravity: Gravity is described by the general theory of relativity, proposed by Albert Einstein in 1915, which describes gravity in terms of the curvature of spacetime, caused by the uneven distribution of mass.
+gravity: This formulation had two important parts.
+gravity: Tipler, Paul (2004).
+gravity: A second equivalent approach to model gravity uses fields.
+gravity: These issues have led to the study of alternative theories of gravity.
+gravity: This equivalence principle is a scientific hypothesis that has been tested experimentally to more than one part in a trillion.
+gravity: Gravitational lenses do not focus like eyeglass lenses, but rather lead to annular shapes called Einstein rings.
+gravity: The Pioneer anomaly has been shown to be explained by thermal recoil due to the distant sun radiation on one side of the space craft.
+gravity: Scientists from Newton onwards recognized that this action at a distance does not explain the root cause of the force; this lack of a root cause was raised against Newton's theory at first.
+gravity: Eventually, astronomers noticed an eccentricity in the orbit of the planet Mercury which could not be explained by Newton's theory: the perihelion of the orbit was increasing by about 42.98 arcseconds per century.
+gravity: ISBN 978-0-534-40842-8.
+gravity: The Persian intellectual Al-Biruni believed that the force of gravity was not unique to the Earth, and he correctly assumed that other heavenly bodies should exert a gravitational attraction as well.
+gravity: Each state has an associated energy property called the Lagrangian; the physically allowed changes to the state of the system minimize the value of this property.
+gravity: In a weak stationary gravitational field, general relativity reduces to Newton's equations.
+gravity: About 5/6 of the total mass in the universe consists of dark matter which interacts through gravity but not through electromagnetic interactions.
+gravity: In the ancient Middle East, gravity was a topic of fierce debate.
+gravity: Modern theories of physics rely on these action principles.
+gravity: for two masses, m, and m′ separated by a distance r.
+gravity: Physicists continue to work to find solutions to the Einstein field equations that form the basis of general relativity and continue to test the theory, finding excellent agreement in all cases.
+gravity: Gravity acts on light and matter equally, meaning that a sufficiently massive object could warp light around it and create a gravitational lens.
+gravity: This research was awarded the Nobel Prize in Physics in 1993.
+gravity: However his valuable insights remained hypotheses and some of these were incorrect.
+gravity: The most obvious explanation for this discrepancy was an as-yet-undiscovered celestial body, such as a planet orbiting the Sun even closer than Mercury, but all efforts to find such a body turned out to be fruitless.
+gravity: Neutron star and black hole formation also create detectable amounts of gravitational radiation.
+gravity: However, dark matter is not supported by the Standard Model of particle physics, physical models for dark energy do not match cosmological data, and some cosmological observations are inconsistent.
+gravity: In 1657, Robert Hooke published his Micrographia, in which he hypothesized that the Moon must have its own gravity.
+gravity: This letter likely turned Newton's thinking in a new direction leading to his revolutionary work on gravity.
+gravity: The value of G was eventually measured by Henry Cavendish in 1797.
+gravity: It also opens the way for practical observation and understanding of the nature of gravity and events in the Universe including the Big Bang.
+gravity: "Gravitation", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+"Gravitation, theory of", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+gravity: The Einstein field equation for gravitation can be derived from the Einstein–Hilbert action.
+gravity: The many successful, high precision predictions of the standard model of cosmology has led astrophysicists to conclude it and thus general relativity will be the basis for future progress.
+gravity: This aspect was not new: the astronomer Ismaël Bullialdus proposed it around 1640.
+gravity: In what he later described as "the happiest thought of my life" Einstein realized this meant that in free-fall, an accelerated coordinate system exists with no local gravitational field.
+gravity: For classical field theories of gravity, the entities can be vectors associated with points in a 3-dimensional space.
+gravity: A vector field theory predicts negative energy gravitational waves so it also fails.
+gravity: In the 6th century CE, the Byzantine Alexandrian scholar John Philoponus proposed the theory of impetus, which modifies Aristotle's theory that "continuation of motion depends on continued action of a force" by incorporating a causative force that diminishes over time.
+gravity: Testing the predictions of general relativity has historically been difficult, because they are almost identical to the predictions of Newtonian gravity for small energies and masses.
+gravity: For purposes of weights and measures, a standard gravity value is defined by the International Bureau of Weights and Measures, under the International System of Units (SI).
+gravity: This formulation represents the effects of gravity on a system in a mathematically abstract way.
+gravity: Scientists are looking for a theory that describes gravity in the framework of quantum mechanics (quantum gravity), which would unify gravity and the other known fundamental interactions of physics in a single mathematical framework (a theory of everything).
+gravity: Serway, Raymond A.; Jewett, John W.
+gravity: In modern physics, general relativity is considered the most successful theory of gravitation.
+gravity: Although Eddington's analysis was later disputed, this experiment made Einstein famous almost overnight and caused general relativity to become widely accepted in the scientific community.
+gravity: The first indirect evidence for gravitational radiation was through measurements of the Hulse–Taylor binary in 1973.
+gravity: Gravity is the law that every object with mass attracts every other object in the universe in proportion to each mass and inversely proportional to the square of the distance between them.
+gravity: Hooke was an important communicator who helped reformulate the scientific enterprise.
+gravity: The electromagnetic force law is similar to the force law for gravity: both depend upon the square of the inverse distance between objects in typical interactions.
+gravity: Very low mass stars slowly cool as white dwarf stars with a small core balancing gravitational attraction with electron degeneracy pressure.
+gravity: Special relativity proposed that mechanics be reformulated to use the Lorentz transformation already applicable to light rather than the Galilean transformation adopted by Newton.
+gravity: During star formation, gravitational attraction in a cloud of hydrogen gas competes with thermal gas pressure.
+gravity: By Borelli's time the concept of inertia had its modern meaning as the tendency of objects to remain in uniform motion and he viewed the Sun as just another heavenly body.
+gravity: Borelli developed the idea of mechanical equilibrium, a balance between inertia and gravity.
+gravity: The three-dimensional map of the potential or of the gravitational field provides a visual representation of the effect of the gravitational effect of all surrounding objects.
+gravity: On the surface of a planetary body such as on Earth, the force of gravity operates towards the center of the body and is modified by the centrifugal effects arising from the rotation of the body.
+gravity: Einstein's theory brought two other ideas with independent histories into the physical theories of gravity: the principle of relativity and non-Euclidean geometry.
+gravity: Galaxy rotation curves: Stars in galaxies follow a distribution of velocities where stars on the outskirts are moving faster than they should according to the observed distributions of luminous matter.
+gravity: In 1971, scientists made the first-ever discovery of a black hole, in the constellation Cygnus.
+gravity: The system may be expressed in the form
+gravity: Since the force of gravity is universal, all planets attract each other with the most massive and closest pair have the most mutual affect.
+gravity: Field models are local: the field values on a sphere completely determine the effects of gravity with the sphere.
+gravity: At the cosmological scale, gravity is a dominant player.
+gravity: Physics for Scientists and Engineers: Mechanics, Oscillations and Waves, Thermodynamics (5th ed.).
+gravity: That this attraction is so much the greater as the bodies are nearer.
+gravity: The corrections introduced by general relativity on Earth are on the order of 1 part in a billion.
+gravity: Waves on oceans, lakes, and other bodies of water occur when the gravitational equilibrium at the surface of the water is disturbed by for example wind.
+gravity: ISBN 978-0-7167-0809-4.
+gravity: Galileo also broke with incorrect ideas of Aristotelian philosophy by regarding inertia as persistence of motion, not a tendency to come to rest.
+gravity: Thorne, Kip S.; Misner, Charles W.; Wheeler, John Archibald (1973).
+gravity: Similar effects occur in the atmosphere where equilibrium is disturbed by thermal weather fronts or mountain ranges.
+gravity: Physicists use several different models, depending on the problem to be solved or for the purpose of gaining physical intuition.
+gravity: It is founded on the following positions.
+gravity: The force vector at each point can be computed as the direction of the highest rate of change in the gravitational potential, a single number at each point in space.
+gravity: Einstein's description of gravity was accepted by the majority of physicists for two reasons.
+gravity: Several solutions are the basis for understanding black holes and for our modern model of the evolution of the universe since the Big Bang.
+gravity: He recognized that mechanical forces cause action, creating a kind of celestial machine.
+gravity: In a communication to the Royal Society in 1666 and his 1674 Gresham lecture, An Attempt to prove the Annual Motion of the Earth, Hooke took the important step of combining related hypothesis and then forming predictions based on the hypothesis.
+gravity: Gravity has an infinite range, although its effects become weaker as objects get farther away.
+gravity: As their fuel runs out, these stars become unstable producing a supernova.
+gravity: Gravity becomes the most significant interaction between objects at the scale of astronomical bodies, and it determines the motion of satellites, planets, stars, galaxies, and even light.
+gravity: Seeking proof, Newton made quantitative analysis around 1665, considering the period and distance of the Moon's orbit and considering the timing of objects falling on Earth.
+gravity: This was later confirmed by Italian scientists Grimaldi and Riccioli between 1640 and 1650.
+gravity: That all the heavenly bodies have not only a gravitation of their parts to their own proper centre, but that they also mutually attract each other within their spheres of action.
+gravity: Scientists like Gottfried Wilhelm Leibniz complained about this aspect of the theory of gravity.
+gravity: The first direct evidence for gravitational radiation was measured on 14 September 2015 by the LIGO detectors.
+gravity: If more mass is available, the additional gravitational energy allows the central region to reach pressures sufficient for nuclear fusion, forming a star.
+gravity: He postulated that if two equal weights did not have the same center of gravity, the center of gravity of the two weights together would be in the middle of the line that joins their centers of gravity.
+gravity: The strength of the gravitational field is numerically equal to the acceleration of objects under its influence.
+gravity: The force of gravity is weakest at the equator because of the centrifugal force caused by the Earth's rotation and because points on the equator are farthest from the center of the Earth.
+gravity: In the mid-16th century, various European scientists experimentally disproved the Aristotelian notion that heavier objects fall at a faster rate.
+gravity: The path of the state is not a path in physical space, but rather in a high-dimensional state space: each point along the path corresponds to a different position and or velocity collectively for all particles in the system.
+gravity: In the late 16th century, Galileo Galilei's careful measurements of balls rolling down inclines allowed him to firmly establish that gravitational acceleration is the same for all objects.
+gravity: Accelerated expansion: The expansion of the universe seems to be accelerating.
+gravity: The most extreme example of this curvature of spacetime is a black hole, from which nothing—not even light—can escape once past the black hole's event horizon.
+gravity: These concepts would become central to Newton's mechanics, only to be transformed in Einstein's theory of gravity, the general theory of relativity.
+gravity: Dark energy has been proposed to explain this.
+gravity: When applied to interpret astronomical observations, cosmological models based on general relativity introduce two components to the universe, dark matter and dark energy, the nature of which is currently an unsolved problem in physics.
+gravity: That all bodies having a simple motion, will continue to move in a straight line, unless continually deflected from it by some extraneous force, causing them to describe a circle, an ellipse, or some other curve.
+gravity: The gravitational attraction between clouds of primordial hydrogen and clumps of dark matter in the early universe caused the hydrogen gas to coalesce, eventually condensing and fusing to form stars.
+gravity: Many subsequent observations of gravitational lensing provide additional evidence for substantial amounts of dark matter around galaxies.
+gravity: The time delay of light passing close to a massive object was first identified by Irwin I.
+gravity: Frame dragging, the idea that a rotating massive object should twist spacetime around it, was confirmed by Gravity Probe B results in 2011.
+gravity: In 1919, the British astrophysicist Arthur Eddington was able to confirm the predicted deflection of light during that year's solar eclipse.
+gravity: Newton did not publish these results at the time because he could not prove that the Earth's gravity acts as if all its mass were concentrated at its center.
+gravity: Halley was impressed by the manuscript and urged Newton to expand on it, and a few years later Newton published a groundbreaking book called Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy).
+gravity: By sending the rays down a 74-foot tower and measuring their frequency at the bottom, the scientists confirmed that light is Doppler shifted as it moves towards a source of gravity.
+gravity: At Halley's suggestion, Newton tackled the problem and was able to prove that ellipses also proved the inverse square relation from Kepler's observations.
+gravity: As the gas density increases, the temperature rises, then the gas radiates energy, allowing additional gravitational condensation.
+gravity: However, this type of theory fails to predict gravitational redshift or the deviation of light by matter and gives values for the precession of Mercury which are incorrect.
+gravity: Physics for Scientists and Engineers (6th ed.).
+gravity: The force is "nonlocal": it depends on the mass of an object at a distance.
+gravity: Gauss' student Bernhard Riemann developed this into a complete geometry by 1854.
+gravity: The equivalence of inertial mass and gravitational mass was a known empirical law.
+gravity: This description reproduces general relativity in the classical limit.
+gravity: The principle of relativity, introduced by Galileo and used as a foundational principle by Newton, led to a long and fruitless search for a luminiferous aether after Maxwell's equations demonstrated that light propagated at a fixed speed independent of reference frame.
+gravity: This observation confirms the theoretical predictions of Einstein and others that such waves exist.
+gravity: The result can be a neutron star where gravitational attraction balances neutron degeneracy pressure or, for even higher masses, a black hole where gravity operates alone with such intensity that even light cannot escape.
+gravity: Different field theories use different entities and concepts of space.
+gravity: In physics, a field represents a physical phenomenon using a mathematical entity associated with each point in a space.
+gravity: Assuming a spherically symmetrical planet, the strength of this field at any given point above the surface is proportional to the planetary body's mass and inversely proportional to the square of the distance from the center of the body.
+gravity: General relativity predicts that energy can be transported out of a system through gravitational radiation also known as gravitational waves.
+gravity: Newton's theory of gravity assumes action at a distance and therefore cannot be reconciled with special relativity.
+gravity: Second, his theory explained experimental results like the perihelion of Mercury and the bending of light around the Sun better than Newton's theory.
+gravity: The simplest theory consistent with special relativity and the well-studied observations is general relativity.
+gravity: When Newton reported his results in 1686, Hooke claimed the inverse square law portion was his "notion".
+gravity: The revolutionary aspect of Newton's theory of gravity was the unification of Earth-bound observations of acceleration with celestial mechanics.
+gravity: The non-linear second-order Einstein field equations are extremely complex and have been solved in only a few special cases.
+gravity: In a star, again the gravitational attraction competes, with thermal and radiation pressure in hydrostatic equilibrium until the star's atomic fuel runs out.
+gravity: Its orbital period has decreased since its initial discovery due to a loss of energy, which is consistent for the amount of energy loss due to gravitational radiation.
+gravity: In 1684, Isaac Newton sent a manuscript to Edmond Halley titled De motu corporum in gyrum ('On the motion of bodies in an orbit'), which provided a physical justification for Kepler's laws of planetary motion.
+gravity: The issue was not resolved until Einstein's work on relativity in the 20th century.
+gravity: This gravitational force causes the objects to accelerate towards each other unless balanced by other forces.
+gravity: However the orbits were known to be ellipses.
+gravity: The gravitation of clumps of dark matter known as dark matter halos attract hydrogen gas leading to stars and galaxies.
+gravity: As a result, researchers have begun to search for a theory that could unite both gravity and quantum mechanics under a more general framework.
+gravity: In Newton's mechanics, velocities add: a cannon ball shot from a moving ship would travel with a trajectory which included the motion of the ship.
+gravity: These geometries are locally flat but have global curvature.
+gravity: On the other hand Kepler viewed the force of the Sun on the planets as magnetic and acting tangential to their orbits and he assumed with Aristotle that inertia meant objects tend to come to rest.
+gravity: He also thought that the speed of a falling object should increase with its weight, a conclusion that was later shown to be false.
+gravity: Newton's Principia was well received by the scientific community, and his law of gravitation quickly spread across the European world.
+gravity: This confirmed that the speed of gravitational waves was the same as the speed of light.
+gravity: Stars with masses similar to the Sun go through a red giant phase before becoming white dwarf stars.
+gravity: The state of the system, for example the position and velocity of every particle, is expressed as a single mathematical entity.
+gravity: Shapiro in 1964 in interplanetary spacecraft signals.
+gravity: The path in spacetime (not 3D space) taken by a free-falling object is called a geodesic and the length of that path as measured by time in the objects frame is the shortest (or rarely the longest) one.
+gravity: The electromagnetic force arises from an exchange of virtual photons, where the QFT description of gravity is that there is an exchange of virtual gravitons.
+gravity: This discovery confirmed yet another prediction of general relativity, because Einstein's equations implied that light could not escape from a sufficiently large and compact object.
+gravity: Higher mass stars have complex core structures that burn helium and high atomic number elements ultimately producing an iron core.
+gravity: In his book, Newton described gravitation as a universal force, and claimed that it operated on objects "according to the quantity of solid matter which they contain and propagates on all sides to immense distances always at the inverse square of the distances".
+gravity: The mid-16th century Italian physicist Giambattista Benedetti published papers claiming that, due to specific gravity, objects made of the same material but with different masses would fall at the same speed.
+gravity: De Soto may have been influenced by earlier experiments conducted by other Dominican priests in Italy, including those by Benedetto Varchi, Francesco Beato, Luca Ghini, and Giovan Bellaso which contradicted Aristotle's teachings on the fall of bodies.
+gravity: Today, Einstein's theory of relativity is used for all gravitational calculations where absolute precision is desired, although Newton's inverse-square law is accurate enough for virtually all ordinary calculations.
+gravity: Gravitational weight also has many important biological functions, helping to guide the growth of plants through the process of gravitropism and influencing the circulation of fluids in multicellular organisms.
+gravity: Similarly the Moon and artificial satellites orbit the Earth.
+gravity: For this he turned to Newton, writing him a letter in 1679, outlining a model of planetary motion in a void or vacuum due to attractive action at a distance.
+gravity: General relativity has withstood many tests over a large range of mass and size scales.
+gravity: First, by 1910 his special relativity was accepted in German physics and was spreading to other countries.
+gravity: By considering that the laws of physics appear identical on a moving ship to those on land, Galileo developed the concepts of reference frame and the principle of relativity.
+gravity: Flyby anomaly: Various spacecraft have experienced greater acceleration than expected during gravity assist maneuvers.
+gravity: Two centuries later, the Roman engineer and architect Vitruvius contended in his De architectura that gravity is not dependent on a substance's weight but rather on its "nature".
+gravity: They also calculated the magnitude of the Earth's gravity by measuring the oscillations of a pendulum.
+gravity: Many experiments sought to reveal this medium but failed and in 1905 Einstein's special relativity theory showed the aether was not needed.
+gravity: Eddington measured starlight deflections twice those predicted by Newtonian corpuscular theory, in accordance with the predictions of general relativity.
+gravity: Every planetary body (including the Earth) is surrounded by its own gravitational field, which can be conceptualized with Newtonian physics as exerting an attractive force on all objects.
+gravity: This system consists of a pulsar and neutron star in orbit around one another.
+gravity: The Einstein field equations relate the 10 independent values in the tensors to the distribution of mass and energy in space.
+gravity: A third completely different way to derive a model of gravity is based on action principles.
+gravity: New York: John Wiley & Sons.
+gravity: ISBN 978-0-471-32057-9.
+gravity: In that year, the French astronomer Alexis Bouvard used this theory to create a table modeling the orbit of Uranus, which was shown to differ significantly from the planet's actual trajectory.
+gravity: In his 1638 work Two New Sciences, Galileo proved that the distance traveled by a falling object is proportional to the square of the time elapsed.
+gravity: In 2015, the LIGO observatory detected faint gravitational waves, the existence of which had been predicted by general relativity.
+gravity: In other coordinate systems, the object accelerates and thus is seen to move under a force.
+gravity: In this context, gravity gives weight to physical objects and is essential to understanding the mechanisms that are responsible for surface water waves, lunar tides and substantially contributes to weather patterns.
+gravity: Since light speed was fixed, it was assumed to travel in a fixed, absolute medium.
+gravity: Newton cited Borelli's influence on his theory.
+gravity: He was unable to develop a mathematical theory of gravity and work out the consequences.
+gravity: That proof took him twenty years.
+gravity: Conceptually two objects in orbit are both falling off of the curve they would travel in if the force of gravity were not pulling them together.
+gravity: In his 1609 book Astronomia nova Kepler described gravity as a mutual attraction, claiming that if the Earth and Moon were not held apart by some force they would come together.
+gravity: This research was awarded the Nobel Prize in Physics in 2017.
+gravity: In 1959, American physicists Robert Pound and Glen Rebka performed an experiment in which they used gamma rays to confirm the prediction of gravitational time dilation.
+gravity: The ratio of gravitational attraction of two electrons to their electrical repulsion is 1 to 4.17×1042.
+gravity: Creating a theory independent of action at a distance requires combining the concept of relativity with gravity, an enormously complex task using the Newtonian model.
+gravity: In 628 CE, the Indian mathematician and astronomer Brahmagupta proposed the idea that gravity is an attractive force that draws objects to the Earth and used the term gurutvākarṣaṇ to describe it.
+gravity: He was one of the first professional scientists and worked as the then-new Royal Society's curator of experiments for 40 years.
+gravity: Every description of gravity in any other coordinate system must transform to give no field in the free-fall case, a powerful invariance constraint on all theories of gravity.
+gravity: The rate of acceleration of falling objects near the Earth's surface varies very slightly depending on latitude, surface features such as mountains and ridges, and perhaps unusually high or low sub-surface densities.
+gravity: The pattern is considered strong evidence for dark matter, which would interact through gravitation but not electromagnetically; various modifications to Newtonian dynamics have also been proposed.
+gravity: If the mass of gas in the region is low, the process continues until a brown dwarf or gas-giant planet is produced.
+gravity: His assistant and successor, Johannes Kepler analyzed these data into three empirical laws of planetary motion.
+gravity: As to the proportion in which those forces diminish by an increase of distance, I own I have not discovered it....

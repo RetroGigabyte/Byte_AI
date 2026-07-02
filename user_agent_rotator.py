@@ -18,11 +18,19 @@ class UserAgentRotator:
     def load_agents(self, agents_file):
         """Load user agents from file"""
         if not os.path.exists(agents_file):
-            print(f"⚠️  {agents_file} not found, using default")
+            # Default user agents: polite bot identifier + browser agents
             self.agents = [
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
-                "ComprehensiveWikiScraper/1.0"
+                # Polite bot identifiers
+                "Killo/1.0 (AI Training; contact@anthropic.com)",
+                "KilloBot/1.0 (Educational AI; github.com/yourusername/killo)",
+                "WikiTrainer/1.0 (Knowledge Bot; retrogigabyteyt@gmail.com)",
+
+                # Browser user agents
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15",
             ]
             return
 

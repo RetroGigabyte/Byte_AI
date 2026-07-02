@@ -1,0 +1,37 @@
+web3: The use of cryptocurrencies, NFTs, and blockchains in general also introduce potential harmful environmental effects.
+web3: Web3 has been proposed as a possible response to the over-centralization of the web in a few Big Tech companies.
+web3: Ethereum co-founder Gavin Wood first popularized the use of the term Web 3.0 in a blockchain context in 2014.
+web3: In late 2021, Reddit, Discord, and other Web 2.0 companies experimented with incorporating web3 technologies into their platforms.
+web3: The definition of the term has been described by Bloomberg journalist Olga Kharif as "hazy", but it revolves around the idea of decentralization and often incorporate blockchain technologies, such as various cryptocurrencies and non-fungible tokens (NFTs).
+web3: According  Kharif in December 2021, skeptics say the idea "is a long way from proving its use beyond niche applications, many of them tools aimed at crypto traders".
+web3: Some technologists and journalists have contrasted it with Web 2.0, in which they say user-generated content is controlled by a small group of companies referred to as Big Tech.
+web3: The New York Times and Fortune reported in December 2021 that $27 billion had been invested in blockchain projects due to interest in the Web3 concept.
+web3: In popular and industry usage, "Web 3.0" is sometimes used interchangeably with "web3" to refer to blockchain-based proposals rather than the Semantic Web.
+web3: While the Semantic Web envisioned a web of linked data, web3 in the blockchain context refers to a decentralized internet built upon distributed ledger technologies.
+web3: Web3 could potentially improve data security, scalability, and privacy.
+web3: Wood used the term to refer to a "decentralized online ecosystem based on blockchain." "Web3" and "Web 3.0" have been used interchangeably by later writers, leading to confusion between the two concepts.
+web3: Also in December 2021, SpaceX and Tesla CEO Elon Musk expressed skepticism about web3 in a tweet, saying that web3 "seems more marketing buzzword than reality right now."
+web3: The term is sometimes confused with the Semantic Web, as both have sometimes been referred to as "Web 3.0".
+web3: Academic surveys describe Web3 as combining smart contract platforms, peer-to-peer networks, and cryptographic mechanisms, while noting trade-offs involving scalability, interoperability, and governance.
+web3: Kharif has described web3 as an idea that "would build financial assets, in the form of tokens, into the inner workings of almost anything you do online".
+web3: Others have expressed beliefs that web3 and the associated technologies are a pyramid scheme.
+web3: Marlinspike also remarked that the new web resembles the old web.
+web3: Web 2.0 is generally considered to have begun around 2004 and continues to the current day.
+web3: The concept of Web3 has also been described as a part of a cryptocurrency bubble, and as an extension of harmful and short-lived blockchain-based trends such as NFTs.
+web3: In 2019, The Conversation quoted legal scholars discussing concerns over the difficulty of regulating a decentralized web, which they reported might make it more difficult to prevent cybercrime, online harassment, hate speech, and the dissemination of child sexual abuse material.
+web3: Rohn (2025) describes the term as synonymous with "blockchain economy".
+web3: Dorsey opined that web3 will not democratize the internet, but it will shift power from players like Facebook to venture capital funds like Andreessen Horowitz.
+web3: The term "web 3.0" as applied to blockchain technology was coined in 2014 by Ethereum co-founder Gavin Wood, and the idea gained interest in 2021 from cryptocurrency enthusiasts, large technology companies, and venture capital firms.
+web3: Particular interest spiked toward the end of 2021, largely due to interest from cryptocurrency enthusiasts and investments from high-profile technologists and companies.
+web3: Critics have expressed concerns over the centralization of wealth to a small group of investors and individuals, or a loss of privacy due to more expansive data collection.
+web3: Web 2.0 is based around the idea of "the web as platform" and centers on user-created content uploaded to forums, social media and networking services, blogs, and wikis, among other services.
+web3: Web 1.0 and Web 2.0 refer to eras in the history of the World Wide Web as it evolved through various technologies and formats.
+web3: That same month, Jack Dorsey, co-founder and former CEO of Twitter, dismissed web3 as a "venture capitalists' plaything".
+web3: It's what parents tell their kids about at night if they want them to grow up to become economists".
+web3: DuPont et al (2024) describe web3 as an umbrella term for NFTs, cryptocurrency, and blockchain which appeals to users who are "not necessarily plugged into the cypher-punk or crypto-anarchist ideals of Bitcoin".
+web3: On November 8, 2021, Discord CEO Jason Citron tweeted a screenshot suggesting the platform might be integrating cryptocurrency wallets into their platform.
+web3: Billionaires like Elon Musk and Jack Dorsey have argued that web3 only serves as a buzzword or marketing term.
+web3: Executives from venture capital firm Andreessen Horowitz traveled to Washington, DC, in October 2021 to lobby for the idea as a potential solution to questions about regulation of the web, with which policymakers have been grappling.
+web3: Two days later, and after heavy user backlash, Discord announced they had no plans to integrate such technologies and that it was an internal-only concept that had been developed in a company-wide hackathon.
+web3: Web3 is an idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, tokenomics, and privacy-enhancing technologies.
+web3: Web 1.0 refers roughly to the period from 1991 to 2004, where most sites consisted of static pages, and the vast majority of users were consumers, not producers of content.

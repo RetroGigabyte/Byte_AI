@@ -1,0 +1,405 @@
+mutation: Compensatory mutations are new mutations that arise and have a positive or neutral impact on a populations fitness.
+mutation: When the new allele is created, a heterozygote containing the newly created allele as well as the original will express the new allele; genetically this defines the mutations as dominant phenotypes.
+mutation: "Genetic Mutation".
+mutation: Both theories agree that the vast majority of novel mutations are neutral or deleterious and that advantageous mutations are rare, which has been supported by experimental results.
+mutation: In others, the duplicated gene (or fraction of gene) is copied and inserted right after the original DNA sequence (a tandem duplication) resulting in a longer gene.
+mutation: Induced mutations on the molecular level can be caused by:
+mutation: It is critical to understand the effects of compensatory mutations in the context of fixed deleterious mutations due to the population fitness decreasing because of fixation.
+mutation: In Our Time.
+mutation: "All About Mutations".
+mutation: For example, a temperature-sensitive mutation can cause cell death at high temperature (restrictive condition), but might have no deleterious consequences at a lower temperature (permissive condition).
+mutation: Nonsense mutations are represented with an X for the second amino acid (e.g.
+mutation: Neomorphic mutations are a part of the gain-of-function mutations and are characterized by the control of new protein product synthesis.
+mutation: Also, many traits are determined by hundreds of genes (or loci), so that each locus has only a minor effect.
+mutation: For instance, in a screen of all gene deletions in E.
+mutation: The frequency of error during the DNA replication process of gametogenesis, especially amplified in the rapid production of sperm cells, can promote more opportunities for de novo mutations to replicate unregulated by DNA repair machinery.
+mutation: Huntington's Disease Outreach Project for Education at Stanford.
+mutation: There are many mutations that fall under the category of by effect on function, but depending on the specificity of the change the mutations listed below will occur.
+mutation: collected obtained genotype data of influenza nucleoprotein from different timelines and temporally ordered them according to their time of origin.
+mutation: One example is a study done on the DFE of random mutations in vesicular stomatitis virus.
+mutation: In yeast, a combined mutagenesis and deep sequencing approach has been developed to generate high-quality systematic mutant libraries and measure fitness in high throughput.
+mutation: They demonstrated that mutation is "non-random in a way that benefits the plant".
+mutation: In the long rung, such multiplicative phenomena dominate the distribution of gene lengths.
+mutation: For instance, Monroe and colleagues demonstrated that—in the studied plant (Arabidopsis thaliana)—more important genes mutate less frequently than less important ones.
+mutation: The mutation leads to a complete loss of operation at the phenotypic level, also causing no gene product to be formed.
+mutation: Individuals within the same species can even express varying rates of mutation.
+mutation: The earlier in the sequence the deletion or insertion occurs, the more altered the protein produced is.
+mutation: Measuring this rate is important in predicting the rate at which people may develop cancer.
+mutation: Compared to the human reference genome, a typical human genome varies at approximately 4.1 to 5.0 million loci, and the majority of this genetic diversity is shared by nearly 0.5% of the population.
+mutation: In the context of RNA, the sequence of the RNA can be considered as ' genotype' and the structure of the RNA can be considered as its 'phenotype'.
+mutation: In mice, the majority of mutations are caused by translesion synthesis.
+mutation: These types of mutations are usually prompted by environmental causes, such as ultraviolet radiation or any exposure to certain harmful chemicals, and can cause diseases including cancer.
+mutation: Gain-of-function mutations also called activating mutations, change the gene product such that its effect gets stronger (enhanced activation) or even is superseded by a different and abnormal function.
+mutation: Diploid organisms (e.g., humans) contain two copies of each gene—a paternal and a maternal allele.
+mutation: Mutagens can be physical, such as radiation from UV rays, X-rays or extreme heat, or chemical (molecules that misplace base pairs or disrupt the helical shape of DNA).
+mutation: A heterozygous mutation is a mutation of only one allele.
+mutation: Several of Muller's morphs correspond to the gain of function, including hypermorph (increased gene expression) and neomorph (novel function).
+mutation: Therefore, any mutation that alters the stable structure of RNA molecules must be compensated by other compensatory mutations.
+mutation: Sequences of DNA that can move about the genome, such as transposons, make up a major fraction of the genetic material of plants and animals, and may have been important in the evolution of genomes.
+mutation: These mutations usually result in an altered molecular function (often inactive) and are characterized by a dominant or semi-dominant phenotype.
+mutation: They found that 3 of the 39 substitutions significantly reduced the fitness of the ancestral background.
+mutation: In general, it is accepted that the majority of mutations are neutral or deleterious, with advantageous mutations being rare; however, the proportion of types of mutations varies between species.
+mutation: Knowing the DFE of advantageous mutations may lead to increased ability to predict the evolutionary dynamics.
+mutation: Previous research has shown that populations have can compensate detrimental mutations.
+mutation: The distinction is also blurred in those animals that reproduce asexually through mechanisms such as budding, because the cells that give rise to the daughter organisms also give rise to that organism's germline.
+mutation: The RNA viral genome can be double-stranded (as in DNA) or single-stranded.
+mutation: Although the amino acid residue is pathogenic in the first species, it is not so in the second species because its pathogenicity is compensated by one or more amino acid substitutions in the second species.
+mutation: In vivo mechanisms like transcriptional switches can create conditional mutations.
+mutation: Many observations of de novo mutation rates have associated higher rates of mutation correlated to paternal age.
+mutation: This claim combines the observed effects of increased probability for mutation in rapid spermatogenesis with short periods of time between cellular divisions that limit the efficiency of repair machinery.
+mutation: A germline mutation can be passed down through subsequent generations of organisms.
+mutation: In some of these viruses (such as the single-stranded human immunodeficiency virus), replication occurs quickly, and there are no mechanisms to check the genome for accuracy.
+mutation: Retrieved 18 October 2015.
+mutation: Non-homologous end joining (NHEJ) is a major pathway for repairing double-strand breaks.
+mutation: A transition can be caused by nitrous acid, base mispairing, or mutagenic base analogues such as BrdU.
+mutation: Changes in chromosome number may involve even larger mutations, where segments of the DNA within chromosomes break and then rearrange.
+mutation: In humans, the mutation rate is about 50–90 de novo mutations per genome per generation, that is, each human accumulates about 50–90 novel mutations that were not present in their parents.
+mutation: Note that, for mutations in RNA, the nucleotide code is written in lower case.
+mutation: Mutagens associated with cancers are often studied to learn about cancer and its prevention.
+mutation: In contrast, larger populations tend to see lesser effects of newly introduced mutated traits.
+mutation: Chromosomal inversions: reversing the orientation of a chromosomal segment.
+mutation: Once DNA damage has given rise to a mutation, the mutation cannot be repaired.
+mutation: This in turn can render the resulting protein nonfunctional.
+mutation: However, they are passed down to all the progeny of a mutated cell within the same organism during mitosis.
+mutation: Thus, compensatory mutations can bring novelty to proteins by forging new pathways of protein evolution : it allows individuals to travel from one fitness peak to another through the valleys of lower fitness.
+mutation: Under these conditions, if the pathogenic mutation arises after a compensatory mutation, then P can become fixed in the population.
+mutation: Studies have shown that only 7% of point mutations in noncoding DNA of yeast are deleterious and 12% in coding DNA are deleterious.
+mutation: Large-scale mutations in chromosomal structure include:
+mutation: The result of the neomorphic mutation is the gene where the mutation occurs has a complete change in function.
+mutation: In the neutral theory of molecular evolution, neutral mutations provide genetic drift as the basis for most variation at the molecular level.
+mutation: Comas et al.
+mutation: Amino acid deletion (e.g., ΔF508) – The Greek letter Δ (delta) indicates a deletion.
+mutation: Though relatively few mutations are advantageous, those that are play an important role in evolutionary changes.
+mutation: If a mutation is present in a germ cell, it can give rise to offspring that carries the mutation in all of its cells.
+mutation: – The Mutalyzer website.
+mutation: That said, the same mutation can be beneficial in one condition and disadvantageous in another condition.
+mutation: "Locus Specific Mutation Databases".
+mutation: Gene mutations have varying effects on health depending on where they occur and whether they alter the function of essential proteins.
+mutation: In evolution, the most important role of such chromosomal rearrangements may be to accelerate the divergence of a population into new species by making populations less likely to interbreed, thereby preserving genetic differences between these populations.
+mutation: By examining DNA sequence differences within and between species, we are able to infer various characteristics of the DFE for neutral, deleterious and advantageous mutations.
+mutation: DNA damage is a physical alteration in the DNA structure, such as a single or double strand break, a modified guanosine residue in DNA such as 8-hydroxydeoxyguanosine, or a polycyclic aromatic hydrocarbon adduct.
+mutation: For example, certain intensities of exposure to radioactive elements can inflict damage to an organism's genome, heightening rates of mutation.
+mutation: Individuals with this disorder are more prone to many types of cancers, other disorders and have impaired vision.
+mutation: A list of 34 such germline mutations is given in the article DNA repair-deficiency disorder.
+mutation: DNA damages can be recognized by enzymes, and therefore can be correctly repaired using the complementary undamaged strand in DNA as a template or an undamaged sequence in a homologous chromosome if it is available.
+mutation: Each cell, in order to function correctly, depends on thousands of proteins to function in the right places at the right times.
+mutation: For example, a change from AAA to AGA will encode arginine, a chemically similar molecule to the intended lysine.
+mutation: The rate of de novo mutations, whether germline or somatic, vary among organisms.
+mutation: Here, protein domains act as modules, each with a particular and independent function, that can be mixed together to produce genes encoding new proteins with novel properties.
+mutation: A common disease that results from this type of mutation is Alzheimer's disease.
+mutation: Also, there is a gradient from harmful/beneficial to neutral, as many mutations may have small and mostly neglectable effects but under certain conditions will become relevant.
+mutation: (If only a single nucleotide is affected, they are called point mutations.) Small-scale mutations include:
+mutation: In genetics, it is sometimes useful to classify mutations as either harmful or beneficial (or neutral):
+mutation: If the population is below the critical effective size fitness will decrease drastically, however if the population is above the critical effect size, fitness can increase regardless of deleterious mutations due to compensatory alleles.
+mutation: In addition, the DFE also differs between coding regions and noncoding regions, with the DFE of noncoding DNA containing more weakly selected mutations.
+mutation: pseudogenes, retrotransposons) are generally neutral, having no effect on phenotype – though intron mutations could alter the protein product if they affect mRNA splicing.
+mutation: Whole genome sequencing results revealed that when Cyclic-di-AMP phosphodiesterase (GdpP) was disrupted in this bacterium, it compensated for the disappearance of the cell wall polymer, resulting in normal cell growth.
+mutation: These agents can mutate both replicating and non-replicating DNA.
+mutation: In the given example, the adenine at the 76th position was replaced by a thymine.
+mutation: Although the random emergence of mutations alone provides the basis for genetic variation across all organic life, this force must be taken in consideration alongside all evolutionary forces at play.
+mutation: Mutations in the structure of genes can be classified into several types.
+mutation: Mutation rates vary substantially across species, and the evolutionary forces that generally determine mutation are the subject of ongoing investigation.
+mutation: This demonstrated that identical amino acid states can result in different phenotypic states depending on the genetic background.
+mutation: The accumulation of certain mutations over generations of somatic cells is part of cause of malignant transformation, from normal cell to cancer cell.
+mutation: Many, but not all mutations in essential genes are harmful (if a mutation does not change the amino acid sequence in an essential protein, it is harmless in most cases).
+mutation: Spontaneous de novo mutations as cataclysmic events of speciation depend on factors introduced by natural selection, genetic flow, and genetic drift.
+mutation: This indicates two important points: first, the proportion of effectively neutral mutations is likely to vary between species, resulting from dependence on effective population size; second, the average effect of deleterious mutations varies dramatically between species.
+mutation: However, it is of little value in understanding the effects of mutations in plants, which lack a dedicated germline.
+mutation: Leiden, the Netherlands: Leiden University Medical Center.
+mutation: For example, a butterfly may produce offspring with new mutations.
+mutation: DNA damage can cause an error when the DNA is replicated, and this error of replication can cause a gene mutation that, in turn, could cause a genetic disorder.
+mutation: The rate of mutation may be increased by mutagens.
+mutation: In summary, the DFE plays an important role in predicting evolutionary dynamics.
+mutation: (See Stop codon.)
+mutation: At the cellular level, mutations can alter protein function and regulation.
+mutation: Substitution mutations, often caused by chemicals or malfunction of DNA replication, exchange a single nucleotide for another.
+mutation: Loss of heterozygosity: loss of one allele, either by a deletion or a genetic recombination event, in an organism that previously had two different alleles.
+mutation: Most common is the transition that exchanges a purine for a purine (A ↔ G) or a pyrimidine for a pyrimidine, (C ↔ T).
+mutation: To be specific, the DNA sequence analysis approach allows us to estimate the effects of mutations with very small effects, which are hardly detectable through mutagenesis experiments.
+mutation: Genome analysis reveal rifampicin resistant strains have a mutation in rpoA and rpoC.
+mutation: This number has been established by sequencing thousands of human trios, that is, two parents and at least one child.
+mutation: Like insertions, these mutations can alter the reading frame of the gene.
+mutation: Tautomerism – A base is changed by the repositioning of a hydrogen atom, altering the hydrogen bonding pattern of that base, resulting in incorrect base pairing during replication.
+mutation: The effect of a mutation on protein sequence depends in part on where in the genome it occurs, especially whether it is in a coding or non-coding region.
+mutation: Once the consensus sequence is known, the mutations in a genome can be pinpointed, described, and classified.
+mutation: For instance, human height is determined by hundreds of genetic variants ("mutations") but each of them has a very minor effect on height, apart from the impact of nutrition.
+mutation: A nonsense mutation is a point mutation in a sequence of DNA that results in a premature stop codon, or a nonsense codon in the transcribed mRNA, and possibly a truncated, and often nonfunctional protein product.
+mutation: Existence of compensated pathogenic deviations can be explained by 'sign epistasis', in which the effects of a deleterious mutation can be compensated by the presence of an epistatic mutation in another loci.
+mutation: Null mutations, also known as amorphic mutations, are a form of loss-of-function mutations that completely prohibit the gene's function.
+mutation: A synonymous substitution replaces a codon with another codon that codes for the same amino acid, so that the produced amino acid sequence is not modified.
+mutation: In these cases a mutation will tend to become more common in a population through natural selection.
+mutation: Deletions of large chromosomal regions, leading to loss of the genes within those regions.
+mutation: There are two types of suppressor mutations: intragenic and extragenic.
+mutation: The newly synthesized gene normally contains a novel gene expression or molecular function.
+mutation: The ability to conduct whole genome sequencing of parents and offspring allows for the comparison of mutation rates between generations, narrowing down the origin possibilities of certain genetic disorders.
+mutation: Mutation and DNA damage are the two major types of errors that occur in DNA, but they are fundamentally different.
+mutation: A change in the genetic structure that is not inherited from a parent, and also not passed to offspring, is called a somatic mutation.
+mutation: Insertions in the coding region of a gene may alter splicing of the mRNA (splice site mutation), or cause a shift in the reading frame (frameshift), both of which can significantly alter the gene product.
+mutation: When the allele has a complete loss of function (null allele), it is often called an amorph or amorphic mutation in Muller's morphs schema.
+mutation: In animals or plants, most mutations are neutral, given that the vast majority of their genomes is either non-coding or consists of repetitive sequences that have no obvious function ("junk DNA").
+mutation: Interstitial deletions: an intra-chromosomal deletion that removes a segment of DNA from a single chromosome, thereby apposing previously distant genes.
+mutation: Based on the occurrence of mutation on each chromosome, we may classify mutations into three types.
+mutation: A major section of an organism therefore might carry the same mutation.
+mutation: Examples include C → U and A → HX (hypoxanthine), which can be corrected by DNA repair mechanisms; and 5MeC (5-methylcytosine) → T, which is less likely to be detected as a mutation because thymine is a normal DNA base.
+mutation: As discussed below, point mutations that occur within the protein coding region of a gene may be classified as synonymous or nonsynonymous substitutions, the latter of which in turn can be divided into missense or nonsense mutations.
+mutation: Another advantage of duplicating a gene (or even an entire genome) is that this increases engineering redundancy; this allows one gene in the pair to acquire a new function while the other copy performs the original function.
+mutation: This classification is obviously relative and somewhat artificial: a harmful mutation can quickly turn into a beneficial mutations when conditions change.
+mutation: Another example comes from a high throughput mutagenesis experiment with yeast.
+mutation: One possible explanation of the etiology of the relatively high frequency of CCR5-Δ32 in the European population is that it conferred resistance to the bubonic plague in mid-14th century Europe.
+mutation: Mutations in genes can have no effect, alter the product of a gene, or prevent the gene from functioning properly or completely.
+mutation: Since RNAs have relatively simpler composition than proteins, the structure of RNA molecules can be computationally predicted with high degree of accuracy.
+mutation: Point mutations may arise from spontaneous mutations that occur during DNA replication.
+mutation: This kind of mutation happens often in living organisms, but it is difficult to measure the rate.
+mutation: They substituted 168 amino acids in Escherichia coli IMDH that are wild type residues in IMDH Pseudomonas aeruginosa.
+mutation: 2011 demonstrated how Staphylococcus aureus was able to grow normally without the presence of lipoteichoic acid due to compensatory mutations.
+mutation: Chemicals
+Hydroxylamine
+Base analogues (e.g., Bromodeoxyuridine (BrdU))
+Alkylating agents (e.g., N-ethyl-N-nitrosourea (ENU).
+mutation: In sexually reproducing organisms, the comparatively higher frequency of cell divisions in the parental sperm donor germline drive conclusions that rates of de novo mutation can be tracked along a common basis.
+mutation: In a similar screen in Streptococcus pneumoniae, but this time with transposon insertions, 76% of insertion mutants were classified as neutral, 16% had a significantly reduced fitness, but 6% were advantageous.
+mutation: These mutations are non-autonomous, as their manifestation depends upon presence of certain conditions, as opposed to other mutations which appear autonomously.
+mutation: A harmful, or deleterious, mutation decreases the fitness of the organism.
+mutation: An increase in this population size has been correlated with a decreased rate of genetic diversity.
+mutation: 2005 outlined two models to explain the dynamics of compensatory pathogenic deviations (CPD).
+mutation: coli, 80% of mutations were negative, but 20% were positive, even though many had a very small effect on growth (depending on condition).
+mutation: People with this mutation were more likely to survive infection; thus its frequency in the population increased.
+mutation: Such mutations will be present in all descendants of this cell within the same organism.
+mutation: The fitness effect of C itself could be neutral or somewhat deleterious such that it can still exist in the population, and the effect of D is deleterious to the extent that it cannot exist in the population.
+mutation: The majority of these mutations will have no effect; but one might change the colour of one of the butterfly's offspring, making it harder (or easier) for predators to see.
+mutation: This is the case in hereditary diseases.
+mutation: In particular, if there is a mutation in a DNA repair gene within a germ cell, humans carrying such germline mutations may have an increased risk of cancer.
+mutation: As a consequence, NHEJ often introduces mutations.
+mutation: Another effect of these mobile DNA sequences is that when they move within a genome, they can mutate or delete existing genes and thereby produce genetic diversity.
+mutation: Large scale changes to the structure of chromosomes called chromosomal rearrangement that can lead to a decrease of fitness but also to speciation in isolated, inbred populations.
+mutation: Results obtained from this study demonstrate that drug resistance is linked to bacterial fitness as higher fitness costs are linked to greater transcription errors.
+mutation: A beneficial, or advantageous mutation increases the fitness of the organism.
+mutation: Rates of de novo mutations that affect an organism during its development can also increase with certain environmental factors.
+mutation: Corrigan et al.
+mutation: In humans, dominant negative mutations have been implicated in cancer (e.g., mutations in genes p53, ATM, CEBPA, and PPARgamma).
+mutation: It is believed that the overwhelming majority of mutations have no significant effect on an organism's fitness.
+mutation: Examples include the following:
+HIV resistance: a specific 32 base pair deletion in human CCR5 (CCR5-Δ32) confers HIV resistance to homozygotes and delays AIDS onset in heterozygotes.
+mutation: For example, cells isolated from a human astrocytoma, a type of brain tumour, were found to have a chromosomal deletion removing sequences between the Fused in Glioblastoma (FIG) gene and the receptor tyrosine kinase (ROS), producing a fusion protein (FIG-ROS).
+mutation: A frameshift mutation is caused by insertion or deletion of a number of nucleotides that is not evenly divisible by three from a DNA sequence.
+mutation: Out of all mutations, 39.6% were lethal, 31.2% were non-lethal deleterious, and 27.1% were neutral.
+mutation: Lactase persistence.
+mutation: Unlike DNA damages, mutations are replicated when the cell replicates.
+mutation: Large-scale quantitative mutagenesis screens, in which thousands of millions of mutations are tested, invariably find that a larger fraction of mutations has harmful effects but always returns a number of beneficial mutations as well.
+mutation: This step requires a tremendous scientific effort.
+mutation: Various methods have been developed to infer the DFE from DNA sequence data.
+mutation: Mutations can also occur in non-genic regions.
+mutation: Replication timing quantitative trait loci affects DNA replication.
+mutation: This can lead to insertions or deletions.
+mutation: These can increase in frequency over time due to genetic drift.
+mutation: Molecular sequence analysis: With rapid development of DNA sequencing technology, an enormous amount of DNA sequence data is available and even more is forthcoming in the future.
+mutation: Nucleotide substitution (e.g., 76A>T) – The number is the position of the nucleotide from the 5' end; the first letter represents the wild-type nucleotide, and the second letter represents the nucleotide that replaced the wild type.
+mutation: Naturally occurring oxidative DNA damage is estimated to occur 10,000 times per cell per day in humans and 100,000 times per cell per day in rats.
+mutation: Viral nucleoproteins have been shown to avoid cytotoxic T lymphocytes (CTLs) through arginine-to glycine substitutions.
+mutation: Because DNA can be damaged in many ways, the process of DNA repair is an important way in which the body protects itself from disease.
+mutation: In this case, the mutation may enable the mutant organism to withstand particular environmental stresses better than wild-type organisms, or reproduce more quickly.
+mutation: If DNA damage remains in a cell, transcription of a gene may be prevented and thus translation into a protein may also be blocked.
+mutation: These types of mutations have led to new types of fruits, such as the "Delicious" apple and the "Washington" navel orange.
+mutation: A similar study investigated the bacterial fitness associated with compensatory mutations in rifampin resistant Escherichia coli.
+mutation: In Escherichia coli, one study used transposon mutagenesis to directly measure the fitness of a random insertion of a derivative of Tn10.
+mutation: In this latter case the mutation will have little or no effect on phenotype and therefore be neutral.
+mutation: Obviously, such mutations are only beneficial for the bacteria but not for those infected.
+mutation: Each of these classes of chemical mutagens has certain effects that then lead to transitions, transversions, or deletions.
+mutation: Nonsynonymous substitutions can be classified as nonsense or missense mutations:
+A missense mutation changes a nucleotide to cause substitution of a different amino acid.
+mutation: Likewise, in yeast, Kunz et al.
+mutation: Overall, rates of de novo mutations are low compared to those of inherited mutations, which categorizes them as rare forms of genetic variation.
+mutation: One 2017 study claimed that 66% of cancer-causing mutations are random, 29% are due to the environment (the studied population spanned 69 countries), and 5% are inherited.
+mutation: Exceptions are when the organism is haploid, or when the reduced dosage of a normal gene product is not enough for a normal phenotype (this is called haploinsufficiency).
+mutation: The distinction between germline and somatic mutations is important in animals that have a dedicated germline to produce reproductive cells.
+mutation: Some mutations alter a gene's DNA base sequence but do not change the protein made by the gene.
+mutation: In fact, bacterial populations already have such mutations that get selected under antibiotic selection.
+mutation: Because of this convenience, compensatory mutations have been studied in computational simulations using RNA folding algorithms.
+mutation: Mutations can have three different effects; mutations can have deleterious effects, some increase fitness through compensatory mutations, and lastly mutations can be counterbalancing resulting in compensatory neutral mutations.
+mutation: With plants, some somatic mutations can be propagated without the need for seed production, for example, by grafting and stem cuttings.
+mutation: When a mutation alters a protein that plays a critical role in the body, a medical condition can result.
+mutation: Novel genes are produced by several methods, commonly through the duplication and mutation of an ancestral gene, or by recombining parts of different genes to form new combinations with new functions.
+mutation: Mutation is the ultimate source of all genetic variation, providing the raw material on which evolutionary forces such as natural selection can act.
+mutation: For a given protein, a deleterious mutation (D) and a compensatory mutation (C) can be considered, where C can be in the same protein as D or in a different interacting protein depending on the context.
+mutation: BBC Radio 4.
+mutation: Each cell has a number of pathways through which enzymes recognize and repair damages in DNA.
+mutation: "Welcome to the Mutalyzer website".
+mutation: 2012 used whole genome comparisons between clinical strains and lab derived mutants to determine the role and contribution of compensatory mutations in drug resistance to rifampicin.
+mutation: For example, most studies of the DFE in viruses used site-directed mutagenesis to create point mutations and measure relative fitness of each mutant.
+mutation: In contrast to a DNA damage, a mutation is an alteration of the base sequence of the DNA.
+mutation: In this experiment it was shown that the overall DFE is bimodal, with a cluster of neutral mutations, and a broad distribution of deleterious mutations.
+mutation: In contrast, a base analogue can mutate the DNA only when the analogue is incorporated in replicating the DNA.
+mutation: Scientists may sometimes deliberately introduce mutations into cells or research organisms for the sake of scientific experimentation.
+mutation: The committee of the Human Genome Variation Society (HGVS) has developed the standard human sequence variant nomenclature, which should be used by researchers and DNA diagnostic centers to generate unambiguous mutation descriptions.
+mutation: Although distinctly different from each other, DNA damages and mutations are related because DNA damages often cause errors of DNA synthesis during replication or repair and these errors are a major source of mutation.
+mutation: If it becomes necessary to differentiate between mutations in genomic DNA, mitochondrial DNA, and RNA, a simple convention is used.
+mutation: In general, they are irreversible: Though exactly the same sequence might, in theory, be restored by an insertion, transposable elements able to revert a very short deletion (say 1–2 bases) in any location either are highly unlikely to exist or do not exist at all.
+mutation: This sort of mutation has been linked to different diseases, such as congenital adrenal hyperplasia.
+mutation: Deamination – Hydrolysis changes a normal base to an atypical base containing a keto group in place of the original amine group.
+mutation: Insertions add one or more extra nucleotides into the DNA.
+mutation: The interactors can be other proteins, molecules, nucleic acids, etc.
+mutation: Synonymous mutations occur due to the degenerate nature of the genetic code.
+mutation: Gene deletions involve removal of whole genes, so that point mutations almost always have a much smaller effect.
+mutation: DFE can also be tracked by tracking the skewness of the distribution of mutations with putatively severe effects as compared to the distribution of mutations with putatively mild or absent effect.
+mutation: The permissive conditions may be temperature, certain chemicals, light or mutations in other parts of the genome.
+mutation: The genomes of RNA viruses are based on RNA rather than DNA.
+mutation: Agents that form DNA adducts (e.g., ochratoxin A)
+DNA intercalating agents (e.g., ethidium bromide)
+DNA crosslinkers
+Oxidative damage
+Nitrous acid converts amine groups on A and C to diazo groups, altering their hydrogen bonding patterns, which leads to incorrect base pairing during replication.
+mutation: Then they isolated 39 amino acid substitutions that occurred in different timelines and substituted them in a genetic background that approximated the ancestral genotype.
+mutation: Human and mouse somatic cells have a mutation rate more than ten times higher than the germline mutation rate for both species; mice have a higher rate of both somatic and germline mutations per cell division than humans.
+mutation: For example, the human eye uses four genes to make structures that sense light: three for cone cell or colour vision and one for rod cell or night vision; all four arose from a single ancestral gene.
+mutation: The rest of the mutations are either neutral or slightly beneficial.
+mutation: Other types of mutation occasionally create new genes from previously noncoding DNA.
+mutation: Like neutral mutations, weakly selected advantageous mutations can be lost due to random genetic drift, but strongly selected advantageous mutations are more likely to be fixed.
+mutation: A homozygous mutation is an identical mutation of both the paternal and maternal alleles.
+mutation: They are usually caused by transposable elements, or errors during replication of repeating elements.
+mutation: Examples of diseases caused by a loss-of-function mutation include Gitelman syndrome and cystic fibrosis.
+mutation: Two nucleotide bases in DNA—cytosine and thymine—are most vulnerable to radiation that can change their properties.
+mutation: A newer theory suggests that the selective pressure on the CCR5 Delta 32 mutation was caused by smallpox instead of the bubonic plague.
+mutation: Intragenic mutations occur in the gene where the first mutation occurs, while extragenic mutations occur in the gene that interacts with the product of the first mutation.
+mutation: Mutations result from errors during replication, mitosis, meiosis, or damage to DNA, which then may trigger error-prone repair or cause an error during replication (translesion synthesis).
+mutation: However, when C and D co-occur together, the combined fitness effect becomes neutral or positive.
+mutation: This theory could explain why this mutation is not found in Southern Africa, which remained untouched by bubonic plague.
+mutation: His neutral theory of molecular evolution proposes that most novel mutations will be highly deleterious, with a small fraction being neutral.
+mutation: The compensatory mutation can occur in the same protein or in another protein with which it interacts.
+mutation: They proposed that the distribution for advantageous mutations should be exponential under a wide range of conditions, which, in general, has been supported by experimental studies, at least for strongly selected advantageous mutations.
+mutation: Antibiotic resistance: Practically all bacteria develop antibiotic resistance when exposed to antibiotics.
+mutation: A point substitution mutation results in a change in a single nucleotide and can be either synonymous or nonsynonymous.
+mutation: The abundance of some genetic changes within the gene pool can be reduced by natural selection, while other "more favorable" mutations may accumulate and result in adaptive changes.
+mutation: One of the earliest theoretical studies of the distribution of fitness effects was done by Motoo Kimura, an influential theoretical population geneticist.
+mutation: These include:
+Chromosomal translocations: interchange of genetic parts from nonhomologous chromosomes.
+mutation: If this color change is advantageous, the chances of this butterfly's surviving and producing its own offspring are a little better, and over time the number of butterflies with this mutation may form a larger percentage of the population.
+mutation: An example of one is albinism, a mutation that occurs in the OCA1 or OCA2 gene.
+mutation: A wild type or homozygous non-mutated organism is one in which neither allele is mutated.
+mutation: In some cases, only a fraction of a gene is duplicated, producing a gene shorter that the original.
+mutation: The second model of CPDs states that P and C are both deleterious mutations resulting in fitness valleys when mutations occur simultaneously.
+mutation: Phenotypes associated with such mutations are most often recessive.
+mutation: While epistasis was originally conceived in the context of interaction between different genes, intragenic epistasis has also been studied recently.
+mutation: Marfan syndrome is also an example of dominant negative mutation and haploinsufficiency.
+mutation: Mutagenesis experiment: The direct method to investigate the DFE is to induce mutations and then measure the mutational fitness effects, which has already been done in viruses, bacteria, yeast, and Drosophila.
+mutation: In biology, a mutation is an alteration in the nucleic acid sequence of the genome of an organism, virus, or extrachromosomal DNA.
+mutation: Radiation
+Ultraviolet light (UV) (including non-ionizing radiation).
+mutation: In these conditions, selective forces diminish the frequency of mutated alleles, which are most often deleterious, over time.
+mutation: Mutations may also result from substitution, insertion or deletion of segments of DNA due to mobile genetic elements.
+mutation: For instance, association of Steroid Binding Domain can create a transcriptional switch that can change the expression of a gene based on the presence of a steroid ligand.
+mutation: Jones S, Woolfson A, Partridge L (6 December 2007).
+mutation: Effective population size refers to a population that is reproducing.
+mutation: Amino acid substitution (e.g., D111E) – The first letter is the one letter code of the wild-type amino acid, the number is the position of the amino acid from the N-terminus, and the second letter is the one letter code of the amino acid present in the mutation.
+mutation: Ionizing radiation.
+mutation: These changes are classified as transitions or transversions.
+mutation: A neutral mutation has no harmful or beneficial effect on the organism.
+mutation: Due to the triplet nature of gene expression by codons, the insertion or deletion can disrupt the reading frame, or the grouping of the codons, resulting in a completely different translation from the original.
+mutation: For example, more than a million copies of the Alu sequence are present in the human genome, and these sequences have now been recruited to perform functions such as regulating gene expression.
+mutation: DNA Recombinase systems like Cre-Lox recombination used in association with promoters that are activated under certain conditions can generate conditional mutations.
+mutation: Deletions remove one or more nucleotides from the DNA.
+mutation: Less common is a transversion, which exchanges a purine for a pyrimidine or a pyrimidine for a purine (C/T ↔ A/G).
+mutation: Marfan syndrome is caused by mutations in the FBN1 gene, located on chromosome 15, which encodes fibrillin-1, a glycoprotein component of the extracellular matrix.
+mutation: A germline mutation in the reproductive cells of an individual gives rise to a constitutional mutation in the offspring, that is, a mutation that is present in every cell.
+mutation: DNA damages are repaired by the DNA repair system of the cell.
+mutation: DePristo et al.
+mutation: Research has shown that bacteria can gain drug resistance through compensatory mutations that do not impede or having little effect on fitness.
+mutation: Humans on average pass 60 new mutations to their children but fathers pass more mutations depending on their age with every year adding two new mutations to a child.
+mutation: Dominant negative mutations (also called anti-morphic mutations) have an altered gene product that acts antagonistically to the wild-type allele.
+mutation: found that more than 60% of the spontaneous single base pair substitutions and deletions were caused by translesion synthesis.
+mutation: Although naturally occurring double-strand breaks occur at a relatively low frequency in DNA, their repair often causes mutation.
+mutation: Burch and Chao tested Fisher's geometric model of adaptive evolution by testing whether bacteriophage φ6 evolves by small steps.
+mutation: Slipped strand mispairing – Denaturation of the new strand from the template during replication, followed by renaturation in a different spot ("slipping").
+mutation: Examples are mutations that lead to antibiotic resistance in bacteria (which are beneficial for bacteria but usually not for humans).
+mutation: A variety of approaches have been used to study the DFE, including theoretical, experimental and analytical methods.
+mutation: Ordinarily, a mutation cannot be recognized by enzymes once the base change is present in both DNA strands, and thus a mutation is not ordinarily repaired.
+mutation: The sequence of a gene can be altered in a number of ways.
+mutation: Somatic mutations are not inherited by an organism's offspring because they do not affect the germline.
+mutation: Four classes of mutations are (1) spontaneous mutations (molecular decay), (2) mutations due to error-prone replication bypass of naturally occurring DNA damage (also called error-prone translesion synthesis), (3) errors introduced during DNA repair, and (4) induced mutations caused by mutagens.
+mutation: Insertions can be reversed by excision of the transposable element.
+mutation: Most genes belong to larger gene families of shared ancestry, detectable by their sequence homology.
+mutation: The position of a population relative to the critical effect population size is essential to determine the effect deleterious alleles will have on fitness.
+mutation: Using publicly available, Ferrer-Costa et al.
+mutation: A later proposal by Hiroshi Akashi proposed a bimodal model for the DFE, with modes centered around highly deleterious and neutral mutations.
+mutation: Compound heterozygous mutations or a genetic compound consists of two different mutations in the paternal and maternal alleles.
+mutation: Mutations within introns and in regions with no known biological function (e.g.
+mutation: (For example, the code CCU GAC UAC CUA codes for the amino acids proline, aspartic acid, tyrosine, and leucine.
+mutation: These duplications are a major source of raw material for evolving new genes, with tens to hundreds of genes duplicated in animal genomes every million years.
+mutation: Point mutations are modifications of single base pairs of DNA or other small base pairs within a gene.
+mutation: In humans, the appearance of skin cancer during one's lifetime is induced by overexposure to UV radiation that causes mutations in the cellular and skin genome.
+mutation: If this mutation does not result in any phenotypic effects, then it is called silent, but not all synonymous substitutions are silent.
+mutation: They found that over one third of these substitutions compromised IMDH enzymatic activity in the Escherichia coli genetic background.
+mutation: Theoretical results suggest that proton tunneling is an important factor in the spontaneous creation of GC tautomers.
+mutation: The disparity in mutation rate between the germline and somatic tissues likely reflects the greater importance of genome maintenance in the germline than in the soma.
+mutation: Mutations whose effect is to juxtapose previously separate pieces of DNA, potentially bringing together separate genes to form functionally distinct fusion genes (e.g., bcr-abl).
+mutation: Gillespie and H.
+mutation: Such mutations occur at a steady rate, forming the basis for the molecular clock.
+mutation: This was shown to be wrong as mutation frequency can vary across regions of the genome, with such DNA repair- and mutation-biases being associated with various factors.
+mutation: For example, smaller populations with heavy mutational input (high rates of mutation) are prone to increases of genetic variation which lead to speciation in future generations.
+mutation: The abnormal FIG-ROS fusion protein has constitutively active kinase activity that causes oncogenic transformation (a transformation from normal cells to cancer cells).
+mutation: Suppressor mutations are a type of mutation that causes the double mutation to appear normally.
+mutation: Mutations may or may not produce detectable changes in the observable characteristics (phenotype) of an organism.
+mutation: Lethal mutations result in rapid organismal death when occurring during development and cause significant reductions of life expectancy for developed organisms.
+mutation: Beneficial mutations can improve reproductive success.
+mutation: Whereas in former times mutations were assumed to occur by chance, or induced by mutagens, molecular mechanisms of mutation have been discovered in bacteria and across the tree of life.
+mutation: In principle, this nomenclature can also be used to describe mutations in other organisms.
+mutation: Mutations play a part in both normal and abnormal biological processes including: evolution, cancer, and the development of the immune system, including junctional diversity.
+mutation: Such mutations are responsible for diseases such as Epidermolysis bullosa, sickle-cell disease, and SOD1-mediated ALS.
+mutation: The typical human genome also contains 40,000 to 200,000 rare variants observed in less than 0.5% of the population that can only have occurred from at least one de novo germline mutation in the history of human evolution.
+mutation: However, given that many mutations have effects too small to be detected and that mutagenesis experiments can detect only mutations of moderately large effect; DNA sequence analysis can provide valuable information about these mutations.
+mutation: Previous research from Gagneux et al.
+mutation: Their results showed that bacteriophage φ6 fitness declined rapidly and recovered in small steps .
+mutation: An example of a disease that is caused by a dominant lethal mutation is Huntington's disease.
+mutation: Neutral mutations are defined as mutations whose effects do not influence the fitness of an individual.
+mutation: The nomenclature specifies the type of mutation and base or amino acid changes.
+mutation: Mutation can result in many different types of change in sequences.
+mutation: Malaria resistance: An example of a harmful mutation is sickle-cell disease, a blood disorder in which the body produces an abnormal type of the oxygen-carrying substance haemoglobin in the red blood cells.
+mutation: Those with only one of the two alleles of the sickle-cell disease are more resistant to malaria, since the infestation of the malaria Plasmodium is halted by the sickling of the cells that it infests.
+mutation: Theoretical work on the DFE for advantageous mutations has been done by John H.
+mutation: Atopic eczema and dermatitis syndrome are common diseases caused by a null mutation of the gene that activates filaggrin.
+mutation: 2007 obtained compensatory mutations and human pathogenic mutation datasets that were characterized to determine what causes CPDs.
+mutation: Dual Recombinase technology can be used to induce multiple conditional mutations to study the diseases which manifest as a result of simultaneous mutations in multiple genes.
+mutation: Also, DNA repair mechanisms are able to mend most changes before they become permanent mutations, and many organisms have mechanisms, such as apoptotic pathways, for eliminating otherwise-permanently mutated somatic cells.
+mutation: Liou S (5 February 2011).
+mutation: Exposure to ionizing radiation, such as gamma radiation, can result in mutation, possibly resulting in cancer or death.
+mutation: Certain inteins have been identified which splice only at certain permissive temperatures, leading to improper protein synthesis and thus, loss-of-function mutations at other temperatures.
+mutation: Currently, the best estimate of the average human germline SNV mutation rate is 1.18 x 10^-8, with an approximate ~78 novel mutations per generation.
+mutation: Nonlethal mutations accumulate within the gene pool and increase the amount of genetic variation.
+mutation: tested the outcome of swapping divergent amino acids between two orthologous proteins of isopropylmalate dehydrogenase (IMDH).
+mutation: For example, if the 100th base of a nucleotide sequence mutated from G to C, then it would be written as g.100G>C if the mutation occurred in genomic DNA, m.100G>C if the mutation occurred in mitochondrial DNA, or r.100g>c if the mutation occurred in RNA.
+mutation: This error-prone process often results in mutations.
+mutation: UV light can induce adjacent pyrimidine bases in a DNA strand to become covalently joined as a pyrimidine dimer.
+mutation: On the other hand, if a missense mutation occurs in an amino acid codon that results in the use of a different, but chemically similar, amino acid, then sometimes little or no change is rendered in the protein.
+mutation: In suppressor mutations the phenotypic activity of a different mutation is completely suppressed, thus causing the double mutation to look normal.
+mutation: Height (or size) itself may be more or less beneficial as the huge range of sizes in animal or plant groups shows.
+mutation: Mutations that occur in coding regions of the genome are more likely to alter the protein product, and can be categorized by their effect on amino acid sequence:
+mutation: NHEJ involves removal of a few nucleotides to allow somewhat inaccurate alignment of the two ends for rejoining followed by addition of nucleotides to fill in gaps.
+mutation: For example, in the Homininae, two chromosomes fused to produce human chromosome 2; this fusion did not occur in the lineage of the other apes, and they retain these separate chromosomes.
+mutation: UV radiation, in particular longer-wave UVA, can also cause oxidative damage to DNA.
+mutation: One-third of all indigenous inhabitants of Sub-Saharan Africa carry the allele, because, in areas where malaria is common, there is a survival value in carrying only a single sickle-cell allele (sickle cell trait).
+mutation: A new germline mutation not inherited from either parent is called a de novo mutation.
+mutation: An example of a transversion is the conversion of adenine (A) into a cytosine (C).
+mutation: Mutations in the non-coding regulatory sequences of a gene, such as promoters, enhancers, and silencers, can alter levels of gene expression, but are less likely to alter the protein sequence.
+mutation: In the first hypothesis P is a pathogenic amino acid mutation that and C is a neutral compensatory mutation.
+mutation: A mutation allowed humans to express the enzyme lactase after they are naturally weaned from breast milk, allowing adults to digest lactose, which is likely one of the most beneficial mutations in recent human evolution.
+mutation: Results indicate that the structural constraints and the location in protein structure determine whether compensated mutations will occur.
+mutation: Conditional mutations have applications in research as they allow control over gene expression.
+mutation: De novo mutations have also been researched as playing a crucial role in the persistence of genetic disease in humans.
+mutation: With recents advancements in next-generation sequencing (NGS), all types of de novo mutations within the genome can be directly studied, the detection of which provides a magnitude of insight toward the causes of both rare and common genetic disorders.
+mutation: Depurination – Loss of a purine base (A or G) to form an apurinic site (AP site).
+mutation: However, the weight of genetic diversity generated by mutational change is often considered a generally "weak" evolutionary force.
+mutation: 2006 has found that laboratory grown Mycobacterium tuberculosis strains with rifampicin resistance have reduced fitness, however drug resistant clinical strains of this pathogenic bacteria do not have reduced fitness.
+mutation: Spontaneous mutations can be characterized by the specific change:
+mutation: A constitutional mutation can also occur very soon after fertilization, or continue from a previous constitutional mutation in a parent.
+mutation: A back mutation or reversion is a point mutation that restores the original sequence and hence the original phenotype.
+mutation: A point mutation can be reversed by another point mutation, in which the nucleotide is changed back to its original state (true reversion) or by second-site reversion (a complementary mutation elsewhere that results in regained gene functionality).
+mutation: This substitution mutations impacts the fitness of viral nucleoproteins, however compensatory co-mutations impede fitness declines and aid the virus to avoid recognition from CTLs.
+mutation: At the level of cell populations, cells with mutations will increase or decrease in frequency according to the effects of the mutations on the ability of the cell to survive and reproduce.
+mutation: Cells with heterozygous loss-of-function mutations (one good copy of gene and one mutated copy) may function normally with the unmutated copy until the good copy has been spontaneously somatically mutated.
+mutation: Non-homologous chromosomal crossover.
+mutation: This is especially useful studying diseases in adults by allowing expression after a certain period of growth, thus eliminating the deleterious effect of gene expression seen during stages of development in model organisms.
+mutation: DNA replication may also be blocked and/or the cell may die.
+mutation: Loss-of-function mutations, also called inactivating mutations, result in the gene product having less or no function (being partially or wholly inactivated).
+mutation: The letter refers to the amino acid present in the wild type and the number is the position from the N terminus of the amino acid were it to be present as in the wild type.
+mutation: Conditional mutations may also be used in genetic studies associated with ageing, as the expression can be changed after a certain time period in the organism's lifespan.
+mutation: Polyploidy, duplication of entire sets of chromosomes, potentially resulting in a separate breeding population and speciation.
+mutation: On the other hand, a mutation may occur in a somatic cell of an organism.

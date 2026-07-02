@@ -1,0 +1,178 @@
+computer_science: Every algorithm can be expressed in a language for a computer consisting of only five basic instructions:
+move left one location;
+move right one location;
+read symbol at current location;
+print 0 at current location;
+print 1 at current location.
+computer_science: Modern cryptography is the scientific study of problems relating to distributed computations that can be attacked.
+computer_science: The fundamental concern of computer science is determining what can and cannot be automated.
+computer_science: In 1820, Thomas de Colmar launched the mechanical calculator industry when he invented his simplified arithmometer, the first calculating machine strong enough and reliable enough to be used daily in an office environment.
+computer_science: According to Peter Denning, the fundamental question underlying computer science is, "What can be automated?" Theory of computation is focused on answering fundamental questions about what can be computed and what amount of resources are required to perform those computations.
+computer_science: Peter Denning's working group argued that they are theory, abstraction (modeling), and design.
+computer_science: A major usage of scientific computing is simulation of various processes, including computational fluid dynamics, physical, electrical, and electronic systems and circuits, societies and social situations (notably war games) along with their habitats, and interactions among biological cells.
+computer_science: Human–computer interaction (HCI) is the field of study and research concerned with the design and use of computer systems, mainly based on the analysis of the interaction between humans and computer interfaces.
+computer_science: Since practical computers became available, many applications of computing have become distinct areas of study in their own rights.
+computer_science: An alternative term, also proposed by Naur, is data science; this is now used for a multi-disciplinary field of data analysis, including statistics and databases.
+computer_science: Programming languages can be used to accomplish different tasks in different ways.
+computer_science: For example software testing, systems engineering, technical debt and software development processes.
+computer_science: In much the same way that the imperative mood in natural languages expresses commands, an imperative program consists of commands for the computer to perform.
+computer_science: Actually constructing the machine poses a question to nature; and we listen for the answer by observing the machine in operation and analyzing it by all analytical and measurement means available.
+computer_science: HCI has several subfields that focus on the relationship between emotions, social behavior and brain activity with computers.
+computer_science: During the 1940s, with the development of new and more powerful computing machines such as the Atanasoff–Berry computer and ENIAC, the term computer came to refer to the machines rather than their human predecessors.
+computer_science: The lab is the forerunner of IBM's Research Division, which today operates research facilities around the world.
+computer_science: Computer security is a branch of computer technology with the objective of protecting information from unauthorized access, disruption, or modification while maintaining the accessibility and usability of the system for its intended users.
+computer_science: We would have called it an experimental science, but like astronomy, economics, and geology, some of its unique forms of observation and experience do not fit a narrow stereotype of the experimental method.
+computer_science: Nonetheless, they are experiments.
+computer_science: The relationship between computer science and software engineering is a contentious issue, which is further muddied by disputes over what the term "software engineering" means, and how computer science is defined.
+computer_science: Alan Turing's insight: there are only five actions that a computer has to perform in order to do "anything".
+computer_science: Leibniz may be considered the first computer scientist and information theorist, because of various reasons, including the fact that he documented the binary number system, although Thomas Harriot had already done so decades earlier.
+computer_science: Imperative programming focuses on describing how a program operates.
+computer_science: Information can take the form of images, sound, video or other multimedia.
+computer_science: Algorithms and data structures are central to computer science.
+computer_science: A feature of objects is that an object's procedures can access and often modify the data fields of the object with which they are associated.
+computer_science: Data mining is a process of discovering patterns in large data sets.
+computer_science: Conferences are important events for computer science research.
+computer_science: Louis justifies the name by arguing that, like management science, the subject is applied and interdisciplinary in nature, while having the characteristics typical of an academic discipline.
+computer_science: The term is used mainly in the Scandinavian countries.
+computer_science: AI is associated in the popular mind with robotic development, but the main field of practical application has been as an embedded component in areas of software development, which require computational understanding.
+computer_science: Computer science research also often intersects other disciplines, such as cognitive science, linguistics, mathematics, physics, biology, Earth science, statistics, philosophy, and logic.
+computer_science: Object-oriented programming, a programming paradigm based on the concept of "objects", which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
+computer_science: problem, one of the Millennium Prize Problems, is an open problem in the theory of computation.
+computer_science: However, the high cost of using formal methods means that they are usually only used in the development of high-integrity and life-critical systems, where safety or security is of utmost importance.
+computer_science: The three rules of Boehm's and Jacopini's insight can be further simplified with the use of goto (which means it is more elementary than structured programming).
+computer_science: Computer science is the study of computation, information, and automation.
+computer_science: Following Babbage, although unaware of his earlier work, Percy Ludgate in 1909 published the second of the only two designs for mechanical analytical engines in history.
+computer_science: Computer science departments with a mathematics emphasis and with a numerical orientation consider alignment with computational science.
+computer_science: Data structures and algorithms are the studies of commonly used computational methods and their computational efficiency.
+computer_science: The use of formal methods for software and hardware design is motivated by the expectation that, as in other engineering disciplines, performing appropriate mathematical analysis can contribute to the reliability and robustness of a design.
+computer_science: Charles Babbage started the design of the first automatic mechanical calculator, his Difference Engine, in 1822, which eventually gave him the idea of the first programmable mechanical calculator, his Analytical Engine.
+computer_science: The starting point in the late 1940s was Alan Turing's question "Can computers think?", and the question remains effectively unanswered, although the Turing test is still used to assess computer output on the scale of human intelligence.
+computer_science: This was developed by Claude Shannon to find fundamental limits on signal processing operations such as compressing data and on reliably storing and communicating data.
+computer_science: Common programming paradigms include:
+computer_science: In 1914, the Spanish engineer Leonardo Torres Quevedo published his Essays on Automatics, and designed, inspired by Babbage, a theoretical electromechanical calculating machine which was to be controlled by a read-only program.
+computer_science: Functional programming, a style of building the structure and elements of computer programs that treats computation as the evaluation of mathematical functions and avoids state and mutable data.
+computer_science: Human–computer interaction investigates the interfaces through which humans and computers interact, and software engineering focuses on the design and principles behind developing software.
+computer_science: Ultimately, the close relationship between IBM and Columbia University was instrumental in the emergence of a new scientific discipline, with Columbia offering one of the first academic-credit courses in computer science in 1946.
+computer_science: The academic, political, and funding aspects of computer science tend to depend on whether a department is formed with a mathematical emphasis or with an engineering emphasis.
+computer_science: Each new machine that is built is an experiment.
+computer_science: Despite its name, a significant amount of computer science does not involve the study of computers themselves.
+computer_science: Within artificial intelligence, computer vision aims to understand and process image and video data, while natural language processing aims to understand and process textual and linguistic data.
+computer_science: The theory of computation concerns abstract models of computation and general classes of problems that can be solved using them.
+computer_science: Artificial intelligence (AI) aims to or is required to synthesize goal-orientated processes such as problem-solving, decision-making, environmental adaptation, learning, and communication found in humans and animals.
+computer_science: The first scientific institution to use the term was the Department of Datalogy at the University of Copenhagen, founded in 1969, with Peter Naur being the first professor in datalogy.
+computer_science: Computer science is considered by some to have a much closer relationship with mathematics than many scientific disciplines, with some observers saying that computing is a mathematical science.
+computer_science: It addresses their performance, resilience, security, scalability, and cost-effectiveness, along with the variety of services they can provide.
+computer_science: Historical cryptography is the art of writing and deciphering secret messages.
+computer_science: Service-oriented programming, a programming paradigm that uses "services" as the unit of computer work, to design and implement integrated business applications and mission critical software programs.
+computer_science: Included broadly in the sciences, computer science spans theoretical disciplines (such as algorithms, theory of computation, and information theory) to applied disciplines (including the design and implementation of hardware and software).
+computer_science: A number of mathematical models have been developed for general concurrent computation including Petri nets, process calculi and the parallel random access machine model.
+computer_science: It is a declarative programming paradigm, which means programming is done with expressions or declarations instead of statements.
+computer_science: Artificial intelligence and machine learning aim to synthesize goal-orientated processes such as problem-solving, decision-making, environmental adaptation, planning and learning found in humans and animals.
+computer_science: Certain departments of major universities prefer the term computing science, to emphasize precisely that difference.
+computer_science: They also argue that while empirical sciences observe what presently exists, computer science observes what is possible to exist and while scientists discover laws from observation, no proper laws have been found in computer science and it is instead concerned with creating phenomena.
+computer_science: Codes are used for data compression, cryptography, error detection and correction, and more recently also for network coding.
+computer_science: During these conferences, researchers from the public and private sectors present their recent work and meet.
+computer_science: Information theory, closely related to probability and statistics, is related to the quantification of information.
+computer_science: Corrado Böhm and Giuseppe Jacopini's insight: there are only three ways of combining these actions (into more complex ones) that are needed in order for a computer to do "anything".
+computer_science: Danish scientist Peter Naur suggested the term datalogy, to reflect the fact that the scientific discipline revolves around data and data treatment, while not necessarily involving computers.
+computer_science: It is an active research area, with numerous dedicated academic journals.
+computer_science: Machines for calculating fixed numerical tasks such as the abacus have existed since antiquity, aiding in computations such as multiplication and division.
+computer_science: "informazione automatica" in Italian) or "information and mathematics" are often used, e.g.
+computer_science: Algorithms for performing computations have existed since antiquity, even before the development of sophisticated computing equipment.
+computer_science: In 1673, Gottfried Leibniz demonstrated a digital mechanical calculator, called the Stepped Reckoner.
+computer_science: It focuses largely on the way by which the central processing unit performs internally and accesses addresses in memory.
+computer_science: Computer engineers study computational logic and design of computer hardware, from individual processor components, microcontrollers, personal computers to supercomputers and embedded systems.
+computer_science: DBLP Computer Science Bibliography
+Association for Computing Machinery
+Institute of Electrical and Electronics Engineers
+computer_science: Peter Wegner argued that those paradigms are science, technology, and mathematics.
+computer_science: Computer science focuses on methods involved in design, specification, programming, verification, implementation and testing of human-made computing systems.
+computer_science: Areas such as operating systems, networks and embedded systems investigate the principles and design behind complex systems.
+computer_science: Technologies studied in modern cryptography include symmetric and asymmetric encryption, digital signatures, cryptographic hash functions, key-agreement protocols, blockchain, zero-knowledge proofs, and garbled circuits.
+computer_science: The first computer science department in the United States was formed at Purdue University in 1962.
+computer_science: Proponents of classifying computer science as a mathematical discipline argue that computer programs are physical realizations of mathematical entities and programs that can be deductively reasoned through mathematical formal methods.
+computer_science: Software engineering deals with the organizing and analyzing of software—it does not just deal with the creation or manufacture of new software, but its internal arrangement and maintenance.
+computer_science: Concurrency is a property of systems in which several computations are executing simultaneously, and potentially interacting with each other.
+computer_science: Imperative programming, a programming paradigm that uses statements that change a program's state.
+computer_science: Programming language theory is a branch of computer science that deals with the design, implementation, analysis, characterization, and classification of programming languages and their individual features.
+computer_science: informatique (French), Informatik (German), informatica (Italian, Dutch), informática (Spanish, Portuguese), informatika (Slavic languages and Hungarian) or pliroforiki (πληροφορική, which means informatics) in Greek.
+computer_science: The world's first computer science degree program, the Cambridge Diploma in Computer Science, began at the University of Cambridge Computer Laboratory in 1953.
+computer_science: As it became clear that computers could be used for more than just mathematical calculations, the field of computer science broadened to study computation in general.
+computer_science: But the automation of evaluative and predictive tasks has been increasingly successful as a substitute for human monitoring and intervention in domains of computer application involving complex real-world data.
+computer_science: Three months later in the same journal, comptologist was suggested, followed next year by hypologist.
+computer_science: When multiple computers are connected in a network while using concurrency, this is known as a distributed system.
+computer_science: Notable in electrical and electronic circuit design are SPICE, as well as software for physical realization of new (or modified) designs.
+computer_science: The fields of cryptography and computer security involve studying the means for secure communication and preventing security vulnerabilities.
+computer_science: Simon argued in 1975, Computer science is an empirical discipline.
+computer_science: Proponents of classifying computer science as an engineering discipline argue that the reliability of computational systems is investigated in the same way as bridges in civil engineering and airplanes in aerospace engineering.
+computer_science: Allen Newell and Herbert A.
+computer_science: Theoretical computer science is mathematical and abstract in spirit, but it derives its motivation from practical and everyday computation.
+computer_science: It aims to understand the nature of computation and, as a consequence of this understanding, provide more efficient methodologies.
+computer_science: Bits of information can be streamed via signals.
+computer_science: It falls within the discipline of computer science, both depending on and affecting mathematics, software engineering, and linguistics.
+computer_science: Gottfried Wilhelm Leibniz's, George Boole's, Alan Turing's, Claude Shannon's, and Samuel Morse's insight: there are only two objects that a computer has to deal with in order to represent "anything".
+computer_science: However, there has been exchange of ideas between the various computer-related disciplines.
+computer_science: Brooks Jr., members of the Machine Organization department in IBM's main research center in 1959.
+computer_science: One proposed explanation for this is the quick development of this relatively new field requires rapid review and distribution of results, a task better handled by conferences than by journals.
+computer_science: Computer architecture describes the construction of computer components and computer-operated equipment.
+computer_science: Thus object-oriented computer programs are made out of objects that interact with one another.
+computer_science: Digital databases are managed using database management systems to store, create, maintain, and search data, through database models and query languages.
+computer_science: The study is connected to many other fields in computer science, including computer vision, image processing, and computational geometry, and is heavily applied in the fields of special effects and video games.
+computer_science: All the information about any computable problem can be represented using only 0 and 1 (or any other bistable pair that can flip-flop between two easily distinguishable states, such as "on/off", "magnetized/de-magnetized", "high-voltage/low-voltage", etc.).
+computer_science: Because of this, several alternative names have been proposed.
+computer_science: Formal methods are a particular kind of mathematically based technique for the specification, development and verification of software and hardware systems.
+computer_science: The term computics has also been suggested.
+computer_science: He started developing this machine in 1834, and "in less than two years, he had sketched out many of the salient features of the modern computer".
+computer_science: The Turing Award is generally recognized as the highest distinction in computer science.
+computer_science: The second question is addressed by computational complexity theory, which studies the time and space costs associated with different approaches to solving a multitude of computational problems.
+computer_science: Codes are studied for the purpose of designing efficient and reliable data transmission methods.
+computer_science: Computer architecture, or digital computer organization, is the conceptual design and fundamental operational structure of a computer system.
+computer_science: A database is intended to organize, store, and retrieve large amounts of data easily.
+computer_science: Wilhelm Schickard designed and constructed the first working mechanical calculator in 1623.
+computer_science: In 1945, IBM founded the Watson Scientific Computing Laboratory at Columbia University in New York City.
+computer_science: This effort, and those of others such as numerical analyst George Forsythe, were successful, and universities went on to create such departments, starting with Purdue in 1962.
+computer_science: Unlike in most other academic fields, in computer science, the prestige of conference papers is greater than that of journal publications.
+computer_science: Programming language theory considers different ways to describe computational processes, and database theory concerns the management of repositories of data.
+computer_science: An expert in the field is known as a computer scientist.
+computer_science: Many languages offer support for multiple paradigms, making the distinction more a matter of style than of technical capabilities.
+computer_science: Computer science began to be established as a distinct academic discipline in the 1950s and early 1960s.
+computer_science: When the machine was finished, some hailed it as "Babbage's dream come true".
+computer_science: In Europe, terms derived from contracted translations of the expression "automatic information" (e.g.
+computer_science: Software engineering is the study of designing, implementing, and modifying the software in order to ensure it is of high quality, affordable, maintainable, and fast to build.
+computer_science: Both types of departments tend to make efforts to bridge the field educationally if not across all research.
+computer_science: Computers within that distributed system have their own private memory, and information can be exchanged to achieve common goals.
+computer_science: They form an important theoretical underpinning for software engineering, especially where safety or security is involved.
+computer_science: is one of the unsolved problems in theoretical computer science.
+computer_science: Johnson and Frederick P.
+computer_science: For industrial use, tool support is required.
+computer_science: The renovated fraternity house on Manhattan's West Side was IBM's first laboratory devoted to pure science.
+computer_science: Scientific computing (or computational science) is the field of study concerned with constructing mathematical models and quantitative analysis techniques and using computers to analyze and solve scientific problems.
+computer_science: What is the lower bound on the complexity of fast Fourier transform algorithms?
+computer_science: Dijkstra and Tony Hoare regard instructions for computer programs as mathematical sentences and interpret formal semantics for programming languages as mathematical axiomatic systems.
+computer_science: It is a systematic approach to software design, involving the application of engineering practices to software.
+computer_science: For example, the study of computer hardware is usually considered part of computer engineering, while the study of commercial computer systems and their deployment is often called information technology or information systems.
+computer_science: Coding theory is the study of the properties of codes (systems for converting information from one form to another) and their fitness for a specific application.
+computer_science: In an effort to answer the first question, computability theory examines which computational problems are solvable on various theoretical models of computation.
+computer_science: Computer scientists Edsger W.
+computer_science: The paper also introduced the idea of floating-point arithmetic.
+computer_science: Computer graphics and computational geometry address the generation of images.
+computer_science: "A crucial step was the adoption of a punched card system derived from the Jacquard loom", making it infinitely programmable.
+computer_science: Around 1885, Herman Hollerith invented the tabulator, which used punched cards to process statistical information; eventually his company became part of IBM.
+computer_science: Although first proposed in 1956, the term "computer science" appears in a 1959 article in Communications of the ACM, in which Louis Fein argues for the creation of a Graduate School in Computer Sciences analogous to the creation of Harvard Business School in 1921.
+computer_science: This branch of computer science aims studies the construction and behavior of computer networks.
+computer_science: Modern computers enable optimization of such designs as complete aircraft.
+computer_science: This field plays important role in information theory, telecommunications, information engineering and has applications in medical image computing and speech synthesis, among others.
+computer_science: The latter includes essential design software for integrated circuits.
+computer_science: The earliest foundations of what would become computer science predate the invention of the modern digital computer.
+computer_science: Similar words have also been adopted in the UK (as in the School of Informatics, University of Edinburgh).
+computer_science: Computer graphics is the study of digital visual contents and involves the synthesis and manipulation of image data.
+computer_science: In the early days of computing, a number of terms for the practitioners of the field of computing were suggested (albeit facetiously) in the Communications of the ACM—turingineer, turologist, flow-charts-man, applied meta-mathematician, and applied epistemologist.
+computer_science: As a discipline, computer science spans a range of topics from theoretical studies of algorithms and the limits of computation to the practical issues of implementing computing systems in hardware and software.
+computer_science: The term "architecture" in computer literature can be traced to the work of Lyle R.
+computer_science: Only three rules are needed to combine any set of basic instructions into more complex ones:
+sequence: first do this, then do that;
+ selection: IF such-and-such is the case, THEN do this, ELSE do that;
+repetition: WHILE such-and-such is the case, DO this.
+computer_science: Formal methods are a useful adjunct to software testing since they help avoid errors and can also give a framework for testing.
+computer_science: The famous P = NP?
+computer_science: Its processing is the central notion of informatics, the European view on computing, which studies information processing algorithms independently of the type of information carrier – whether it is electrical, mechanical or biological.

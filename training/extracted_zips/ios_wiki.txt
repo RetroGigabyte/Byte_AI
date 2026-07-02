@@ -1,0 +1,293 @@
+ios: It was released on September 8, 2010, with iOS 4.1 on iPhone 4, iPhone 3GS, and iPod Touch 2nd generation through 4th generation.
+ios: iOS (formerly iPhone OS) is a mobile operating system created and developed by Apple for its iPhone line of smartphones.
+ios: Major versions of iOS are released annually; the current stable version, iOS 26, was released to the public on September 15, 2025.
+ios: In iOS 7 and later, Spotlight is accessed by pulling down anywhere on the home screen (except for the top and bottom edges that open Notification Center and Control Center).
+ios: It also contains an iPhone simulator to mimic the look and feel of the device on the computer while developing.
+ios: Apple eventually chose Helvetica Neue instead.
+ios: iOS enforces strict sandboxing to maintain security and privacy.
+ios: In iOS 11, the application switcher receives a major redesign.
+ios: In iOS 7, instead of holding the icons to close them, they are closed by simply swiping them upwards off the screen.
+ios: However, backlash from developers prompted the company to reconsider, with Jobs announcing in October 2007 that Apple would have a software development kit available for developers by February 2008.
+ios: These default to flashlight and camera, but they can be customized to any control available in Control Center and can also be removed.
+ios: The iOS App Store was opened on July 10, 2008, with an initial 500 applications available.
+ios: They are written using iOS Software Development Kit (SDK) and, often, combined with Xcode, using officially supported programming languages, including Swift and Objective-C.
+ios: At first, Apple did not intend to release an SDK to developers, because they did not want third-party apps to be developed for iOS, building web apps instead.
+ios: At that time, the separate app was also removed from the iOS App Store.
+ios: While originally developing iPhone prior to its unveiling in 2007, Apple's then-CEO Steve Jobs did not intend to let third-party developers build native apps for iOS, instead directing them to make web applications for the Safari web browser.
+ios: Researchers found that users organize icons on their homescreens based on usage frequency and relatedness of the applications, as well as for reasons of usability and aesthetics.
+ios: Updates are checked for regularly, and are downloaded and installed automatically if enabled.
+ios: iOS 8 introduced the Document Picker and Document Provider extensions as part of the document interaction controller.
+ios: In order for the device to start completely and with a patched kernel, it must be "re-jailbroken" with a computer (using the "boot tethered" feature of a tool) each time it is turned on.
+ios: The implementation of multitasking in iOS has been criticized for its approach, which limits the work that applications in the background can perform to a limited function set and requires application developers to add explicit support for it.
+ios: Sales of iPads in recent years are also behind Android, while, by web use (a proxy for all use), iPads (using iOS) are still the most popular.
+ios: This endows Spotlight with Siri suggestions, which include app suggestions, contact suggestions and news.
+ios: People jailbreak for many different reasons, including gaining filesystem access, installing custom device themes, and modifying SpringBoard.
+ios: Notifications are sent in two modes, critical alerts that are displayed on the lock screen and signaled by a distinctive sound and vibration (e.g.
+ios: In September 2007, Apple announced the iPod Touch, a redesigned iPod based on the iPhone form factor.
+ios: If the user turns the device off and then boots it back up without the help of a jailbreak tool, the device will no longer be running a patched kernel, and it may get stuck in a partially started state, such as Recovery Mode.
+ios: Besides powering iPhone, iOS is the basis for three other operating systems made by Apple: iPadOS, tvOS, and watchOS.
+ios: iOS devices boot to the lock screen.
+ios: To the far left are icons which function as music controls, a rotation lock, and on iOS 4.2 and above, a volume controller.
+ios: The lock screen also has two buttons, called Controls, which are only available on iPhone.
+ios: Prior to the 2008 debut of Apple's native iOS App Store, the primary motive for jailbreaking was to bypass Apple's purchase mechanism for installing the App Store's native applications.
+ios: Internal accelerometers are used by some applications to respond to shaking the device (one common result is the undo command) or rotating it in three dimensions (one common result is switching between portrait and landscape mode).
+ios: Some camera settings such as video resolution and frame rate are not adjustable through the camera interface itself, but are outsourced to the system settings.
+ios: To access files outside of their sandbox, iOS uses mechanisms like document pickers, file providers, and app extensions.
+ios: In the iPad, the Control Center and app switcher are combined.
+ios: Further, Apple Watches, Apple TVs, and iPads either also use iOS for some models or use OSes based on iOS for other models.
+ios: iOS uses the XNU kernel included in the Darwin operating system and used by macOS, adapted to work with devices that run iOS.
+ios: The legality of software unlocking varies in each country; for example, in the US, there is a DMCA exemption for unofficial software unlocking of devices purchased before January 26, 2013.
+ios: It allows applications to have a consistent look and feel with the OS, nevertheless offering customization.
+ios: Jobs favored the former approach but pitted the Macintosh and iPod teams, led by Scott Forstall and Tony Fadell, respectively, against each other in an internal competition, with Forstall winning by creating iPhone OS.
+ios: Alerts appear in the center of the screen, but there are also alerts that scroll up from the bottom of the screen (called "action panels").
+ios: At WWDC 2014, Tim Cook said 800 million devices had been sold by June 2014.
+ios: Modern versions of iOS and the iPhone fully support LTE across multiple carriers wherever the phone was purchased.
+ios: The camera application used a skeuomorphic closing camera shutter animation prior to iOS 7.
+ios: Depending on the method used, the effects of jailbreaking may be permanent or temporary.
+ios: At the same time, the Copyright Office exempted unlocking an iPhone from DMCA's anticircumvention prohibitions.
+ios: Returned results are individualized.
+ios: The Apple Watch smartwatch was announced by Tim Cook on September 9, 2014, being introduced as a product with health and fitness-tracking.
+ios: iOS 11, released in 2017, dropped support for all iOS devices with 32-bit ARM processors as well as 32-bit applications, making iOS 64-bit only.
+ios: Copyright Office to allow an exemption to the general prohibition on circumvention of copyright protection systems under the Digital Millennium Copyright Act (DMCA).
+ios: Unlocking an iPhone allows the iPhone to be used with any wireless carrier using the same GSM or CDMA technology for which the particular phone model was designed to operate.
+ios: On March 6, 2008, Apple held a press event, announcing the iPhone SDK.
+ios: However, unlike previous versions it displays screenshots of open applications on top of the icon and horizontal scrolling allows for browsing through previous apps, and it is possible to close applications by dragging them up, similar to how WebOS handled multiple cards.
+ios: It is not available for Microsoft Windows PCs.
+ios: iOS 18, the second-to-latest stable version of iOS, uses version 24 of Darwin.
+ios: Official website
+Official dev center website at Apple Developer Connection
+iOS Reference Library – on the Apple Developer Connection website
+ios: Elements automatically update along with iOS updates, automatically including new interface rules.
+ios: New versions of the SDK accompany new versions of iOS.
+ios: Up to three apps can be cleared at a time compared to one in versions up to iOS 6.1.6.
+ios: In October 2016, Apple opened its first iOS Developer Academy in Naples inside University of Naples Federico II's new campus.
+ios: To start with a patched kernel, the user must start the device with the help of the jailbreak tool.
+ios: Before iOS 5, notifications were delivered in a modal window and could not be viewed after being dismissed.
+ios: Criticism has been aimed at iOS depending on both internet connection (either WiFi or through iTunes) and a working SIM card upon first activation.
+ios: The billionth application was installed on April 24, 2009.
+ios: iOS devices come with preinstalled apps developed by Apple including Mail, Maps, TV, Music, FaceTime, Wallet, Health, and many more.
+ios: Updates are also available using iTunes on older versions of macOS and Windows, using Finder on macOS starting with macOS Catalina, and using the Apple Devices app on Windows starting with Windows 10 version 22H2.
+ios: Former Facebook developer Joe Hewitt protested against Apple's control over its hardware as a "horrible precedent" but praised iOS's sandboxing of apps.
+ios: On iPhones with Touch ID, screenshots can be created with the simultaneous press of the home and power buttons.
+ios: Programs to remove SIM lock restrictions are available, but are not supported by Apple, and most often not a permanent unlock – a soft unlock, which modifies the iPhone so that the baseband will accept the SIM card of any GSM carrier.
+ios: Siri supports a wide range of user commands, including performing phone actions, checking basic information, scheduling events and reminders, handling device settings, searching the Internet, navigating areas, finding information on entertainment, and is able to engage with iOS-integrated apps.
+ios: Content is downloadable via Wi-Fi and optional 3G service or synced through the user's computer.
+ios: iOS is the second most popular mobile operating system in the world, after Android.
+ios: In June 2010, Apple rebranded iPhone OS as "iOS".
+ios: Along the top of the screen is a status bar, showing information about the device and its connectivity.
+ios: A device with a tethered jailbreak is able to boot up with the help of a jailbreaking tool because the tool executes exploits via USB that bypass parts of that "chain of trust", bootstrapping to a pwned (no signature check) iBEC, or iBoot to finish the boot process.
+ios: Starting with iOS 4, on third-generation and newer iOS devices, multitasking is supported through seven background APIs:
+ios: From the notifications of some apps it is possible to interact directly, for example by replying to a message directly from it.
+ios: When apps inside folders receive notification badges, the individual numbers of notifications are added up and the total number is displayed as a notification badge on the folder itself.
+ios: One major feature, VoiceOver, provides a voice reading information on the screen, including contextual buttons, icons, links and other user interface elements, and allows the user to navigate the operating system through gestures.
+ios: Apple provides major updates to the iOS operating system annually.
+ios: It also includes a mobile version of Safari for web browsing, as well as access to the App Store, iTunes Library, iBookstore, Contacts, and Notes.
+ios: However AT&T allowed iPhone owners who had satisfied contract requirements to unlock their iPhone.
+ios: Android accounted for 87.5% of the market, with Windows Phone and BlackBerry accounting for the rest.
+ios: With iOS 9, Apple changed the font to San Francisco, an Apple-designed font aimed at maximum legibility and font consistency across its product lineup.
+ios: Clearing applications from multitasking stayed the same from iOS 4.0 through 6.1.6, the last version of iOS 6.
+ios: Users could however "jailbreak" their device in order to unofficially multitask.
+ios: iOS 17 enabled users to activate Siri by simply saying "Siri", while the previous command, "Hey Siri", is still supported.
+ios: With the release of iPhone OS 3.2, users gained the ability to set a wallpaper for the Home Screen.
+ios: Before iOS 4, multitasking was limited to a selection of the applications Apple included on the device.
+ios: On first boot, the device will not be running a patched kernel.
+ios: 35 of these have been selected to attend the Worldwide Developer Conference, the annual Apple Developer Conference held annually in California in early June.
+ios: A semi-tethered solution is one where the device is able to start up on its own, but it will no longer have a patched kernel, and therefore will not be able to run modified code.
+ios: A semi-untethered jailbreak gives the ability to start the device on its own.
+ios: Primarily, users jailbreak their devices because of the limitations of iOS.
+ios: In iOS 9, Apple updated folder sizes for iPad hardware, allowing for 16 apps per page, still at 15 pages maximum, increasing the total to 240 apps.
+ios: Both can be found in the Notification Center, and show for a set amount of time on the lock screen (unless the user has Notification Center allowed when locked).
+ios: The screen has a status bar across the top to display data, such as time, battery level, and signal strength.
+ios: By February 2023, there were 2 billion devices activated, and 1.5 billion iPhones had been sold since 2007.
+ios: The exemption does not affect the contractual relations between Apple and an iPhone owner, for example, jailbreaking voiding the iPhone warranty; however, it is solely based on Apple's discretion on whether they will fix jailbroken devices in the event that they need to be repaired.
+ios: Siri AI is able to handle significantly more complex tasks, such as making shortcuts in the Shortcuts app and planning advanced routes.
+ios: With the introduction of iOS 7, double-clicking the home button also activates the application switcher.
+ios: Apps are generally limited to accessing their own containers and specific system-provided directories, such as the Photos library.
+ios: Opening the app clears the badge.
+ios: The trademark "IOS" had been used by Cisco for over a decade for its operating system, IOS, used on its routers.
+ios: The official font of iOS is San Francisco.
+ios: Since the arrival of Apple's native iOS App Store, and—along with it—third-party applications, the general motives for jailbreaking have changed.
+ios: The iOS software development kit (SDK) allows for the development of mobile apps that can run on iOS.
+ios: Various accessibility described in § Accessibility functions enable users with vision and hearing disabilities to properly use iOS.
+ios: Like macOS, it includes components of the Mach microkernel and FreeBSD.
+ios: The revamped Siri is similar to an AI chatbot, and it will receive an app where users can look at their past conversations.
+ios: In June 2017, Apple updated its guidelines to specify that app developers will no longer have the ability to use custom prompts for encouraging users to leave reviews for their apps.
+ios: These files can be accessed across multiple devices as long as the user is signed in with the same Apple ID.
+ios: If a user taps a received notification, the application that sent the notification will be opened.
+ios: Scrolling from the top left to the bottom (or top to bottom on iPhones with Touch ID) will open the Notification Center, which in the latest versions of iOS is very similar to the lock screen.
+ios: A tethered jailbreak is only able to temporarily jailbreak the device during a single boot.
+ios: As of 2020, the academy graduated almost a thousand students from all over the world, who have worked on 400 app ideas and have already published about 50 apps on the iOS App Store.
+ios: At the time of its unveiling in January, Steve Jobs claimed: "iPhone runs OS X" and runs "desktop class applications", but at the time of the iPhone's release, the operating system was renamed "iPhone OS".
+ios: Introduced with iOS 8, widgets are now accessible through the Notification Center, defined by 3rd parties.
+ios: It displays notifications in chronological order and groups them by application.
+ios: With currently supported ARM architectures being various versions of the ARMv8 and ARMv9 architectures.
+ios: It is possible to manage brightness, volume, wireless connections, music player, etc.
+ios: In May 2023, StatCounter reported iOS was used on 31.44% of smartphones and 55.75% of tablets worldwide, measured by internet usage instead of sales.
+ios: The home screen appears whenever the user unlocks the device, presses the physical "Home" button while in an app, or swipes up from the bottom of the screen using the home bar.
+ios: When the context menu is displayed, the background is blurred.
+ios: The icons are 180x180px in size for iPhones with a larger screen, usually models over 6 inches, including iPhone 11 Pro and iPhone 8 Plus, while they are 120x120px on iPhones with smaller displays.
+ios: Apple claimed that it would not release iOS software updates designed specifically to break these tools (other than applications that perform SIM unlocking); however, with each subsequent iOS update, previously un-patched jailbreak exploits are usually patched.
+ios: There is no support for the iPhone 3G, original iPhone and the first-generation iPod Touch (the latter two devices did not have Game Center because they did not get iOS 4).
+ios: The iPhone (1st generation) and iPhone 3G only received two major iOS updates, while later models had support for three to seven major updates.
+ios: Students have the opportunity to participate in the "Enterprise Track", an in-depth training experience on the entire life cycle of an app, from design to implementation, to security, troubleshooting, data storage and cloud usage.
+ios: Interface control elements include sliders, switches, and buttons.
+ios: Other companies have also created tools that allow for the development of native iOS apps using their respective programming languages.
+ios: In the third quarter of 2015, research from Strategy Analytics showed that iOS adoption of the worldwide smartphone market was at a record low 12.1%, attributed to lackluster performance in China and Africa.
+ios: This badge tells the user, at a glance, how many notifications that app has sent.
+ios: The iPad did not get multitasking until iOS 4.2.1 in that November.
+ios: Although some parts of iOS are open source under the Apple Public Source License and other licenses, iOS is proprietary software.
+ios: Apple switched to Helvetica Neue exclusively for the iPhone 4 and its Retina Display, and retained Helvetica as the system font for older iPhone devices on iOS 4.
+ios: The SDK includes an inclusive set of development tools, including an audio mixer and an iPhone simulator.
+ios: Siri () is a virtual assistant integrated into iOS.
+ios: The assistant uses voice queries and a natural-language user interface to answer questions, make recommendations, and perform actions by delegating requests to a set of Internet services.
+ios: Game Center was announced during an iOS 4 preview event hosted by Apple on April 8, 2010.
+ios: Combined with Xcode, the iOS SDK helps developers write iOS apps using officially supported programming languages, including Swift and Objective-C.
+ios: Apple significantly extended the cycle of updates for iOS-supported devices over the years.
+ios: An additional motivation is that it may enable the installation of pirated apps.
+ios: On June 9, 2025, at WWDC 2025, Apple introduced iOS 26.
+ios: The SDK was released on March 6, 2008.
+ios: Selectors can appear anchored at the bottom or in line with the content (called date selectors).
+ios: Particularly at issue is the ability for Apple to remotely disable or delete apps at will.
+ios: In iOS 9, there are two ways to access Spotlight.
+ios: 64-bit support has been enforced for all app submissions made to the App Store since 2015; specifically, new apps since February 2015, and all updates to apps since June 1, 2015.
+ios: The decision enabled the success of the iPhone as a platform for third-party developers: using a well-known desktop operating system as its basis allowed the many third-party Mac developers to write software for the iPhone with minimal retraining.
+ios: It was unveiled in January 2007 alongside the first-generation iPhone, and was released in June 2007.
+ios: In order to test applications, get technical support, and distribute apps through App Store, developers are required to subscribe to the Apple Developer Program.
+ios: In the case of the iOS 9.2-9.3.3 and 64-bit 10.x jailbreaks, Safari-based exploits were available, thereby meaning websites could be used to re-jailbreak.
+ios: iOS formerly also powered iPads until iPadOS was introduced in 2019 and the iPod Touch line of devices until its discontinuation.
+ios: With the release of iOS 10 in 2016, Apple opened up limited third-party access to Siri, including third-party messaging apps, as well as payments, ride-sharing, and Internet calling apps.
+ios: As of March 2016, 1 million apps are natively compatible with the iPad tablet computer.
+ios: These apps have collectively been downloaded more than 130 billion times.
+ios: In iPhone OS 3, Spotlight was introduced, allowing users to search media, apps, emails, contacts, messages, reminders, calendar events, and similar content.
+ios: Applications ("apps") are the most general form of application software that can be installed on iOS.
+ios: This allows the use of a carrier-sourced iPhone on other networks.
+ios: At the academy there are also issues of business administration (business planning and business management with a focus on digital opportunities) and there is a path dedicated to the design of graphical interfaces.
+ios: In September 2009, a change in accounting rules won tentative approval, affecting Apple's earnings and stock price, and allowing iPod Touch updates to be delivered free of charge.
+ios: As of iOS 4.0, apps can request up to ten minutes to complete a task in the background.
+ios: if a user starts a download in one application, it won't finish if they switch away from the application).
+ios: As of December 2023, Apple's App Store contains more than 3.8 million iOS mobile apps.
+ios: As of iOS 7, the process has become faster and easier.
+ios: An untethered jailbreak uses exploits that are powerful enough to allow the user to turn their device off and back on at will, with the device starting up completely, and the kernel will be patched without the help of a computer – in other words, it will be jailbroken even after each reboot.
+ios: Originally, folders on an iPhone could include up to 12 apps, while folders on iPad could include 20.
+ios: Initially, third-party native applications were not supported.
+ios: For example, it might group all social media apps into one folder and productivity apps into another.
+ios: One example includes holding up the iPhone to take a photo, with VoiceOver describing the photo scenery.
+ios: iOS utilizes many security features in both hardware and software.
+ios: On June 3, 2019, iPadOS, the branded version of iOS for iPad, was announced during the WWDC 2019 keynote; it was launched on September 25, 2019.
+ios: The device checks an XML-based PLIST file on mesu.apple.com  for updates.
+ios: emergency alerts or severe weather alerts), accompanied by a warning banner and the app badge icon, and standard alerts which use a default sound and vibration.
+ios: Game Center is an online multiplayer "social gaming network" released by Apple.
+ios: The release of iOS 7 also introduced the ability to scale text or apply other forms of text accessibility changes through Settings.
+ios: This allows apps to open, save, and interact with documents stored in a central location or cloud storage services.
+ios: In more detail: Each iOS device has a bootchain that tries to make sure only trusted/signed code is loaded.
+ios: With iOS 7, Apple announced that they would change the system font to Helvetica Neue Light, a decision that sparked criticism for inappropriate usage of a light, thin typeface for low-resolution mobile screens.
+ios: It introduces Siri AI, a new model designed by Apple in collaboration with Google.
+ios: With increasing display sizes on newer iPhone hardware, iOS 7 updated the folders with pages similar to the home screen layout, allowing for a significant expansion of folder functionality.
+ios: Users can choose to hide specific app pages from the home screen, making it easier to focus on the apps they use most frequently.
+ios: When a passcode is set and a user switches on the device, the passcode must be entered at the Lock Screen before access to the Home screen is granted.
+ios: App intelligence firm Sensor Tower estimated that the App Store would reach 5 million apps by 2020.
+ios: Since iOS 5, the primary method of delivery has been over-the-air.
+ios: The app switcher in the iPad can also be accessed by swiping up from the bottom.
+ios: To test the application, get technical support, and distribute applications through App Store, developers are required to subscribe to the Apple Developer Program.
+ios: There are different types of jailbreak.
+ios: It was released on April 24, 2015.
+ios: On June 8, 2026, at WWDC 2026, Apple introduced iOS 27.
+ios: During Apple's quarterly earnings call in January 2015, the company announced that they had sold over one billion iOS devices since 2007.
+ios: Since then, it uses a simple short blackout effect.
+ios: It allows users to "invite friends to play a game, start a multiplayer game through matchmaking, track their achievements, and compare their high scores on a leaderboard." iOS 5 and above adds support for profile photos.
+ios: Jobs' reasoning was that developers could build web applications through the Safari web browser that "would behave like native apps on the iPhone".
+ios: Otherwise, the user can install them manually or are prompted to allow automatic installation overnight if plugged in and connected to Wi-Fi.
+ios: Only certain devices—iPhone 4, iPhone 3GS, and iPod Touch 3rd generation—were able to multitask.
+ios: Users can quickly find and access apps by using the search bar at the top of the App Library.
+ios: On iPhone with Face ID, screenshots are captured using the volume-up and power buttons instead.
+ios: Users can also choose to view notifications in modal alert windows by adjusting the application's notification settings.
+ios: With the release of iOS 11, Apple updated Siri's voices for more clear, human voices, it now supports follow-up questions and language translation, and additional third-party actions.
+ios: In October 2007, Apple announced that a native software development kit (SDK) was under development and that they planned to put it "in developers' hands in February".
+ios: As with iOS 7 and 8, pulling down on any homescreen will show Spotlight.
+ios: Applications for iOS are mostly built using components of UIKit, a programming framework.
+ios: The exemption allows jailbreaking of iPhones for the sole purpose of allowing legally obtained applications to be added to the iPhone.
+ios: The SDK contains sets giving developers access to various functions and services of iOS devices, such as hardware and software attributes.
+ios: A title for the folder is automatically selected by the category of applications inside, but the name can also be edited by the user.
+ios: Additional customization available for Made for iPhone products include battery tracking and adjustable sound settings for different environments.
+ios: Each page of a folder can contain up to nine apps, and there can be 15 pages in total, allowing for a total of 135 apps in a single folder.
+ios: This feature prefers to update the user's most frequently used apps and prefers to use Wi-Fi networks over a cellular network, without markedly reducing the device's battery life.
+ios: In iOS 5, Apple introduced Notification Center, which allows users to view a history of notifications.
+ios: However, this technology never entered into common use, this led Apple to change its opinion, so in October 2007 the SDK for developers was announced, finally released on March 6, 2008.
+ios: Destructive actions (such as eliminating any element) are colored red.
+ios: AT&T was initially the sole U.S.
+ios: To avoid any potential lawsuit, Apple licensed the "IOS" trademark from Cisco.
+ios: However, some jailbreaks are tethered.
+ios: Comparison of mobile operating systems
+ios: The course is completely free, aimed at acquiring specific technical skills on the creation and management of applications for the Apple ecosystem platforms.
+ios: The operating system was unveiled with the iPhone at the Macworld Conference & Expo on January 9, 2007, and released in June of that year.
+ios: The storage of iOS devices can be expanded through iCloud, the Apple's cloud-based storage solution that provides 5GB of storage for free to all users, while other plans require a paid subscription.
+ios: iOS home screens are typically made up of app icons and widgets; app icons launch the associated app, whereas widgets display live, auto-updating content, such as a weather forecast, the user's email inbox, or a news ticker directly on the home screen.
+ios: However, it can also be accessed as it was in iOS versions 3 through 6.
+ios: Notifications are now delivered in banners that appear briefly at the top of the screen.
+ios: Any apps with default controls and developed with a UIKit framework gets VoiceOver functionality built in.
+ios: This doesn't extend to background uploads and downloads though (e.g.
+ios: However, rather than having to run a tool from a computer to apply the kernel patches, the user is able to re-jailbreak their device with the help of an app (usually sideloaded using Cydia Impactor) running on their device.
+ios: By late 2011, iOS accounted for 60% of the market share for smartphones and tablets.
+ios: IOS applications can also be installed directly from an IPA file provided by the software distributor, via unofficial ways.
+ios: The version number indicates the year following the year in which the version was introduced; this numbering scheme is now being used for all Apple operating systems, keeping their version numbers synchronized.
+ios: A preview was released to registered Apple developers in August.
+ios: Apps can integrate with the Files app to make their documents accessible and editable directly from the Files app.
+ios: This effect is also visible in the tab view of Mail and Safari.
+ios: In comparison to Android, which requires the buttons to be held down, a short press does suffice on iOS.
+ios: iOS 7 introduced a parallax effect on the Home Screen, which shifts the device's wallpaper and icons in response to the movement of the device, creating a 3D effect and an illusion of floating icons.
+ios: UIKit elements are very adaptable, this allows developers to design a single app that looks the same on any iOS device.
+ios: A new feature in iOS 13 called "context menus" shows related actions when you touch and hold an item.
+ios: In the iPhone, the app switcher cannot be accessed if there are no apps in the RAM.
+ios: When an app sends a notification while closed, a red badge appears on its icon.
+ios: It is a Unix-like operating system.
+ios: In the 2018–2019 academic year, students from more than 30 countries arrived.
+ios: Now, instead of the home screen appearing at the leftmost of the application switcher, it appears rightmost.
+ios: provider of 3G wireless access for the iPad.
+ios: Choosing an icon switches to an application.
+ios: This quickly grew to 3,000 in September 2008, 15,000 in January 2009, 50,000 in June 2009, 100,000 in November 2009, 250,000 in August 2010, 650,000 in July 2012, 1 million in October 2013, 2 million in June 2016, and 2.2 million in January 2017.
+ios: In more recent years, two other solutions have been created – semi-tethered and semi-untethered.
+ios: Upon unlock, a user is directed to the home screen, which is the primary navigation and information "hub" on iOS devices, analogous to the desktop found on personal computers.
+ios: Over the years, the Apple Store apps surpassed multiple major milestones, including 50,000, 100,000, 250,000, 500,000, 1 million, and 2 million apps.
+ios: In addition to defining the iOS interface, UIKit defines the functionality of the application.
+ios: The software adapts to users' individual language usages, searches, and preferences, with continuing use.
+ios: All changes to the files on the device (such as installed package files or edited system files) will persist between reboots, including changes that can only function if the device is jailbroken (such as installed package files).
+ios: The user can tap a notification to open its corresponding app, or clear it.
+ios: Game Center made its public debut on the iPad with iOS 4.2.1.
+ios: It is used for all iPhones and iPod Touch devices.
+ios: Updates are delivered as unencrypted ZIP files.
+ios: It is additionally used as the kernel for Apple's other platforms and operating systems, including iPadOS, watchOS, visionOS, and tvOS, and also serves as the kernel used by the software powering the HomePod range of smart speakers.
+ios: iOS is the world's second most widely installed mobile operating system, after Android.
+ios: In 2005, when Steve Jobs began planning the iPhone, he stated that he had a choice to either "shrink the Mac, which would be an epic feat of engineering, or enlarge the iPod".
+ios: On some devices, jailbreaking also makes it possible to install alternative operating systems, such as Android and the Linux kernel.
+ios: They are downloaded from the official catalog of the App Store digital store, where apps are subjected to security checks before being made available to users.
+ios: However, Game Center is unofficially available on the iPhone 3G via a hack.
+ios: iOS is based on macOS.
+ios: It uses watchOS as its operating system; watchOS is based on iOS, with new features created specially for the Apple Watch such as an activity tracking app.
+ios: It is a free download for Mac users.
+ios: Date selectors take on the appearance of any other selection control, but with a column for day, month, and optionally year.
+ios: Initially most wireless carriers in the US did not allow iPhone owners to unlock it for use with other carriers.
+ios: SIM unlocking is not jailbreaking, but a jailbreak is also required for these unofficial software unlocks.
+ios: When a device is booting, it loads Apple's own kernel initially, so a jailbroken device must be exploited and have the kernel patched each time it is booted up.
+ios: Forstall was also responsible for creating a software development kit for programmers to build iPhone apps, as well as an App Store within iTunes.
+ios: The home screen, rendered by SpringBoard, displays application icons and a dock at the bottom where users can pin their most frequently used apps.
+ios: In iOS 10, Spotlight is at the top of the now-dedicated "Today" panel.
+ios: As part of a "Made for iPhone" program, introduced with the release of iOS 7 in 2013, Apple has developed technology to use Bluetooth and a special technology protocol to let compatible third-party equipment connect with iPhones and iPads for streaming audio directly to a user's ears.
+ios: This restriction has been loosened in iOS 12, which no longer requires the latter.
+ios: The SDK is a free download for users of Mac personal computers.
+ios: Some in the tech community have expressed concern that the locked-down iOS represents a growing trend in Apple's approach to computing, particularly Apple's shift away from machines that hobbyists can "tinker with" and note the potential for such restrictions to stifle software innovation.
+ios: iPod Touch users originally had to pay for system software updates due to accounting rules that designated it not a "subscription device" like the iPhone or Apple TV, causing many iPod Touch owners not to update.
+ios: By the end of 2014, iOS accounted for 14.8% of the smartphone market and 27.6% of the tablet and two-in-one market.
+ios: Competitor Microsoft, via a PR spokesman, criticized Apple's control over its platform.
+ios: It is designed for small text readability, and is used throughout the operating system, including third-party apps.
+ios: To choose from a few options, a selection control is used.
+ios: iCloud Drive allows users to store various types of files, such as documents, presentations, and spreadsheets, in the cloud.
+ios: Originally released as an app for iOS in February 2010, it was acquired by Apple two months later, and then integrated into iPhone 4S at its release in October 2011.
+ios: With iOS 11, Apple introduced the Files app and the File Provider extension, providing a central location for users to manage and organize their files.
+ios: It will, however, still be usable for normal functions, just like stock iOS.
+ios: The rest of the screen is devoted to the current application.
+ios: Building into the core of our products supports a vision of an inclusive world where opportunity and access to information are barrier-free, empowering individuals with disabilities to achieve their goals".
+ios: Instructions to unlock the device are available from Apple, but it is ultimately at the sole discretion of the carrier to authorize unlocking the device.
+ios: A scrollable dock-style interface appears from the bottom, moving the contents of the screen up.
+ios: Since its initial release, iOS has been subject to a variety of different hacks centered around adding functionality not allowed by Apple.
+ios: In 2010, the Electronic Frontier Foundation (EFF) successfully convinced the U.S.
+ios: The lock screen shows the time and a user's lock screen widgets, which display timely information from apps.

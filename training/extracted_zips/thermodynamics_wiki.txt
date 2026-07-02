@@ -1,0 +1,234 @@
+thermodynamics: Thermodynamic potentials cannot be measured in laboratories, but can be computed using molecular thermodynamics.
+thermodynamics: Once in thermodynamic equilibrium, a system's properties are, by definition, unchanging in time.
+thermodynamics: Clausius, who first stated the basic ideas of the second law in his paper "On the Moving Force of Heat", published in 1850, and is called "one of the founding fathers of thermodynamics", introduced the concept of entropy in 1865.
+thermodynamics: A system in which all equalizing processes have gone to completion is said to be in a state of thermodynamic equilibrium.
+thermodynamics: The foundations of statistical thermodynamics were set out by physicists such as James Clerk Maxwell, Ludwig Boltzmann, Max Planck, Rudolf Clausius and J.
+thermodynamics: ISBN 978-5-8114-1003-3.
+thermodynamics: Garland Science.
+thermodynamics: A change of internal energy of a system may be achieved by any combination of heat added or removed and work performed on or by the system.
+thermodynamics: Matter or energy that pass across the boundary so as to effect a change in the internal energy of the system need to be accounted for in the energy balance equation.
+thermodynamics: Although these early engines were crude and inefficient, they attracted the attention of the leading scientists of the time.
+thermodynamics: The first, second, and third laws had been explicitly stated already, and found common acceptance in the physics community before the importance of the zeroth law for the definition of temperature was realized.
+thermodynamics: Most systems found in nature are not in thermodynamic equilibrium because they are not in stationary states, and are continuously and discontinuously subject to flux of matter and energy to and from other systems.
+thermodynamics: For closed systems, boundaries are real while for open systems boundaries are often imaginary.
+thermodynamics: A thermodynamic meter is any device which measures any parameter of a thermodynamic system.
+thermodynamics: (in Russian)
+Bawendi Moungi G., Alberty Robert A.
+thermodynamics: ISBN 978-0-8153-4430-8.
+thermodynamics: Guggenheim applied the mathematical methods of Gibbs to the analysis of chemical processes.
+thermodynamics: In 1849, the adjective thermo-dynamic is used by William Thomson.
+thermodynamics: Drawing on all the previous work led Sadi Carnot, the "father of thermodynamics", to publish Reflections on the Motive Power of Fire (1824), a discourse on heat, power, energy and engine efficiency.
+thermodynamics: The many versions of the second law all express the general irreversibility of the transitions involved in systems approaching thermodynamic equilibrium.
+thermodynamics: Alberty Robert A.
+thermodynamics: This article is focused mainly on classical thermodynamics which primarily studies systems in thermodynamic equilibrium.
+thermodynamics: Central to this are the concepts of the thermodynamic system and its surroundings.
+thermodynamics: Then, in 1679, based on these concepts, an associate of Boyle's named Denis Papin built a steam digester, which was a closed vessel with a tightly fitting lid that confined steam until a high pressure was generated.
+thermodynamics: In an equilibrium state there are no unbalanced potentials, or driving forces, between macroscopically distinct parts of the system.
+thermodynamics: As it was impractical to renumber the other laws, it was named the zeroth law.
+thermodynamics: The volume contained by the walls can be the region surrounding a single atom resonating energy, such as Max Planck defined in 1900; it can be a body of steam or air in a steam engine, such as Sadi Carnot defined in 1824.
+thermodynamics: This principle, as noted by James Maxwell in 1872, asserts that it is possible to measure temperature.
+thermodynamics: The results of thermodynamics are essential for other fields of physics and for chemistry, chemical engineering, corrosion engineering, aerospace engineering, mechanical engineering, cell biology, biomedical engineering, materials science, and economics, to name a few.
+thermodynamics: PMID 27096122.
+thermodynamics: OCLC 45791449.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Dunning-Davies, Jeremy (1997).
+thermodynamics: Thermodynamics is a branch of physics that deals with heat, work, and temperature, and their relation to energy, entropy, and the physical properties of matter and radiation.
+thermodynamics: Adapted for thermodynamics, this law is an expression of the principle of conservation of energy, which states that energy can be transformed (changed from one form to another), but cannot be created or destroyed.
+thermodynamics: Several commonly studied thermodynamic processes are:
+thermodynamics: Callendar, Hugh Longbourne (1911).
+thermodynamics: Freeman Company.
+thermodynamics: The qualifier classical reflects the fact that it represents the first level of understanding of the subject as it developed in the 19th century and describes the changes of a system in terms of macroscopic empirical (large scale, and measurable) parameters.
+thermodynamics: McGraw Hill.
+thermodynamics: ISBN 978-0-674-75325-9.
+thermodynamics: Black and Watt performed experiments together, but it was Watt who conceived the idea of the external condenser which resulted in a large increase in steam engine efficiency.
+thermodynamics: ISSN 1044-677X.
+thermodynamics: ISBN 978-1-8985-6315-0.
+thermodynamics: Kroemer, Herbert & Kittel, Charles (1980).
+thermodynamics: As a function of state, the internal energy does not depend on the manner, or on the path through intermediate steps, by which the system arrived at its state.
+thermodynamics: Guggenheim E.A.
+thermodynamics: With these tools, thermodynamics can be used to describe how systems respond to changes in their environment.
+thermodynamics: State may be thought of as the instantaneous quantitative description of a system with a set number of variables held constant.
+thermodynamics: Chemical thermodynamics studies the nature of the role of entropy in the process of chemical reactions and has provided the bulk of expansion and knowledge of the field.
+thermodynamics: When the reservoir is brought into contact with the system, the system is brought into equilibrium with the reservoir.
+thermodynamics: Thermodynamic process path
+Carnot engine (intuitive explanation)
+thermodynamics: It can be described by process quantities.
+thermodynamics: Cengel, Yunus A., & Boles, Michael A.
+thermodynamics: ISBN 978-0-07-238332-4.
+thermodynamics: Δ
+        U
+        =
+        Q
+        −
+        W
+      
+    
+    {\displaystyle \Delta U=Q-W}
+  
+.
+thermodynamics: The central concept of thermodynamics is that of energy, the ability to do work.
+thermodynamics: Lewis, Merle Randall, and E.
+thermodynamics: In thermodynamics, interactions between large ensembles of objects are studied and categorized.
+thermodynamics: He did not, however, follow through with his design.
+thermodynamics: Willard Gibbs Thermodynamics.
+thermodynamics: The Chemical Thermodynamics of Organic Compounds.
+thermodynamics: "Thermodynamics" .
+thermodynamics: Pierre Perrot claims that the term thermodynamics was coined by James Joule in 1858 to designate the science of relations between heat and power, however, Joule never used that term, but used instead the term perfect thermo-dynamic engine in reference to Thomson's 1849 phraseology.
+thermodynamics: Physical Chemistry.
+thermodynamics: PMID 16878778.
+thermodynamics: Boundaries are of four types: fixed, movable, real, and imaginary.
+thermodynamics: For example, in an engine, a fixed boundary means the piston is locked at its position, within which a constant volume process might occur.
+thermodynamics: The Principles of Chemical Equilibrium: With Applications in Chemistry and Chemical Engineering.
+thermodynamics: An important concept in thermodynamics is the thermodynamic system, which is a precisely defined region of the universe under study.
+thermodynamics: Thermodynamics and Statistical Mechanics: An Integrated Approach.
+thermodynamics: In 1909, Constantin Carathéodory presented a purely mathematical approach in an axiomatic formulation, a description often referred to as geometrical thermodynamics.
+thermodynamics: a system of quarks) as hypothesized in quantum thermodynamics.
+thermodynamics: Conjugate variables are pairs of thermodynamic concepts, with the first being akin to a "force" applied to some thermodynamic system, the second being akin to the resulting "displacement", and the product of the two equaling the amount of energy transferred.
+thermodynamics: The first attempt at an axiomatic theory of thermodynamics was Constantin Carathéodory's 1909 work Investigations on the Foundations of Thermodynamics, which made use of Pfaffian systems and the concept of adiabatic accessibility, a notion that was introduced by Carathéodory himself.
+thermodynamics: OCLC 32826343.
+thermodynamics: For systems that are initially far from thermodynamic equilibrium, though several have been proposed, there is known no general physical principle that determines the rates of approach to thermodynamic equilibrium, and thermodynamics does not deal with such rates.
+thermodynamics: Modern thermodynamics by the methods of Willard Gibbs.
+thermodynamics: Although pressure is defined mechanically, a pressure-measuring device, called a barometer may also be constructed from a sample of an ideal gas held at a constant temperature.
+thermodynamics: Encyclopædia Britannica.
+thermodynamics: The initial application of thermodynamics to mechanical heat engines was quickly extended to the study of chemical compounds and chemical reactions.
+thermodynamics: The thermodynamic study of non-equilibrium systems requires more general concepts than are dealt with by equilibrium thermodynamics.
+thermodynamics: Absolute zero, at which all activity would stop if it were possible to achieve, is −273.15 °C (degrees Celsius), or −459.67 °F (degrees Fahrenheit), or 0 K (kelvin), or 0° R (degrees Rankine).
+thermodynamics: The Refrigerator and the Universe.
+thermodynamics: Alternative definitions include "the entropy of all systems and of all states of a system is smallest at absolute zero," or equivalently "it is impossible to reach the absolute zero of temperature by any finite number of processes".
+thermodynamics: In macroscopic thermodynamics, the second law is a basic observation applicable to any actual thermodynamic process; in statistical thermodynamics, the second law is postulated to be a consequence of molecular chaos.
+thermodynamics: The first thermodynamic textbook was written in 1859 by William Rankine, originally trained as a physicist and a civil and mechanical engineering professor at the University of Glasgow.
+thermodynamics: Thermodynamics – an Engineering Approach.
+thermodynamics: Many natural systems still today remain beyond the scope of currently known macroscopic thermodynamic methods.
+thermodynamics: PMC 4651616.
+thermodynamics: An idealized thermometer is a sample of an ideal gas at constant pressure.
+thermodynamics: In mechanics, for example, energy transfer equals the product of the force applied to a body and the resulting displacement.
+thermodynamics: ISBN 978-1-119-05209-8.
+thermodynamics: Pressure–volume (the mechanical parameters);
+Temperature–entropy (thermal parameters);
+Chemical potential–particle number (material parameters).
+thermodynamics: It marked the start of thermodynamics as a modern science.
+thermodynamics: A calorimeter is a device which is used to measure and define the internal energy of a system.
+thermodynamics: ISBN 978-1-4398-0019-5.
+thermodynamics: Horwood Publishing.
+thermodynamics: They are called intensive variables or extensive variables according to how they change when the size of the system changes.
+thermodynamics: His most important paper, "On the Moving Force of Heat", published in 1850, first stated the second law of thermodynamics.
+thermodynamics: The second law refers to a system of matter and radiation, initially with inhomogeneities in temperature, pressure, chemical potential, and other intensive properties, that are due to internal 'constraints', or impermeable rigid walls, within it, or to externally imposed forces.
+thermodynamics: London: John Wiley and Sons, Inc.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Bazarov I.P.
+thermodynamics: Firstly, thermo- ("of heat"; used in words such as thermometer) can be traced back to the root θέρμη therme, meaning "heat".
+thermodynamics: A thermodynamic reservoir is a system which is so large that its state parameters are not appreciably altered when it is brought into contact with the system of interest.
+thermodynamics: This law is tacitly assumed in every measurement of temperature.
+thermodynamics: Other thermodynamic potentials can also be obtained through Legendre transformation.
+thermodynamics: This law of thermodynamics is a statistical law of nature regarding entropy and the impossibility of reaching absolute zero of temperature.
+thermodynamics: Secondly, the word dynamics ("science of force [or power]") can be traced back to the root δύναμις dynamis, meaning "power".
+thermodynamics: The state of the system can be described by a number of state quantities that do not depend on the process by which the system arrived at its state.
+thermodynamics: Theories that came after, differed in the sense that they made assumptions regarding thermodynamic processes with arbitrary initial and final states, as opposed to considering only neighboring states.
+thermodynamics: Thermodynamics of Biochemical Reactions.
+thermodynamics: Advanced Engineering Thermodynamics (4 ed.).
+thermodynamics: Properties can be combined to express internal energy and thermodynamic potentials, which are useful for determining conditions for equilibrium and spontaneous processes.
+thermodynamics: ISBN 978-0-7167-1088-2.
+thermodynamics: If the piston is allowed to move that boundary is movable while the cylinder and cylinder head boundaries are fixed.
+thermodynamics: The properties of the system can be described by an equation of state which specifies the relationship between these variables.
+thermodynamics: Barrick (2018).
+thermodynamics: Transfers of energy as work, or as heat, or of matter, between the system and the surroundings, take place through the walls, according to their respective permeabilities.
+thermodynamics: Bejan, Adrian (2016).
+thermodynamics: The Earth's atmosphere is often used as a pressure reservoir.
+thermodynamics: Biomolecular Thermodynamics: From Theory to Applications.
+thermodynamics: Generally, thermodynamics distinguishes three classes of systems, defined in terms of what is allowed to cross their boundaries:
+thermodynamics: A nontechnical introduction, good on historical and interpretive matters.
+thermodynamics: The Collected Works of J.
+thermodynamics: A system is composed of particles, whose average motions define its properties, and those properties are in turn related to one another through equations of state.
+thermodynamics: OCLC 36025958.
+thermodynamics: By watching the valve rhythmically move up and down, Papin conceived of the idea of a piston and a cylinder engine.
+thermodynamics: Guericke was driven to make a vacuum in order to disprove Aristotle's long-held supposition that 'nature abhors a vacuum'.
+thermodynamics: Nevertheless, in 1697, based on Papin's designs, engineer Thomas Savery built the first engine, followed by Thomas Newcomen in 1712.
+thermodynamics: In the various theoretical descriptions of thermodynamics these laws may be expressed in seemingly differing forms, but the most prominent formulations are the following.
+thermodynamics: Systems in equilibrium are much simpler and easier to understand than are systems which are not in equilibrium.
+thermodynamics: 113 (4): 209–220.
+thermodynamics: This statement implies that thermal equilibrium is an equivalence relation on the set of thermodynamic systems under consideration.
+thermodynamics: In 1870 he introduced the virial theorem, which applied to heat.
+thermodynamics: In 1854, the noun thermo-dynamics is used by Thomson and William Rankine to represent the science of generalized heat engines.
+thermodynamics: Harvard University Press.
+thermodynamics: Thermodynamics: Textbook.
+thermodynamics: Wiley & Sons, Incorporated.
+thermodynamics: 26 (11th ed.).
+thermodynamics: Stull, D.R., Westrum Jr., E.F.
+thermodynamics: The system could also be just one nuclide (i.e.
+thermodynamics: From the ideal gas law pV=nRT, the volume of such a sample can be used as an indicator of temperature; in this manner it defines temperature.
+thermodynamics: In the case of a jet engine, a fixed imaginary boundary might be assumed at the intake of the engine, fixed boundaries along the surface of the case and a second fixed imaginary boundary across the exhaust nozzle.
+thermodynamics: The ocean can act as temperature reservoir when used to cool power plants.
+thermodynamics: ISBN 978-1107656789.
+thermodynamics: The following titles are more technical:
+thermodynamics: John Wiley & Sons, Inc.
+thermodynamics: Historically, thermodynamics developed out of a desire to increase the efficiency of early steam engines, particularly through the work of French physicist Sadi Carnot (1824).
+thermodynamics: Internal energy is a principal property of the thermodynamic state, while heat and work are modes of energy transfer by which a process may change this state.
+thermodynamics: and Sinke, G.C.
+thermodynamics: For example, the zeroth law states that if two bodies are in thermal equilibrium with a third body, they are also in thermal equilibrium with each other.
+thermodynamics: The behavior of these quantities is governed by the four laws of thermodynamics, which convey a quantitative description using measurable macroscopic physical quantities but may be explained in terms of microscopic constituents by statistical mechanics.
+thermodynamics: and Silbey Robert J.
+thermodynamics: Thermal Physics.
+thermodynamics: Thermodynamic potentials can be derived from the energy balance equation applied to a thermodynamic system.
+thermodynamics: Wiley-Interscience.
+thermodynamics: The term 'thermodynamic equilibrium' indicates a state of balance, in which all macroscopic flows are zero; in the case of the simplest systems or bodies, their intensive properties are homogeneous, and their pressures are perpendicular to their boundaries.
+thermodynamics: Thermodynamics applies to various topics in science and engineering, especially physical chemistry, biochemistry, chemical engineering, and mechanical engineering, as well as other complex fields such as meteorology.
+thermodynamics: Thermodynamics is principally based on a set of four laws which are universally valid when applied to systems that fall within the constraints implied by each.
+thermodynamics: The primary objective of chemical thermodynamics is to determine the spontaneity of a given transformation.
+thermodynamics: Energy may be transferred into a system by heating, compression, or addition of matter, and extracted from a system by cooling, expansion, or extraction of matter.
+thermodynamics: The common conjugate variables are:
+thermodynamics: For example, a pressure reservoir is a system at a particular pressure, which imposes that pressure upon the system to which it is mechanically connected.
+thermodynamics: The second law defines the existence of a quantity called entropy, which describes the direction, thermodynamically, that a system can evolve and quantifies the state of order of a system and which can be used to quantify the useful work that can be extracted from the system.
+thermodynamics: Non-equilibrium thermodynamics is often treated as an extension of the classical treatment, but statistical mechanics has brought many advances to that field.
+thermodynamics: During the early 20th century, chemists such as Gilbert N.
+thermodynamics: Statistical thermodynamics, or statistical mechanics, concerns itself with statistical predictions of the collective motion of particles from their microscopic behavior.
+thermodynamics: This law provides an absolute reference point for the determination of entropy.
+thermodynamics: Potentials are used to measure the energy changes in systems as they evolve from an initial state to a final state.
+thermodynamics: Petersburg: Lan publishing house.
+thermodynamics: The fundamental concepts of heat capacity and latent heat, which were necessary for the development of thermodynamics, were developed by Professor Joseph Black at the University of Glasgow, where James Watt was employed as an instrument maker.
+thermodynamics: Scott Shell (2015).
+thermodynamics: The potential used depends on the constraints of the system, such as constant temperature or pressure.
+thermodynamics: Molecular Driving Forces: Statistical Thermodynamics in Biology, Chemistry, Physics, and Nanoscience.
+thermodynamics: Segments of the boundary are often described as walls; they have respective defined 'permeabilities'.
+thermodynamics: The zeroth law was not initially recognized as a separate law of thermodynamics, as its basis in thermodynamical equilibrium was implied in the other laws.
+thermodynamics: The first law specifies that energy can be transferred between physical systems as heat, as work, and with the transfer of matter.
+thermodynamics: In time, Boyle's Law was formulated, which states that pressure and volume are inversely proportional.
+thermodynamics: Concise Thermodynamics: Principles and Applications.
+thermodynamics: The first and second laws of thermodynamics emerged simultaneously in the 1850s, primarily out of the works of William Rankine, Rudolf Clausius, and William Thomson (Lord Kelvin).
+thermodynamics: Cambridge University Press.
+thermodynamics: In some cases, the thermodynamic parameter is actually defined in terms of an idealized measuring instrument.
+thermodynamics: In 1865 he named the concept of entropy.
+thermodynamics: Also Pierre Duhem in the 19th century wrote about chemical thermodynamics.
+thermodynamics: A thermodynamic process may be defined as the energetic evolution of a thermodynamic system proceeding from an initial state to a final state.
+thermodynamics: Kazakov, Andrei; Muzny, Chris D.; Chirico, Robert D.; Diky, Vladimir V.; Frenkel, Michael (2008).
+thermodynamics: London: Methuen & co.
+thermodynamics: Shortly after Guericke, the Anglo-Irish physicist and chemist Robert Boyle had learned of Guericke's designs and, in 1656, in coordination with English scientist Robert Hooke, built an air pump.
+thermodynamics: This can be applied to a wide variety of topics in science and engineering, such as engines, phase transitions, chemical reactions, transport phenomena, and even black holes.
+thermodynamics: Thus, if one seeks to decide whether two bodies are at the same temperature, it is not necessary to bring them into contact and measure any changes of their observable properties in time.
+thermodynamics: The five most well known potentials are:
+thermodynamics: Willard Gibbs.
+thermodynamics: The entropy determined relative to this point is the absolute entropy.
+thermodynamics: OCLC 32932988.
+thermodynamics: New York: Longmans, Green and Co.
+thermodynamics: Using this pump, Boyle and Hooke noticed a correlation between pressure, temperature, and volume.
+thermodynamics: When a looser viewpoint is adopted, and the requirement of thermodynamic equilibrium is dropped, the system can be the body of a tropical cyclone, such as Kerry Emanuel theorized in 1986 in the field of atmospheric thermodynamics, or the event horizon of a black hole.
+thermodynamics: Later designs implemented a steam release valve that kept the machine from exploding.
+thermodynamics: doi:10.6028/jres.113.016.
+thermodynamics: In this formulation, thermodynamic concepts such as heat, entropy, and temperature are derived from quantities that are more directly measurable.
+thermodynamics: The book outlined the basic energetic relations between the Carnot engine, the Carnot cycle, and motive power.
+thermodynamics: The law provides an empirical definition of temperature, and justification for the construction of practical thermometers.
+thermodynamics: By the First Law, the total energy of a system and its surroundings is conserved.
+thermodynamics: Other formulations of thermodynamics emerged.
+thermodynamics: A microscopic interpretation of these concepts was later provided by the development of statistical mechanics.
+thermodynamics: ISBN 978-0-471-75798-6.
+thermodynamics: "Web Thermo Tables – an On-Line Version of the TRC Thermodynamic Tables".
+thermodynamics: Brownian motion) do not lead to a net change in energy.
+thermodynamics: Systems are said to be in equilibrium if the small, random exchanges between them (e.g.
+thermodynamics: A system is separated from the remainder of the universe by a boundary which may be a physical or notional, but serve to confine the system to a finite volume.
+thermodynamics: Everything in the universe except the system is called the surroundings.
+thermodynamics: As time passes in an isolated system, internal differences of pressures, densities, and temperatures tend to even out.
+thermodynamics: For example, the Helmholtz and Gibbs energies are the energies available in a system to do useful work when the temperature and volume or the pressure and temperature are fixed, respectively.
+thermodynamics: {{cite book}}: |journal= ignored (help)
+Dill Ken A., Bromberg Sarina (2011).
+thermodynamics: It is used to model exchanges of energy, work and heat based on the laws of thermodynamics.
+thermodynamics: By a surface-level analysis, the word consists of two parts that can be traced back to Ancient Greek.
+thermodynamics: Biochemical Thermodynamics: Applications of Mathematica.
+thermodynamics: Journal of Research of the National Institute of Standards and Technology.
+thermodynamics: London: Cambridge University Press.

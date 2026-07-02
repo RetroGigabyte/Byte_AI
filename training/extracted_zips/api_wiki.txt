@@ -1,0 +1,159 @@
+api: The process of joining is called integration.
+api: The main policies for releasing an API are:
+api: This allows the companies to exercise quality control by curating which apps have access to the API, and provides them with an additional revenue stream.
+api: An API specification defines these calls, meaning that it explains how to use or implement them.
+api: Not all public APIs are generally accessible by everybody.
+api: A program or a programmer that uses one of these parts is said to call that portion of the API.
+api: Google had not acquired any permission to reproduce the Java API, although permission had been given to the similar OpenJDK project.
+api: Because API documentation tends to be comprehensive, it is a challenge for writers to keep the documentation updated and for users to read it carefully, potentially yielding bugs.
+api: It allows two software systems to communicate across a boundary — an interface — using mutually agreed-upon signals.
+api: Linux and Berkeley Software Distribution are examples of operating systems that implement the POSIX APIs.
+api: It is not intended to be used directly by a person (the end user) other than a computer programmer who is incorporating it into software.
+api: Because web APIs are widely used to exchange data of all kinds online, API has become a broad term describing much of the communication on the internet.
+api: APIs originated in the 1940s, though the term did not emerge until the 1960s and 70s.
+api: Thus, the design of an API attempts to provide only the tools a user would expect.
+api: The term was introduced to the field of databases by C.
+api: The authors of this paper use the term to describe the interaction of an application—a graphics program in this case—with the rest of the computer system.
+api: A modification of the proxy object will also result in a corresponding modification of the remote object.
+api: Joshua Bloch considers that Wilkes and Wheeler "latently invented" the API, because it is more of a concept that is discovered than invented.
+api: Database professionals in the 1970s observed these different interfaces could be combined; a sufficiently rich application interface could support the other interfaces as well.
+api: Microsoft has shown a strong commitment to a backward-compatible API, particularly within its Windows API (Win32) library, so older applications may run on newer versions of Windows using an executable-specific setting called "Compatibility Mode".
+api: In 2010, Oracle Corporation sued Google for having distributed a new implementation of Java embedded in the Android operating system.
+api: "What is an API?".
+api: This framework treated the application programming interface separately from other interfaces, such as the query interface.
+api: An API approach is an architectural approach that revolves around providing a program interface to a set of services to different applications serving different types of consumers.
+api: In contrast to a user interface, which connects a computer to a person, an application programming interface connects computers or pieces of software to each other.
+api: On February 19, 2020, Akamai published their annual “State of the Internet” report, showcasing the growing trend of cybercriminals targeting public API platforms at financial services worldwide.
+api: An API differs from an application binary interface (ABI) in that an API is source code based while an ABI is binary based.
+api: The Semantic Web proposed by Tim Berners-Lee in 2001 included "semantic APIs" that recast the API as an open, distributed data interface rather than a software behavior interface.
+api: Today, such a catalog would be called an API (or an API specification or API documentation) because it instructs a programmer on how to use (or "call") each subroutine that the programmer needs.
+api: Building software using APIs has been compared to using building-block toys, such as Lego bricks.
+api: In the interest of clarity, API documentation may include a description of classes and methods in the API as well as typical usage scenarios, code snippets, design rationales, performance discussions, and contracts, but implementation details of the API services themselves are usually omitted.
+api: The term API may refer either to the specification or to the implementation.
+api: The idea of the API is much older than the term itself.
+api: Web APIs are the defined interfaces through which interactions happen between an enterprise and applications that use its assets, which also is a Service Level Agreement (SLA) to specify the functional provider and expose the service path or URL for its API users.
+api: Those that provide and use APIs are considered as being members of a business ecosystem.
+api: Google case that APIs cannot be copyrighted in the U.S.
+api: This usually means that part of the API should be considered a candidate for being removed, or modified in a backward incompatible way.
+api: These remote procedure calls were well supported by the Java language in particular.
+api: Changes to the API—for example adding new parameters to a function call—could break compatibility with the clients that depend on that API.
+api: Supreme Court.
+api: However, the types of content included in the documentation differs from API to API.
+api: For example, vehicle for hire companies such as Uber and Lyft allow approved third-party developers to directly order rides from within their apps.
+api: The case was decided by the Supreme Court in Google's favor.
+api: It represents an agreement between parties: a service provider who offers the API and the software developers who rely upon it.
+api: About 20%, or 16.55 billion, were against hostnames defined as API endpoints.
+api: Oracle 2021, pp.
+api: Gates noted in the interview that Microsoft's Apple Macintosh applications were more successful than those for MS-DOS, because his company did not have to also devote resources to Mac OS.
+api: As an example, consider a weather sensor that offers an API.
+api: An API is often compared to a contract.
+api: A single API can have multiple implementations (or none, being abstract) in the form of different libraries that share the same programming interface.
+api: Documentation is crucial for the development and maintenance of applications using the API.
+api: The web API is now the most common meaning of the term API.
+api: Part of this trend is related to the Semantic Web movement toward Resource Description Framework (RDF), a concept to promote web-based ontology engineering technologies.
+api: One of the main purpose of APIs is to hide the internal details of how a system works, exposing only those parts a programmer will find useful and keeping them consistent even if the internal details later change.
+api: The message that activates the sensor is an API call, and the weather report is an API response.
+api: This metadata can be used by the compiler, tools, and by the run-time environment to implement custom behaviors or custom handling.
+api: An API may be custom-built for a particular pair of systems, or it may be a shared standard allowing interoperability among many systems.
+api: For example, Internet service providers like Cloudflare or Voxility, use RESTful APIs to allow customers and resellers access to their infrastructure information, DDoS stats, network performance or dashboard controls.
+api: Judge William Alsup ruled in the Oracle v.
+api: An example might be a shipping company API that can be added to an eCommerce-focused website to facilitate ordering shipping services and automatically include current shipping rates, without the site developer having to enter the shipper's rate table into a web database.
+api: How much Microsoft developers' access to the company's operating systems' internal APIs is an advantage is unclear.
+api: For example, in the Google Guava library, the parts that are considered unstable, and that might change soon, are marked with the Java annotation @Beta.
+api: Shaffer of Technologic Computer Letter in 1987 compared the situation to a baseball game in which "Microsoft owns all the bats and the field", and large vendors like Lotus Development and Ashton-Tate reportedly received information about MS-DOS 5.0 that smaller software developers did not.
+api: A document or standard that describes how to build such a connection or interface is called an API specification.
+api: The term API initially described an interface only for end-user-facing programs, known as application programs.
+api: For instance, POSIX provides APIs while the Linux Standard Base provides an ABI.
+api: It is a type of software interface, offering a service to other pieces of software.
+api: Argues that "APIs are far from neutral tools" and form a key part of contemporary programming, understood as a fundamental part of culture.
+api: Moreover, the overall program flow of control can be out of the control of the caller and in the framework's hands by inversion of control or a similar mechanism.
+api: API documentation is traditionally found in documentation files but can also be found in social media such as blogs, forums, and Q&A websites.
+api: For example, Twitter's REST API allows developers to access core Twitter data and the Search API provides methods for developers to interact with Twitter Search and trends data.
+api: It hides details that have no use.
+api: If the API remains stable, or if it changes only in predictable ways, developers' confidence in the API will increase.
+api: This cabinet also contained what Wilkes and Wheeler called a "library catalog" of notes about each subroutine and how to incorporate it into a program.
+api: As computer networks became common in the 1970s and 80s, programmers wanted to call libraries located not only on their local computers, but on computers located elsewhere.
+api: This may increase their use of the API.
+api: The calls that make up the API are also known as subroutines, methods, requests, or endpoints.
+api: Client code may contain innovative or opportunistic usages that were not intended by the API designers.
+api: An API is often made up of different parts which act as tools or services that are available to the programmer.
+api: Oracle – May 20, 2021 – content format: Audio with text – length 26:41
+api: For instance, documentation for an API function could note that its parameters cannot be null, that the function itself is not thread safe.
+api: In this way, content that is created in one place dynamically can be posted and updated to multiple locations on the web.
+api: When a certain message is transmitted to the sensor, it will detect the current weather conditions and reply with a weather report.
+api: British computer scientists Maurice Wilkes and David Wheeler worked on a modular software library in the 1940s for EDSAC, an early computer.
+api: It can take a number of forms, including instructional documents, tutorials, and reference works.
+api: An application programming interface (API) is a connection between computers or between computer programs.
+api: Proprietary interfaces and agents became more widespread than open ones, but the idea of the API as a data interface took hold.
+api: For example, because Scala and Java compile to compatible bytecode, Scala developers can take advantage of any Java API.
+api: In 1853, he keynoted The Maritime Convention in Brussels, where he proposed a standardized reporting format for meteorological data — if it was 2005, he would have proposed a public API to let computers talk to each other — to enable more efficient and accurate data collection.
+api: The term "application program interface" (without an -ing suffix) is first recorded in a paper called Data structures and techniques for remote computer graphics presented at an AFIPS conference in 1968.
+api: By observing many programs that use a given API, it is possible to infer the typical usages, as well the required contracts and directives.
+api: Public: The API is available for use by the public.
+api: Web APIs allow the combination of multiple APIs into new applications known as mashups.
+api: Oracle won on its appeal, with the Court of Appeals for the Federal Circuit ruling that Google's use of the APIs did not qualify for fair use.
+api: Then, templates can be used to generate natural language from the mined data.
+api: A consistent application interface (consisting of Fortran subroutine calls) was intended to free the programmer from dealing with idiosyncrasies of the graphics display device, and to provide hardware independence if the computer or the display were replaced.
+api: Alsup's ruling was overturned in 2014 on appeal  to the Court of Appeals for the Federal Circuit, though the question of whether such use of APIs constitutes fair use was left unresolved.
+api: Wilkes and Wheeler's book The Preparation of Programs for an Electronic Digital Computer contains the first published API specification.
+api: This abstraction simplifies programming.
+api: A computer system that meets this standard is said to implement or expose an API.
+api: 3–7: "For each task, there is computer code; API (also known as Application Program Interface) is the method for calling that 'computer code' (instruction – like a recipe – rather than cooking instruction, this is machine instruction) to be carry out".
+api: API use can vary depending on the type of programming language involved.
+api: A public API can sometimes declare parts of itself as deprecated or rescinded.
+api: By 1990, the API was defined simply as "a set of services available to a programmer for performing certain tasks" by technologist Carl Malamud.
+api: Language bindings are also APIs.
+api: This origin is still reflected in the name "application programming interface." Today, the term is broader, including also utility software and even hardware interfaces.
+api: For example, Microsoft makes the Windows API public, and Apple releases its API Cocoa, so that software can be written for their platforms.
+api: Date in a 1974 paper called The Relational and Network Approaches: Comparison of the Application Programming Interface.
+api: Due to the COVID-19 pandemic, the oral hearings in the case were delayed until October 2020.
+api: Access to such APIs is granted either by “API tokens”, or customer status validations.
+api: A well-designed API exposes only objects or actions needed by software or software developers.
+api: and that a victory for Oracle would have widely expanded copyright protection to a "functional set of symbols" and allowed the copyrighting of simple software commands:
+api: In 2019, Google appealed to the Supreme Court of the United States over both the copyrightability and fair use rulings, and the Supreme Court granted review.
+api: Private: The API is for internal company use only.
+api: Ed Esber of Ashton-Tate said in a 1987 interview, however, that Bill Gates told him that his developers sometimes had to rewrite software based on early APIs.
+api: The principle of information hiding describes the role of programming interfaces as enabling modular programming by hiding the implementation details of the modules so that users of modules need not understand the complexities inside the modules.
+api: From December 2017 through November 2019, Akamai witnessed 85.42 billion credential violation attacks.
+api: In the court opinion Google v.
+api: Ondrejka, Cory (February 28, 2014).
+api: Of these, 473.5 million have targeted financial services sector organizations.
+api: It'll also include a variety of information types, including guides and functionalities.
+api: An API became a part of the ANSI/SPARC framework for database management systems.
+api: The design of programming interfaces represents an important part of software architecture, the organization of a complex piece of software.
+api: When used in this way, the term API has overlap in meaning with the term communication protocol.
+api: Partner: Only specific business partners can use the API.
+api: Unlike a user interface, an API is typically not visible to users.
+api: To accept Oracle's claim would be to allow anyone to copyright one version of code to carry out a system of commands and thereby bar all others from writing its different versions to carry out all or part of the same commands.
+api: There are also APIs for programming languages, software libraries, computer operating systems, and computer hardware.
+api: An API for a procedural language such as Lua could consist primarily of basic routines to execute code, manipulate data or handle errors while an API for an object-oriented language, such as Java, would provide a specification of classes and its class methods.
+api: It is an "under the hood" portion of a software system, used for machine-to-machine communication.
+api: The separation of the API from its implementation can allow programs written in one language to use a library written in another.
+api: The term API is often used to refer to web APIs, which allow communication between computers that are joined by the internet.
+api: "Objects of Intense Feeling: The Case of the Twitter API".
+api: In the 1990s, with the spread of the internet, standards like CORBA, COM, and DCOM competed to become the most common way to expose API services.
+api: By mapping the features and capabilities of one language to an interface implemented in another language, a language binding allows a library or service written in one language to be used when developing in another language.
+api: (Textise URL.)
+U.S.
+api: The idea of the API was expanded again with the dawn of remote procedure calls and web APIs.
+api: The API describes and prescribes the "expected behavior" (a specification) while the library is an "actual implementation" of this set of rules.
+api: In the social media space, web APIs have allowed web communities to facilitate sharing content and data between communities and applications.
+api: In other words, an API connects software entities together.
+api: Therefore, these changes allow developers to transition away from parts of the API that will be removed or not supported in the future.
+api: "Maury, Innovation and Change".
+api: When parts of a publicly presented API are subject to change and thus not stable, such parts of a particular API should be documented explicitly as "unstable".
+api: API documentation can be enriched with metadata information like Java annotations.
+api: This observation led to APIs that supported all types of programming, not just application programming.
+api: ISSN 2047-2390.
+api: In other words, for a library with a significant user base, when an element becomes part of the public API, it may be used in diverse ways.
+api: A weather forecasting app might integrate with a number of weather sensor APIs, gathering weather data from throughout a geographical area.
+api: Tools such as SWIG and F2PY, a Fortran-to-Python interface generator, facilitate the creation of such interfaces.
+api: The subroutines in this library were stored on punched paper tape organized in a filing cabinet.
+api: Traditional documentation files are often presented via a documentation system, such as Javadoc or Pydoc, that has a consistent appearance and structure.
+api: Software services or software libraries are analogous to the bricks; they may be joined together via their APIs, composing a new software product.
+api: POSIX, for example, specifies a set of common APIs that aim to enable an application written for a POSIX conformant operating system to be compiled for another POSIX conformant operating system.
+api: Computational Culture (3).
+api: In 2016, following a two-week trial, a jury determined that Google's reimplementation of the Java API constituted fair use, but Oracle vowed to appeal the decision.
+api: Restrictions and limitations on how the API can be used are also covered by the documentation.
+api: It is possible to generate API documentation in a data-driven manner.
+api: XML and JSON web APIs saw widespread commercial adoption beginning in 2000 and continuing as of 2021.

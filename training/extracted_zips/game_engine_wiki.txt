@@ -1,0 +1,82 @@
+game_engine: Other platforms had more leeway, but even when display was not a concern, memory constraints usually sabotaged attempts to create the data-heavy design that an engine needs.
+game_engine: Unlike most modern game engines, these game engines were never used in any third-party products (except for the SCUMM system, which was licensed to and used by Humongous Entertainment).
+game_engine: For example, on PlayStation 3, physics ran in Need For Speed at 100 Hz, versus Forza Motorsport 2 at 360 Hz.
+game_engine: This includes the Xbox Live Indie Games channel designed specifically for smaller developers who do not have the extensive resources necessary to box games for sale on retail shelves.
+game_engine: Before game engines, games were typically written as singular entities: a game for the Atari 2600, for example, had to be designed from the bottom up to make optimal use of the display hardware—this core display routine is now called the kernel by developers of games for older systems.
+game_engine: Even on more accommodating platforms, very little could be reused between games.
+game_engine: The major game engines come at varying prices, whether it be in the form of subscription fees or license payments.
+game_engine: Some game middleware does only one thing, yet does it more convincingly or more efficiently than general purpose middleware.
+game_engine: For instance, Epic Games, founded by Tim Sweeney, debuted its Unreal Engine in 1998.
+game_engine: As game engine technology matures and becomes more user friendly, the application of game engines has widened in scope.
+game_engine: Firelight FMOD is a low cost robust audio library and toolset.
+game_engine: The rapid advance of arcade hardware—which was the leading edge of the market at the time—meant that most of the code would have to be thrown out afterwards anyway, as later generations of games would use completely different game designs that took advantage of extra resources.
+game_engine: Since the golden age of arcade video games, it became common for video game companies to develop in-house game engines for use with first-party software.
+game_engine: Most game engines or graphics engines use a Graphics API, which eases communication with the GPU.
+game_engine: Android, iPhone) and web browsers.
+game_engine: The continued evolution of game engines has created a strong separation between rendering, scripting, artwork, and level design.
+game_engine: Unity and Unreal Engine are currently the two most popular choices for game developers.
+game_engine: It is becoming easier and cheaper than ever to develop game engines for platforms that support managed frameworks.
+game_engine: Separate threads of execution within a game engine manage intensive operations, including rendering, asset streaming, audio playback, and physics simulation.
+game_engine: Thus, most game designs through the 1980s were designed through a hard-coded rule set with a small number of levels and graphics data.
+game_engine: But older games did not have hardware acceleration or GPUs and had to build their own software renderer.
+game_engine: Examples of graphics engines include: Crystal Space, Genesis3D, Irrlicht, OGRE, RealmForge, Truevision3D, and Vision Engine.
+game_engine: Some game engines only provide real-time 3D rendering capabilities instead of the wide range of functionality needed by games.
+game_engine: However achieved, extensibility remains a high priority for game engines due to the wide variety of uses for which they are applied.
+game_engine: At the very least, reusable engines make developing game sequels faster and easier, which is a valuable advantage in the competitive video game industry.
+game_engine: Due to modern multi-core systems and growing demands in realism, exploiting threads has become more important.
+game_engine: For example, Gamebryo is used in The Elder Scrolls III: Morrowind and Dark Age of Camelot, whereas Unreal Engine 2 is used in Lineage II.
+game_engine: While third-party game engines were not common until the rise of 3D computer graphics in the 1990s, several 2D game creation systems were produced in the 1980s for independent video game development.
+game_engine: In many cases, game engines provide a suite of visual development tools in addition to reusable software components.
+game_engine: Most game-engine suites provide facilities that ease development, such as graphics, sound, physics and artificial intelligence (AI) functions.
+game_engine: They are now used for serious games: visualization, training, medical, and military simulation applications, with the CryEngine being one example.
+game_engine: Some game engines comprise a series of loosely-connected game middleware components that can be selectively combined to create a custom engine, instead of the more common approach of extending or customizing a flexible integrated product.
+game_engine: Some middleware programs can be licensed either way, usually for a higher fee for full source code.
+game_engine: These types of engines are generally referred to as a "graphics engine", "rendering engine", or "3D engine" instead of the all-encompassing term "game engine".
+game_engine: Later games, such as id Software's Quake III Arena and Epic Games' Unreal (1998), were designed with this approach in mind, with the engine and content developed separately.
+game_engine: Game-engine developers often attempt to preempt implementer needs by developing robust software suites, which include many elements a game developer may need to build a game.
+game_engine: This allowed Mario to smoothly accelerate from a walk to a run, rather than move at a constant speed like in earlier platformers.
+game_engine: Other middleware is used for performance optimization—for example Simplygon helps to optimize and generate level of detail meshes, and Umbra adds occlusion culling optimizations to 3D graphics.
+game_engine: Scaleform provides GFx for high performance Flash UI and high-quality video playback, and an Input Method Editor (IME) addon for in-game Asian chat support.
+game_engine: Game engines are not limited to use in the video game field, and have found uses in other scientific fields.
+game_engine: Furthermore, game engine  may also refer to the integrated development environment as an interface behind the given framework, typically a suite of visual development tools and features for developing video games.
+game_engine: This terminology is inconsistently used, as many full-featured 3D game engines are simply referred to as "3D engines".
+game_engine: Modern game engines are some of the most complex applications written, often featuring dozens of finely-tuned systems interacting to ensure a precisely-controlled user experience.
+game_engine: These engines rely upon the game developer to implement the rest of this functionality or to assemble it from other game-middleware components.
+game_engine: The term "engine" is a direct analogue of "software engine", having it employed across sectors of the software industry.
+game_engine: Often, programmers design game engines with a component-based architecture that allows specific systems in the engine to be replaced or extended with more specialized (and often more expensive) game-middleware components.
+game_engine: Part of this is due to game engines being optimized for consumer-grade computing equipment rather than high-performance computing, allowing researchers to develop programs for their use on lower cost machines.
+game_engine: While a strong rivalry existed between Epic Games and id Software around 2000, Epic Game's Unreal Engine has since become far more popular than id Tech 4 and its successor, id Tech 5.
+game_engine: Game engines are also used for games originally developed for home consoles, with RenderWare for the Grand Theft Auto and Burnout franchises as an example.
+game_engine: Game engine developers often economize game development through reuse or adaptation of abstractions built into game engines for production of various games, or through porting of videogames from a single to other target platforms.
+game_engine: Free and open-source engines such as Godot, have seen a rise in popularity, particularly following the 2023 Unity pricing controversy which drove game developers and studios to seek engines with a permissive license.
+game_engine: Racing games have typically been at the forefront of threading with the physics engine running in a separate thread long before other core subsystems were moved, partly because rendering and related tasks need updating at only 30–60 Hz.
+game_engine: Havok provides a robust physics simulation system, along with a suite of animation and behavior applications.
+game_engine: Just as gaming is an industry, so are the engines they are built off.
+game_engine: The engine they had developed for the side-scrolling racing game Excitebike (1984) was later employed for the scrolling platformer Super Mario Bros.
+game_engine: The core functionalities commonly covered by a game engine are a 2D or 3D renderer, physics engine, audio engine, scripting, animation, artificial intelligence, networking, streaming, memory management, threads, localization support, scene graph, and cinematics.
+game_engine: Despite the specificity of the name "game engine", end users often re-purpose game engines for other kinds of interactive applications with real-time graphical requirements—such as marketing demos, architectural visualizations, training simulations, and modeling environments.
+game_engine: As most 3D-rich games are now mostly limited by the power of a graphics card, the potential slowdown due to translation overheads of higher-level languages becomes negligible, while productivity gains offered by these languages serve the game engine developers' benefit.
+game_engine: To improve accessibility, new hardware platforms are also now targeted by game engines, including mobile phones (e.g.
+game_engine: Some middleware contains full source code, or is provided an API reference for a compiled binary library.
+game_engine: Game developers can use game engines to create and publish video games across platforms, such as desktops, mobile devices, video game consoles, and other types of computers.
+game_engine: These tools are generally provided in an integrated development environment to enable simplified, rapid development of games in a data-driven manner.
+game_engine: As such, it is now common, for example, for a typical game development team to have several times as many artists as actual programmers.
+game_engine: The four most-widely used middleware packages that provide subsystems of functionality include RAD Game Tools' Bink, Firelight FMOD, Havok, and Scaleform GFx.
+game_engine: In video games, however, middleware is often used to refer to subsystems of functionality within a game engine.
+game_engine: RAD Game Tools develops Bink for basic video rendering, along with Miles audio, and Granny 3D rendering.
+game_engine: Game engines also simplify many of the computing operations needed for scientific software, including graphics, networking, and interactivity, reducing the need to develop these features themselves.
+game_engine: Although the differences among the different game engines blur as they build their own tools on top of them, different game developers may be too used to a system to change, or attracted by the huge benefits of such engines regardless of pay-walls.
+game_engine: A notable example of an in-house game engine on home consoles in the mid-1980s was the smooth side-scrolling engine developed by Shigeru Miyamoto's team at Nintendo for the Nintendo Entertainment System (NES).
+game_engine: Like other types of middleware, game engines usually provide platform abstraction, allowing the same game to run on various platforms (including game consoles and personal computers) with few, if any, changes made to the game source code.
+game_engine: WebGL, Shockwave, Flash, Trinigy's WebVision, Silverlight, Unity Web Player, O3D and pure DHTML.)
+Additionally, more game engines are being built upon higher-level languages, such as Java, C# and .NET (e.g., TorqueX, and Visual3D.NET), Python (Panda3D), or Lua Script (Leadwerks).
+game_engine: Since the complexity of programming an entirely new engine may result in unwanted delays (or necessitate that a project restart from the beginning), an engine-development team may elect to update their existing engine with newer functionality or components.
+game_engine: A game engine is a software framework primarily designed for video game development, which may include specialized software libraries and packages, such as level editors.
+game_engine: As technology ages, the components of an engine may become obsolete or insufficient for the requirements of a given project.
+game_engine: These recent trends are being propelled by companies such as Microsoft to support indie game development.
+game_engine: The term game engine emerged in the mid-1990s, particularly with the rise of 3D games like first-person shooters, which often featured a dedicated first-person shooter engine.
+game_engine: Microsoft developed XNA as the primary Software Development Kit (SDK) for all video games released on Xbox and their related products.
+game_engine: Modern game- or graphics-engines generally provide a scene graph—an object-oriented representation of the 3D game-world which often simplifies game design and can be used for more efficient rendering of vast virtual worlds.
+game_engine: Although the term was first used in the 1990s, few earlier systems in 1980s are considered as game engines, such as Sierra's Adventure Game Interpreter (AGI) and SCI systems, LucasArts' SCUMM system and Incentive Software's Freescape engine (in 1986).
+game_engine: Klik & Play (1994) is another legacy offering that is still available.
+game_engine: While third-party game engines are predominantly used in the development of first-person shooter games, they are also being used across other genres.

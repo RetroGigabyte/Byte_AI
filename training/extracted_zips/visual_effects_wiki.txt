@@ -1,0 +1,93 @@
+visual_effects: Visual effects using CGI have more recently become accessible to the independent filmmaker with the introduction of affordable and relatively easy-to-use animation and compositing software.
+visual_effects: Other than films, television series and web series are also known to utilize VFX.
+visual_effects: It can be displayed as a two-dimensional image through a process called 3D rendering or used in a computer simulation of physical phenomena.
+visual_effects: Match moving: In visual effects, match-moving is a technique that allows the insertion of computer graphics into live-action footage with correct position, scale, orientation, and motion relative to the photographed objects in the shot.
+visual_effects: Originally, animators projected photographed live-action movie images onto a glass panel and traced over the image.
+visual_effects: In traditional animation, images are drawn or painted by hand on transparent celluloid sheets to be photographed and exhibited on film.
+visual_effects: Billboard Books; 2nd edition, 2007; ISBN 0-8230-8408-6.
+visual_effects: In 1857, Oscar Rejlander created the world's first "special effects" image by combining different sections of 32 negatives into a single image, making a montaged combination print.
+visual_effects: The integration of live-action footage and other live-action footage or computer-generated imagery (CGI) elements to create realistic imagery is called VFX.
+visual_effects: Techniques like these would dominate the production of special effects for a century.
+visual_effects: The product is called a 3-D model.
+visual_effects: When new CGI elements are composited back into the original live-action shot, they will appear in a perfectly matched perspective.
+visual_effects: This projection equipment is referred to as a rotoscope, developed by Polish-American animator Max Fleischer.
+visual_effects: The illusion—as in motion pictures in general—is thought to rely on the phi phenomenon and beta movement, but the exact causes are still uncertain.
+visual_effects: Mechanical effects are also often incorporated into set design and makeup.
+visual_effects: Computer animation can be very detailed 3D animation, while 2D computer animation can be used for stylistic reasons, low bandwidth or faster real-time renderings.
+visual_effects: Motion capture: Motion-capture (sometimes referred as mo-cap or mocap, for short) is the process of recording the movement of objects or people.
+visual_effects: VFX involves the integration of live-action footage (which may include in-camera special effects) and generated imagery (digital or optics, animals or creatures) which look realistic, but would be dangerous, expensive, impractical, time-consuming or impossible to capture on film.
+visual_effects: Mark Cotta Vaz; Craig Barron: The Invisible Art: The Legends of Movie Matte Painting.
+visual_effects: While special effects such as explosions and car chases are made on set, visual effects are primarily executed in post-production with the use of multiple tools and technologies such as graphic design, modeling, animation and similar software.
+visual_effects: In 1895, Alfred Clark created what is commonly accepted as the first-ever motion picture special effect.
+visual_effects: A visual effects supervisor is usually involved with the production from an early stage to work closely with production and the film's director to design, guide and lead the teams required to achieve the desired effects.
+visual_effects: The Art and Science of Digital Compositing (ISBN 0-12-133960-2)
+McClean, Shilo T.
+visual_effects: Someone who works with 3-D models may be referred to as a 3-D artist.
+visual_effects: Match moving, by contrast, is typically a software-based technology applied after the fact to normal footage recorded in uncontrolled environments with an ordinary camera.
+visual_effects: Today, most animations are made with computer-generated imagery (CGI).
+visual_effects: 3D modeling: In 3D computer graphics, 3-D modeling is the process of developing a mathematical representation of any surface of an object (either inanimate or living) in three dimensions via specialized software.
+visual_effects: The term is used loosely to describe several different methods of extracting camera motion information from a motion picture.
+visual_effects: Match moving is also distinct from motion control photography, which uses mechanical hardware to execute multiple identical camera moves.
+visual_effects: Visual effects (sometimes abbreviated as VFX) is the process by which imagery is created or manipulated outside the context of a live-action shot in filmmaking and video production.
+visual_effects: In filmmaking and video game development, it refers to recording actions of human actors, and using that information to animate digital character models in 2-D or 3-D computer animation.
+visual_effects: Although most visual effects work is completed during post-production, it usually must be carefully planned and choreographed in pre-production and production.
+visual_effects: For example, prosthetic makeup can be used to make an actor look like a non-human creature.
+visual_effects: Pre-digital compositing techniques, however, go back as far as the trick films of Georges Méliès in the late 19th century, and some are still in use.
+visual_effects: Other common animation methods apply a stop-motion technique to two and three-dimensional objects like paper cutouts, puppets or clay figures.
+visual_effects: Special effects: Special effects (often abbreviated as SFX, SPFX, F/X or simply FX) are illusions or visual tricks used in the theatre, film, television, video game and simulator industries to simulate the fictional events in a story or virtual world.
+visual_effects: He placed a Mary dummy in the actor's place, restarted filming, and allowed the executioner to bring the axe down, severing the dummy's head.
+visual_effects: When it includes face and fingers or captures subtle expressions, it is often referred to as performance capture.
+visual_effects: Splash of color: The term splash of color is the use of a colored item on an otherwise monochrome film image.
+visual_effects: The MIT Press.
+visual_effects: According to Méliès, his camera jammed while filming a street scene in Paris.
+visual_effects: This device was eventually replaced by computers, but the process is still called rotoscoping.
+visual_effects: Sometimes referred to as motion-tracking or camera-solving, match moving is related to rotoscoping and photogrammetry.
+visual_effects: Matte painting: A matte painting is a painted representation of a landscape, set, or distant location that allows filmmakers to create the illusion of an environment that is not present at the filming location.
+visual_effects: Historically, matte painters and film technicians have used various techniques to combine a matte-painted image with live-action footage.
+visual_effects: As the executioner brought the axe above his head, Clark stopped the camera, had all the actors freeze, and had the person playing Mary step off the set.
+visual_effects: Animation: Animation is a method in which figures are manipulated to appear as moving images.
+visual_effects: Analog mechanical animation media that rely on the rapid display of sequential images include the phénakisticope, zoetrope, flip book, praxinoscope and film.
+visual_effects: Mechanical effects (also called practical or physical effects) are usually accomplished during the live-action shooting.
+visual_effects: His most famous film, Le Voyage dans la lune (1902), a whimsical parody of Jules Verne's From the Earth to the Moon, featured a combination of live action and animation, and also incorporated extensive miniature and matte painting work.
+visual_effects: It was not only the first use of trickery in cinema, it was also the first type of photographic trickery that was only possible in a motion picture, and referred to as the "stop trick".
+visual_effects: Patel, Mayur (2009).
+visual_effects: With the emergence of digital film-making, a distinction between special effects and visual effects has grown, with the latter referring to digital post-production while "special effects" refers to mechanical and optical effects.
+visual_effects: Typically, motion capture requires special cameras and sensors and a controlled environment (although recent developments such as the Kinect camera and Apple's Face ID have begun to change this).
+visual_effects: Because of his ability to seemingly manipulate and transform reality with the cinematograph, the prolific Méliès is sometimes referred to as the "Cinemagician".
+visual_effects: Today, most, though not all, compositing is achieved through digital image manipulation.
+visual_effects: Chroma key is more often used for this, as it is faster and requires less work, however, rotoscope is still used on subjects that are not in front of a green (or blue) screen, due to practical or economic reasons.
+visual_effects: The model can also be physically created using 3D printing devices.
+visual_effects: San Francisco, Cal.: Chronicle Books, 2002; ISBN 0-8118-3136-1
+Peter Ellenshaw; Ellenshaw Under Glass – Going to the Matte for Disney Archived 2008-05-19 at the Wayback Machine
+Richard Rickitt: Special Effects: The History and Technique.
+visual_effects: Television and video are popular electronic animation media that originally were analog and now operate digitally.
+visual_effects: Optical effects (also called photographic effects) are techniques in which images or film frames are created photographically, either "in-camera" using multiple exposures, mattes, or the Schüfftan process or in post-production using an optical printer.
+visual_effects: Digital Storytelling: The Narrative Power of Visual Effects in Film.
+visual_effects: This includes the use of mechanized props, scenery, scale models, animatronics, pyrotechnics and atmospheric effects: creating physical wind, rain, fog, snow, clouds, making a car appear to drive by itself and blowing up a building, etc.
+visual_effects: Swift progression of consecutive images with minor differences is a common approach to achieving the stylistic look of animation.
+visual_effects: Live-action shoots for compositing is variously called "chroma key", "blue screen", "green screen" and other names.
+visual_effects: Okun & Susan Zwerman, The VES Handbook of Visual Effects: Industry Standard VFX Practices and Procedures, Publisher: Focal Press, 2010.
+visual_effects: Many studios specialize in visual effects; among them are Digital Domain, DreamWorks, DNEG, Framestore, Weta Digital, Industrial Light & Magic, Pixomondo, Moving Picture Company, Animal Logic, Reel FX Animation, Sony Pictures Imageworks and Jellyfish Pictures.
+visual_effects: Georges Méliès, an early motion picture pioneer, accidentally discovered the same "stop trick".
+visual_effects: It is used in military, entertainment, sports, medical applications, and for validation of computer vision and robotics.
+visual_effects: In the scenes the painting part is static and movements are integrated on it.
+visual_effects: While this technique is often used to animate humans and other organic figures, it only serves to make the animation process more intuitive, and the same technique can be used to control the deformation of any object—such as a door, a spoon, a building, or a galaxy.
+visual_effects: When he screened the film, he found that the "stop trick" had caused a truck to turn into a hearse, pedestrians to change direction, and men to turn into women.
+visual_effects: ISBN 978-0-262-13465-1.
+visual_effects: In the visual effects industry, rotoscoping is the technique of manually creating a matte for an element on a live-action plate so it may be composited over another background.
+visual_effects: Compositing: Compositing is the combining of visual elements from separate sources into single images, often to create the illusion that all those elements are parts of the same scene.
+visual_effects: Match moving is primarily used to track the movement of a camera through a shot so that an identical virtual camera move can be reproduced in a 3D animation program.
+visual_effects: In many fields, motion capture is sometimes called motion tracking, but in filmmaking and games, motion tracking usually refers more to match moving.
+visual_effects: For display on the computer, techniques like animated GIF and Flash animation were developed.
+visual_effects: While filming a reenactment of the beheading of Mary, Queen of Scots, Clark instructed an actor to step up to the block in Mary's costume.
+visual_effects: Match moving is sometimes confused with motion capture, which records the motion of objects, often human actors, rather than the camera.
+visual_effects: At its best, depending on the skill levels of the artists and technicians, the effect is "seamless" and creates environments that would otherwise be impossible or expensive to film.
+visual_effects: Rotoscoping: Rotoscoping is an animation technique that animators use to trace over motion picture footage, frame by frame, to produce realistic action.
+visual_effects: When the animated object is more general than, for example, a humanoid character, the set of "bones" may not be hierarchical or interconnected but simply represent a higher-level description of the motion of the part of the mesh it is influencing.
+visual_effects: Porter and T.
+visual_effects: Duff, "Compositing Digital Images", Proceedings of SIGGRAPH '84, 18 (1984).
+visual_effects: ISBN 978-1-4486-6547-1.
+visual_effects: Clock and Flame Studios.
+visual_effects: An optical effect might place actors or sets against a different background.
+visual_effects: The Digital Visual Effects Studio: The Artists and Their Work Revealed.
+visual_effects: Méliès, the director of the Théâtre Robert-Houdin, was inspired to develop a series of more than 500 short films, between 1896 and 1913, in the process developing or inventing such techniques as multiple exposures, time-lapse photography, dissolves, and hand-painted color.

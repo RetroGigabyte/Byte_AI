@@ -1,0 +1,33 @@
+continental_climate: Continentality is a measure of the degree to which a region experiences this type of climate.
+continental_climate: In western and eastern Asia, and the central United States these climates grade off toward humid subtropical climates (Cfa/Cwa), subtropical highland climates (Cwb), or Mediterranean climates (Csa/Csb) to the south.
+continental_climate: Continental climate has at least one month averaging below 0 °C (32 °F) and at least one month averaging above 10 °C (50 °F).
+continental_climate: Dwa = Monsoon-influenced hot-summer humid continental climate; coldest month averaging below 0 °C (32 °F) (or −3 °C (27 °F)), at least one month's average temperature above 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F).
+continental_climate: In the Trewartha climate classification, they are identified as Dc.
+continental_climate: No significant precipitation difference between seasons (neither the abovementioned set of conditions fulfilled).
+continental_climate: Dfc = Subarctic climate; coldest month averaging below 0 °C (32 °F) (or −3 °C (27 °F)) and one–three months averaging above 10 °C (50 °F).
+continental_climate: Dwb = Monsoon-influenced warm-summer humid continental climate; coldest month averaging below 0 °C (32 °F) (or −3 °C (27 °F)), all months with average temperatures below 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F).
+continental_climate: Places with continental climates are as a rule either far from any moderating effect of oceans or are so situated that prevailing winds tend to head offshore.
+continental_climate: Dfa = Hot-summer humid continental climate; coldest month averaging below 0 °C (32 °F) (or −3 °C (27 °F)), at least one month's average temperature above 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F).
+continental_climate: Summers in continental climates can feature thunderstorms and frequent hot temperatures; however, summer weather is somewhat more stable than winter weather.
+continental_climate: In Europe these climates may grade off into oceanic climates (Cfb) or subpolar oceanic climates (Cfc) in which the influence of cool oceanic air masses is more marked toward the west.
+continental_climate: At least ten times as much rain in the wettest month of summer as in the driest month of winter.
+continental_climate: Dsd = Mediterranean-influenced extremely cold subarctic climate; coldest month averaging below −38 °C (−36.4 °F) and one–three months averaging above 10 °C (50 °F).
+continental_climate: In continental climates, precipitation tends to be moderate in amount, concentrated mostly in the warmer months.
+continental_climate: In the Köppen climate system, these climates grade off toward temperate climates equator-ward where winters are less severe and semi-arid climates or arid climates where precipitation becomes inadequate for tall-grass prairies and shrublands.
+continental_climate: Continental climates in the Köppen climate classification often have a significant annual variation in temperature (warm to hot summers and cold winters).
+continental_climate: Annual precipitation in this zone is usually between 600 millimetres (24 in) and 1,200 millimetres (47 in),  The timing of intermediate spring-like or autumn-like temperatures in this zone vary depending on latitude and/or elevation.
+continental_climate: Continental climates occur mostly in the Northern Hemisphere due to the large landmasses found there.
+continental_climate: Dfb = Warm-summer humid continental climate; coldest month averaging below 0 °C (32 °F) (or −3 °C (27 °F)), all months with average temperatures below 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F).
+continental_climate: In the Southern Hemisphere, spring may arrive as soon as September in the northern parts of this zone, or as late as November in the southern parts.
+continental_climate: Dsc = Mediterranean-influenced subarctic climate; coldest month averaging below 0 °C (32 °F) (or −3 °C (27 °F)) and one–three months averaging above 10 °C (50 °F).
+continental_climate: Summers are warm or hot while winters are below freezing and sustain lots of frost.
+continental_climate: Dfd = Extremely cold subarctic climate; coldest month averaging below −38 °C (−36.4 °F) and one–three months averaging above 10 °C (50 °F).
+continental_climate: Dwd = Monsoon-influenced extremely cold subarctic climate; coldest month averaging below −38 °C (−36.4 °F) and one–three months averaging above 10 °C (50 °F).
+continental_climate: Only a few areas—in the mountains of the Pacific Northwest of North America and in some regions in and around the Persian Plateau (in western Iran, northern Iraq, adjacent Turkey, Afghanistan, northern Pakistan, and Central Asia) — show a winter maximum in precipitation.
+continental_climate: Dwc = Monsoon-influenced subarctic climate; coldest month averaging below 0 °C (32 °F) (or −3 °C (27 °F)) and one–three months averaging above 10 °C (50 °F).
+continental_climate: Dsb = Mediterranean-influenced warm-summer humid continental climate; coldest month averaging below 0 °C (32 °F) (or −3 °C (27 °F)), average temperature of the warmest month below 22 °C (71.6 °F) and at least four months averaging above 10 °C (50 °F).
+continental_climate: Dsa = Mediterranean-influenced hot-summer humid continental climate; coldest month averaging below 0 °C (32 °F) (or −3 °C (27 °F)), average temperature of the warmest month above 22 °C (71.6 °F) and at least four months averaging above 10 °C (50 °F).
+continental_climate: At least three times as much precipitation in the wettest month of winter as in the driest month of summer, and the driest month of summer receives less than 30 mm (1.2 in).
+continental_climate: Such regions get quite warm in the summer, achieving temperatures characteristic of tropical climates but are colder than any other climates of similar latitude in the winter.
+continental_climate: A portion of the annual precipitation falls as snowfall, and snow often remains on the ground for more than a month.
+continental_climate: For example, in the Northern Hemisphere, spring may arrive as late as May in the northern parts of this zone, or early as March in the southern parts.

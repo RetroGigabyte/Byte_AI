@@ -1,0 +1,132 @@
+sound_design: a sound programmer) who's concerned with designing the playback systems and their efficiency.
+sound_design: The latter specialises in electronic music techniques, such as sequencing and synthesizers, but the former is more experienced in writing music in a variety of genres.
+sound_design: The position of Sound Designer therefore emerged in a manner similar to that of Production Designer, which was created in the 1930s when William Cameron Menzies made revolutionary contributions to the craft of art direction in the making of Gone with the Wind.
+sound_design: Sound Design for plays was recognized by the American Theatre Wing's Tony Awards with the Tony Award for Best Sound Design of a Play until the 2014–15 season, later reinstating the award in the 2017–18 season.
+sound_design: Sixteen years later, Herbert Beerbohm Tree used recordings in his London production of Stephen Phillips’ tragedy NERO.
+sound_design: These devices were meant to simulate natural and man-made sounds, such as trains or bombs.
+sound_design: For sound effect playback in musicals and plays, QLab is the most commonly used piece of software.
+sound_design: As cited by Bertolt Brecht, there was a play about Rasputin written in (1927) by Alexej Tolstoi and directed by Erwin Piscator that included a recording of Lenin's voice.
+sound_design: This is because sometimes there exists a difference in interests between composers and electronic musicians or sound designers.
+sound_design: Modern audio technology has enabled theatre sound designers to produce flexible, complex, and inexpensive designs that can be easily integrated into live performance.
+sound_design: MIDI and digital audio technology have contributed to the evolution of sound production techniques in the 1980s and 1990s.
+sound_design: Editors and mixers like Murray Spivack (King Kong), George Groves (The Jazz Singer), James G.
+sound_design: In motion picture production, a Sound Editor/Designer is a member of a film crew responsible for the entirety or some specific parts of a film's soundtrack.
+sound_design: This immersive sound format expands creative opportunities for the use of sound beyond what was achievable with older 5.1 and 7.1 surround sound systems.
+sound_design: Some directors were interested in realizing the new potential of the medium.
+sound_design: If a sound system is already installed in the performance venue, it is the sound designer's job to tune the system for the best use for a particular production.
+sound_design: The theatre sound designer is also in charge of choosing and installing the sound system —speakers, sound desks, interfaces and convertors, playout/cueing software, microphones, radio mics, foldback, cables, computers, and outboard equipment like FX units and dynamics processors.
+sound_design: The use of music and sound in the Elizabethan Theatre followed, in which music and sound effects were produced off-stage using devices such as bells, whistles, and horns.
+sound_design: Stewart (Citizen Kane), and Carl Faulkner (Journey to the Center of the Earth) served in this capacity during Hollywood's studio era, and are generally considered to be sound designers by a different name.
+sound_design: Audio middleware is a third-party toolset that sits between the game engine and the audio hardware.
+sound_design: Max/MSP, Wwise).
+sound_design: Dora Mavor Moore Awards
+Drama Desk Awards
+Helen Hayes Awards
+Obie Awards
+Joseph Jefferson Awards
+Major British award organizations include the Olivier Awards.
+sound_design: The rise of interest in game audio has also brought more advanced interactive audio tools that are also accessible without a background in computer programming.
+sound_design: Concept albums of groups such as Pink Floyd and The Beatles suggested new modes of storytelling and creative techniques that could be adapted to motion pictures.
+sound_design: Sound system tuning employs various methods including equalization, delay, volume, speaker and microphone placement, and in some cases, the addition of new equipment.
+sound_design: Many sound designs for plays also require significant sound reinforcement (see Sound Design for Musicals).
+sound_design: Whilst the term "sound designer" was not yet in use, some stage managers specialised as "effects men", creating and performing offstage sound effects using a mix of vocal mimicry, mechanical and electrical contraptions and gramophone records.
+sound_design: In 2007, the Tony Award for Best Sound Design was created to honor the best sound design in American theatre on Broadway.
+sound_design: A theatre sound designer is responsible for everything the audience hears in the performance space, including music, sound effects, sonic textures, and soundscapes.
+sound_design: These features were incorporated into the MIDI Show Control (MSC) specification, an open communications protocol for interacting with diverse devices.
+sound_design: Several factors have led to the promotion of audio production to this level, when previously it was considered subordinate to other parts of film:
+sound_design: Interactivity with computer sound can involve using a variety of playback systems or logic, using tools that allow the production of interactive sound (e.g.
+sound_design: Features such as unlimited undo and sample-level editing allows fine control over the soundtracks.
+sound_design: For example, most computational resources are usually devoted to graphics.
+sound_design: Cues would be written in the script for music and sound effects to be played at the appropriate time.
+sound_design: Italian composer Luigi Russolo built mechanical sound-making devices, called "intonarumori," for futurist theatrical and music performances starting around 1913.
+sound_design: Pre-recorded music must be licensed from a legal entity that represents the artist's work.
+sound_design: Interactive applications have also given rise to many techniques in "dynamic audio" which loosely means sound that's "parametrically" adjusted during the program's run-time.
+sound_design: The influence of film and television on playwriting is seeing plays being written increasingly with shorter scenes, which is difficult to achieve with scenery but easily conveyed with sound.
+sound_design: Especially, games have also brought in dynamic or adaptive mixing.
+sound_design: In the application of electroacoustic techniques (e.g.
+sound_design: Some sound designers are accomplished composers, writing and producing music for productions as well as designing sound.
+sound_design: The use of sound to evoke emotion, reflect mood and underscore actions in plays and dances began in prehistoric times when it was used in religious practices for healing or recreation.
+sound_design: In ancient Japan, theatrical events called kagura were performed in Shinto shrines with music and dance.
+sound_design: The sound designer for a play and the production's director work together to decide the themes and emotions to be explored.
+sound_design: Foley) and editing of previously composed or recorded audio, such as sound effects and dialogue for the purposes of the medium, but it can also involve creating sounds from scratch through synthesizers.
+sound_design: The event is marked in the Theatre Magazine (1906) with two photographs; one showing a musician blowing a bugle into a large horn attached to a disc recorder, the other with an actor recording the agonizing shrieks and groans of the tortured martyrs.
+sound_design: create footstep sounds that vary in a believable and non-repeating way and that also corresponds to what's seen in the picture.
+sound_design: These sound systems were originally devised as gimmicks to increase theater attendance, but their widespread implementation created a content vacuum that had to be filled by competent professionals.
+sound_design: Dan Dugan, working with three stereo tape decks routed to ten loudspeaker zones during the 1968–69 season of American Conservatory Theater (ACT) in San Francisco, was the first person in the USA to be called a sound designer.
+sound_design: Plays were performed in medieval times in a form of theatre called Commedia dell'arte, which used music and sound effects to enhance performances.
+sound_design: Consequently, theatre sound design is widespread and accomplished sound designers commonly establish long-term collaborations with directors.
+sound_design: It was subsequently provided to the ADC and David Goodman at the Florida USA local when they both planned to represent sound designers in the 1990s.
+sound_design: These people are usually more versed in e.g.
+sound_design: The greater dynamic range of the new systems, coupled with the ability to produce sounds at the sides, behind, or above the audience, provided the audio post-production team new opportunities for creative expression in film sound.
+sound_design: It involves specifying, acquiring and creating audio using production techniques and equipment or software.
+sound_design: In interactive applications, a sound designer often collaborates with an engineer (e.g.
+sound_design: In the American film industry, the title Sound Designer is not controlled by any professional organization, unlike titles such as Director or Screenwriter.
+sound_design: Inc., which became the #1 sound design music house in New York.
+sound_design: On some, particularly more electronic music projects, artists and producers in more conventional genres have sometimes sourced additional help from artists often credited as "sound designers", to contribute specific auditory effects, ambiences etc.
+sound_design: Sound design for video games requires proficient knowledge of audio recording and editing using a digital audio workstation, and an understanding of game audio integration using audio engine software, audio authoring tools, or middleware to integrate audio into the game engine.
+sound_design: Sound design commonly involves performing (see e.g.
+sound_design: In 1974, Suzanne Ciani started her own production company, Ciani/Musica.
+sound_design: Russolo's treatise, The Art of Noises, is one of the earliest written documents on the use of abstract noise in the theatre.
+sound_design: In 2021, the 93rd Academy Awards merged Best Sound Editing and Best Sound Mixing into one general Best Sound category.
+sound_design: Likewise, a scene might be underscored with music, sound effects or abstract sounds that exist somewhere between the two.
+sound_design: In so doing, it allowed those who called themselves sound designers to compete for contract work and to negotiate higher salaries.
+sound_design: A record producer is responsible for extracting the best performance possible from the musicians and for making both musical and technical decisions about the instrumental timbres, arrangements, etc.
+sound_design: The Tony Awards retired the awards for Sound Design as of the 2014–2015 season, then reinstated the categories in the 2017–18 season.
+sound_design: The sound designer and the director usually work together to "spot" the cues in the play (i.e., decide when and where sound will be used in the play).
+sound_design: The demand for more sophisticated soundtracks was felt both inside and outside Hollywood, and the supervising sound editor became the head of the large sound department, with a staff of dozens of sound editors, that was required to realize a complete sound job with a fast turnaround.
+sound_design: He summarized his conclusions in a document  which, although somewhat dated, provides a succinct record of what was then expected.
+sound_design: These elements are created by the sound designer, or sourced from other sound professionals, such as a composer in the case of music.
+sound_design: United Scenic Artists (USA) Local USA 829, which is integrated within IATSE, represents theatrical sound designers in the United States.
+sound_design: While sound design for a musical largely focuses on the artistic merits of sound reinforcement, many musicals, such as Into the Woods also require significant sound scores (see Sound Design for Plays).
+sound_design: Over the twentieth century recorded sound effects began to replace live sound effects, though often it was the stage manager's duty to find the sound effects, and an electrician played the recordings during performances.
+sound_design: In conjunction with the director and musical director, if any, the sound reinforcement designer determines the use and placement of microphones for actors and musicians.
+sound_design: In addition, software innovation has enabled sound designers to take more of a DIY (or "do-it-yourself") approach.
+sound_design: North American theatrical award organizations that recognize sound designers include these:
+sound_design: Digital audio workstations (DAW) and a variety of digital signal processing algorithms applied in them allow more complicated soundtracks with more tracks and auditory effects to be realized.
+sound_design: From the comfort of their home and at any hour, they can simply use a computer, speakers and headphones rather than renting (or buying) costly equipment or studio space and time for editing and mixing.
+sound_design: The original meaning of the title Sound Designer, as established by Coppola and Murch, was "an individual ultimately responsible for all aspects of a film's audio track, from the dialogue and sound effects recording to the re-recording (mix) of the final track".
+sound_design: Additionally, it was a rhetorical move that legitimised the field of post-production sound at a time when studios were downsizing their sound departments, and when producers were routinely skimping on budgets and salaries for sound editors and mixers.
+sound_design: Dolby's immersive Dolby Atmos format, introduced in 2012, provides the sound team with 128 tracks of audio that can be assigned to a 7.1.2 bed that utilizes two overhead channels, leaving 118 tracks for audio objects that can be positioned around the theater independent of the sound bed.
+sound_design: A great deal of care and attention was paid to the construction and performance of these effects, both naturalistic and abstract.
+sound_design: Some productions might use music only during scene changes, whilst others might use sound effects.
+sound_design: There are a few extra requirements for sound production for computer applications, including re-usability, interactivity and low memory and CPU usage.
+sound_design: Sound design is the art and practice of creating auditory elements of media.
+sound_design: The World Wide Web has greatly enhanced the ability of sound designers to acquire source material quickly, easily and cheaply.
+sound_design: A sound designer is someone who practices sound design.
+sound_design: The Motion Picture Sound Editors and the Academy of Motion Picture Arts and Sciences recognizes the finest or most aesthetic sound design for a film with the Golden Reel Awards for Sound Editing in the film, broadcast, and game industries, and the Academy Award for Best Sound respectively.
+sound_design: Since electronic music itself is quite broad in techniques and often separate from techniques applied in other genres, this kind of collaboration can be seen as natural and beneficial.
+sound_design: It is employed in a variety of disciplines including filmmaking, television production, video game development, theatre, sound recording and reproduction, live performance, sound art, post-production, radio, new media and musical instrument development.
+sound_design: The audio production team is a principal member of the production staff, with creative output comparable to that of the film editor and director of photography.
+sound_design: binaural sound) and sound synthesis for contemporary music or film music, a sound designer (often also an electronic musician) sometimes refers to an artist who works alongside a composer to realize the more electronic aspects of a musical production.
+sound_design: Audio production should account for computational limits for sound playback with audio compression or voice allocating systems.
+sound_design: The article states: “these sounds are all realistically reproduced by the gramophone”.
+sound_design: The term sound designer has replaced monikers like supervising sound editor or re-recording mixer for the same position: the head designer of the final sound track.
+sound_design: The terms sound design and sound designer began to be used in the motion picture industry in 1969.
+sound_design: The sound reinforcement designer ensures that the performance can be heard and understood by everyone in the audience, regardless of the shape, size or acoustics of the venue, and that performers can hear everything needed to enable them to do their jobs.
+sound_design: The advantage of calling oneself a sound designer beginning in later decades was two-fold.
+sound_design: Theatrical Sound Designers in English Canada are represented by the Associated Designers of Canada (ADC), and in Québec by l'Association des professionnels des arts du Québec (APASQ).
+sound_design: New filmmakers made their early films outside the Hollywood establishment, away from the influence of film labor unions and the then rapidly dissipating studio system.
+sound_design: The contemporary title of sound designer can be compared with the more traditional title of supervising sound editor; many sound designers use both titles interchangeably.
+sound_design: Object positions are informed by metadata that places them based on x,y,z coordinates and the number of speakers available in the room.
+sound_design: Nowadays, a designer can preview and download crisper, more "believable" sounds as opposed to toiling through time- and budget-draining "shot-in-the-dark" searches through record stores, libraries and "the grapevine" for (often) inferior recordings.
+sound_design: The first show to fully utilize the MSC specification was the Magic Kingdom Parade at Walt Disney World's Magic Kingdom in September 1991.
+sound_design: Sound design, as a distinct discipline, is one of the youngest fields in stagecraft, second only to the use of projection and other multimedia displays, although the ideas and techniques of sound design have been around almost since theatre started.
+sound_design: This provides for faster creation and negotiation with the director.
+sound_design: A new generation of filmmakers, the so-called "Easy Riders and Raging Bulls"—Martin Scorsese, Steven Spielberg, George Lucas, and others—were aware of the creative potential of sound and wanted to use it.
+sound_design: electronic music composition and synthesizers than the other musicians on board.
+sound_design: Between 1980 and 1988, Charlie Richmond, USITT's first Sound Design Commissioner, oversaw efforts of their Sound Design Commission to define the duties, responsibilities, standards and procedures expected of a theatre sound designer in North America.
+sound_design: This can be the artist themselves, a publisher, record label, performing rights organization or music licensing company.
+sound_design: In some productions, the sound designer might also be hired to compose music for the play.
+sound_design: Before stereo soundtracks, film sound was of such low fidelity that only the dialogue and occasional sound effects were practical.
+sound_design: The role of supervising sound editor, or sound supervisor, developed in parallel with the role of sound designer.
+sound_design: Filmmakers were inspired by the popular music of the era.
+sound_design: Cinema sound systems became capable of high-fidelity reproduction, particularly after the adoption of Dolby Stereo.
+sound_design: This allows for a broader expression in sounds, more similar to that in films, because this way the sound designer can e.g.
+sound_design: At that time, The title of Sound Designer was first granted to Walter Murch by Francis Ford Coppola in recognition for Murch's contributions to the film The Rain People.
+sound_design: The development of film sound design is giving writers and directors higher expectations and knowledge of sound design.
+sound_design: Based on this, the sound designer for plays, in collaboration with the director and possibly the composer, decides upon the sounds that will be used to create the desired moods.
+sound_design: After his death, his intonarumori' were used in more conventional theatre performances to create realistic sound effects.
+sound_design: to the production.
+sound_design: Sound Reinforcement Design was recognized by the American Theatre Wing's Tony Awards with the Tony Award for Best Sound Design of a Musical until the 2014–15 season, later reinstating in the 2017–18 season.
+sound_design: Implementation might require software or electrical engineering of the systems that modify sound or process user input.
+sound_design: It strategically allowed for a single person to work as both an editor and mixer on a film without running into issues pertaining to the jurisdictions of editors and mixers, as outlined by their respective unions.

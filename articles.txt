@@ -1,0 +1,4729 @@
+# 1,050+ Wikipedia articles for Killo training
+# Curated diverse topics across all domains
+
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Neural Networks
+Python (programming language)
+JavaScript
+Java (programming language)
+C++ (programming language)
+Go (programming language)
+Rust (programming language)
+Ruby (programming language)
+PHP
+Swift (programming language)
+Kotlin (programming language)
+TypeScript
+R (programming language)
+MATLAB
+Scala (programming language)
+Clojure
+Erlang (programming language)
+Haskell (programming language)
+Lisp
+Scheme (programming language)
+Prolog
+Objective-C
+Groovy (programming language)
+Perl
+Lua (programming language)
+Fortran
+COBOL
+Assembly language
+Bash (Unix shell)
+PowerShell
+Data Science
+Computer Science
+Software Engineering
+Cloud Computing
+Quantum Computing
+Internet
+World Wide Web
+Web Server
+Database
+SQL
+NoSQL
+MongoDB
+PostgreSQL
+MySQL
+SQLite
+Oracle Database
+Redis
+Cassandra (database)
+HBase
+Elasticsearch
+Memcached
+CouchDB
+Firebase (platform)
+DynamoDB
+Linux
+Windows
+macOS
+iOS
+Android
+UNIX
+BSD
+ChromeOS
+Ubuntu
+Debian
+Red Hat Enterprise Linux
+CentOS
+Fedora (operating system)
+Git (software)
+GitHub
+GitLab
+Bitbucket
+Mercurial (software)
+Subversion
+Perforce
+Stack Overflow
+Algorithm
+Data Structure
+Big O notation
+Object-oriented programming
+Functional programming
+Procedural programming
+Declarative programming
+Cybersecurity
+Cryptography
+Blockchain
+Bitcoin
+Ethereum
+Cryptocurrency
+Smart Contract
+Web3
+NFT
+DeFi
+Internet of Things
+5G
+4G
+LTE
+WiFi
+Wireless network
+Virtual Reality
+Augmented Reality
+Mixed Reality
+Metaverse
+Extended reality
+Artificial General Intelligence
+Robotics
+Computer vision
+Natural language processing
+Recommendation system
+Search engine
+Google
+Facebook
+Amazon
+Apple Inc.
+Microsoft
+Intel
+NVIDIA
+AMD
+IBM
+Oracle Corporation
+Salesforce
+Adobe Inc.
+Slack (software)
+Jira
+Confluence
+Atlassian
+Docker (software)
+Kubernetes
+Jenkins (software)
+Apache (HTTP server)
+Nginx
+Node.js
+Express.js
+Django
+Flask (web framework)
+Spring Framework
+Hibernate (framework)
+Apache Spark
+Hadoop
+Spark SQL
+HBase
+Cassandra
+PostgreSQL
+MySQL
+MariaDB
+Redis
+Memcached
+Elasticsearch
+Kibana
+Grafana
+Prometheus (software)
+Splunk
+New Relic
+Datadog
+PagerDuty
+Zendesk
+Twilio
+Stripe (company)
+PayPal
+Square (financial services)
+Software testing
+DevOps
+Continuous integration
+Continuous deployment
+API
+REST
+GraphQL
+gRPC
+SOAP
+XML
+JSON
+Protocol Buffers
+YAML
+TOML
+INI file
+Cloud storage
+AWS
+Google Cloud
+Microsoft Azure
+DigitalOcean
+Heroku
+Netlify
+Vercel
+Firebase
+Cyber attack
+Malware
+Phishing
+Ransomware
+Two-factor authentication
+Biometric authentication
+Password
+Encryption
+Decryption
+Public key cryptography
+Digital signature
+Certificate authority
+SSL/TLS
+HTTPS
+VPN
+Proxy server
+Firewall
+Intrusion detection system
+Web application firewall
+DDoS attack
+Penetration testing
+Bug bounty
+Code review
+Static analysis
+Physics
+Quantum mechanics
+Relativity
+Special relativity
+General relativity
+Particle physics
+Standard Model
+Thermodynamics
+Electromagnetism
+Optics
+Mechanics
+Classical mechanics
+Kinematics
+Dynamics
+Statics
+Fluid mechanics
+Wave
+Light
+Sound
+Energy
+Force
+Gravity
+Newton's laws of motion
+Kepler's laws of planetary motion
+Atom
+Electron
+Proton
+Neutron
+Nucleus
+Quark
+Lepton
+Photon
+Boson
+Fermion
+Molecule
+Ion
+Isotope
+Atomic number
+Mass number
+Chemistry
+Organic chemistry
+Inorganic chemistry
+Physical chemistry
+Biochemistry
+Chemical bond
+Covalent bond
+Ionic bond
+Metallic bond
+Hydrogen bond
+Oxidation
+Reduction
+Reaction
+Acid
+Base
+Salt
+Buffer solution
+pH
+Polymer
+Plastic
+Rubber
+Glass
+Ceramic
+Metal
+Alloy
+Steel
+Aluminum
+Copper
+Gold
+Silver
+Platinum
+Iron
+Zinc
+Titanium
+Lead
+Tin
+Nickel
+Chromium
+Manganese
+Biology
+Genetics
+Evolution
+Cell (biology)
+DNA
+RNA
+Protein
+Enzyme
+Amino acid
+Carbohydrate
+Lipid
+Nucleotide
+Photosynthesis
+Cellular respiration
+Mitochondrion
+Chloroplast
+Ribosome
+Endoplasmic reticulum
+Golgi apparatus
+Nucleus
+Membrane
+Osmosis
+Diffusion
+Active transport
+Metabolism
+Digestion
+Nutrition
+Vitamin
+Mineral
+Protein (nutrient)
+Carbohydrate (food)
+Fat (food)
+Ecology
+Food chain
+Food web
+Ecosystem
+Biome
+Tropical
+Subtropical
+Temperate
+Polar
+Population
+Community (ecology)
+Species
+Extinction
+Endangered species
+Conservation
+Natural selection
+Mutation
+Gene
+Allele
+Chromosome
+Dominant trait
+Recessive trait
+Heterozygous
+Homozygous
+Mitosis
+Meiosis
+Reproduction
+Sexual reproduction
+Asexual reproduction
+Anatomy
+Physiology
+Skeleton
+Muscle
+Nervous system
+Endocrine system
+Circulatory system
+Respiratory system
+Digestive system
+Urinary system
+Immune system
+Lymphatic system
+Integumentary system
+Neurology
+Brain
+Cerebral cortex
+Cerebellum
+Brainstem
+Spinal cord
+Synapse
+Neurotransmitter
+Action potential
+Nerve
+Sensory system
+Vision
+Hearing
+Smell
+Taste
+Touch
+Proprioception
+Heart
+Blood
+Blood vessel
+Artery
+Vein
+Capillary
+Pressure
+Lung
+Trachea
+Bronchus
+Alveolus
+Gas exchange
+Kidney
+Ureter
+Bladder
+Nephron
+Dialysis
+Liver
+Pancreas
+Stomach
+Small intestine
+Large intestine
+Appendix
+Hepatitis
+Cirrhosis
+Gallbladder
+Thyroid
+Pituitary gland
+Adrenal gland
+Hypothalamus
+Hormone
+Insulin
+Glucose
+Diabetes
+Obesity
+Malnutrition
+Immune system
+White blood cell
+Red blood cell
+Platelet
+Antibody
+Antigen
+Vaccine
+Vaccination
+Immunization
+Allergy
+Autoimmune disease
+Pathogen
+Disease
+Infection
+Virus
+Bacteria
+Fungus
+Parasite
+Prion
+Inflammation
+Fever
+Pain
+Wound
+Scar
+Burn
+Frostbite
+Dehydration
+Shock (circulatory)
+Heart disease
+Stroke
+Hypertension
+Cholesterol
+Atherosclerosis
+Arrhythmia
+Heart attack
+Angina
+Congestive heart failure
+Asthma
+Bronchitis
+Pneumonia
+Tuberculosis
+Emphysema
+Cystic fibrosis
+Lung cancer
+Cancer
+Tumor
+Benign
+Malignant
+Carcinoma
+Sarcoma
+Melanoma
+Leukemia
+Lymphoma
+Metastasis
+Chemotherapy
+Radiation therapy
+Immunotherapy
+Gene therapy
+Surgery
+Anesthesia
+Arthritis
+Osteoporosis
+Gout
+Migraine
+Epilepsy
+Parkinson's disease
+Alzheimer's disease
+Dementia
+Schizophrenia
+Bipolar disorder
+Major depressive disorder
+Anxiety disorder
+PTSD
+OCD
+ADHD
+Autism spectrum disorder
+Dyslexia
+Dyscalculia
+Dysgraphia
+Sleep disorder
+Insomnia
+Sleep apnea
+Narcolepsy
+Sleepwalking
+Eating disorder
+Anorexia nervosa
+Bulimia nervosa
+Binge eating disorder
+Substance abuse
+Alcoholism
+Drug addiction
+Tobacco smoking
+Sexually transmitted infection
+HIV/AIDS
+Gonorrhea
+Chlamydia
+Herpes simplex
+Syphilis
+Pregnancy
+Childbirth
+Contraception
+Abortion
+Miscarriage
+Birth defect
+Congenital disease
+Genetic disorder
+Cystic fibrosis
+Hemophilia
+Sickle cell disease
+Muscular dystrophy
+Mental health
+Stress
+Burnout
+Resilience
+Mindfulness
+Meditation
+Yoga
+Psychotherapy
+Counseling
+Cognitive behavioral therapy
+Psychoanalysis
+Hypnosis
+Astronomy
+Star
+Planet
+Moon
+Comet
+Asteroid
+Meteoroid
+Meteor
+Meteorite
+Galaxy
+Black hole
+Neutron star
+Pulsar
+White dwarf
+Red giant
+Nebula
+Supernova
+Nova
+Quasar
+Big Bang
+Cosmic microwave background
+Inflation (cosmology)
+Dark matter
+Dark energy
+Redshift
+Universe
+Observable universe
+Multiverse
+Cosmology
+Hubble's law
+Parallel universe
+Wormhole
+Time dilation
+Gravitational lensing
+Geysers
+Geyser
+Hot spring
+Mud pot
+Fumarole
+Geology
+Rock
+Mineral
+Ore
+Stone
+Fossil
+Paleontology
+Stratum
+Sediment
+Sedimentary rock
+Igneous rock
+Metamorphic rock
+Erosion
+Weathering
+Soil
+Clay
+Sand
+Silt
+Loam
+Bedrock
+Magma
+Lava
+Basalt
+Granite
+Limestone
+Sandstone
+Shale
+Marble
+Slate
+Schist
+Gneiss
+Earthquake
+Aftershock
+Seismic wave
+Richter scale
+Moment magnitude scale
+Epicenter
+Hypocenter
+Fault (geology)
+Strike-slip fault
+Thrust fault
+Normal fault
+Subduction
+Converging plate boundary
+Diverging plate boundary
+Transform plate boundary
+Volcano
+Volcanic eruption
+Volcanic winter
+Pyroclastic flow
+Lahars
+Volcanic ash
+Pumice
+Obsidian
+Scoria
+Crater
+Caldera
+Mountain
+Valley
+Canyon
+Gorge
+Plateau
+Cliff
+Butte
+Mesa
+Moraine
+Drumlin
+Esker
+Kame
+Outwash plain
+Alluvial fan
+Delta
+Glacier
+Iceberg
+Glacial lake
+Fjord
+Cirque
+Arête
+Horn (mountain)
+Weather
+Climate
+Atmosphere
+Stratosphere
+Mesosphere
+Thermosphere
+Exosphere
+Troposphere
+Jet stream
+Gulf Stream
+Hadley cell
+Ferrel cell
+Polar cell
+Wind
+Trade wind
+Monsoon
+Prevailing wind
+Wind farm
+Tornado
+Funnel cloud
+Waterspout
+Hurricane
+Typhoon
+Cyclone
+Tropical cyclone
+Storm surge
+Storm
+Thunderstorm
+Lightning
+Thunder
+Hail
+Sleet
+Freezing rain
+Snow
+Snowstorm
+Blizzard
+Dust storm
+Haboob
+Sandstorm
+Fog
+Mist
+Dew
+Frost
+Permafrost
+Drought
+Flood
+Flash flood
+Mudslide
+Avalanche
+Landslide
+Rockslide
+Tsunami
+Seiche
+Rip current
+Ocean
+Pacific Ocean
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+Southern Ocean
+Mediterranean Sea
+North Sea
+Baltic Sea
+Black Sea
+Caspian Sea
+Dead Sea
+Red Sea
+Persian Gulf
+Gulf of Mexico
+Caribbean Sea
+English Channel
+Bay of Bengal
+Sea of Japan
+South China Sea
+East China Sea
+Coral Sea
+Tasman Sea
+Ross Sea
+Weddell Sea
+Barents Sea
+Kara Sea
+Laptev Sea
+East Siberian Sea
+Chukchi Sea
+Beaufort Sea
+Norwegian Sea
+Greenland Sea
+Davis Strait
+Bering Strait
+Torres Strait
+Strait of Malacca
+Strait of Hormuz
+Suez Canal
+Panama Canal
+English Channel
+Strait of Dover
+Strait of Gibraltar
+Lake
+Freshwater lake
+Saltwater lake
+Crater lake
+Glacial lake
+Great Lakes
+Lake Superior
+Lake Michigan
+Lake Huron
+Lake Erie
+Lake Ontario
+Lake Baikal
+Lake Tanganyika
+Lake Victoria
+Lake Malawi
+Caspian Sea
+Aral Sea
+Dead Sea
+Aswan High Dam
+River
+Amazon River
+Nile River
+Yangtze River
+Mississippi River
+Missouri River
+Danube River
+Rhine River
+Thames River
+Volga River
+Indus River
+Ganges River
+Brahmaputra River
+Mekong River
+Salween River
+Chao Phraya
+Irawaddy River
+Ob River
+Yenisei River
+Lena River
+Kolymá River
+Yukon River
+Mackenzie River
+Saint Lawrence River
+Rio Grande
+Colorado River
+Sacramento River
+Paraná River
+Uruguay River
+Tigris-Euphrates
+Tigris River
+Euphrates River
+Jordan River
+Mountain
+Himalayas
+Rocky Mountains
+Andes Mountains
+Alps
+Appalachian Mountains
+Sierra Nevada
+Cascade Range
+Coast Ranges
+Transverse Ranges
+Peninsular Ranges
+San Gabriel Mountains
+San Bernardino Mountains
+Mount Everest
+Mount Kilimanjaro
+Mount Fuji
+Mount Denali
+Mount Aconcagua
+Mount Elbrus
+Mount Blanc
+Matterhorn
+K2
+Kangchenjunga
+Lhotse
+Makalu
+Cho Oyu
+Dhaulagiri
+Manaslu
+Nanga Parbat
+Annapurna
+Gasherbrum
+Broad Peak
+Gasherbrum II
+Desert
+Sahara
+Arabian Desert
+Gobi Desert
+Kalahari Desert
+Atacama Desert
+Mojave Desert
+Sonoran Desert
+Chihuahuan Desert
+Great Basin Desert
+Oregon High Desert
+Great Sandy Desert
+Simpson Desert
+Great Victoria Desert
+Tanami Desert
+Grand Staircase-Escalante National Monument
+Badlands
+Thar Desert
+Sahel
+Rainforest
+Amazon rainforest
+Congo Rainforest
+Southeast Asian rainforest
+Daintree Rainforest
+Tongass National Forest
+Tropical rainforest
+Temperate rainforest
+Tropical dry forest
+Deciduous forest
+Evergreen forest
+Mixed forest
+Coniferous forest
+Boreal forest
+Taiga
+Tundra
+Arctic tundra
+Alpine tundra
+Grassland
+Steppe
+Prairie
+Savanna
+Pampas
+Llanos
+Veld
+Cerrado
+Grassland
+Meadow
+Pasture
+Heathland
+Moorland
+Shrubland
+Desert scrub
+Chaparral
+Maquis shrubland
+Fynbos
+Karoo
+Woodland
+Scrubland
+Wetland
+Swamp
+Marsh
+Bog
+Fen
+Mire
+Peat moss
+Mangrove
+Salt marsh
+Estuary
+Delta
+Floodplain
+Riparian zone
+Coral reef
+Kelp forest
+Seagrass meadow
+Island
+Archipelago
+Atoll
+Cay
+Key
+Islet
+Peninsula
+Isthmus
+Strait
+Channel
+Sound
+Bay
+Gulf
+Cove
+Inlet
+Fjord
+Estuary
+Lagoon
+Volcano
+Geothermal energy
+Hot spring
+Geyser
+Mud pot
+Fumarole
+Cave
+Stalactite
+Stalagmite
+Flowstone
+Dripstone
+Cavern
+Cenote
+Canyon
+Gorge
+Ravine
+Gulch
+Valley
+U-shaped valley
+V-shaped valley
+Rift valley
+Graben
+Horst
+Plain
+Coastal plain
+Alluvial plain
+Flood plain
+Piedmont
+Plateau
+Mesa
+Butte
+Scarp
+Cuesta
+Ridge
+Cliff
+Escarpment
+Rock formation
+Arch
+Balanced rock
+Hoodoo
+Spire
+Pinnacle
+Breccia
+Glacial drift
+Moraines
+Terminal moraine
+Ground moraine
+Recessional moraine
+Lateral moraine
+Medial moraine
+Drumlins
+Esker
+Kame
+Outwash plain
+Alluvial fan
+Bajada
+Debris cone
+Talus
+Scree
+Dune
+Sand dune
+Barchan
+Star dune
+Transverse dune
+Longitudinal dune
+Parabolic dune
+Dome dune
+Wind-swept bedrock
+Climate
+Tropical climate
+Subtropical climate
+Arid climate
+Semiarid climate
+Temperate climate
+Continental climate
+Polar climate
+Ancient Egypt
+Pharaoh
+Pyramid of Khufu
+Great Sphinx of Giza
+Nile River
+Hieroglyphics
+Papyrus
+Mummification
+Pharaonic Egypt
+New Kingdom
+Middle Kingdom
+Old Kingdom
+Ptolemaic Egypt
+Cleopatra
+Ramesses
+Thutmose
+Hatshepsut
+Tutankhamun
+Amenhotep
+Khufu
+Menkaure
+Mentuhotep
+Ahmose I
+Thutmose III
+Amenhotep III
+Seti I
+Ramesses II
+Ramesses III
+Ancient Greece
+Athens
+Sparta
+Corinth
+Thebes
+Macedonia
+Parthenon
+Acropolis
+Oracle at Delphi
+Trojan War
+Greek mythology
+Olympus
+Zeus
+Hera
+Poseidon
+Hades
+Aphrodite
+Athena
+Apollo
+Artemis
+Ares
+Hermes
+Hephaestus
+Hestia
+Demeter
+Dionysus
+Demigod
+Hero
+Heracles
+Perseus
+Theseus
+Jason
+Atalanta
+Medusa
+Gorgon
+Minotaur
+Phoenix
+Griffin
+Sphinx
+Pegasus
+Centaur
+Satyr
+Nymph
+Siren
+Cyclops
+Titan
+Enceladus
+Hyperion
+Iapetus
+Coeus
+Crius
+Themis
+Mnemosyne
+Tethys
+Theia
+Phoebe
+Cronus
+Rhea
+Ancient Rome
+Caesar
+Augustus
+Pompey
+Nero
+Caligula
+Claudius
+Titus
+Trajan
+Hadrian
+Marcus Aurelius
+Diocletian
+Constantine
+Roman Empire
+Republic
+Colosseum
+Aqueduct
+Pantheon
+Forum
+Senate
+Gladiator
+Legionnaire
+Centurion
+Consul
+Praetor
+Censor
+Tribune
+Quaestor
+Aedile
+Byzantine Empire
+Constantinople
+Justinian
+Theodora
+Hagia Sophia
+Orthodox Christianity
+Middle Ages
+Feudalism
+Feudal system
+Vassal
+Liege
+Knight
+Nobility
+Peasant
+Serf
+Guild
+Monastery
+Abbey
+Monastery
+Convent
+Priory
+Bishop
+Archbishop
+Cardinal
+Pope
+Inquisition
+Crusade
+Holy Land
+Sacrament
+Eucharist
+Baptism
+Confirmation
+Penance
+Extreme unction
+Holy orders
+Matrimony
+Chivalry
+Heraldry
+Coat of arms
+Tournament
+Joust
+Castle
+Siege
+Moat
+Drawbridge
+Portcullis
+Keep
+Barbican
+Palisade
+Stockade
+Watchtower
+Renaissance
+Humanism
+Reformation
+Counter-Reformation
+Martin Luther
+John Calvin
+Ulrich Zwingli
+Jan Hus
+Wycliffe
+Tyndale
+Gutenberg
+Printing press
+Movable type
+Illuminated manuscript
+Michelangelo
+Leonardo da Vinci
+Raphael
+Donatello
+Botticelli
+Fra Angelico
+Masaccio
+Giotto
+Jan van Eyck
+Albrecht Dürer
+Piero della Francesca
+Caravaggio
+Age of Enlightenment
+Isaac Newton
+René Descartes
+John Locke
+David Hume
+Immanuel Kant
+Jean-Jacques Rousseau
+Voltaire
+Denis Diderot
+Montesquieu
+Adam Smith
+The Wealth of Nations
+Industrial Revolution
+James Watt
+Textile manufacturing
+Steam engine
+Factory system
+Cotton gin
+Steamboat
+Locomotive
+Railroad
+Iron production
+Coal mining
+Child labor
+Trade union
+Labor movement
+French Revolution
+Reign of Terror
+Marie Antoinette
+Louis XVI
+Robespierre
+Committee of Public Safety
+Thermidorian Reaction
+Napoleonic Wars
+Napoleon Bonaparte
+Waterloo
+Treaty of Vienna
+Concert of Europe
+Metternich
+American Revolution
+Declaration of Independence
+Thomas Jefferson
+Benjamin Franklin
+George Washington
+James Madison
+Alexander Hamilton
+John Adams
+Anti-Federalist
+Federalist
+Constitutional Convention
+U.S. Constitution
+Bill of Rights
+Federalist Papers
+World War I
+Trench warfare
+Archduke Franz Ferdinand
+Gavrilo Princip
+Central Powers
+Allied powers
+Tank
+Machine gun
+Poison gas
+Mustard gas
+Chlorine gas
+Phosgene
+No Man's Land
+Artillery
+Barbed wire
+Dreadnought
+U-boat
+Stalemate
+Schlieffen Plan
+Battle of the Somme
+Battle of Verdun
+Battle of Gallipoli
+Battle of Passchendaele
+Battle of the Marne
+Vimy Ridge
+Somme Offensive
+Meuse-Argonne
+Western Front
+Eastern Front
+Italian Front
+Balkan Front
+Middle Eastern theater
+Zeppelin
+Fighter aircraft
+Fokker
+Sopwith Camel
+SPAD
+Treaty of Brest-Litovsk
+Treaty of Versailles
+League of Nations
+Reparations
+War guilt clause
+World War II
+Adolf Hitler
+Nazism
+Fascism
+Mussolini
+Francisco Franco
+Imperial Japan
+Hideki Tojo
+Wehrmacht
+Luftwaffe
+Kriegsmarine
+SS (paramilitary organization)
+Gestapo
+Blitzkrieg
+Appeasement
+Munich Agreement
+Molotov-Ribbentrop Pact
+Operation Barbarossa
+Battle of Stalingrad
+Battle of Kursk
+Battle of Moscow
+Battle of Leningrad
+Siege of Leningrad
+Holocaust
+Auschwitz
+Treblinka
+Dachau
+Buchenwald
+Ravensbrück
+Mauthausen
+Gulag
+Lebensraum
+Aryan race
+Final Solution
+Kristallnacht
+Warsaw Ghetto
+Wannsee Conference
+Einsatzgruppen
+Gestapo
+SS-Obersturmbannführer Adolf Eichmann
+Josef Mengele
+Heinrich Himmler
+Reinhard Heydrich
+Joseph Goebbels
+Albert Speer
+Erwin Rommel
+Isoroku Yamamoto
+Hideki Tojo
+Tomoyuki Yamashita
+Battle of Britain
+Battle of France
+Dunkirk
+Blitz
+Battle of Midway
+Battle of the Coral Sea
+Battle of Guadalcanal
+Island hopping
+Operation Overlord
+D-Day
+Normandy invasion
+Battle of the Atlantic
+U-boat campaign
+Lend-Lease
+Manhattan Project
+Atomic bomb
+Hiroshima
+Nagasaki
+V-E Day
+V-J Day
+Yalta Conference
+Potsdam Conference
+Tehran Conference
+Cold War
+Soviet Union
+Joseph Stalin
+Vladimir Lenin
+Leon Trotsky
+Nikita Khrushchev
+Leonid Brezhnev
+Mikhail Gorbachev
+Glasnost
+Perestroika
+Communism
+Capitalism
+Democracy
+Socialism
+Marxism
+Leninism
+Stalinism
+Trotskyism
+Maoism
+Korean War
+37th parallel north
+Korean Peninsula
+North Korea
+South Korea
+38th parallel
+DMZ
+MacArthur
+Incheon Landing
+Battle of Pork Chop Hill
+Vietnam War
+Viet Cong
+North Vietnam
+South Vietnam
+Ho Chi Minh
+Gulf of Tonkin incident
+Tet Offensive
+Napalm
+Agent Orange
+My Lai massacre
+Fall of Saigon
+Gulf War
+Operation Desert Storm
+Saddam Hussein
+Kuwait
+George H. W. Bush
+Colin Powell
+Norman Schwarzkopf
+Scud missile
+Stealth aircraft
+Cruise missile
+Smart bomb
+Smart weapons
+American Civil War
+Confederate States of America
+Union Army
+Abraham Lincoln
+Jefferson Davis
+Robert E. Lee
+Ulysses S. Grant
+William Tecumseh Sherman
+Battle of Gettysburg
+Battle of Shiloh
+Battle of Antietam
+Battle of Fort Sumter
+Secession
+Emancipation Proclamation
+Thirteenth Amendment
+Fifteenth Amendment
+Reconstruction Era
+Jim Crow laws
+Slavery
+Abolitionism
+Harriet Tubman
+Frederick Douglass
+William Lloyd Garrison
+John Brown
+Fugitive Slave Act
+Dred Scott v. Sandford
+Civil Rights Movement
+Mahatma Gandhi
+Nonviolent resistance
+Civil disobedience
+Martin Luther King Jr.
+I Have a Dream
+Malcolm X
+Nation of Islam
+Rosa Parks
+Montgomery Bus Boycott
+Sit-in
+Freedom Riders
+March on Washington
+Selma to Montgomery marches
+Voting Rights Act
+Civil Rights Act
+Apartheid
+Nelson Mandela
+Desmond Tutu
+Steve Biko
+F.W. de Klerk
+Truth and Reconciliation Commission
+Fall of the Berlin Wall
+East Germany
+West Germany
+Konrad Adenauer
+Willy Brandt
+Ostpolitik
+Collapse of the Soviet Union
+Dissolution of the Soviet Union
+Boris Yeltsin
+Attempted coup d'état in the Soviet Union
+Commonwealth of Independent States
+Chechnya
+Chechen Wars
+Declaration of Independence
+United States Constitution
+Bill of Rights
+Federalist Papers
+Article I
+Article II
+Article III
+Article IV
+Article V
+Article VI
+Article VII
+Magna Carta
+English Bill of Rights
+Habeas corpus
+Petition of Right
+English Civil War
+Oliver Cromwell
+Roundheads
+Cavaliers
+Puritans
+Long Parliament
+Rump Parliament
+Protectorate
+Restoration
+Charles I
+Charles II
+James II
+Glorious Revolution
+William of Orange
+Spanish Inquisition
+Torquemada
+Auto-da-fé
+Heresy
+Heretic
+Witch trial
+Salem witch trials
+European witch-hunts
+Crusades
+First Crusade
+Second Crusade
+Third Crusade
+Fourth Crusade
+Children's Crusade
+Albigensian Crusade
+Reconquista
+Saladin
+Richard the Lionheart
+Louis IX
+Black Death
+Bubonic plague
+Pneumonic plague
+Septicemic plague
+Yersinia pestis
+Flea
+Rat
+Medieval Europe
+Plague doctor
+Leeches
+Bloodletting
+Miasma
+Quarantine
+Scapegoat
+Jewish persecution
+Flagellants
+Dance of Death
+Dark Ages
+Migration Period
+Barbarian invasion
+Ostrogoths
+Visigoths
+Vandals
+Huns
+Attila
+Alaric
+Gaiseric
+Roman Empire
+Pax Romana
+Decline and fall of the Roman Empire
+Barbarian kingdoms
+Carolingian Empire
+Charlemagne
+Feudal system
+Holy Roman Empire
+Ottoman Empire
+Osman I
+Mehmed II
+Suleiman the Magnificent
+Grand Vizier
+Janissary
+Sipahi
+Millet (Ottoman system)
+Devshirme
+Mongol Empire
+Genghis Khan
+Kublai Khan
+Yuan Dynasty
+Golden Horde
+Chagatai Khanate
+Ilkhanate
+Great Khan
+Pax Mongolica
+Silk Road
+Marco Polo
+Khanbaliq
+British Empire
+Victoria
+George III
+George V
+Edward VII
+Edward VIII
+George VI
+Elizabeth II
+Queen's English
+Rule Britannia
+Dominion
+Raj
+Viceroy
+East India Company
+British Raj
+Jewel in the Crown
+Partition of India
+Colonial America
+Thirteen Colonies
+Jamestown
+Plymouth
+Massachusetts Bay Company
+William Penn
+Pennsylvania
+Charles II
+George III
+Salutary neglect
+Stamp Act
+Boston Tea Party
+Continental Congress
+Minutemen
+Sons of Liberty
+Native Americans
+Indigenous peoples
+American Indian
+Native American
+Indian Reservation
+Indian Removal Act
+Trail of Tears
+Wounded Knee
+Battle of Little Bighorn
+Custer's Last Stand
+Sitting Bull
+Geronimo
+Pocahontas
+Tecumseh
+Chief Joseph
+Sacagawea
+Exploration
+Age of Discovery
+Christopher Columbus
+Vasco da Gama
+Ferdinand Magellan
+John Cabot
+Henry Hudson
+Bartolomeu Dias
+Columbian Exchange
+Transatlantic slave trade
+Middle Passage
+Slave ship
+Plantation economy
+Caribbean
+Sugar
+Tobacco
+Cotton
+Indigo
+Slavery in the United States
+Imperialism
+Colonialism
+Decolonization
+Scramble for Africa
+Berlin Conference
+Spheres of influence
+Unequal treaty
+Open Door Policy
+White Man's Burden
+Rudyard Kipling
+Arab-Israeli conflict
+Palestine
+Israel
+Zionism
+Palestinian people
+West Bank
+Gaza Strip
+Golan Heights
+Jerusalem
+Arab-Israeli Wars
+Six-Day War
+Yom Kippur War
+War of Independence (Israel)
+First Intifada
+Second Intifada
+Israeli settlement
+Israeli-Palestinian conflict
+Palestinian Authority
+Hamas
+Fatah
+Hezbollah
+Camp David Accords
+Oslo Accords
+Two-state solution
+Israeli security barrier
+Partition of India
+British Raj
+Mahatma Gandhi
+Jawaharlal Nehru
+Muhammad Ali Jinnah
+Mountbatten Plan
+India
+Pakistan
+Bangladesh
+East Pakistan
+Partition violence
+Hindu-Muslim riots
+Japanese Empire
+Meiji Restoration
+Emperor Meiji
+Taisho
+Showa
+Empire of Japan
+Imperial Japanese Navy
+Japanese militarism
+Bushido
+Samurai
+Shogun
+Daimyo
+Seppuku
+Ronin
+Fascism
+Benito Mussolini
+Squadrismo
+Black Shirts
+Italians
+Dictatorship
+Police state
+Totalitarianism
+Propaganda
+Censorship
+Book burning
+Hitler Youth
+Democracy
+Democratic Party
+Republican Party
+Congress
+Senate
+House of Representatives
+President
+Vice President
+Judicial Branch
+Executive Branch
+Legislative Branch
+Separation of powers
+Checks and balances
+Veto
+Pocket veto
+Override
+Monarchy
+Absolute monarchy
+Constitutional monarchy
+Parliamentary monarchy
+Hereditary
+Succession
+Divine right
+King
+Queen
+Prince
+Princess
+Crown Prince
+Heir apparent
+Abdication
+Coronation
+Coronation ceremony
+Royal household
+Palace
+Buckingham Palace
+Windsor Castle
+Sandringham House
+Balmoral Castle
+Kensington Palace
+St James's Palace
+Feudalism
+Feudal lord
+Peasant
+Serf
+Vassal
+Liege
+Fief
+Fealty
+Homage
+Primogeniture
+Entail
+Abstraction (film)
+Civilization
+Culture
+Subculture
+Counterculture
+Pop culture
+Western culture
+Eastern culture
+Eastern philosophy
+Western philosophy
+Language
+Natural language
+Constructed language
+Artificial language
+Programming language
+Lingua franca
+Writing system
+Alphabet
+Abjad
+Abugida
+Syllabary
+Logogram
+Hieroglyph
+Cuneiform
+Pictograph
+Ideogram
+Phoneme
+Morpheme
+Syntax
+Grammar
+Phonology
+Semantics
+Pragmatics
+Rhetoric
+Linguistics
+Semiotics
+Religion
+Christianity
+Islam
+Judaism
+Hinduism
+Buddhism
+Sikhism
+Jainism
+Zoroastrianism
+Taoism
+Shintoism
+Confucianism
+Atheism
+Agnosticism
+Deism
+Pantheism
+Panentheism
+Theism
+Monotheism
+Polytheism
+Henotheism
+Syncretism
+Animism
+Totemism
+Shamanism
+Mysticism
+Mythology
+Folk religion
+Civil religion
+State religion
+Religious pluralism
+Religious tolerance
+Religious persecution
+Religious discrimination
+Religious freedom
+Proselytism
+Missionary
+Fundamentalism
+Liberal Christianity
+Progressive Christianity
+Evangelical Christianity
+Pentecostalism
+Charismatic Christianity
+Orthodox Christianity
+Catholic Church
+Roman Catholicism
+Eastern Orthodoxy
+Protestantism
+Lutheran Church
+Reformed Church
+Presbyterian Church
+Baptist Church
+Methodist Church
+Pentecostal Church
+Holiness movement
+Adventist Church
+Jehovah's Witnesses
+Mormon Church
+Latter-Day Saints
+Unitarianism
+Quaker
+Salvation Army
+Christian Science
+Unity Church
+Unitarian Universalism
+Theosophical Society
+New Thought
+New Age movement
+Wicca
+Paganism
+Neopaganism
+Reconstructionism
+Heathenry
+Druidry
+Buddhism
+Theravada
+Mahayana
+Vajrayana
+Tibetan Buddhism
+Pure Land Buddhism
+Zen Buddhism
+Nichiren Buddhism
+Soka Gakkai
+Islam
+Sunni Islam
+Shia Islam
+Sufi Islam
+Salafism
+Wahhabism
+Sufism
+Mystic Islam
+Islamic law
+Sharia
+Fiqh
+Ijma
+Qiyas
+Madhab
+Hanafi
+Maliki
+Shafi'i
+Hanbali
+Twelver Shia
+Ismaili Shia
+Zaidi Shia
+Hinduism
+Advaita Vedanta
+Dvaita Vedanta
+Vishishtadvaita
+Bhakti movement
+Karma yoga
+Bhakti yoga
+Jnana yoga
+Raja yoga
+Vedas
+Upanishads
+Brahmanas
+Aranyakas
+Rigveda
+Yajurveda
+Samaveda
+Atharvaveda
+Brahman
+Atman
+Brahmin
+Kshatriya
+Vaishya
+Shudra
+Caste system
+Karma
+Dharma
+Artha
+Kama
+Moksha
+Samsara
+Nirvana
+Reincarnation
+Avatar
+Vishnu
+Shiva
+Brahma
+Devi
+Shakti
+Saraswati
+Lakshmi
+Parvati
+Durga
+Kali
+Hanuman
+Ganesha
+Murugan
+Krishna
+Rama
+Buddha
+Sita
+Judaism
+Torah
+Tanakh
+Talmud
+Mishnah
+Gemara
+Halakha
+Rabbinical Judaism
+Orthodox Judaism
+Conservative Judaism
+Reform Judaism
+Reconstructionist Judaism
+Kabbalah
+Mysticism
+Hasidic Judaism
+Mitnagdim
+Zionism
+Jewish history
+Jewish diaspora
+Ashkenazi Jews
+Sephardic Jews
+Mizrahi Jews
+Sabbath
+Kashrut
+Bar mitzvah
+Bat mitzvah
+Rabbi
+Cantor
+Hazzan
+Synagogue
+Temple
+Yeshiva
+Taoism
+Tao Te Ching
+Zhuangzi
+Daodejing
+Yin-yang
+Chi
+Wu wei
+Taiji
+Taoism (religion)
+Taoism (philosophy)
+Daoism
+Religious Taoism
+Philosophical Taoism
+Immortals
+Alchemy
+Internal alchemy
+External alchemy
+Neidan
+Waidan
+Shintoism
+Kami
+Shinto shrine
+Torii
+Ofuda
+Omamori
+Shinto festival
+Matsuri
+Gion Matsuri
+Kanda Matsuri
+Jidai Matsuri
+Aoi Matsuri
+Confucianism
+Confucius
+Mencius
+Xunzi
+Analects
+Five Relationships
+Filial piety
+Respect for elders
+Li (ritual)
+Ren
+Yi
+Zhi
+Xiao
+Confucian ethics
+Neo-Confucianism
+State Confucianism
+Confucian socialism
+Atheism
+Agnosticism
+Skepticism
+Materialism
+Scientism
+Humanism
+Secular humanism
+Freethought
+Rationalism
+Empiricism
+Positivism
+Logical positivism
+Falsifiability
+God
+Allah
+Jesus
+Muhammad
+Buddha
+Krishna
+Brahman
+Ahura Mazda
+Jehovah
+Yahweh
+Elohim
+El
+Shalom
+Prophet
+Messiah
+Incarnation
+Trinity
+Christology
+Pneumatology
+Angelology
+Demonology
+Theology
+Theodicy
+Theism
+Deism
+Agnosticism
+Atheism
+Gnosticism
+Arianism
+Nestorianism
+Monophysitism
+Iconoclasm
+Iconodulia
+Scripture
+Bible
+Hebrew Bible
+Old Testament
+New Testament
+Septuagint
+Vulgate
+King James Version
+Douay-Rheims
+Protestant Bible
+Catholic Bible
+Orthodox Bible
+Quran
+Hadith
+Sunnah
+Sirah
+Tafsir
+Torah
+Tanakh
+Talmud
+Mishnah
+Gemara
+Vedas
+Upanishads
+Brahmanas
+Aranyakas
+Sutras
+Shastras
+Itihasas
+Ramayana
+Mahabharata
+Bhagavad Gita
+Puranas
+Tripitaka
+Suttas
+Vinaya
+Abhidhamma
+Mahayana Canon
+Pali Canon
+Buddhist texts
+Doctrine
+Dogma
+Canon
+Creed
+Apostles' Creed
+Nicene Creed
+Athanasian Creed
+Canons of the Ecumenical Councils
+Thirty-Nine Articles
+Westminster Confession
+Heidelberg Catechism
+Catechism of the Catholic Church
+Prayer
+Prayer
+Liturgy
+Worship
+Devotion
+Meditation
+Contemplation
+Mantra
+Sutra
+Dhikr
+Litany
+Psalms
+Hymn
+Hymnal
+Spiritual
+Gospel music
+Sacred music
+Pilgrimage
+Mecca
+Medina
+Jerusalem
+Varanasi
+Bodh Gaya
+Mount Kailash
+Santiago de Compostela
+Rome
+Knock
+Fatima
+Lourdes
+Ritual
+Rite
+Ceremony
+Sacrament
+Sacramental
+Sacramentary
+Liturgy
+Divine Liturgy
+Mass
+Eucharist
+Communion
+Breaking of bread
+Holy Communion
+Transubstantiation
+Consubstantiation
+Pneumatic presence
+Consignatory view
+Baptism
+Chrismation
+Confirmation
+Penance
+Confession
+Reconciliation
+Absolution
+Extreme unction
+Anointing of the sick
+Last rites
+Viaticum
+Holy orders
+Ordination
+Priest
+Bishop
+Deacon
+Subdeacon
+Acolyte
+Exorcist
+Reader
+Matrimony
+Wedding
+Marriage
+Bride
+Groom
+Vow
+Dowry
+Bridesmaid
+Best man
+Groomsman
+Wedding dress
+Wedding cake
+Honeymoon
+Initiation rite
+Circumcision
+Brit milah
+Mohel
+Quinceañera
+Debutante
+Coming of age ceremony
+Vision quest
+Sweat lodge
+Bar mitzvah
+Bat mitzvah
+Passage rites
+Rite of passage
+Coming of age
+Initiation
+Puberty rite
+Death rite
+Funeral
+Cremation
+Burial
+Entombment
+Mausoleum
+Tomb
+Crypt
+Necropolis
+Catacomb
+Ossuarium
+Columbarium
+Memorial
+Monument
+Cenotaph
+Epitaph
+Gravestone
+Headstone
+Tombstone
+Casket
+Coffin
+Urn
+Pall
+Pallbearer
+Mortician
+Funeral director
+Embalmer
+Coroner
+Autopsy
+Wailing wall
+Sitting shiva
+Kaddish
+Requiem
+Mass for the dead
+De profundis
+Temple
+Mosque
+Church
+Synagogue
+Pagoda
+Monastery
+Abbey
+Convent
+Priory
+Hermitage
+Sanctuary
+Vestry
+Sacristy
+Sanctuary lamp
+Altar
+Reredos
+Altarpiece
+Tabernacle
+Monstrance
+Ciborium
+Chalice
+Paten
+Vessels
+Chasuble
+Alb
+Vestments
+Mitre
+Crosier
+Pallium
+Dalmatic
+Cassock
+Surplice
+Scapular
+Habit
+Monastic habit
+Tonsure
+Cowl
+Habit (religious)
+Monastic robe
+Turban
+Tallit
+Tefillin
+Kippah
+Yarmulke
+Zucchetto
+Biretta
+Skull cap
+Headcovering
+Veil
+Hijab
+Chador
+Niqab
+Burka
+Abaya
+Djellaba
+Jellabiya
+Gandura
+Dishdasha
+Thobe
+Kandura
+Agal
+Ghutra
+Tarboosh
+Fez
+Tarbush
+Karakul
+Papakha
+Papaha
+Budenovka
+Ushanka
+Astrakhan hat
+Shapka
+Kubanka
+Helmet
+Armor
+Plate armor
+Chain mail
+Brigandine
+Leather armor
+Gambeson
+Padded armor
+Helm
+Gorget
+Breastplate
+Cuirass
+Pauldron
+Vambrace
+Gauntlet
+Fauld
+Cuisse
+Poleyn
+Greave
+Sabaton
+Shield
+Heraldry
+Coat of arms
+Escutcheon
+Dexter
+Sinister
+Chief
+Fess
+Pale
+Chevron
+Cross
+Saltire
+Gyron
+Lozenge
+Fleur de lis
+Lion
+Eagle
+Rampant
+Passant
+Sejant
+Volant
+Naissant
+Attired
+Langued
+Crowned
+Gorged
+Masoned
+Barry
+Bendy
+Paly
+Quarterly
+Lozengy
+Fretty
+Checky
+Vairy
+Potenty
+Semé
+Crusilly
+Billetty
+Bezantée
+Plate
+Torteau
+Mullet
+Annulet
+Roundel
+Fountain
+Pomme
+Orange
+Golpe
+Hurt
+Pellet
+Ogress
+Gutte
+Billets
+Bezants
+Plates
+Torteaux
+Tournay
+Tour
+Tournel
+Tortil
+Wreath
+Torse
+Demi-deli
+Ermine
+Ermines
+Erminois
+Pean
+Potent
+Potent counter potent
+Papelonny
+Rayonny
+Indented
+Engrailed
+Invected
+Embattled
+Bretessed
+Dovetailed
+Grady
+Nebuly
+Wavy
+Dauncettee
+Angled
+Raguly
+Dancetty
+Art
+Painting
+Sculpture
+Drawing
+Photography
+Digital art
+Installation art
+Performance art
+Conceptual art
+Kinetic art
+Light art
+Sound art
+Ephemeral art
+Environmental art
+Land art
+Earthwork
+Body art
+Happening
+Fluxus
+Video art
+New media art
+Illustration
+Fine art
+Applied art
+Decorative art
+Design
+Graphic design
+Product design
+Fashion design
+Interior design
+Landscape design
+Architectural design
+Web design
+Game design
+Information design
+Set design
+Costume design
+Jewelry design
+Textile design
+Ceramic design
+Glass design
+Furniture design
+Industrial design
+Mechanical design
+Civil design
+Electrical design
+Architecture
+Building
+House
+Apartment
+Condominium
+Townhouse
+Mansion
+Castle
+Palace
+Fortress
+Fort
+Citadel
+Garrison
+Tower
+Lighthouse
+Bridge
+Tunnel
+Aqueduct
+Dam
+Canal
+Highway
+Skyscraper
+Skyscraper
+High-rise building
+Office building
+Commercial building
+Residential building
+Mixed-use development
+Shopping mall
+Market
+Bazaar
+Marketplace
+Fair
+Convention center
+Amphitheater
+Coliseum
+Stadium
+Arena
+Sports complex
+Gymnasium
+Bath house
+Sauna
+Swimming pool
+Theater
+Opera house
+Concert hall
+Auditorium
+Cinema
+Movie theater
+Playhouse
+Nightclub
+Dance club
+Disco
+Bar
+Pub
+Tavern
+Restaurant
+Café
+Coffee house
+Tea house
+Bakery
+Butcher shop
+Grocery store
+Supermarket
+Department store
+Hardware store
+Pharmacy
+Bookstore
+Library
+Museum
+Gallery
+Zoo
+Aquarium
+Botanical garden
+Arboretum
+Park
+Garden
+Hedge maze
+Topiary
+Fountain
+Waterfall
+Pond
+Canal
+River
+Stream
+Waterway
+Dock
+Wharf
+Harbor
+Port
+Marina
+Berth
+Slip
+Lock (canal)
+Dam
+Reservoir
+Lake
+Lagoon
+Salt lake
+Crater lake
+Glacier
+Iceberg
+Snowfield
+Permafrost
+Tundra
+Polar desert
+Steppe
+Prairie
+Grassland
+Savanna
+Desert
+Oasis
+Wadi
+Arroyo
+Dry lake
+Salt flat
+Badlands
+Hoodoo
+Natural arch
+Arch
+Balanced rock
+Hoodoo
+Spire
+Pinnacle
+Chimney
+Geyser
+Hot spring
+Mud pot
+Fumarole
+Solfatara
+Boiling spring
+Geothermal field
+Volcano
+Volcanic cone
+Cinder cone
+Composite volcano
+Shield volcano
+Caldera
+Crater
+Lava dome
+Lava field
+Lava tube
+Lava cave
+Lava flow
+Lava fountains
+Lava lake
+Pyroclastic flow
+Pyroclastic surge
+Lahars
+Volcanic ash
+Ash fall
+Tephra
+Pumice
+Scoria
+Obsidian
+Basalt
+Andesite
+Dacite
+Rhyolite
+Tuff
+Ignimbrite
+Welded tuff
+Unwelded tuff
+Ash-flow tuff
+Fall deposit
+Base surge deposit
+Surge deposit
+Lahar deposit
+Debris avalanche deposit
+Debris flow deposit
+Mudflow deposit
+Lava delta
+Volcanic delta
+Marine delta
+Fluvial delta
+Aeolian delta
+Alluvial fan
+Bajada
+Debris cone
+Talus
+Scree
+Dune
+Sand dune
+Barchan
+Star dune
+Transverse dune
+Longitudinal dune
+Parabolic dune
+Dome dune
+Wind-swept bedrock
+Ventifact
+Desert pavement
+Desert varnish
+Caliche
+Hardpan
+Duripan
+Fragipan
+Petrocalcic horizon
+Petrogypsic horizon
+Petroplinthic horizon
+Calcrete
+Laterite
+Pisolite
+Bauxite
+Bog iron ore
+Iron oxide
+Hematite
+Magnetite
+Limonite
+Goethite
+Lepidocrocite
+Akaganeite
+Schwertmannite
+Variscite
+Strengite
+Vivianite
+Wavellite
+Crandallite
+Plumbogummite
+Monazite
+Xenotime
+Allanite
+Titanite
+Perovskite
+Ilmenite
+Rutile
+Anatase
+Brookite
+Leucoxene
+Transition metal oxides
+Spinel
+Magnetite
+Chromite
+Hercynite
+Gahnite
+Franklinite
+Iron-titanium oxides
+Ilmenite
+Ulvöspinel
+Magnetite
+Hematite
+Corundum
+Aluminum oxide
+Bauxite
+Gibbsite
+Boehmite
+Diaspore
+Feldspar
+Orthoclase
+Albite
+Anorthite
+Plagioclase
+Microcline
+Sanidine
+Anorthoclase
+Moonstone
+Labradorite
+Sunstone
+Amazonite
+Perthite
+Cryptoperthite
+Microperthite
+Mica
+Muscovite
+Biotite
+Phlogopite
+Lepidolite
+Polylithionite
+Zinnwaldite
+Glauconite
+Illite
+Talc
+Pyrophyllite
+Chlorite
+Serpentine
+Asbestos
+Actinolite
+Tremolite
+Cummingtonite
+Grunerite
+Riebeckite
+Amosite
+Chrysotile
+Crocidolite
+Anthophyllite
+Zeolite
+Analcime
+Chabazite
+Clinoptilolite
+Heulandite
+Laumontite
+Mordenite
+Natrolite
+Phillipsite
+Stilbite
+Thomsonite
+Scapolite
+Feldspathoid
+Leucite
+Nepheline
+Sodalite
+Nosean
+Hauynite
+Lazurite
+Tourmaline
+Tourmaline group
+Quartz
+Chalcedony
+Agate
+Onyx
+Carnelian
+Sardius
+Jasper
+Flint
+Chert
+Opal
+Opal varieties
+Precious opal
+Fire opal
+Common opal
+Silica
+Silicon dioxide
+Quartz
+Cristobalite
+Tridymite
+Coesite
+Stishovite
+Lechatelierite
+Silica gel
+Silica glass
+Volcanic glass
+Obsidian
+Pumice
+Scoria
+Perlite
+Tuff
+Bentonite
+Fuller's earth
+Diatomaceous earth
+Carbonates
+Calcite
+Aragonite
+Dolomite
+Magnesite
+Siderite
+Rhodochrosite
+Smithsonite
+Cerussite
+Malachite
+Azurite
+Turquoise
+Phosphates
+Apatite
+Phosphorite
+Phosphate rock
+Guano
+Sulfates
+Gypsum
+Anhydrite
+Barite
+Celestite
+Glauberite
+Sulfides
+Pyrite
+Pyrrhotite
+Chalcopyrite
+Chalcocite
+Covellite
+Bornite
+Enargite
+Sphalerite
+Wurtzite
+Galena
+Cinnabar
+Stibnite
+Bismuthinite
+Molybdenite
+Arsenopyrite
+Halides
+Halite
+Sylvite
+Fluorite
+Cryolite
+Caliche
+Nitrates
+Salitre
+Nitratine
+Nitrasodite
+Organic minerals
+Oxalates
+Whewellite
+Weddellite
+Mellite
+Bastnäsite
+Monazite
+Apatite
+Tourmaline
+Epidote
+Garnet
+Olivine
+Pyroxene
+Amphibole
+Feldspar
+Mica
+Quartz
+Calcite
+Dolomite
+Gypsum
+Halite
+Magnetite
+Hematite
+Ilmenite
+Chromite
+Pyrite
+Chalcopyrite
+Sphalerite
+Galena
+Barite
+Fluorite
+Asbestos
+Talc
+Corundum
+Diamond
+Topaz
+Beryl
+Aquamarine
+Emerald
+Heliodor
+Morganite
+Bixbite
+Goethite
+Limonite
+Siderite
+Rutile
+Cassiterite
+Uraninite
+Pitchblende
+Thorite
+Monazite
+Xenotime
+Titanite
+Zircon
+Spinel
+Chrysoberyl
+Alexandrite
+Phrenakite
+Yttrium aluminum garnet
+Cubic zirconia
+Moissanite
+Strontium titanate
+Tanzanite
+Sphene
+Grandidierite
+Taaffeite
+Painite
+Jeremejevite
+Musgravite
+Benitoite
+Sunstone
+Labradorite
+Moonstone
+Aventurine
+Rose quartz
+Amethyst
+Citrine
+Smoky quartz
+Rutilated quartz
+Tiger's eye
+Tourmalinated quartz
+Strawberry quartz
+Blue quartz
+Milky quartz
+Clear quartz
+Rose quartz
+Aventurine
+Amazonite
+Turquoise
+Lapis lazuli
+Azurite
+Malachite
+Chrysocolla
+Variscite
+Turquoise
+Coral
+Pearl
+Mother of pearl
+Nacre
+Shell
+Conch
+Abalone
+Conk
+Fossil wood
+Amber
+Jet
+Lignite
+Peat
+Coal
+Anthracite
+Bituminous coal
+Subbituminous coal
+Lignite
+Peat
+Graphite
+Diamond
+Fullerene
+Graphene
+Carbon nanotube
+Buckminsterfullerene
+Graphite
+Graphene
+Graphene oxide
+Reduced graphene oxide
+Activated carbon
+Charcoal
+Biochar
+Carbon black
+Lampblack
+Bone black
+Cork
+Wood
+Bark
+Leaf
+Flower
+Fruit
+Seed
+Root
+Stem
+Twig
+Branch
+Trunk
+Heartwood
+Sapwood
+Cambium
+Phloem
+Xylem
+Pith
+Medullary ray
+Growth ring
+Annual ring
+Earlywood
+Latewood
+Softwood
+Hardwood
+Coniferous wood
+Deciduous wood
+Oak
+Maple
+Birch
+Ash
+Cherry
+Walnut
+Hickory
+Beech
+Elm
+Poplar
+Willow
+Pine
+Spruce
+Fir
+Hemlock
+Cedar
+Cypress
+Juniper
+Redwood
+Sequoia
+Yew
+Larch
+Tamarack
+Douglas fir
+Loblolly pine
+Longleaf pine
+Shortleaf pine
+Slash pine
+Pitch pine
+White pine
+Yellow pine
+Longleaf pine
+Slash pine
+Loblolly pine
+Shortleaf pine
+Pitch pine
+White pine
+Yellow pine
+Ponderosa pine
+Sugar pine
+Whitebark pine
+Limber pine
+Great Basin bristlecone pine
+Rocky Mountain bristlecone pine
+Foxtail pine
+Gregg's pine
+Mexican white pine
+Parry pine
+Pinyon pine
+Coulter pine
+Digger pine
+Gray pine
+Jeffery pine
+Knobcone pine
+Monterey pine
+Sand pine
+Torrey pine
+Torreyana pine
+Ocote pine
+Chihuahua pine
+Apache pine
+Durang pine
+Herrera pine
+Michoacana pine
+Pseudo pine
+Arizona pine
+Caribbean pine
+Honduran pine
+Ocote pine
+Torrey pine
+Torreyana pine
+Slash pine
+Loblolly pine
+Longleaf pine
+Shortleaf pine
+Pitch pine
+White pine
+Yellow pine
+Ponderosa pine
+Sugar pine
+Whitebark pine
+Limber pine
+Great Basin bristlecone pine
+Rocky Mountain bristlecone pine
+Foxtail pine
+Gregg's pine
+Mexican white pine
+Parry pine
+Pinyon pine
+Coulter pine
+Digger pine
+Gray pine
+Jeffery pine
+Knobcone pine
+Monterey pine
+Sand pine
+Torrey pine
+Torreyana pine
+Ocote pine
+Chihuahua pine
+Apache pine
+Durang pine
+Herrera pine
+Michoacana pine
+Pseudo pine
+Arizona pine
+Caribbean pine
+Honduran pine
+Slash pine
+Loblolly pine
+Longleaf pine
+Shortleaf pine
+Pitch pine
+White pine
+Yellow pine
+Ponderosa pine
+Sugar pine
+Whitebark pine
+Limber pine
+Great Basin bristlecone pine
+Rocky Mountain bristlecone pine
+Foxtail pine
+Gregg's pine
+Mexican white pine
+Parry pine
+Pinyon pine
+Coulter pine
+Digger pine
+Gray pine
+Jeffery pine
+Knobcone pine
+Monterey pine
+Sand pine
+Torrey pine
+Torreyana pine
+Ocote pine
+Chihuahua pine
+Apache pine
+Durang pine
+Herrera pine
+Michoacana pine
+Pseudo pine
+Arizona pine
+Caribbean pine
+Honduran pine
+Slash pine
+Loblolly pine
+Longleaf pine
+Shortleaf pine
+Pitch pine
+White pine
+Yellow pine
+Ponderosa pine
+Sugar pine
+Whitebark pine
+Limber pine
+Great Basin bristlecone pine
+Rocky Mountain bristlecone pine
+Foxtail pine
+Gregg's pine
+Mexican white pine
+Parry pine
+Pinyon pine
+Coulter pine
+Digger pine
+Gray pine
+Jeffery pine
+Knobcone pine
+Monterey pine
+Sand pine
+Torrey pine
+Torreyana pine
+Ocote pine
+Chihuahua pine
+Apache pine
+Durang pine
+Herrera pine
+Michoacana pine
+Pseudo pine
+Arizona pine
+Caribbean pine
+Honduran pine
+Education
+School
+Elementary school
+Middle school
+High school
+Secondary school
+Preparatory school
+Public school
+Private school
+Charter school
+Magnet school
+Virtual school
+Homeschool
+Distance learning
+University
+College
+Community college
+Junior college
+Technical college
+Four-year college
+Research university
+Land-grant university
+Ivy League
+Public university
+Private university
+International university
+Student
+Undergraduate
+Graduate student
+Master's student
+Doctoral student
+PhD student
+Postdoctoral fellow
+Researcher
+Scholar
+Scientist
+Professor
+Instructor
+Lecturer
+Teaching assistant
+Research assistant
+Tutor
+Curriculum
+Syllabus
+Lesson plan
+Course
+Elective
+Requirement
+Core curriculum
+General education
+Liberal arts education
+Classical education
+Waldorf education
+Montessori education
+Reggio Emilia
+Unschooling
+Homeschooling
+Online education
+Distance education
+Blended learning
+Flipped classroom
+Hybrid education
+Degree
+Bachelor's degree
+Associate degree
+Master's degree
+Specialist degree
+Doctorate
+PhD
+Doctor of Medicine
+Juris Doctor
+Professional degree
+Certificate
+Diploma
+Transcript
+Grade
+GPA
+Grading system
+Letter grade
+Pass/fail
+Numerical grade
+Percentile
+Scholarship
+Grant
+Loan
+Student loan
+Federally funded loan
+Private loan
+Parent PLUS loan
+Work-study
+Fellowship
+Assistantship
+Tutoring
+Private tutor
+Group tutoring
+Test preparation
+SAT
+ACT
+GRE
+GMAT
+LSAT
+MCAT
+Standardized test
+Aptitude test
+Achievement test
+Intelligence test
+IQ test
+Personality test
+Psychological test
+Educational psychology
+Cognitive development
+Learning theory
+Behaviorism
+Constructivism
+Social constructivism
+Situated learning
+Communities of practice
+Experiential learning
+Problem-based learning
+Project-based learning
+Inquiry-based learning
+Discovery learning
+Active learning
+Collaborative learning
+Cooperative learning
+Peer learning
+Reciprocal teaching
+Metacognition
+Learning style
+Visual learner
+Auditory learner
+Kinesthetic learner
+Reading/writing learner
+Multiple intelligences
+Emotional intelligence
+Creativity
+Critical thinking
+Problem-solving
+Decision-making
+Communication
+Presentation
+Public speaking
+Debate
+Discussion
+Socratic method
+Seminar
+Lab
+Practicum
+Internship
+Apprenticeship
+Vocational education
+Technical education
+Career and technical education
+Trades
+Plumbing
+Electrical work
+HVAC
+Carpentry
+Welding
+Automotive technology
+Cosmetology
+Culinary arts
+Hospitality
+Tourism
+Agriculture
+Forestry
+Mining
+Construction
+Manufacturing
+Transportation
+Communication
+Law
+Law school
+Legal education
+Juris Doctor
+Bar exam
+Lawyer
+Attorney
+Solicitor
+Barrister
+Judge
+Magistrate
+Prosecutor
+Defense attorney
+Legal system
+Court
+Supreme court
+Appellate court
+Trial court
+District court
+Small claims court
+Family court
+Juvenile court
+Probate court
+Criminal law
+Civil law
+Constitutional law
+Contract law
+Tort law
+Property law
+Intellectual property law
+Environmental law
+Labor law
+Employment law
+Administrative law
+Tax law
+International law
+Maritime law
+Military law
+Privacy law
+Data protection law
+Copyright law
+Patent law
+Trademark law
+Trade secret law
+Government
+Government
+Executive branch
+Legislative branch
+Judicial branch
+President
+Vice president
+Cabinet
+Secretary of state
+Secretary of treasury
+Secretary of defense
+Attorney general
+Congress
+Senate
+House of representatives
+Congressional district
+Senator
+Representative
+Congressman
+Congresswoman
+Committee
+Subcommittee
+Appropriations committee
+Ways and means committee
+Armed services committee
+Foreign affairs committee
+Judiciary committee
+Intelligence committee
+Homeland security committee
+Budget committee
+Rules committee
+Agriculture committee
+Education committee
+Energy and commerce committee
+Financial services committee
+Natural resources committee
+Science, space, and technology committee
+Transportation and infrastructure committee
+Veterans' affairs committee
+Voting rights committee
+Ranking member
+Majority leader
+Minority leader
+Whip
+Speaker of the house
+President pro tempore
+Filibuster
+Cloture
+Amendment
+Bill
+Law
+Statute
+Ordinance
+Regulation
+Rule
+Executive order
+Proclamation
+Veto
+Pocket veto
+Override
+Pocket veto
+Line-item veto
+Recess appointment
+Federal judge
+District judge
+Court of appeals judge
+Supreme court justice
+Chief justice
+Associate justice
+Confirmation hearing
+Judicial review
+Constitutional interpretation
+Originalism
+Living constitutionalism
+Strict constructionism
+Loose constructionism
+Textualism
+Purposivism
+Elections
+Electoral college
+Popular vote
+Swing state
+Purple state
+Red state
+Blue state
+Gerrymandering
+Voter registration
+Voter ID
+Voter turnout
+Voter suppression
+Voter intimidation
+Voter fraud
+Election security
+Campaign finance
+Political action committee
+Super PAC
+Soft money
+Hard money
+Contribution limit
+Spending limit
+Matching funds
+Public financing
+Campaigns
+Campaign strategy
+Campaign manager
+Campaign consultant
+Political consultant
+Political strategist
+Pollster
+Policy analyst
+Communications director
+Press secretary
+Spokesperson
+Party politics
+Political party
+Democratic Party
+Republican Party
+Third party
+Independent
+Swing voter
+Straight ticket
+Split ticket
+Crossover voting
+Voting bloc
+Interest group
+Lobby
+Lobbying
+Lobbyist
+Advocacy group
+Non-profit organization
+Non-governmental organization
+501(c)(3)
+Charity
+Foundation
+Think tank
+Policy institute
+Research organization
+Polling
+Opinion poll
+Poll
+Exit poll
+Push poll
+Straw poll
+Scientific poll
+Margin of error
+Sample size
+Population
+Confidence interval
+Bias
+Selection bias
+Response bias
+Sampling error
+Non-response error
+Policy
+Public policy
+Social policy
+Economic policy
+Fiscal policy
+Monetary policy
+Foreign policy
+Defense policy
+Military policy
+National security policy
+Homeland security policy
+Immigration policy
+Environmental policy
+Climate policy
+Healthcare policy
+Education policy
+Labor policy
+Welfare policy
+Social security policy
+Medicare policy
+Medicaid policy
+Affordable Care Act
+Veterans' benefits
+Public administration
+Civil service
+Government employee
+Federal employee
+State employee
+Local employee
+Municipal employee
+Civil servant
+Bureaucracy
+Bureaucrat
+Red tape
+Regulation
+Regulatory agency
+EPA
+FDA
+USDA
+DOE
+HHS
+DOT
+OSHA
+SEC
+FCC
+FTC
+CFTC
+FDIC
+OCC
+FRS
+CFPB
+CFPB
+DEA
+ATF
+ICE
+TSA
+Regulation
+Executive order
+Rule
+Notice
+Public comment
+Stakeholder engagement
+Environmental impact assessment
+Cost-benefit analysis
+Regulatory impact analysis
+Deregulation
+Regulatory capture
+Transportation
+Car
+Automobile
+Vehicle
+Motor vehicle
+Personal vehicle
+Passenger car
+Sedan
+Coupe
+Convertible
+Hatchback
+Station wagon
+Minivan
+SUV
+Crossover
+Truck
+Pickup truck
+Box truck
+Dump truck
+Tanker truck
+Semi truck
+Tractor-trailer
+Trailer
+Bus
+School bus
+City bus
+Tour bus
+Shuttle bus
+Minibus
+Coach
+Double-decker bus
+Trolleybus
+Taxi
+Taxicab
+Cab
+Uber
+Lyft
+Rideshare
+Limousine
+Stretch limousine
+Bicycle
+Bike
+Mountain bike
+Road bike
+Hybrid bike
+Cruiser
+BMX
+Tricycle
+Recumbent bicycle
+Cargo bicycle
+Motorcycle
+Dirt bike
+Cruiser motorcycle
+Sport bike
+Touring motorcycle
+Dual-sport motorcycle
+Adventure bike
+Scooter
+Moped
+ATV
+Quad
+All-terrain vehicle
+Snowmobile
+Personal watercraft
+Jet ski
+Hovercraft
+Public transportation
+Mass transit
+Bus rapid transit
+Commuter rail
+Light rail
+Streetcar
+Trolley
+Tram
+Monorail
+Automated people mover
+Cable car
+Funicular
+Gondola
+Elevator
+Escalator
+Moving walkway
+Train
+Passenger train
+Freight train
+Commuter train
+High-speed rail
+Maglev train
+Subway
+Metro
+Underground
+U-Bahn
+Métro
+Circle line
+Line
+Station
+Terminal
+Depot
+Yard
+Maintenance facility
+Signaling system
+Coupling
+Buffer
+Coupler
+Automatic coupler
+Airline
+Aircraft
+Airplane
+Jet
+Boeing
+Airbus
+Turboprop
+Regional jet
+Narrow-body aircraft
+Wide-body aircraft
+Jumbo jet
+Cargo aircraft
+Military aircraft
+Fighter jet
+Bomber
+Transport aircraft
+Helicopter
+Vertical takeoff and landing
+VTOL
+Drone
+Unmanned aerial vehicle
+UAV
+Rotorcraft
+Powered lift
+Airship
+Blimp
+Zeppelin
+Dirigible
+Balloon
+Hot air balloon
+Weather balloon
+Airport
+Runway
+Taxiway
+Apron
+Hangar
+Terminal building
+Gate
+Jet bridge
+Cargo terminal
+Maintenance facility
+Fuel facility
+Tower
+Control tower
+Radar
+Navigation
+ILS
+VASI
+PAPI
+Approach lights
+Runway lights
+Taxiway lights
+Runway markings
+Centerline
+Threshold markings
+Edge line
+Touchdown zone
+Aiming point
+Blast deflector
+Arresting gear
+Cable
+Barricade
+Crush pad
+Water barrier
+Ship
+Vessel
+Boat
+Sailboat
+Sailship
+Schooner
+Bark
+Barque
+Brig
+Brigantine
+Galleon
+Caravel
+Carrack
+Junk
+Sampan
+Dhow
+Felucca
+Kayak
+Canoe
+Catamaran
+Trimaran
+Pontoon
+Raft
+Inflatable boat
+Dinghy
+Tender
+Lifeboat
+Raft
+Rescue boat
+Speed boat
+Runabout
+Jet ski
+Personal watercraft
+Yacht
+Cabin cruiser
+Motor yacht
+Sailboat
+Catamaran sailboat
+Trimaran sailboat
+Fishing boat
+Trawler
+Seine boat
+Longliner
+Seiner
+Gillnetter
+Purse seiner
+Dredger
+Ore carrier
+Container ship
+Bulk carrier
+Tanker
+Oil tanker
+Chemical tanker
+LNG tanker
+Liquefied natural gas carrier
+Refrigerated cargo ship
+Reefer ship
+Breakbulk ship
+General cargo ship
+Ro-ro ship
+Roll-on/roll-off vessel
+Heavy-lift ship
+Project cargo ship
+Multipurpose ship
+Combination carrier
+Ore/bulk/oil ship
+Barge
+Flatbarge
+Hopper barge
+Deck barge
+Covered barge
+Spud barge
+Crane barge
+Derrick barge
+Gantry barge
+Pontoon barge
+Tugboat
+Towboat
+Icebreaker
+Pilot boat
+Supply vessel
+Anchor handling tug supply
+Platform supply vessel
+Multipurpose support vessel
+Crew transfer vessel
+Work boat
+Utility boat
+Fire-fighting vessel
+Police boat
+Coast guard boat
+Military vessel
+Warship
+Battleship
+Cruiser
+Destroyer
+Frigate
+Corvette
+Submarine
+Tanker
+Attack submarine
+Ballistic missile submarine
+Guided missile submarine
+Amphibious transport dock
+Assault ship
+Helicopter carrier
+Landing ship dock
+Landing ship medium
+Mine countermeasures ship
+Mine hunter
+Mine sweeper
+Oceanographic survey ship
+Surveillance ship
+Intelligence ship
+Hydrographic survey ship
+Seaplane tender
+Hospital ship
+Repair ship
+Fleet oiler
+Ammunition ship
+General supply ship
+Provisions ship
+Refrigerated stores ship
+Port facility
+Harbor
+Port
+Marina
+Dock
+Wharf
+Pier
+Jetty
+Quay
+Berth
+Slip
+Mooring buoy
+Channel
+Breakwater
+Seawall
+Revetment
+Bulkhead
+Dolphin
+Fender
+Bollard
+Capstan
+Winch
+Crane
+Gantry crane
+Container crane
+Ship loader
+Belt conveyor
+Ore conveyor
+Bucket conveyor
+Screw conveyor
+Pneumatic conveyor
+Tubular conveyor
+Apron conveyor
+Vibrating conveyor
+Bucket elevator
+Chain hoist
+Wire rope
+Pulley
+Sheave
+Block and tackle
+Rigging
+Cargo net
+Sling
+Chain sling
+Wire rope sling
+Web sling
+Shackle
+D-ring
+Eye bolt
+Pad eye
+Lifting lug
+Spreader beam
+Lifting beam
+Strongback
+Spreader bar
+Container cell guides
+Cargo hold
+Hatch cover
+Tweendecks
+Orlop deck
+Energy
+Fossil fuel
+Coal
+Anthracite coal
+Bituminous coal
+Subbituminous coal
+Lignite
+Peat
+Coke
+Charcoal
+Coal tar
+Coal gas
+Syngas
+Coal liquefaction
+Coal-to-liquids
+Coal-to-gas
+Coal-to-chemicals
+Coal mining
+Surface mining
+Deep mining
+Mountaintop removal
+Longwall mining
+Room and pillar mining
+Continuous mining
+Auger mining
+Highwall mining
+In-situ leaching
+Oil
+Petroleum
+Crude oil
+Light crude
+Heavy crude
+Sweet crude
+Sour crude
+Oil sands
+Tar sands
+Oil shale
+Shale oil
+Extra-heavy oil
+Bitumen
+Oil refining
+Fractional distillation
+Cracking
+Alkylation
+Polymerization
+Reforming
+Isomerization
+Merox process
+Sulfur removal
+Desulfurization
+Hydrodesulfurization
+Coking
+Visbreaking
+Hydrocracking
+Hydrotreating
+Catalytic reforming
+Catalytic cracking
+Petroleum product
+Gasoline
+Diesel
+Kerosene
+Fuel oil
+Jet fuel
+Liquefied petroleum gas
+LPG
+Propane
+Butane
+Natural gas
+Liquefied natural gas
+LNG
+Methane
+Ethane
+Propane
+Butane
+Pentane
+Hexane
+Heptane
+Octane
+Nonane
+Decane
+Natural gas processing
+Natural gas liquefaction
+Natural gas regasification
+Natural gas compression
+Natural gas storage
+Underground storage
+Aquifer storage
+Salt dome storage
+Depleted reservoir storage
+Pipeline
+Gas pipeline
+Oil pipeline
+Product pipeline
+Crude oil pipeline
+Multiproduct pipeline
+Trans-Alaska Pipeline
+Keystone Pipeline
+Northern Gateway Pipeline
+Gateway Pacific
+Energy East
+Trans Mountain
+Line 3
+Dakota Access Pipeline
+Natural gas pipeline
+Transcontinental Pipeline
+Permian Basin Pipeline
+Montrose Pipeline
+Pipelines in Europe
+Pipelines in Russia
+Nord Stream
+South Stream
+Blue Stream
+Nabucco Pipeline
+TAP
+Turkey Greece Italy Pipeline
+Energy
+Energy source
+Renewable energy
+Fossil fuel
+Nuclear energy
+Hydropower
+Geothermal energy
+Wind power
+Solar power
+Biomass
+Biofuel
+Ethanol
+Biodiesel
+Biogas
+Hydrogen fuel
+Fuel cell
+Energy conversion
+Energy transformation
+Energy conservation
+Energy efficiency
+Energy management
+Smart grid
+Demand response
+Load balancing
+Grid stability
+Frequency regulation
+Voltage regulation
+Power factor
+Harmonic distortion
+Power quality
+Outage
+Blackout
+Brownout
+Rolling blackout
+Load shedding
+Demand-side management
+Energy demand
+Peak demand
+Base load
+Intermediate load
+Reserve margin
+Capacity margin
+Reserve capacity
+Spinning reserve
+Non-spinning reserve
+Supplemental reserve
+Replacement reserve
+Renewable energy
+Wind power
+Wind farm
+Wind turbine
+Wind energy
+Capacity factor
+Capacity utilization
+Uptime
+Availability
+Reliability
+Turbine efficiency
+Rotor
+Hub
+Blade
+Nacelle
+Tower
+Foundation
+Electrical
+Generator
+Converter
+Transmission
+Distribution
+Substation
+Transformer
+Switchgear
+Circuit breaker
+Disconnect switch
+Load break switch
+Fused disconnect
+Recloser
+Sectionalizer
+Capacitor bank
+Reactor
+Series reactor
+Shunt reactor
+Series capacitor
+Shunt capacitor
+Synchronous condenser
+Static VAR compensator
+FACTS
+Flexible AC transmission system
+HVDC
+High-voltage direct current
+Inverter
+Rectifier
+Converter
+Power semiconductor
+Diode
+Thyristor
+GTO
+IGBT
+MOSFET
+Power electronics
+Power control
+Power factor correction
+Harmonic filtering
+Power distribution
+Utility
+Electric utility
+Investor-owned utility
+Municipal utility
+Cooperative utility
+Public utility
+Electric utility
+Generation company
+Genco
+Transmission company
+Transco
+Distribution company
+Disco
+Retailer
+Aggregator
+Marketer
+Broker
+Power marketer
+Load serving entity
+LSE
+Grid operator
+Independent system operator
+ISO
+Regional transmission organization
+RTO
+Transmission operator
+Distribution operator
+Meter operator
+Installation operator
+Market operator
+Power market
+Electricity market
+Wholesale market
+Spot market
+Day-ahead market
+Real-time market
+Ancillary services market
+Capacity market
+Energy market
+Balancing market
+Reserve market
+Futures market
+Forward market
+Options market
+Derivatives market
+Hedging
+Risk management
+Demand forecasting
+Load forecasting
+Wind forecasting
+Solar forecasting
+Price forecasting
+Consumption
+Electricity consumption
+Energy consumption
+Per capita consumption
+Industrial consumption
+Commercial consumption
+Residential consumption
+Agricultural consumption
+Transportation consumption
+Efficiency
+Energy efficiency
+ENERGY STAR
+Building envelope
+Insulation
+Windows
+Doors
+Weatherstripping
+Caulking
+Air sealing
+Thermal mass
+Passive solar design
+Solar orientation
+Window placement
+Building automation
+Building management system
+Smart thermostat
+Smart lighting
+Occupancy sensor
+Daylight harvesting
+Demand control ventilation
+Energy monitoring
+Smart meter
+Advanced metering infrastructure
+AMI
+Home energy management system
+HEMS
+Energy audits
+Blower door test
+Thermography
+Energy modeling
+HVAC
+Heating
+Cooling
+Ventilation
+Heat pump
+Ground source heat pump
+Air source heat pump
+Water source heat pump
+Central air conditioning
+Window air conditioner
+Portable air conditioner
+Heat recovery ventilator
+Energy recovery ventilator
+Exhaust fan
+Whole house fan
+Ceiling fan
+Air purifier
+Air filter
+MERV rating
+HEPA filter
+Electrostatic precipitator
+Ionizer
+Ozone generator
+Air cleaning
+Humidity control
+Humidifier
+Dehumidifier
+Hygrometer
+Thermostat
+Smart thermostat
+Programmable thermostat
+Manual thermostat
+Water heating
+Electric water heater
+Gas water heater
+Oil water heater
+Heat pump water heater
+Solar water heater
+Tankless water heater
+Condensing water heater
+Indirect water heater
+Point-of-use water heater
+Recirculation system
+Insulation
+Thermal resistance
+R-value
+K-value
+U-value
+Fiberglass insulation
+Mineral fiber insulation
+Cellulose insulation
+Foam insulation
+Expanded polystyrene
+Extruded polystyrene
+Polyurethane foam
+Polyisocyanurate foam
+Spray foam
+Rigid foam
+Loose fill insulation
+Batt insulation
+Roll insulation
+Blanket insulation
+Blown-in insulation
+Injectable insulation
+Radiant barriers
+Reflective insulation
+Reflective foil
+Multifoil insulation
+Sustainability
+Sustainable development
+Sustainable agriculture
+Sustainable forestry
+Sustainable fishing
+Sustainable water use
+Water conservation
+Water recycling
+Greywater
+Blackwater
+Water treatment
+Purification
+Desalination
+Reverse osmosis
+Distillation
+Adsorption
+Ion exchange
+UV disinfection
+Ozonation
+Chlorination
+Fluoridation
+Waste management
+Solid waste
+Municipal solid waste
+MSW
+Garbage
+Rubbish
+Refuse
+Trash
+Hazardous waste
+Radioactive waste
+Biomedical waste
+Electronic waste
+E-waste
+Construction waste
+Demolition waste
+Debris
+Industrial waste
+Agricultural waste
+Food waste
+Yard waste
+Recycling
+Composting
+Landfill
+Sanitary landfill
+Lined landfill
+Leachate
+Landfill gas
+Methane
+Carbon dioxide
+Landfill mining
+Incinerator
+Waste-to-energy
+Thermal treatment
+Pyrolysis
+Gasification
+Plasma gasification
+Incineration
+Energy recovery
+Ash
+Bottom ash
+Fly ash
+Slag
+Incinerator bottom ash
+IBA
+Air pollution control
+Fabric filter
+Bag filter
+Electrostatic precipitator
+Wet scrubber
+Dry scrubber
+Semi-dry scrubber
+Selective catalytic reduction
+SCR
+Selective non-catalytic reduction
+SNCR
+Flue gas desulfurization
+FGD
+Wet FGD
+Dry FGD
+Flue gas treatment
+Acid gas removal
+Particulate removal
+Mercury removal
+NOx removal
+SOx removal
+CO2 removal
+Wastewater treatment
+Drinking water treatment
+Wastewater treatment plant
+WWTP
+Primary treatment
+Secondary treatment
+Tertiary treatment
+Advanced treatment
+Physical treatment
+Chemical treatment
+Biological treatment
+Trickling filter
+Activated sludge
+Sequencing batch reactor
+SBR
+Moving bed biofilm reactor
+MBBR
+Membrane bioreactor
+MBR
+Oxidation ditch
+Extended aeration
+Contact stabilization
+Pure oxygen aeration
+Nutrient removal
+Nitrification
+Denitrification
+Phosphorus removal
+Disinfection
+Ultraviolet light
+UV disinfection
+Ozonation
+Chlorination
+Bromine chlorination
+Iodine disinfection
+Iodine tablets
+Sludge treatment
+Solids handling
+Dewatering
+Thickening
+Stabilization
+Anaerobic digestion
+Aerobic digestion
+Composting
+Thermal drying
+Belt drier
+Rotary drier
+Flash drier
+Incineration
+Alkaline stabilization
+Wet oxidation
+Supercritical water oxidation
+Soil amendment
+Biosolids
+Land application
+Land spreading
+Biosolids composting
+Biosolids incineration
+Biosolids disposal
+Landfilling
+Ocean dumping
+Pollution
+Water pollution
+Air pollution
+Soil pollution
+Light pollution
+Noise pollution
+Thermal pollution
+Radioactive pollution
+Chemical pollution
+Biological pollution
+Oil spill
+Chemical spill
+Runoff
+Nonpoint source pollution
+Point source pollution
+Diffuse pollution
+Atmospheric deposition
+Acid rain
+Acid precipitation
+Acid deposition
+Environmental remediation
+Remediation
+Cleanup
+Remedial action
+Remedial investigation
+Feasibility study
+RI/FS
+Record of decision
+ROD
+Remedial design
+RD
+Remedial action
+RA
+Removal action
+Time-critical removal action
+TCRA
+Non-time-critical removal action
+NTCRA
+Interim remedial action
+IRA
+Long-term remedial action
+LTRA
+Removal site evaluation
+RSE
+Baseline remedial action objective
+BRAO
+Final remedial action objective
+FRAO
+Site remediation
+Site assessment
+Phase I environmental site assessment
+ESA
+Phase II environmental site assessment
+Site characterization
+Soil sampling
+Groundwater sampling
+Air sampling
+Waste sampling
+Asbestos survey
+Lead survey
+PCB survey
+Mold survey
+Radon survey
+Sampling equipment
+Sampling method
+Analytical method
+Detection limit
+Quantitation limit
+Quality assurance
+Quality control
+Laboratory
+Certified laboratory
+Accredited laboratory
+Accreditation
+Accredited quality assurance
+AQA
+Corrective action
+Corrective action plan
+CAP
+Remedial action plan
+RAP
+Design specifications
+Remedial design specifications
+RDS
+Engineering specification
+Performance specification
+Design drawing
+Specifications
+Technical specification
+Construction drawing
+As-built drawing
+Operation and maintenance
+O&M
+Operations manual
+Maintenance manual
+Health and safety plan
+HASP
+Community relations plan
+CRP
+Administrative record
+Public notice
+Public hearing
+Public comment
+Environmental review
+Environmental impact assessment
+EIA
+Environmental impact statement
+EIS
+Supplemental environmental impact statement
+SEIS
+Environmental assessment
+EA
+Categorical exclusion
+CATEX
+Environmental justice
+Environmental racism
+Environmental equity
+Environmental justice index
+Vulnerable population
+Fenceline community
+Cancer risk
+Hazard quotient
+Hazard index
+Cumulative risk
+Chemical risk assessment
+Toxicology
+Toxicity
+Toxicokinetics
+Toxicodynamics
+ADME
+Absorption
+Distribution
+Metabolism
+Excretion
+Dose response
+Hazard
+Risk
+Hazard assessment
+Exposure assessment
+Risk characterization
+Uncertainty analysis
+Safety factor
+Margin of safety
+Acceptable risk
+Negligible risk
+De minimis risk
+Significance level
+Confidence level
+Hypothesis testing
+Statistical testing
+T-test
+Chi-square test
+ANOVA
+Regression analysis
+Correlation
+Causation
+Confounding
+Effect modification
+Interaction
+Epidemiology
+Epidemiological study
+Case-control study
+Cohort study
+Cross-sectional study
+Ecological study
+Exposure odds ratio
+Prevalence ratio
+Relative risk
+Risk ratio
+Hazard ratio
+Attributable risk
+Population attributable risk
+PAR
+Number needed to treat
+NNT
+Number needed to harm
+NNH
+Sensitivity
+Specificity
+Positive predictive value
+PPV
+Negative predictive value
+NPV
+Receiver operating characteristic
+ROC
+Area under curve
+AUC
+Meta-analysis
+Systematic review
+Cochrane review
+Evidence-based medicine
+Evidence-based environmental health
+Best available science

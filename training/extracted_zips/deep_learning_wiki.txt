@@ -1,0 +1,371 @@
+deep_learning: The first deep learning multilayer perceptron trained by stochastic gradient descent was published in 1967 by Shun'ichi Amari.
+deep_learning: The clock uses information from 1000 CpG sites and predicts people with certain conditions older than healthy controls: IBD, frontotemporal dementia, ovarian cancer, obesity.
+deep_learning: For example, the computations performed by deep learning units could be similar to those of actual neurons and neural populations.
+deep_learning: created a CNN called LeNet for recognizing handwritten ZIP codes on mail.
+deep_learning: In 2014, this principle was used in generative adversarial networks (GANs).
+deep_learning: This development has implications for the future of scientific discovery and the integration of AI in material science research, potentially expediting material innovation and reducing costs in product development.
+deep_learning: They also showed how max-pooling CNNs on GPU improved performance significantly.
+deep_learning: The CAP is the chain of transformations from input to output.
+deep_learning: Early examples included Google DeepDream (2015), and neural style transfer (2015), both of which were based on pretrained image classification neural networks, such as VGG-19.
+deep_learning: In 2011, a CNN named DanNet by Dan Ciresan, Ueli Meier, Jonathan Masci, Luca Maria Gambardella, and Jürgen Schmidhuber achieved for the first time superhuman performance in a visual pattern recognition contest, outperforming traditional methods by a factor of 3.
+deep_learning: Another group showed that printouts of doctored images then photographed successfully tricked an image classification system.
+deep_learning: For recurrent neural networks, in which a signal may propagate through a layer more than once, the CAP depth is potentially unlimited.
+deep_learning: The robot later practiced the task with the help of some coaching from the trainer, who provided feedback such as "good job" and "bad job".
+deep_learning: Such manipulation is termed an "adversarial attack".
+deep_learning: In 1986, David E.
+deep_learning: If so, how fast?
+deep_learning: Most speech recognition researchers moved away from neural nets to pursue generative modeling.
+deep_learning: In 2016, another group demonstrated that certain sounds could make the Google Now voice command system open a particular web address, and hypothesized that this could "serve as a stepping stone for further attacks (e.g., opening a web page hosting drive-by malware)".
+deep_learning: Artificial neural networks (ANNs) or connectionist systems are computing systems inspired by the biological neural networks that constitute animal brains.
+deep_learning: In the 1980s, backpropagation did not work well for deep learning with long credit assignment paths.
+deep_learning: In 1972, Shun'ichi Amari made this architecture adaptive.
+deep_learning: identifying the style period of a given painting
+Neural Style Transfer –  capturing the style of a given artwork and applying it in a visually pleasing manner to an arbitrary photograph or video
+generating striking imagery based on random visual input fields.
+deep_learning: For example, an attacker can make subtle changes to an image such that the ANN finds a match even though the image looks to a human nothing like the search target.
+deep_learning: These developmental theories were instantiated in computational models, making them predecessors of deep learning systems.
+deep_learning: If the network did not accurately recognize a particular pattern, an algorithm would adjust the weights.
+deep_learning: It then won more contests.
+deep_learning: Image generation by GAN reached popular success, and provoked discussions concerning deepfakes.
+deep_learning: In 1990, Wei Zhang implemented a CNN on optical computing hardware.
+deep_learning: Results on commonly used evaluation sets such as TIMIT (ASR) and MNIST (image classification), as well as a range of large-vocabulary speech recognition tasks have steadily improved.
+deep_learning: In medical informatics, deep learning was used to predict sleep quality based on data from wearables and predictions of health complications from electronic health record data.
+deep_learning: Many data points are collected during the request/serve/click internet advertising cycle.
+deep_learning: They could model high-dimensional probability distributions, such as the distribution of MNIST images, but convergence was slow.
+deep_learning: Subsequent developments in hardware and hyperparameter tunings have made end-to-end stochastic gradient descent the currently dominant training technique.
+deep_learning: A variety of approaches have been used to investigate the plausibility of deep learning models from a neurobiological perspective.
+deep_learning: Research has explored use of deep learning to predict the biomolecular targets, off-targets, and toxic effects of environmental chemicals in nutrients, household products and drugs.
+deep_learning: The debut of DNNs for speaker recognition in the late 1990s and speech recognition around 2009-2011 and of LSTM around 2003–2007, accelerated progress in eight major areas:
+deep_learning: For example, in an image recognition model, the raw input may be an image (represented as a tensor of pixels).
+deep_learning: Here the GAN generator is grown from small to large scale in a pyramidal fashion.
+deep_learning: Recent developments generalize word embedding to sentence embedding.
+deep_learning: In 1989, Yann LeCun et al.
+deep_learning: Another group showed that certain psychedelic spectacles could fool a facial recognition system into thinking ordinary people were celebrities, potentially allowing one person to impersonate another.
+deep_learning: To overcome this problem, in 1991, Jürgen Schmidhuber proposed a hierarchy of RNNs pre-trained one level at a time by self-supervised learning where each RNN tries to predict its own next input, which is the next unexpected input of the RNN below.
+deep_learning: In the deep learning approach, features are not hand-crafted and the model discovers useful feature representations from the data automatically.
+deep_learning: Various tricks, such as batching (computing the gradient on several training examples at once rather than individual examples) speed up computation.
+deep_learning: proposed an integrated photonic hardware accelerator for parallel convolutional processing.
+deep_learning: Excellent image quality is achieved by Nvidia's StyleGAN (2018) based on the Progressive GAN by Tero Karras et al.
+deep_learning: Sweeping through the parameter space for optimal parameters may not be feasible due to the cost in time and computational resources.
+deep_learning: Beyond that, more layers do not add to the function approximator ability of the network.
+deep_learning: A refinement is to search using only parts of the image, to identify images from which that piece may have been taken.
+deep_learning: Convolutional neural networks were superseded for ASR by LSTM.
+deep_learning: A comprehensive list of results on this set is available.
+deep_learning: Like the neocortex, neural networks employ a hierarchy of layered filters in which each layer considers information from a prior layer (or the operating environment), and then passes its output (and possibly the original input), to other layers.
+deep_learning: ResNet behaves like an open-gated Highway Net.
+deep_learning: The speaker recognition team led by Larry Heck reported significant success with deep neural networks in speech processing in the 1998 NIST Speaker Recognition benchmark.
+deep_learning: This can substantially facilitate downstream deep learning.
+deep_learning: His learning RNN was republished by John Hopfield in 1982.
+deep_learning: Stacking too many layers led to a steep reduction in training accuracy, known as the "degradation" problem.
+deep_learning: Consequently, they have similar properties and issues, and their developments had mutual influences.
+deep_learning: The impact of deep learning in industry began in the early 2000s, when CNNs already processed an estimated 10% to 20% of all the checks written in the US, according to Yann LeCun.
+deep_learning: CAPTCHAs for image recognition or click-tracking on Google search results pages), (3) exploitation of social motivations (e.g.
+deep_learning: Multi-view deep learning has been applied for learning user preferences from multiple domains.
+deep_learning: That analysis was done with comparable performance (less than 1.5% in error rate) between discriminative DNNs and generative models.
+deep_learning: In 1991, Jürgen Schmidhuber also published adversarial neural networks that contest with each other in the form of a zero-sum game, where one network's gain is the other network's loss.
+deep_learning: Funded by the US government's NSA and DARPA, SRI researched in speech and speaker recognition.
+deep_learning: Some early work dated back to 2004.
+deep_learning: Additional difficulties were the lack of training data and limited computing power.
+deep_learning: Block and B.
+deep_learning: DNN architectures generate compositional models where the object is expressed as a layered composition of primitives.
+deep_learning: These issues may possibly be addressed by deep learning architectures that internally form states homologous to image-grammar decompositions of observed entities and events.
+deep_learning: It is not always possible to compare the performance of multiple architectures, unless they have been evaluated on the same data sets.
+deep_learning: A 1995 description stated, "...the infant's brain seems to organize itself under the influence of waves of so-called trophic-factors ...
+deep_learning: It is able to  predict weather conditions for up to 10 days globally, at a very detailed level, and in under a minute, with precision similar to state of the art systems.
+deep_learning: tagging faces on Facebook to obtain labeled facial images), (4) information mining (e.g.
+deep_learning: The universal approximation theorem for deep neural networks concerns the capacity of networks with bounded width but the depth is allowed to grow.
+deep_learning: Prior to deep learning, machine learning techniques often involved hand-crafted feature engineering to transform the data into a more suitable representation for a classification algorithm to operate on.
+deep_learning: This ensures that the solutions not only fit the data but also adhere to the governing stochastic differential equations.
+deep_learning: Cerebras Systems has also built a dedicated system to handle large deep learning models, the CS-2, based on the largest processor in the industry, the second-generation Wafer Scale Engine (WSE-2).
+deep_learning: It was believed that pre-training DNNs using generative models of deep belief nets (DBN) would overcome the main difficulties of neural nets.
+deep_learning: CAP of depth two has been shown to be a universal approximator in the sense that it can emulate any function.
+deep_learning: Both shallow and deep learning (e.g., recurrent nets) of ANNs for speech recognition have been explored for many years.
+deep_learning: but are more successful in computer vision.
+deep_learning: These applications include learning methods such as "Shrinkage Fields for Effective Image Restoration" which trains on an image dataset, and Deep Image Prior, which trains on the image that needs restoration.
+deep_learning: Recurrent neural networks (RNN) were further developed in the 1980s.
+deep_learning: Deep models (CAP > two) are able to extract better features than shallow models and hence, extra layers help in learning the features effectively.
+deep_learning: The first working deep learning algorithm was the Group method of data handling, a method to train arbitrarily deep neural networks, published by Alexey Ivakhnenko and Lapa in 1965.
+deep_learning: OpenAI estimated the hardware computation used in the largest deep learning projects from AlexNet (2012) to AlphaZero (2017) and found a 300,000-fold increase in the amount of computation required, with a doubling-time trendline of 3.4 months.
+deep_learning: Despite this number being several order of magnitude less than the number of neurons on a human brain, these networks can perform many tasks at a level beyond that of humans (e.g., recognizing faces, or playing "Go").
+deep_learning: Around the same time, deep learning started impacting the field of art.
+deep_learning: This helps to exclude rare dependencies.
+deep_learning: Deep learning algorithms can be applied to unsupervised learning tasks.
+deep_learning: The rectifier has become the most popular activation function for deep learning.
+deep_learning: Finally, data can be augmented via methods such as cropping and rotating such that smaller training sets can be increased in size to reduce the chances of overfitting.
+deep_learning: It was deployed in the Nuance Verifier, representing the first major industrial application of deep learning.
+deep_learning: Google Translate uses a neural network to translate between more than 100 languages.
+deep_learning: By 2019, graphics processing units (GPUs), often with AI-specific enhancements, had displaced CPUs as the dominant method for training large-scale commercial cloud AI .
+deep_learning: Since the activation functions of the nodes are Kolmogorov-Gabor polynomials, these were also the first deep networks with multiplicative units or "gates".
+deep_learning: In 2017, Covariant.ai was launched, which focuses on integrating deep learning into factories.
+deep_learning: In the 1920s, Wilhelm Lenz and Ernst Ising created the Ising model which is essentially a non-learning RNN architecture consisting of neuron-like threshold elements.
+deep_learning: popularised backpropagation but did not cite the original work.
+deep_learning: Recurrence is used for sequence processing, and when a recurrent network is unrolled, it mathematically resembles a deep feedforward layer.
+deep_learning: Joseph (1960) "functionally equivalent to a variation of" this four-layer system (the book mentions Joseph over 30 times).
+deep_learning: Long short-term memory is particularly effective for this use.
+deep_learning: They reported up to 70 times faster training.
+deep_learning: However, those were more computationally expensive compared to backpropagation.
+deep_learning: Deep learning processors include neural processing units (NPUs) in Huawei cellphones and cloud computing servers such as tensor processing units (TPU) in the Google Cloud Platform.
+deep_learning: In 2020, AlphaFold, a deep-learning based system, achieved a level of accuracy significantly higher than all previous computational methods.
+deep_learning: Different layers may perform different kinds of transformations on their inputs.
+deep_learning: In practice, the probability distribution of Y is obtained by a Softmax layer with number of nodes that is equal to the alphabet size of Y.
+deep_learning: Large processing capabilities of many-core architectures (such as GPUs or the Intel Xeon Phi) have produced significant speedups in training, because of the suitability of such processing architectures for the matrix and vector computations.
+deep_learning: They are trained by training one restricted Boltzmann machine, then freezing it and training another one on top of the first one, and so on, then optionally fine-tuned using supervised backpropagation.
+deep_learning: On the one hand, several variants of the backpropagation algorithm have been proposed in order to increase its processing realism.
+deep_learning: Neurons may have state, generally represented by real numbers, typically between 0 and 1.
+deep_learning: This "neural history compressor" uses predictive coding  to learn internal representations at multiple self-organizing time scales.
+deep_learning: A main criticism concerns the lack of theory surrounding some methods.
+deep_learning: Should Joseph therefore be considered the originator of proper adaptive multilayer perceptrons with learning hidden units?
+deep_learning: Already in 1948, Alan Turing produced work on "Intelligent Machinery"  that was not published in his lifetime, containing "ideas related to artificial evolution and learning RNNs".
+deep_learning: Another example is Facial Dysmorphology Novel Analysis (FDNA) used to analyze cases of human malformation connected to a large database of genetic syndromes.
+deep_learning: It doesn't require learning rates or randomized initial weights.
+deep_learning: An ANN is based on a collection of connected units called artificial neurons, (analogous to biological neurons in a biological brain).
+deep_learning: LSTM with forget gates is competitive with traditional speech recognizers on certain tasks.
+deep_learning: The deep learning revolution started around CNN- and GPU-based computer vision.
+deep_learning: Alternatively, engineers may look for other types of neural networks with more straightforward and convergent training algorithms.
+deep_learning: In 1991, a CNN was applied to medical image object segmentation and breast cancer detection in mammograms.
+deep_learning: NJEE uses continuously differentiable activation functions, such that the conditions for the universal approximation theorem holds.
+deep_learning: In 2015 they demonstrated their AlphaGo system, which learned the game of Go well enough to beat a professional Go player.
+deep_learning: The terminology "back-propagating errors" was actually introduced in 1962 by Rosenblatt, but he did not know how to implement this, although Henry J.
+deep_learning: For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as "cat" or "no cat" and using the analytic results to identify cats in other images.
+deep_learning: Boltzmann machine learning algorithm, published in 1985, was briefly popular before being eclipsed by the backpropagation algorithm in 1986.
+deep_learning: The field takes inspiration from biological neuroscience and revolves around stacking artificial neurons into layers and "training" them to process data.
+deep_learning: Analysis around 2009–2010, contrasting the GMM (and other generative speech models) vs.
+deep_learning: Deep learning-based image recognition has become "superhuman", producing more accurate results than human contestants.
+deep_learning: The authors identify two key advantages of integrated photonics over its electronic counterparts: (1) massively parallel data transfer through wavelength division multiplexing in conjunction with frequency combs, and (2) extremely high data modulation speeds.
+deep_learning: Deep BSDE methods, however, employ deep neural networks to approximate solutions of high-dimensional partial differential equations (PDEs), effectively reducing the computational burden.
+deep_learning: The book cites an earlier network by R.
+deep_learning: In 2006, publications by Geoff Hinton, Ruslan Salakhutdinov, Osindero and Teh deep belief networks were developed for generative modeling.
+deep_learning: They regarded it as a form of polynomial regression, or a generalization of Rosenblatt's perceptron to handle more complex, nonlinear, and hierarchical relationships.
+deep_learning: Deep learning has been used to interpret large, many-dimensioned advertising datasets.
+deep_learning: The user can review the results and select which probabilities the network should display (above a certain threshold, etc.) and return the proposed label.
+deep_learning: Each mathematical manipulation as such is considered a layer, and complex DNN have many layers, hence the name "deep" networks.
+deep_learning: Other early recurrent neural networks were published by Kaoru Nakano in 1971.
+deep_learning: Neural networks have been used for implementing language models since the early 2000s.
+deep_learning: Although CNNs trained by backpropagation had been around for decades and GPU implementations of NNs for years, including CNNs, faster implementations of CNNs on GPUs were needed to progress on computer vision.
+deep_learning: AtomNet was used to predict novel candidate biomolecules for disease targets such as the Ebola virus and multiple sclerosis.
+deep_learning: Convolutional neural networks (CNNs) are used in computer vision.
+deep_learning: For a feedforward neural network, the depth of the CAPs is that of the network and is the number of hidden layers plus one (as the output layer is also parameterized).
+deep_learning: A 1971 paper described a deep network with eight layers trained by this method, which is based on layer by layer training through regression analysis.
+deep_learning: Frank Rosenblatt (1958) proposed the perceptron, an MLP with 3 layers: an input layer, a hidden layer with randomized weights that did not learn, and an output layer.
+deep_learning: The probabilistic interpretation was introduced by researchers including Hopfield, Widrow and Narendra and popularized in surveys such as the one by Bishop.
+deep_learning: In addition, the integration of Physics-informed neural networks (PINNs) into the deep BSDE framework enhances its capability by embedding the underlying physical laws directly into the neural network architecture.
+deep_learning: Other researchers have argued that unsupervised forms of deep learning, such as those based on hierarchical generative models and deep belief networks, may be closer to biological reality.
+deep_learning: Sepp Hochreiter's diploma thesis (1991) implemented the neural history compressor, and identified and analyzed the vanishing gradient problem.
+deep_learning: These were designed for unsupervised learning of deep generative models.
+deep_learning: Recurrent neural networks, in which data can flow in any direction, are used for applications such as language modeling.
+deep_learning: Word embedding, such as word2vec, can be thought of as a representational layer in a deep learning architecture that transforms an atomic word into a positional representation of the word relative to other words in the dataset; the position is represented as a point in a vector space.
+deep_learning: One defense is reverse image search, in which a possible fake image is submitted to a site such as TinEye that can then find other instances of it.
+deep_learning: Other key techniques in this field are negative sampling and word embedding.
+deep_learning: He later published a 1962 book that also introduced variants and computer experiments, including a version with four-layer perceptrons "with adaptive preterminal networks" where the last two layers have learned weights (here he credits H.
+deep_learning: Diffusion models (2015) eclipsed GANs in generative modeling since then, with systems such as DALL·E 2 (2022) and Stable Diffusion (2022).
+deep_learning: Practically, the DNN is trained as a classifier that maps an input vector or matrix X to an output probability distribution over the possible classes of random variable Y, given input X.
+deep_learning: A large percentage of candidate drugs fail to win regulatory approval.
+deep_learning: Google Translate (GT) uses a large end-to-end long short-term memory (LSTM) network.
+deep_learning: DNNs can model complex non-linear relationships.
+deep_learning: published experiments with a large-area active channel material for developing logic-in-memory devices and circuits based on floating-gate field-effect transistors (FGFETs).
+deep_learning: In 2009, Raina, Madhavan, and Andrew Ng reported a 100M deep belief network trained on 30 Nvidia GeForce GTX 280 GPUs, an early demonstration of GPU-based deep learning.
+deep_learning: by leveraging quantified-self devices such as activity trackers) and (5) clickwork.
+deep_learning: These failures are caused by insufficient efficacy (on-target effect), undesired interactions (off-target effects), or unanticipated toxic effects.
+deep_learning: An exception was at SRI International in the late 1990s.
+deep_learning: The "P" in ChatGPT refers to such pre-training.
+deep_learning: Learning in the most common deep architectures is implemented using well-understood gradient descent.
+deep_learning: For example, in image classification tasks, the NJEE maps a vector of pixels' color values to probabilities over possible image classes.
+deep_learning: This lets the strength of the acoustic modeling aspects of speech recognition be more easily analyzed.
+deep_learning: The classic universal approximation theorem concerns the capacity of feedforward neural networks with a single hidden layer of finite size to approximate continuous functions.
+deep_learning: In machine learning, deep learning (DL) focuses on utilizing multilayered neural networks to perform tasks such as classification, regression, and representation learning.
+deep_learning: The adjective "deep" refers to the use of multiple layers (ranging from three to several hundred or thousands) in the network.
+deep_learning: Google's DeepMind Technologies developed a system capable of learning how to play Atari video games using only pixels as data input.
+deep_learning: Using Deep TAMER, a robot learned a task with a human trainer, watching video streams or observing a human perform a task in-person.
+deep_learning: LSTM can learn "very deep learning" tasks with long credit assignment paths that require memories of events that happened thousands of discrete time steps before.
+deep_learning: They have found most use in applications difficult to express with a traditional computer algorithm using rule-based programming.
+deep_learning: Similarly, the representations developed by deep learning models are similar to those measured in the primate visual system both at the single-unit and at the population levels.
+deep_learning: In 1993, a neural history compressor solved a "Very Deep Learning" task that required more than 1000 subsequent layers in an RNN unfolded in time.
+deep_learning: (e.g., Does it converge?
+deep_learning: DNNs must consider many training parameters, such as the size (number of layers and number of units per layer), the learning rate, and initial weights.
+deep_learning: The receiving (postsynaptic) neuron can process the signal(s) and then signal downstream neurons connected to it.
+deep_learning: The modern form of backpropagation was first published in Seppo Linnainmaa's master thesis (1970).
+deep_learning: GraphCast is a deep learning based model, trained on a long history of weather data to predict how weather patterns change over time.
+deep_learning: In computer experiments conducted by Amari's student Saito, a five layer MLP with two modifiable layers learned  internal representations to classify non-linearily separable pattern classes.
+deep_learning: LSTM RNNs can learn "Very Deep Learning" tasks that involve multi-second intervals containing speech events separated by thousands of discrete time steps, where one time step corresponds to about 10 ms.
+deep_learning: different regions of the brain become connected sequentially, with one layer of tissue maturing before another and so on until the whole brain is mature".
+deep_learning: For instance, it was proved that sparse multivariate polynomials are exponentially easier to approximate with DNNs than with shallow networks.
+deep_learning: Deep learning-trained vehicles now interpret 360° camera views.
+deep_learning: A common evaluation set for image classification is the MNIST database data set.
+deep_learning: Backpropagation is an efficient application of the chain rule derived by Gottfried Wilhelm Leibniz in 1673 to networks of differentiable nodes.
+deep_learning: Kelley had a continuous precursor of backpropagation in 1960 in the context of control theory.
+deep_learning: All major commercial speech recognition systems (e.g., Microsoft Cortana, Xbox, Skype Translator, Amazon Alexa, Google Now, Apple Siri, Baidu and iFlyTek voice search, and a range of Nuance speech products, etc.) are based on deep learning.
+deep_learning: ANNs have been trained to defeat ANN-based anti-malware software by repeatedly attacking a defense with malware that was continually altered by a genetic algorithm until it tricked the anti-malware while retaining its ability to damage the target.
+deep_learning: Large-scale automatic speech recognition is the first and most convincing successful case of deep learning.
+deep_learning: Army Research Laboratory (ARL) and UT researchers.
+deep_learning: Modern deep learning tools demonstrate the high accuracy of detecting various diseases and the helpfulness of their use by specialists to improve the diagnosis efficiency.
+deep_learning: Deep learning architectures for convolutional neural networks (CNNs) with convolutional layers and downsampling layers began with the Neocognitron introduced by Kunihiko Fukushima in 1979, though not trained by backpropagation.
+deep_learning: Learning a grammar (visual or linguistic) from training data would be equivalent to restricting the system to commonsense reasoning that operates on concepts in terms of grammatical production rules and is a basic goal of both human language acquisition and artificial intelligence (AI).
+deep_learning: During 1985–1995, inspired by statistical mechanics, several architectures and methods were developed by Terry Sejnowski, Peter Dayan, Geoffrey Hinton, etc., including the Boltzmann machine, restricted Boltzmann machine, Helmholtz machine, and the wake-sleep algorithm.
+deep_learning: In 2014, the state of the art was training "very deep neural network" with 20 to 30 layers.
+deep_learning: In "data poisoning", false data is continually smuggled into a machine learning system's training set to prevent it from achieving mastery.
+deep_learning: GT uses English as an intermediate between most language pairs.
+deep_learning: In 2009, it became the first RNN to win a pattern recognition contest, in connected handwriting recognition.
+deep_learning: In 1969, Kunihiko Fukushima introduced the ReLU (rectified linear unit) activation function.
+deep_learning: LeNet-5 (1998), a 7-level CNN by Yann LeCun et al., that classifies digits, was applied by several banks to recognize hand-written numbers on checks  digitized in 32x32 pixel images.
+deep_learning: In 2019, generative neural networks were used to produce molecules that were validated experimentally all the way into mice.
+deep_learning: Training required 3 days.
+deep_learning: It used convolutions, weight sharing, and backpropagation.
+deep_learning: Neurons and synapses may also have a weight that varies as learning proceeds, which can increase or decrease the strength of the signal that it sends downstream.
+deep_learning: Two common issues are overfitting and computation time.
+deep_learning: Paul Werbos applied backpropagation to neural networks in 1982 (his 1974 PhD thesis, reprinted in a 1994 book, did not yet describe the algorithm).
+deep_learning: GNoME employs deep learning techniques to efficiently explore potential material structures, achieving a significant increase in the identification of stable inorganic crystal structures.
+deep_learning: No universally agreed-upon threshold of depth divides shallow learning from deep learning, but most researchers agree that deep learning involves CAP depth higher than two.
+deep_learning: Its small size lets many configurations be tried.
+deep_learning: Ostrovski et al.
+deep_learning: DNNs are typically feedforward networks in which data flows from the input layer to the output layer without looping back.
+deep_learning: One example is the reconstructing fluid flow governed by the Navier-Stokes equations.
+deep_learning: The system's predictions were validated through autonomous robotic experiments, demonstrating a noteworthy success rate of 71%.
+deep_learning: In 2003, LSTM became competitive with traditional speech recognizers on certain tasks.
+deep_learning: The second network learns by gradient descent to predict the reactions of the environment to these patterns.
+deep_learning: Deep neural networks have shown unparalleled performance in predicting protein structure, according to the sequence of the amino acids that make it up.
+deep_learning: However, current neural networks do not intend to model the brain function of organisms, and are generally seen as low-quality models for that purpose.
+deep_learning: The RNN hierarchy can be collapsed into a single RNN, by  distilling a higher level chunker network into a lower level automatizer network.
+deep_learning: In 2017 graph neural networks were used for the first time to predict various properties of molecules in a large toxicology data set.
+deep_learning: PINNs leverage the power of deep learning while respecting the constraints imposed by the physical models, resulting in more accurate and reliable solutions for financial mathematics problems.
+deep_learning: MNIST is composed of handwritten digits and includes 60,000 training examples and 10,000 test examples.
+deep_learning: Several works showed the better and superior performance of the deep learning methods compared to analytical methods for various applications, e.g., spectral imaging  and ultrasound imaging.
+deep_learning: It is shown that this method provides a strongly consistent estimator and outperforms other methods in cases of large alphabet sizes.
+deep_learning: In 2016 researchers used one ANN to doctor images in trial and error fashion, identify another's focal points, and thereby generate images that deceived it.
+deep_learning: The weights and inputs are multiplied and return an output between 0 and 1.
+deep_learning: The original goal of the neural network approach was to solve problems in the same way that a human brain would.
+deep_learning: Early forms of neural networks were inspired by information processing and distributed communication nodes in biological systems, particularly the human brain.
+deep_learning: In 2020, Marega et al.
+deep_learning: The network encodes the "semantics of the sentence rather than simply memorizing phrase-to-phrase translations".
+deep_learning: Google Neural Machine Translation (GNMT) uses an example-based machine translation method in which the system "learns from millions of examples".
+deep_learning: Superfluous hidden units are pruned using a separate validation set.
+deep_learning: Recursive auto-encoders built atop word embeddings can assess sentence similarity and detect paraphrasing.
+deep_learning: The initial success in speech recognition was based on small-scale recognition tasks based on TIMIT.
+deep_learning: The term deep learning was introduced to the machine learning community by Rina Dechter in 1986, and to artificial neural networks by Igor Aizenberg and colleagues in 2000, in the context of Boolean threshold neurons.
+deep_learning: The error rates listed below, including these early results and measured as percent phone error rates (PER), have been summarized since 1991.
+deep_learning: DNNs have proven themselves capable, for example, of
+deep_learning: An epigenetic clock is a biochemical test that can be used to measure age.
+deep_learning: Deep TAMER used deep learning to provide a robot with the ability to learn new tasks through observation.
+deep_learning: Another interesting recent development is research into models of just enough complexity through an estimation of the intrinsic complexity of the task being modelled.
+deep_learning: AtomNet is a deep learning system for structure-based rational drug design.
+deep_learning: The etymology of the term is more complicated.
+deep_learning: That way the algorithm can make certain parameters more influential, until it determines the correct mathematical manipulation to fully process the data.
+deep_learning: Each architecture has found success in specific domains.
+deep_learning: Deep learning helps to disentangle these abstractions and pick out which features improve performance.
+deep_learning: In 2010, researchers extended deep learning from TIMIT to large vocabulary speech recognition, by adopting large output layers of the DNN based on context-dependent HMM states constructed by decision trees.
+deep_learning: The modified images looked no different to human eyes.
+deep_learning: Over time, attention focused on matching specific mental abilities, leading to deviations from biology such as backpropagation, or passing information in the reverse direction and adjusting the network to reflect that information.
+deep_learning: LSTM helped to improve machine translation and language modeling.
+deep_learning: Recent work also showed that universal approximation also holds for non-bounded activation functions such as Kunihiko Fukushima's rectified linear unit.
+deep_learning: Deep architectures include many variants of a few basic approaches.
+deep_learning: Hochreiter proposed recurrent residual connections to solve the vanishing gradient problem.
+deep_learning: The philosopher Rainer Mühlhoff distinguishes five types of "machinic capture" of human microwork to generate training data: (1) gamification (the embedding of annotation or computation tasks in the flow of a game), (2) "trapping and tracking" (e.g.
+deep_learning: Deep learning architectures can be constructed with a greedy layer-by-layer method.
+deep_learning: Google Translate supports over one hundred languages.
+deep_learning: The probabilistic interpretation led to the introduction of dropout as regularizer in neural networks.
+deep_learning: proved that if the width of a deep neural network with ReLU activation is strictly larger than the input dimension, then the network can approximate any Lebesgue integrable function; if the width is smaller or equal to the input dimension, then a deep neural network is not a universal approximator.
+deep_learning: The probabilistic interpretation derives from the field of machine learning.
+deep_learning: More recent speech recognition models use Transformers or Temporal Convolution Networks with significant success and widespread applications.
+deep_learning: Galkin et al.
+deep_learning: A key advance for the deep learning revolution was hardware advances, especially GPU.
+deep_learning: Methods used can be supervised, semi-supervised or unsupervised.
+deep_learning: In RNN, two early influential works were the Jordan network (1986) and the Elman network (1990), which applied RNN to study problems in cognitive psychology.
+deep_learning: Importantly, a deep learning process can learn which features to optimally place at which level on its own.
+deep_learning: Such systems learn (progressively improve their ability) to do tasks by considering examples, generally without task-specific programming.
+deep_learning: The 2009 NIPS Workshop on Deep Learning for Speech Recognition was motivated by the limitations of deep generative models of speech, and the possibility that given more capable hardware and large-scale data sets that deep neural nets might become practical.
+deep_learning: DNNs are prone to overfitting because of the added layers of abstraction, which allow them to model rare dependencies in the training data.
+deep_learning: It features inference, as well as the optimization concepts of training and testing, related to fitting and generalization, respectively.
+deep_learning: In 1989, the first proof was published by George Cybenko for sigmoid activation functions and was generalised to feed-forward multi-layer architectures in 1991 by Kurt Hornik.
+deep_learning: used deep neural networks to train an epigenetic aging clock of unprecedented accuracy using >6,000 blood samples.
+deep_learning: This system has contributed to materials science by discovering over 2 million new materials within a relatively short timeframe.
+deep_learning: It has been argued that not only low-paid clickwork (such as on Amazon Mechanical Turk) is regularly deployed for this purpose, but also implicit forms of human microwork that are often not recognized as such.
+deep_learning: Unfortunately, the learning algorithm was not a functional one, and fell into oblivion.
+deep_learning: CMAC (cerebellar model articulation controller) is one such kind of neural network.
+deep_learning: This was called "artificial curiosity".
+deep_learning: The first representational layer may attempt to identify basic shapes such as lines and circles, the second layer may compose and encode arrangements of edges, the third layer may encode a nose and eyes, and the fourth layer may recognize that the image contains a face.
+deep_learning: The use of AI and deep learning suggests the possibility of minimizing or eliminating manual lab experiments and allowing scientists to focus more on the design and analysis of unique compounds.
+deep_learning: This does not eliminate the need for hand-tuning; for example, varying numbers of layers and layer sizes can provide different degrees of abstraction.
+deep_learning: In 2021, J.
+deep_learning: Fundamentally, deep learning refers to a class of machine learning algorithms in which a hierarchy of layers is used to transform input data into a progressively more abstract and composite representation.
+deep_learning: The raw features of speech, waveforms, later produced excellent larger-scale results.
+deep_learning: ANNs can however be further trained to detect attempts at deception, potentially leading attackers and defenders into an arms race similar to the kind that already defines the malware defense industry.
+deep_learning: That LSTM was not yet the modern architecture, which required a "forget gate", introduced in 1999, which became the standard RNN architecture.
+deep_learning: In 2017 researchers added stickers to stop signs and caused an ANN to misclassify them.
+deep_learning: Examples of deep structures that can be trained in an unsupervised manner are deep belief networks.
+deep_learning: The success in image classification was then extended to the more challenging task of generating descriptions (captions) for images, often as a combination of CNNs and LSTMs.
+deep_learning: The word "deep" in "deep learning" refers to the number of layers through which the data is transformed.
+deep_learning: Closely related to the progress that has been made in image recognition is the increasing application of deep learning techniques to various visual art tasks.
+deep_learning: Feldmann et al.
+deep_learning: Alternatively dropout regularization randomly omits units from the hidden layers during training.
+deep_learning: Yoshua Bengio, Geoffrey Hinton and Yann LeCun were awarded the 2018 Turing Award for "conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing".
+deep_learning: Specifically, traditional methods like finite difference methods or Monte Carlo simulations often struggle with the curse of dimensionality, where computational cost increases exponentially with the number of dimensions.
+deep_learning: An autoencoder ANN was used in bioinformatics, to predict gene ontology annotations and gene-function relationships.
+deep_learning: Rumelhart et al.
+deep_learning: Some common deep learning network architectures include fully connected networks, deep belief networks, recurrent neural networks, convolutional neural networks, generative adversarial networks, transformers, and neural radiance fields.
+deep_learning: It is evident that geometric and physical constraints have a synergistic effect on neural PDE surrogates, thereby enhancing their efficacy in predicting stable and super long rollouts.
+deep_learning: Industrial applications of deep learning to large-scale speech recognition started around 2010.
+deep_learning: By identifying patterns that these systems use to function, attackers can modify inputs to ANNs in such a way that the ANN finds a match that human observers would not recognize.
+deep_learning: Neural networks have been used on a variety of tasks, including computer vision, speech recognition, machine translation, social network filtering, playing board and video games and medical diagnosis.
+deep_learning: This is an important benefit because unlabeled data is more abundant than labeled data.
+deep_learning: There are different types of neural networks but they always consist of the same components: neurons, synapses, weights, biases, and functions.
+deep_learning: The data set contains 630 speakers from eight major dialects of American English, where each speaker reads 10 sentences.
+deep_learning: Generative adversarial network (GAN) by (Ian Goodfellow et al., 2014) (based on  Jürgen Schmidhuber's principle of artificial curiosity)
+became state of the art in generative modeling during 2014-2018 period.
+deep_learning: This led to the long short-term memory (LSTM), published in 1995.
+deep_learning: This process yields a self-organizing stack of transducers, well-tuned to their operating environment.
+deep_learning: Special electronic circuits called deep learning processors were designed to speed up deep learning algorithms.
+deep_learning: In 2012, Andrew Ng and Jeff Dean created an FNN that learned to recognize higher-level concepts, such as cats, only from watching unlabeled images taken from YouTube videos.
+deep_learning: A compositional vector grammar can be thought of as probabilistic context free grammar (PCFG) implemented by an RNN.
+deep_learning: The nature of the recognition errors produced by the two types of systems was characteristically different, offering technical insights into how to integrate deep learning into the existing highly efficient, run-time speech decoding system deployed by all major speech recognition systems.
+deep_learning: At first, the DNN creates a map of virtual neurons and assigns random numerical values, or "weights", to connections between them.
+deep_learning: In this respect, generative neural network models have been related to neurobiological evidence about sampling-based processing in the cerebral cortex.
+deep_learning: With the support of Innovation Diffusion Theory (IDT), a study analyzed the diffusion of deep learning in BRICS and OECD countries using data from Google Trends.
+deep_learning: Using physics informed neural networks does not require the often expensive mesh generation that conventional CFD methods rely on.
+deep_learning: Recommendation systems have used deep learning to extract meaningful features for a latent factor model for content-based music and journal recommendations.
+deep_learning: The data of newly discovered materials is publicly available through the Materials Project database, offering researchers the opportunity to identify materials with desired properties for various applications.
+deep_learning: CNNs also have been applied to acoustic modeling for automatic speech recognition (ASR).
+deep_learning: In 2015, two techniques were developed to train very deep networks: the highway network was published in May 2015, and the residual neural network (ResNet) in Dec 2015.
+deep_learning: The extra layers enable composition of features from lower layers, potentially modeling complex data with fewer units than a similarly performing shallow network.
+deep_learning: republished it in 1971.
+deep_learning: It translates "whole sentences at a time, rather than pieces".
+deep_learning: However, the theory surrounding other algorithms, such as contrastive divergence is less clear.
+deep_learning: Later, as deep learning becomes widespread, specialized hardware and algorithm optimizations were developed specifically for deep learning.
+deep_learning: As with TIMIT, its small size lets users test multiple configurations.
+deep_learning: Using word embedding as an RNN input layer allows the network to parse sentences and phrases using an effective compositional vector grammar.
+deep_learning: DNN models, stimulated early industrial investment in deep learning for speech recognition.
+deep_learning: Further incremental improvements included the VGG-16 network by Karen Simonyan and Andrew Zisserman and Google's Inceptionv3.
+deep_learning: More importantly, the TIMIT task concerns phone-sequence recognition, which, unlike word-sequence recognition, allows weak phone bigram language models.
+deep_learning: RNNs have cycles in their connectivity structure, whereas FNNs do not.
+deep_learning: This first occurred in 2011 in recognition of traffic signs, and in 2014, with recognition of human faces.
+deep_learning: Deep learning is part of state-of-the-art systems in various disciplines, particularly computer vision and automatic speech recognition (ASR).
+deep_learning: Typically, neurons are organized in layers.
+deep_learning: In 2015, Google's speech recognition improved by 49% by an LSTM-based model, which they made available through Google Voice Search on smartphone.
+deep_learning: These components as a whole function in a way that mimics functions of the human brain, and can be trained like any other ML algorithm.
+deep_learning: As of 2017, neural networks typically have a few thousand to a few million units and millions of connections.
+deep_learning: This method is particularly useful for solving high-dimensional problems in financial mathematics.
+deep_learning: What is it approximating?) Deep learning methods are often looked at as a black box, with most confirmations done empirically, rather than theoretically.
+deep_learning: CAPs describe potentially causal connections between input and output.
+deep_learning: Each connection (synapse) between neurons can transmit a signal to another neuron.
+deep_learning: The model uses a hybrid collaborative and content-based approach and enhances recommendations in multiple tasks.
+deep_learning: This information can form the basis of machine learning to improve ad selection.
+deep_learning: In 2006, Alex Graves, Santiago Fernández, Faustino Gomez, and Schmidhuber combined it with connectionist temporal classification (CTC) in stacks of LSTMs.
+deep_learning: In 1988, Wei Zhang applied a backpropagation-trained CNN to alphabet recognition.
+deep_learning: The first network is a generative model that models a probability distribution over output patterns.
+deep_learning: Although a systematic comparison between the human brain organization and the neuronal encoding in deep networks has not yet been established, several analogies have been reported.
+deep_learning: These developmental models share the property that various proposed learning dynamics in the brain (e.g., a wave of nerve growth factor) support the self-organization somewhat analogous to the neural networks utilized in deep learning models.
+deep_learning: Key difficulties have been analyzed, including gradient diminishing and weak temporal correlation structure in neural predictive models.
+deep_learning: In October 2012, AlexNet by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton won the large-scale ImageNet competition by a significant margin over shallow machine learning methods.
+deep_learning: This approach has been successfully applied for multivariate time series prediction tasks such as traffic prediction.
+deep_learning: More specifically, the probabilistic interpretation considers the activation nonlinearity as a cumulative distribution function.
+deep_learning: More precisely, deep learning systems have a substantial credit assignment path (CAP) depth.
+deep_learning: The aging clock was planned to be released for public use in 2021 by an Insilico Medicine spinoff company Deep Longevity.
+deep_learning: Their system can execute trillions of multiply-accumulate operations per second, indicating the potential of integrated photonics in data-heavy AI applications.
+deep_learning: Such an estimation provides insights on the effects of input random variables on an independent random variable.
+deep_learning: Signals travel from the first (input), to the last (output) layer, possibly after traversing the layers multiple times.
+deep_learning: The training process can be guaranteed to converge in one step with a new batch of data, and the computational complexity of the training algorithm is linear with respect to the number of neurons involved.
+deep_learning: Atomically thin semiconductors are considered promising for energy-efficient deep learning hardware where the same basic device structure is used for both logic operations and data storage.
+deep_learning: By leveraging the powerful function approximation capabilities of deep neural networks, deep BSDE addresses the computational challenges faced by traditional numerical methods in high-dimensional settings.
+deep_learning: Goertzel hypothesized that these behaviors are due to limitations in their internal representations and that these limitations would inhibit integration into heterogeneous multi-component artificial general intelligence (AGI) architectures.
+deep_learning: First developed as TAMER, a new algorithm called Deep TAMER was later introduced in 2018 during a collaboration between U.S.
+deep_learning: For example, a DNN that is trained to recognize dog breeds will go over the given image and calculate the probability that the dog in the image is a certain breed.
+deep_learning: A 1988 network became state of the art in protein structure prediction, an early application of deep learning to bioinformatics.
+deep_learning: These methods never outperformed non-uniform internal-handcrafting Gaussian mixture model/Hidden Markov model (GMM-HMM) technology based on generative models of speech trained discriminatively.

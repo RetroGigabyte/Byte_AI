@@ -1,0 +1,440 @@
+stroke: For people referred to the emergency room, early recognition of a stroke is important as this can expedite diagnostic tests and treatments.
+stroke: The increase in blood flow can be measured by PET scan or transcranial doppler sonography.
+stroke: Use of these scales is recommended by professional guidelines.
+stroke: Its appearance makes it advisable to seek medical review and to consider prevention against a stroke.
+stroke: Among people with nonvalvular atrial fibrillation, anticoagulation can reduce a stroke by 60% while antiplatelets can reduce a stroke by 20%.
+stroke: However, stroke cuts off the supply of oxygen and glucose which powers the ion pumps maintaining these gradients.
+stroke: A scoring system called ROSIER (recognition of stroke in the emergency room) is recommended for this purpose; it is based on features from the medical history and physical examination.
+stroke: Glutamate acts on receptors in nerve cells (especially NMDA receptors), producing an influx of calcium which activates enzymes that digest the cells' proteins, lipids, and nuclear material.
+stroke: Low doses of aspirin (for example 75–150 mg) are as effective as high doses but have fewer side effects; the lowest effective dose remains unknown.
+stroke: Disruption in self-identity, relationships with others, and emotional well-being can lead to social consequences after stroke due to the lack of ability to communicate.
+stroke: Even so, the AHA/ASA guidelines state that starting intravenous tPA in possible mimics is preferred to delaying treatment for additional testing.
+stroke: The presence of leptomeningeal collateral circulation in the brain is associated with better clinical outcomes after recanalization treatment.
+stroke: The term brain attack was introduced for use to underline the acute nature of stroke according to the American Stroke Association, which has used the term since 1990, and is used colloquially to refer to both ischemic as well as hemorrhagic stroke.
+stroke: Overall, two-thirds of stroke occurred in those over 65 years old.
+stroke: The AHA/ASA recommend it for certain people in this time frame.
+stroke: hemiplegia and muscle weakness of the face
+numbness
+reduction in sensory or vibratory sensation
+initial flaccidity (reduced muscle tone), replaced by spasticity (increased muscle tone), excessive reflexes, and obligatory synergies.
+stroke: Cerebrovascular insult may be used interchangeably.
+stroke: However, stroke can occur at any age, including in childhood.
+stroke: Tight blood sugar control in the first few hours does not improve outcomes and may cause harm.
+stroke: The rehabilitation team may involve physicians trained in rehabilitation medicine, neurologists, clinical pharmacists, nursing staff, physiotherapists, occupational therapists, speech-language pathologists, and orthotists.
+stroke: Recovery is further improved when besides the therapy people practice tasks at home.
+stroke: Cyclical electrical stimulation has shown moderate benefits for increasing strength compared with no treatment, while functional electrical stimulation may provide only small additional benefits when added to task practice.
+stroke: The risk of stroke increases exponentially from 30 years of age, and the cause varies by age.
+stroke: and robotic therapies.
+stroke: Subarachnoid hemorrhage, which is bleeding that occurs outside of the brain tissue but still within the skull, and precisely between the arachnoid mater and pia mater (the delicate innermost layer of the three layers of the meninges that surround the brain).
+stroke: Both aspirin and clopidogrel may be useful in the first few weeks after a minor stroke or high-risk TIA.
+stroke: Ischemic strokes, if detected within three to four-and-a-half hours, may be treatable with medication that can break down the clot, while hemorrhagic strokes sometimes benefit from surgery.
+stroke: Bleeding can develop inside areas of ischemia, a condition known as "hemorrhagic transformation." It is unknown how many cases of hemorrhagic stroke actually start as an ischemic stroke.
+stroke: In most cases, the symptoms affect only one side of the body (unilateral).
+stroke: For the assessment of a stable stroke, nuclear medicine scans such as single-photon emission computed tomography (SPECT) and positron emission tomography–computed tomography (PET/CT) may be helpful.
+stroke: Overall, no rehabilitation approach can be supported by evidence for spatial neglect.
+stroke: Further studies are needed to investigate a possible protective effect of aspirin against ischemic strokes in women.
+stroke: A 2025 study reported that women under 50 with a history of pregnancy complications face a higher risk of an ischemic stroke.
+stroke: Emotional lability occurs in about 20% of those who have had stroke.
+stroke: Recent guidelines detail the evidence for primary prevention in stroke.
+stroke: It is most common in those with a stroke affecting the anterior parts of the brain or the basal ganglia, particularly on the left side.
+stroke: Stroke rehabilitation should be started as quickly as possible and can last anywhere from a few days to over a year.
+stroke: However, several studies have shown that aspirin and other antiplatelets are highly effective in secondary prevention after a stroke or transient ischemic attack.
+stroke: To be beneficial, the complication rate of the surgery should be kept below 4%.
+stroke: When administered within the first three hours thrombolysis improves functional outcome without affecting mortality.
+stroke: People are monitored for changes in the level of consciousness, and their blood sugar and oxygenation are kept at optimum levels.
+stroke: Depression can reduce motivation and worsen outcome, but can be treated with social and family support, psychotherapy and, in severe cases, antidepressants.
+stroke: The specific treatment will depend on the type of stroke, the time elapsed since the onset of symptoms, and the underlying cause or presence of comorbidities.
+stroke: Emotional lability, another consequence of stroke, causes the person to switch quickly between emotional highs and lows and to express emotions inappropriately, for instance with an excess of laughing or crying with little or no provocation.
+stroke: An ischemic stroke is typically caused by blockage of a blood vessel, though there are also less common causes.
+stroke: In a condition called hemispatial neglect, the affected person is unable to attend to anything on the side of space opposite to the damaged hemisphere.
+stroke: Low-dose aspirin is also effective for stroke prevention after having a myocardial infarction.
+stroke: Treatment of spasticity related to stroke often involves early mobilizations, commonly performed by a physiotherapist, combined with elongation of spastic muscles and sustained stretching through different positions.
+stroke: Since earlier meta-analyses of other lipid-lowering drugs did not show a decreased risk, statins might exert their effect through mechanisms other than their lipid-lowering effects.
+stroke: Despite not causing identifiable symptoms, a silent stroke still damages the brain and places the person at increased risk for both a transient ischemic attack and a major stroke in the future.
+stroke: Since women live longer, they are older on average when they have stroke and thus more often killed.
+stroke: Nonetheless, given the large body of circumstantial evidence, best medical management includes advice on diet, exercise, smoking and alcohol use.
+stroke: Post-stroke emotional difficulties include anxiety, panic attacks, flat affect (failure to express emotions), mania, apathy and psychosis.
+stroke: Many mobility problems can be improved by the use of ankle foot orthoses.
+stroke: It is equally important in secondary prevention.
+stroke: People with aphasia who are younger than 55 years are the most likely to improve but people older than 75 years can still get better with therapy.
+stroke: Anaerobic metabolism produces less adenosine triphosphate (ATP) but releases a by-product called lactic acid.
+stroke: Untreated, celiac disease regardless of the presence of symptoms can be an underlying cause of a stroke, both in children and adults.
+stroke: Many people who experience communication impairments after stroke find it more difficult to cope with the social issues rather than physical impairments.
+stroke: Women, African-Americans, Hispanic-Americans, Asian and Pacific Islanders are more often misdiagnosed for a condition other than a stroke when in fact having a stroke.
+stroke: It does not appear that lowering levels of homocysteine with folic acid affects the risk of a stroke.
+stroke: Signs and symptoms often appear soon after the stroke has occurred.
+stroke: However, variations in the circle of Willis, caliber of collateral vessels, and acquired arterial lesions such as atherosclerosis can disrupt this compensatory mechanism, increasing the risk of brain ischemia resulting from artery blockage.
+stroke: Recovery with therapy for aphasia is also dependent on the recency of stroke and the age of the person.
+stroke: Its use is now discouraged by a number of neurology textbooks, reasoning that the connotation of fortuitousness carried by the word accident insufficiently highlights the modifiability of the underlying risk factors.
+stroke: Emotional problems following stroke can be due to direct damage to emotional centers in the brain or from frustration and difficulty adapting to new limitations.
+stroke: Higher levels of Von Willebrand factor are more common amongst people who have had ischemic stroke for the first time.
+stroke: Years later, that same idea, that rapid cerebral blood flow restoration results in fewer brain cells dying, has been proved and quantified.
+stroke: There is evidence supporting this procedure in selected cases.
+stroke: altered walking gait
+altered movement coordination
+vertigo and or disequilibrium
+stroke: Two types of thrombosis can cause stroke:
+stroke: Stroke can affect people physically, mentally, emotionally, or a combination of the three.
+stroke: Through continuous practice the person relearns to use and adapt the hemiplegic limb during functional activities to create lasting permanent changes.
+stroke: A 2014 review found a 5% increase in the number of people living without disability at three to six months; however, there was a 2% increased risk of death in the short term.
+stroke: It can give a standard score for example on the NIH stroke scale.
+stroke: Except in people with atrial fibrillation, oral anticoagulants are not advised for stroke prevention—any benefit is offset by bleeding risk.
+stroke: Even people older than 80 years and those with isolated systolic hypertension benefit from antihypertensive therapy.
+stroke: In 2013 the American College of Emergency Medicine refuted this position, acknowledging the body of evidence for the use of tPA in ischemic stroke; but debate continues.
+stroke: An ischemic stroke occurs because of a loss of blood supply to part of the brain, initiating the ischemic cascade.
+stroke: A stroke is the second leading cause of death in people under 20 with sickle-cell anemia.
+stroke: CT scans (without contrast enhancements)
+sensitivity= 89%
+specificity= 100%
+MRI scan
+sensitivity= 81%
+specificity= 100%
+For detecting chronic hemorrhages, an MRI scan is more sensitive.
+stroke: In a broad study in 1998, more than 11&nbps;million people were estimated to have experienced a stroke in the United States.
+stroke: Lactic acid is an irritant which could potentially destroy cells since it is an acid and disrupts the normal acid-base balance in the brain.
+stroke: A hemorrhagic stroke may occur on the background of alterations to the blood vessels in the brain, such as cerebral amyloid angiopathy, cerebral arteriovenous malformation and an intracranial aneurysm, which can cause an intraparenchymal or subarachnoid hemorrhage.
+stroke: Studies of surgical intervention for carotid artery stenosis without symptoms have shown only a small decrease in the risk of a stroke.
+stroke: Receiving therapy within a month after the stroke leads to the greatest improvements.
+stroke: Hippocrates (460 to 370 BC) was first to describe the phenomenon of sudden paralysis that is often associated with ischemia.
+stroke: DRAGON Score for Post-Thrombolysis Archived 2020-10-27 at the Wayback Machine
+THRIVE score for stroke outcome Archived 2016-09-13 at the Wayback Machine
+National Institute of Neurological Disorders and Stroke
+stroke: With the treatment and diagnosis options available, it is of particular importance to determine whether there is a peripheral source of emboli.
+stroke: It is also not sure whether people with stroke respond differently from the general population when treating eye problems.
+stroke: The condition may improve with time, but in the interim, a nasogastric tube may be inserted, enabling liquid food to be given directly into the stomach.
+stroke: In 2021, strokes were the third biggest cause of death, responsible for approximately 10% of total deaths.
+stroke: One example physiotherapists employ to promote motor learning involves constraint-induced movement therapy.
+stroke: Speech and language therapy is also effective if it is delivered online through video or by a family member who has been trained by a professional therapist.
+stroke: About 3.0 million deaths resulted from an ischemic stroke while 3.3 million deaths resulted from a hemorrhagic stroke.
+stroke: Many clinics and hospitals are adopting the use of these off-the-shelf devices for exercise, social interaction, and rehabilitation because they are affordable, accessible and can be used within the clinic and home.
+stroke: An ischemic stroke is caused by interruption of the blood supply to the brain, while a  hemorrhagic stroke results from the rupture of a blood vessel or an abnormal vascular structure.
+stroke: This may occur due to cocaine.
+stroke: Yoga may reduce anxiety and could be included as part of patient-centred stroke rehabilitation.
+stroke: Although no negative effects have been reported, it is unclear if outcomes can improve with these walking programs when compared to usual treatment.
+stroke: A 2016 review reported that these programs improve the quality of life after stroke, without negative effects.
+stroke: These programs are tailored to the target audience, and led by someone trained and expert in stroke and its consequences (most commonly professionals, but also stroke survivors and peers).
+stroke: Giving thrombolytics (clot-busting) in such cases causes intracerebral bleeding 1-2% of the time, which is less than that of people with a stroke.
+stroke: A treatment with an orthosis can therefore be used to support the therapy.
+stroke: After the initial ischemic event the penumbra transitions from a tissue remodeling characterized by damage to a remodeling characterized by repair.
+stroke: While these findings are not perfect for diagnosing a stroke, the fact that they can be evaluated relatively rapidly and easily make them very valuable in the acute setting.
+stroke: A hemorrhagic stroke is caused by either bleeding directly into the brain or into the space between the brain's membranes.
+stroke: Stroke can be classified into two major categories: ischemic and hemorrhagic.
+stroke: In addition to neurological impairment, a hemorrhagic stroke usually causes specific symptoms (for instance, subarachnoid hemorrhage classically causes a severe headache known as a thunderclap headache) or reveal evidence of a previous head injury.
+stroke: Prevention includes decreasing risk factors, surgery to open up the arteries to the brain in those with problematic carotid narrowing, and anticoagulant medication in people with atrial fibrillation.
+stroke: However, there is limited evidence that cognitive rehabilitation may have an immediate beneficial effect on tests of neglect.
+stroke: Oral anticoagulants, especially Xa (apixaban) and thrombin (dabigatran) inhibitors, have been shown to be superior to warfarin in stroke reduction and have a lower or similar bleeding risk in patients with atrial fibrillation.
+stroke: 50% of people have a decline in sexual function (sexual dysfunction) following stroke.
+stroke: In those who have previously had preeclampsia, other risk factors should be treated more aggressively.
+stroke: About one out of six cases of ischemic strokes could be classified as ESUS.
+stroke: While these expressions of emotion usually correspond to the person's actual emotions, a more severe form of emotional lability causes the affected person to laugh and cry pathologically, without regard to context or emotion.
+stroke: Thus, the source of the embolus must be identified.
+stroke: These processes are the same for any type of ischemic tissue and are referred to collectively as the ischemic cascade.
+stroke: People are selected for surgery based on age, gender, degree of stenosis, time since symptoms and the person's preferences.
+stroke: Low blood sugar may cause similar symptoms.
+stroke: If symptoms last less than 24 hours, the stroke is a transient ischemic attack (TIA), also called a mini-stroke.
+stroke: Other modifiable risk factors include high blood cholesterol levels, diabetes mellitus, end-stage kidney disease, cigarette smoking (active and passive), heavy alcohol use, drug use, lack of physical activity, obesity, processed red meat consumption, and unhealthy diet.
+stroke: There are two main types of hemorrhagic stroke:
+stroke: Clopidogrel has less side effects than ticlopidine.
+stroke: For a hemorrhagic stroke, a CT or MRI scan with intravascular contrast may be able to identify abnormalities in the brain arteries (such as aneurysms) or other sources of bleeding, and structural MRI if this shows no cause.
+stroke: Small vessel disease involves the smaller arteries inside the brain: branches of the circle of Willis, middle cerebral artery, stem, and arteries arising from the distal vertebral and basilar artery.
+stroke: They result in tissue injury by causing compression of tissue from an expanding hematoma or hematomas.
+stroke: Some teams may also include psychologists and social workers, since at least one-third of affected people manifests post-stroke depression.
+stroke: Further research in this area is needed as the body of evidence is very low quality.
+stroke: Physiotherapists can also work with people who have had stroke to improve awareness and use of the hemiplegic side.
+stroke: However, brain tissue is especially vulnerable to ischemia since it has little respiratory reserve and is completely dependent on aerobic metabolism, unlike most other organs.
+stroke: Inflammation contributes to the secondary brain injury after hemorrhage.
+stroke: When a stroke has been diagnosed, other studies may be performed to determine the underlying cause.
+stroke: A third of intracerebral bleed is into the brain's ventricles.
+stroke: Approaches to helping people with urinary incontinence include physical therapy, cognitive therapy, and specialized interventions with experienced medical professionals, however, it is not clear how effective these approaches are at improving urinary incontinence following stroke.
+stroke: Sickle-cell anemia, which can cause blood cells to clump up and block blood vessels, can also lead to a stroke.
+stroke: In addition, the pressure may lead to a loss of blood supply to affected tissue with resulting infarction, and the blood released by brain hemorrhage appears to have direct toxic effects on brain tissue and vasculature.
+stroke: A hemorrhagic stroke may also be associated with a severe headache.
+stroke: Imaging techniques also assist in determining the subtypes and cause of a stroke.
+stroke: In those with findings of savable tissue on medical imaging between 4.5 hours and 9 hours or who wake up with stroke, alteplase results in some benefit.
+stroke: A "stroke chameleon" (SC) is a stroke which is diagnosed as something else.
+stroke: In primary prevention, however, antiplatelet drugs did not reduce the risk of an ischemic stroke but increased the risk of major bleeding.
+stroke: Relief of the pressure may be attempted with medication, but some require hemicraniectomy, the temporary surgical removal of the skull on one side of the head.
+stroke: Many times stroke survivors suffer from a motor decline on both arms, although one is usually more impaired.
+stroke: Episodes of stroke and familial stroke have been reported from the 2nd millennium BC onward in ancient Mesopotamia and Persia.
+stroke: While intensive blood sugar control has been shown to reduce small blood vessel complications such as kidney damage and damage to the retina of the eye it has not been shown to reduce large blood vessel complications such as a stroke.
+stroke: Smoking just one cigarette per day increases the risk more than 30%.
+stroke: Prompt restoration of blood flow to ischemic tissues can reduce or reverse injury, especially if the tissues are not yet irreversibly damaged.
+stroke: The ability to walk independently in their community, indoors or outdoors, is important following stroke.
+stroke: Migraine with aura doubles a person's risk for an ischemic stroke.
+stroke: Some causes of hemorrhagic strokes are hypertensive hemorrhage, a ruptured aneurysm, ruptured AV fistula, transformation of prior ischemic infarction, and drug-induced bleeding.
+stroke: Swallowing therapy has mixed results as of 2018.
+stroke: Other scales for prehospital detection of stroke include the Los Angeles Prehospital Stroke Screen (LAPSS) and the Cincinnati Prehospital Stroke Scale (CPSS), on which the FAST method was based.
+stroke: A CT scan is used more to rule out certain stroke mimics and detect bleeding.
+stroke: Anticoagulants, when used following stroke, should not be stopped for dental procedures.
+stroke: If symptoms are maximal at onset, the cause is more likely to be a subarachnoid hemorrhage or an embolic stroke.
+stroke: Even then, for 100 surgeries, five people will benefit by avoiding stroke, three will develop a stroke despite surgery, three will develop a stroke or die due to the surgery itself, and 89 will remain stroke-free but would also have done so without intervention.
+stroke: If the stroke is severe enough, or in a certain location such as parts of the brainstem, coma or death can result.
+stroke: A 2014 Cochrane review found insufficient evidence to support the use of hyperbaric oxygen therapy in acute ischemic stroke, with no significant reduction in case fatality at six months.
+stroke: This unnecessary treatment adds to health care costs.
+stroke: Incidence of ischemic stroke is ten times more frequent than haemorrhagic stroke.
+stroke: An estimated 15% of people experience urinary incontinence for more than a year following stroke.
+stroke: A person's risk of dying with stroke also increases with age.
+stroke: A stroke is a medical condition in which blood flow to a part of the brain is reduced or blocked causing cell death.
+stroke: There is no reliable way to determine who will have an intracranial bleed post-treatment versus who will not.
+stroke: After four and a half hours thrombolysis worsens outcomes.
+stroke: Further research is needed assessing the benefits and safety of yoga in stroke rehabilitation.
+stroke: There is also no evidence that cerebrolysin‐like peptide mixtures which are extracted from cattle brain is helpful in treating acute ischemic stroke.
+stroke: A major cause of neuronal injury is the release of the excitatory neurotransmitter glutamate.
+stroke: Stroke survivors may be unaware of their own disabilities, a condition called anosognosia.
+stroke: This definition was supposed to reflect the reversibility of tissue damage and was devised for the purpose, with the time frame of 24 hours being chosen arbitrarily.
+stroke: People who have had stroke may have particular problems, such as dysphagia, which can cause swallowed material to pass into the lungs and cause aspiration pneumonia.
+stroke: In the United States stroke is a leading cause of disability, and recently declined from the third leading to the fourth leading cause of death.
+stroke: A silent stroke is estimated to occur at five times the rate of a symptomatic stroke.
+stroke: An embolus is most frequently a thrombus, but it can also be a number of other substances including fat (e.g., from bone marrow in a broken bone), air, cancer cells or clumps of bacteria (usually from infectious endocarditis).
+stroke: The risk was especially elevated for strokes linked to large artery disease in women with prior hypertensive disorders, preterm births or small-for-gestational-age deliveries.
+stroke: Causes of a stroke related to the heart can be distinguished between high- and low-risk:
+stroke: Occupational therapy is involved in training to help relearn everyday activities known as the activities of daily living (ADLs) such as eating, drinking, dressing, bathing, cooking, reading and writing, and toileting.
+stroke: However, further primary research, specifically of CIMT, mental practice, mirror therapy and virtual reality is needed.
+stroke: MRI is better at detecting a posterior circulation infarct with diffusion-weighted imaging.
+stroke: Since blood vessels in the brain are now blocked, the brain becomes low in energy, and thus it resorts to using anaerobic metabolism within the region of brain tissue affected by ischemia.
+stroke: Reduced fitness can reduce capacity for rehabilitation as well as general health.
+stroke: The rate of damage is affected by temperature, with hyperthermia accelerating damage and hypothermia slowing it down and  other factors.
+stroke: Bundled implementation of these supportive measures — including early blood pressure control, glucose and temperature management, and anticoagulation reversal — has been shown to improve functional outcomes in randomised trials and in population-based real-world data.
+stroke: Stroke was the second most frequent cause of death worldwide in 2011, accounting for 6.2 million deaths (~11% of the total).
+stroke: Gaining initial improvement in range of motion is often achieved through rhythmic rotational patterns associated with the affected limb.
+stroke: Other risk factors include high blood cholesterol, tobacco smoking, obesity, diabetes mellitus, a previous TIA, end-stage kidney disease, and atrial fibrillation.
+stroke: CT scans may not detect an ischemic stroke, especially if it is small, of recent onset, or in the brainstem or cerebellum (posterior circulation infarct).
+stroke: Cerebrovascular reserve capacity is another factor that affects the outcome of a stroke – it is the amount of increase in cerebral blood flow after a purposeful stimulation of blood flow by the physician, such as by giving inhaled carbon dioxide or intravenous acetazolamide.
+stroke: Stroke prevention treatment for atrial fibrillation is determined according to the CHA2DS2–VASc score.
+stroke: Blood pressure reduction of 10 mmHg systolic or 5 mmHg diastolic reduces the risk of stroke by ~40%.
+stroke: Up to 10% of people following stroke develop seizures, most commonly in the week subsequent to the event; the severity of the stroke increases the likelihood of a seizure.
+stroke: Between three and four and a half hours the effects are less clear.
+stroke: Depending on the stroke risk, anticoagulation with medications such as warfarin or aspirin is useful for prevention with various levels of comparative effectiveness depending on the type of treatment used.
+stroke: Treatment to attempt recovery of lost function is called stroke rehabilitation, and ideally takes place in a stroke unit; however, these are not available in much of the world.
+stroke: However, in people with obstruction of the internal carotid artery of one side, the presence of leptomeningeal collateral circulation is associated with reduced cerebral reserve capacity.
+stroke: Diagnosis is typically based on a physical exam and supported by medical imaging such as a CT scan or MRI scan.
+stroke: Between 1990 and 2010 the annual incidence of a stroke decreased by approximately 10% in the developed world, but increased by 10% in the developing world.
+stroke: Overall, two thirds of cases of a stroke occurred in those over 65 years old.
+stroke: Surgery is most efficient when not delayed too long—the risk of recurrent stroke in a person who has a 50% or greater stenosis is up to 20% after 5 years, but endarterectomy reduces this risk to around 5%.
+stroke: Users of stimulants such as cocaine and methamphetamine are at a high risk for an ischemic stroke.
+stroke: Further research is needed to assess whether the effect can be sustained in day-to-day tasks requiring attention.
+stroke: Both cause parts of the brain to stop functioning properly.
+stroke: Calcium influx can also lead to the failure of mitochondria, which can lead further toward energy depletion and may trigger cell death due to programmed cell death.
+stroke: Depending on the site of the aneurysm this may be by surgery that involves opening the skull or endovascularly (through the blood vessels).
+stroke: SPECT documents cerebral blood flow, whereas PET with an FDG isotope shows cerebral glucose metabolism.
+stroke: It is ranked after heart disease and before cancer.
+stroke: However, some people have reported that they continue to improve for years, regaining and strengthening abilities like writing, walking, running, and talking.
+stroke: Other potential causes are trauma, bleeding disorders, amyloid angiopathy, illicit drug use (e.g., amphetamines or cocaine).
+stroke: The brain can compensate inadequate blood flow in a single artery by the collateral system.
+stroke: Alcohol use could predispose to an ischemic stroke, as well as intracerebral and subarachnoid hemorrhage via multiple mechanisms (for example, via hypertension, atrial fibrillation, rebound thrombocytosis and platelet aggregation and clotting disturbances).
+stroke: There are two main types of stroke: ischemic, due to lack of blood flow, and hemorrhagic, due to bleeding.
+stroke: About half of people who have had a stroke live less than one year.
+stroke: ICH has a mortality rate of 44 percent after 30 days, higher than an ischemic stroke or subarachnoid hemorrhage (which technically may also be classified as a type of stroke).
+stroke: Some risk factors for stroke apply only to women.
+stroke: The results of this study found that the only significant genetic factor was the person's blood type.
+stroke: In 2015, one review demonstrated the safety and efficacy of this procedure if performed within 12 hours of the onset of symptoms.
+stroke: With the help of an orthosis, physiological standing and walking can be learned again, and late health consequences caused by a wrong gait pattern can be prevented.
+stroke: A brainstem stroke affecting the brainstem and brain, therefore, can produce symptoms relating to deficits in these cranial nerves:
+stroke: The question of whether to focus on the more impaired arm or instead strengthen the arm that is less impaired is being studied.
+stroke: Cold ice wraps or ice packs may briefly relieve spasticity by temporarily reducing neural firing rates.
+stroke: A special form of embolic stroke is the embolic stroke of undetermined source (ESUS).
+stroke: It also aims to help the survivor understand and adapt to difficulties, prevent secondary complications, and educate family members to play a supporting role.
+stroke: Other non-invasive rehabilitation methods used to augment physical therapy of motor function in people recovering from stroke include neurotherapy as transcranial magnetic stimulation and transcranial direct-current stimulation.
+stroke: There is a lack of high quality studies looking at promotional efforts to improve lifestyle factors.
+stroke: The number of procedures needed to cure one person was 5 for early surgery (within two weeks after the initial stroke), but 125 if delayed longer than 12 weeks.
+stroke: The biggest risk factor for a stroke is high blood pressure.
+stroke: There are four reasons why this might happen:
+stroke: A watershed stroke refers to the condition when the blood supply to these areas is compromised.
+stroke: Similarly, when all three of these are absent, the likelihood of a stroke is decreased (– likelihood ratio of 0.39).
+stroke: During an ischemic stroke, blood supply to part of the brain is decreased, leading to dysfunction of the brain tissue in that area.
+stroke: A 2025 systematic review update found moderate to low-certainty evidence supporting the benefits of  virtual reality and interactive video gaming on improving gait speed, balance, participation and quality of life.
+stroke: In case of severe ischemia lasting more than 15 to 30 minutes, all of the affected tissue will die, leading to infarction.
+stroke: Because an embolus arises from elsewhere, local therapy solves the problem only temporarily.
+stroke: As oxygen or glucose becomes depleted in ischemic brain tissue, the production of high energy phosphate compounds such as adenosine triphosphate (ATP) fails, leading to failure of energy-dependent processes (such as ion pumping) necessary for tissue cell survival.
+stroke: Men are 25% more likely to develop stroke than women, yet 60% of deaths from stroke occur in women.
+stroke: A total of 20–50 hours of speech and language therapy is necessary for the best recovery.
+stroke: People not having a stroke may also be misdiagnosed with the condition.
+stroke: This phenomenon is mainly encountered in stroke affecting brain tissue dependent upon the middle cerebral artery for blood supply and is also called "malignant cerebral infarction" because it carries a dismal prognosis.
+stroke: The findings are based on low-quality evidence as further research is needed to estimate the effect of MI on walking endurance and the dependence on personal assistance.
+stroke: 6.4% of people with large stroke developed substantial brain bleeding as a complication from being given tPA thus part of the reason for increased short term mortality.
+stroke: Speech and language therapy that is higher intensity, higher dose or provided over a long duration of time leads to significantly better functional communication but people might be more likely to drop out of high intensity treatment (up to 15 hours per week).
+stroke: This system relies on the efficient connection between the carotid and vertebral arteries through the circle of Willis and, to a lesser extent, the major arteries supplying the cerebral hemispheres.
+stroke: In a thrombotic stroke, a thrombus (blood clot) usually forms around atherosclerotic plaques.
+stroke: Although, malignancy in general can increase the risk of a stroke, certain types of cancer such as pancreatic, lung and gastric are typically associated with a higher thromboembolism risk.
+stroke: The philosophical premise underlying the importance of rapid stroke intervention was summed up as Time is Brain!
+stroke: Signs and symptoms of a stroke may include facial drooping, inability to walk, move or feel on one side of the body, problems understanding or speaking, dizziness, or loss of vision to one side.
+stroke: The extent of damage depends on the duration and severity of the ischemia.
+stroke: The hematoma enlarges until pressure from surrounding tissue limits its growth, or until it decompresses by emptying into the ventricular system, CSF or the pial surface.
+stroke: Statins have been shown to reduce the risk of a stroke by about 15%.
+stroke: Those with a right hemisphere stroke are more likely to have empathy problems which can make communication harder.
+stroke: The defect in the brain is usually on the opposite side of the body.
+stroke: In 2015, a stroke was the second most frequent cause of death after coronary artery disease, accounting for 6.3 million deaths (11% of the total).
+stroke: Primary prevention is less effective than secondary prevention (as judged by the number needed to treat to prevent one stroke per year).
+stroke: Cerebrolysin, a mixture of pig brain-derived neurotrophic factors used widely to treat acute ischemic stroke in China, Eastern Europe, Russia, post-Soviet countries, and other Asian countries, does not improve outcomes or prevent death and may increase the risk of severe adverse events.
+stroke: If studies show carotid artery stenosis, and the person has a degree of residual function on the affected side, carotid endarterectomy (surgical removal of the stenosis) may decrease the risk of recurrence if performed rapidly after a stroke.
+stroke: High blood pressure is also not typically lowered as this has not been found to be helpful.
+stroke: Conditions such as hypertensive disorders of pregnancy, gestational diabetes, preterm birth, small-for-gestational-age infants, stillbirth, and miscarriage were more common among stroke patients than those without.
+stroke: Drug abuse, most commonly involving amphetamines and cocaine, can induce a stroke through damage to the blood vessels in the brain and acute hypertension.
+stroke: Air pollution is responsible for around 27% of deaths from strokes worldwide, according to the Global Burden of Disease Study.
+stroke: This is particularly important for the moderately ischemic areas (penumbras) surrounding areas of severe ischemia, which may still be salvageable due to collateral flow.
+stroke: The routine use of beta-blockers following a stroke or TIA has not been shown to result in benefits.
+stroke: Bleeding may occur due to a ruptured brain aneurysm.
+stroke: It is most commonly due to heart failure from cardiac arrest or arrhythmias, or from reduced cardiac output as a result of myocardial infarction, pulmonary embolism, pericardial effusion, or bleeding.
+stroke: This decreases the risk of death, although some people – who would otherwise have died – survive with disability.
+stroke: The findings are based on low-quality evidence as further research is needed involving large numbers of participants.
+stroke: Systems have been proposed to increase recognition of a stroke.
+stroke: A CT scan can rule out bleeding, but may not necessarily rule out ischemia, which early on typically does not show up on a CT scan.
+stroke: It did not change the risk of death but did reduce disability compared to the use of intravenous thrombolysis, which is generally used in people evaluated for mechanical thrombectomy.
+stroke: This sets off a series of interrelated events that result in cellular injury and death.
+stroke: Stroke rehabilitation should begin almost immediately with a multidisciplinary approach.
+stroke: These forms of rehabilitation offer potential for motivating people to perform specific therapy tasks that many other forms do not.
+stroke: Since blockage of the artery is gradual, onset of a symptomatic thrombotic stroke is slower than that of a hemorrhagic stroke.
+stroke: If ischemia persists for more than 5 minutes with perfusion below 5% of normal, some neurons will die.
+stroke: Anticoagulants and antithrombotics can make bleeding worse and are generally discontinued (and reversed if possible).
+stroke: These react with and damage a number of cellular and extracellular elements.
+stroke: Speech and language therapy for aphasia following stroke improves functional communication, reading, writing and expressive language.
+stroke: Medication is the most common method of stroke prevention; carotid endarterectomy can be a useful surgical method of stroke prevention.
+stroke: Martin Luther was described as having an apoplectic stroke that deprived him of his speech shortly before his death in 1546.
+stroke: Other tests such as an electrocardiogram (ECG) and blood tests are done to determine risk factors and possible causes.
+stroke: The available evidence does not show large differences in stroke prevention between antihypertensive drugs—therefore, other factors such as protection against other forms of cardiovascular disease and cost should be considered.
+stroke: Apoplexy, from the Greek word meaning "struck down with violence", first appeared in Hippocratic writings to describe this phenomenon.
+stroke: The results of stroke vary widely depending on size and location of the lesion.
+stroke: The American Academy of Emergency Medicine had previously stated that objective evidence regarding the applicability of tPA for acute ischemic stroke was insufficient.
+stroke: Approximately 770,000 of these were symptomatic and 11 million were first-ever silent MRI infarcts or hemorrhages.
+stroke: Emphasis is often concentrated on functional tasks and people's goals.
+stroke: In 2015, there were about 42.4 million people who had previously had a stroke and were still alive.
+stroke: If there are symptoms suggesting that the hemorrhage might have occurred as a result of venous thrombosis, CT or MRI venography can be used to examine the cerebral veins.
+stroke: Carotid artery stenting has not been shown to be equally useful.
+stroke: In subarachnoid hemorrhage, early treatment for underlying cerebral aneurysms may reduce the risk of further hemorrhages.
+stroke: The orthosis supports the therapeutic applications and also helps to mobilize the patient at an early stage.
+stroke: In a paradoxical embolism, a deep vein thrombosis embolizes through an atrial or ventricular septal defect in the heart into the brain.
+stroke: A stroke is a medical emergency.
+stroke: Because the reduction in blood flow is global, all parts of the brain may be affected, especially vulnerable "watershed" areas—border zone regions supplied by the major cerebral arteries.
+stroke: Preventive Services Task Force (USPSTF) recommends against screening for carotid artery stenosis in those without symptoms.
+stroke: state rehabilitation units and others to be closed after six months, with little chance of further improvement.
+stroke: Atherosclerosis may disrupt the blood supply by narrowing the lumen of blood vessels leading to a reduction of blood flow by causing the formation of blood clots within the vessel or by releasing showers of small emboli through the disintegration of atherosclerotic plaques.
+stroke: If swallowing is still deemed unsafe, then a percutaneous endoscopic gastrostomy (PEG) tube is passed and this can remain indefinitely.
+stroke: High levels of physical activity reduce stroke risk by about 26%.
+stroke: It has been shown that people admitted to stroke units have a higher chance of surviving than those admitted elsewhere in hospital, even if they are being cared for by doctors without experience in stroke.
+stroke: However, since these pathways also travel in the spinal cord and any lesion there can also produce these symptoms, the presence of any one of these symptoms does not necessarily indicate a stroke.
+stroke: Rudolf Virchow first described the mechanism of thromboembolism as a major factor.
+stroke: in the early 1990s.
+stroke: Strokes caused by artery dissections are in the strictest sense not always caused by a 'defined disease state', such events can occur in very young people and can be caused by physical injury such as hyperextension of the neck area or often by other forms of trauma.
+stroke: The future areas of research may concentrate on the optimal exercise prescription and long-term health benefits of exercise.
+stroke: Hypoxemia (low blood oxygen content) may precipitate the hypoperfusion.
+stroke: In 1658, in his Apoplexia, Johann Jacob Wepfer (1620–1695) identified the cause of hemorrhagic stroke when he suggested that people who had died of apoplexy had bleeding in their brains.
+stroke: Most return of function is seen in the first few months, and then improvement falls off with the "window" considered officially by U.S.
+stroke: Endarterectomy for a significant stenosis has been shown to be useful in preventing further a stroke in those who have already had the condition.
+stroke: CT scans (without contrast enhancements)
+sensitivity= 16% (less than 10% within first 3 hours of symptom onset)
+specificity= 96%
+MRI scan
+sensitivity= 83%
+specificity= 98%
+For diagnosing hemorrhagic stroke in the emergency setting:
+stroke: There are inadequate long-term data about the effects of exercise and training on death, dependence and disability after stroke.
+stroke: In healthy people aspirin does not appear beneficial and thus is not recommended as a preventive measure,  but in people with high cardiovascular risk, or those who have had a myocardial infarction, it provides some protection against a first stroke.
+stroke: A stroke without an obvious explanation is termed a cryptogenic stroke (idiopathic); this constitutes 30–40% of all cases of ischemic stroke.
+stroke: Long-term complications may include pneumonia and loss of bladder control.
+stroke: This subset of cryptogenic stroke is defined as a non-lacunar brain infarct without proximal arterial stenosis or cardioembolic sources.
+stroke: Large vessel disease involves the common and internal carotid arteries, the vertebral artery, and the Circle of Willis.
+stroke: According to a 2021 WHO study, working 55+ hours a week raises the stroke risk by 35% and the risk of dying from heart conditions by 17%, when compared to a 35–40-hour week.
+stroke: The 24-hour limit divides a stroke from a transient ischemic attack, which is a related syndrome of stroke symptoms that resolve completely within 24 hours.
+stroke: 30-50% of stroke survivors develop post-stroke depression, which is characterized by lethargy, irritability, sleep disturbances, lowered self-esteem and withdrawal.
+stroke: A thrombus itself (even if it does not completely block the blood vessel) can lead to an embolic stroke (see below) if the thrombus breaks off and travels in the bloodstream, at which point it is called an embolus.
+stroke: Test selection may vary since the cause of a stroke varies with age, comorbidity and the clinical presentation.
+stroke: The following are commonly used techniques:
+stroke: Between 1990 and 2010 the incidence of stroke decreased by approximately 10% in the developed world and increased by 10% in the developing world.
+stroke: The effect of physical training on cognition also may be studied further.
+stroke: The ischemia area is referred to as the "ischemic penumbra".
+stroke: Aspirin or statins may be recommended by physicians for prevention.
+stroke: Thrombolysis, such as with recombinant tissue plasminogen activator (rtPA), in acute ischemic stroke, when given within three hours of symptom onset, results in an overall benefit of 10% with respect to living without disability.
+stroke: Rehabilitation involves working on the ability to produce strong movements or the ability to perform tasks using normal patterns.
+stroke: After full range has been achieved by the therapist, the limb should be positioned in the lengthened positions to prevent against further contractures, skin breakdown, and disuse of the limb with the use of splints or other tools to stabilize the joint.
+stroke: While there may be an immediate effect after treatment on attention, the findings are based on low to moderate quality and small number of studies.
+stroke: In addition, adults under 44 years of age are seven times more likely to have a missed stroke than are adults over 75 years of age.
+stroke: The term cerebrovascular accident was introduced in 1927, reflecting a "growing awareness and acceptance of vascular theories and (...) recognition of the consequences of a sudden disruption in the vascular supply of the brain".
+stroke: Advanced age is one of the most significant stroke risk factors.
+stroke: Dipyridamole can be added to aspirin therapy to provide a small additional benefit, even though headache is a common side effect.
+stroke: 3 or 6 months after the stroke more therapy will be needed but symptoms can still be improved.
+stroke: Cancer is also another well recognized potential cause of a stroke.
+stroke: The term apoplectic stroke is an archaic, nonspecific term, for a cerebrovascular accident accompanied by haemorrhage or haemorrhagic stroke.
+stroke: Physical therapy is sometimes suggested for people who experience sexual dysfunction following stroke.
+stroke: Approximately 17 million people had stroke in 2010 and 33 million people have previously had stroke and were still alive.
+stroke: Wepfer also identified the main arteries supplying the brain, the vertebral and carotid arteries, and identified the cause of a type of ischemic stroke known as a cerebral infarction when he suggested that apoplexy might be caused by a blockage to those vessels.
+stroke: Ischemia also induces production of oxygen free radicals and other reactive oxygen species.
+stroke: Antidepressant medications may be useful for treating depression after stroke but are associated with central nervous system and gastrointestinal adverse events.
+stroke: Self-management programs are a special training that educates stroke survivors about stroke and its consequences, helps them acquire skills to cope with their challenges, and helps them set and meet their own goals during their recovery process.
+stroke: Physical therapy is effective for recovery of function and mobility after stroke.
+stroke: People with stroke felt more empowered, happy and satisfied with life after participating in this training.
+stroke: This position for tPA is based upon the findings of two studies by one group of investigators which showed that tPA improves the chances for a good neurological outcome.
+stroke: Also, symptoms may be transient as the embolus is partially resorbed and moves to a different location or dissipates altogether.
+stroke: Broader aspects of care must address the emotional impact speech impairment has on those who experience difficulties with speech after stroke.
+stroke: Mirror therapy is associated with improved motor function of the upper extremity in people who have had stroke.
+stroke: Conversely, those who have had a major stroke are also at risk of having a silent stroke.
+stroke: There is limited evidence that training on a driving simulator will improve performance on recognizing road signs after training.
+stroke: Cardiorespiratory fitness training that involves walking in rehabilitation can improve speed, tolerance and independence during walking, and may improve balance.
+stroke: Anticoagulation can prevent a recurrent ischemic stroke.
+stroke: Thienopyridines (clopidogrel, ticlopidine) might be slightly more effective than aspirin and have a decreased risk of gastrointestinal bleeding but are more expensive.
+stroke: Constraint‐induced movement therapy (CIMT), mental practice, mirror therapy, interventions for sensory impairment, virtual reality and a relatively high dose of repetitive task practice may be effective in improving upper limb function.
+stroke: After death, an autopsy may help to establish the time between the stroke onset and death.
+stroke: In those who have previously had a stroke, treatment with medications such as aspirin, clopidogrel, and dipyridamole may be beneficial.
+stroke: Thrombosis (obstruction of a blood vessel by a blood clot forming locally)
+Embolism (obstruction due to an embolus from elsewhere in the body),
+Systemic hypoperfusion (general decrease in blood supply, e.g., in shock)
+Cerebral venous sinus thrombosis.
+stroke: The mechanism with which cancer increases the stroke risk is thought to be secondary to an acquired hypercoagulability.
+stroke: However, a 2007 meta-analysis suggested harm from anticoagulation started early after an embolic stroke.
+stroke: Intra-arterial fibrinolysis, where a catheter is passed up an artery into the brain and the medication is injected at the site of thrombosis, has been found to improve outcomes in people with acute ischemic stroke.
+stroke: Some people show the opposite of what they feel, for example crying when they are happy.
+stroke: 95% of stroke occurs in people age 45 and older, and two-thirds of stroke occurs in those over the age of 65.
+stroke: These four entities predict the extent of the stroke, the area of the brain that is affected, the underlying cause, and the prognosis.
+stroke: Other difficulties may include a decreased ability to communicate emotions through facial expression, body language and voice.
+stroke: Embolic infarction occurs when emboli formed elsewhere in the circulatory system, typically in the heart as a consequence of atrial fibrillation, or in the carotid arteries, break off, enter the cerebral circulation, then lodge in and block brain blood vessels.
+stroke: Anemia causes increased blood flow in the blood circulatory system.
+stroke: This is especially the case for younger people with posterior circulation infarcts.
+stroke: Because the embolic blockage is sudden in onset, symptoms are usually maximal at the start.
+stroke: Complete recovery is unusual but not impossible and most people will improve to some extent: proper diet and exercise are known to help the brain to recover.
+stroke: Primary among these are pregnancy, childbirth, menopause, and the treatment thereof (HRT).
+stroke: Clinical studies confirm the importance of orthoses in stroke rehabilitation.
+stroke: Emboli most commonly arise from the heart (especially in atrial fibrillation) but may originate from elsewhere in the arterial tree.
+stroke: Evidence suggests that electrical stimulation can improve muscle strength after stroke.
+stroke: The reduction could be to a particular part of the brain depending on the cause.
+stroke: Lowering blood pressure has been conclusively shown to prevent both ischemic and hemorrhagic strokes.
+stroke: Daily rehabilitation exercises should continue to be part of the daily routine for people who have had stroke.
+stroke: Cognitive and psychological outcome after stroke can be affected by the age at which the stroke happened, pre-stroke baseline intellectual functioning, psychiatric history and whether there is pre-existing brain pathology.
+stroke: A silent stroke typically causes lesions which are detectable via the use of neuroimaging such as MRI.
+stroke: This causes the endothelial cells of the blood vessels to express adhesion factors which encourages the clotting of blood and formation of thrombus.
+stroke: A stroke is diagnosed through several techniques: a neurological examination (such as the NIHSS), CT scans (most often without contrast enhancements) or MRI scans, Doppler ultrasound, and arteriography.
+stroke: The most widely used anticoagulant to prevent a thromboembolic stroke in people with nonvalvular atrial fibrillation is the oral agent warfarin while a number of newer agents including dabigatran are alternatives which do not require prothrombin time monitoring.
+stroke: There are classification systems for an acute ischemic stroke.
+stroke: South Asians are at particularly high risk of stroke, accounting for 40% of global stroke deaths.
+stroke: Screening for carotid artery narrowing has not been shown to be a useful test in the general population.
+stroke: The risk of a  silent stroke increases with age, but may also affect younger adults and children, especially those with acute anemia.
+stroke: In addition to the above central nervous system pathways, the brainstem gives rise to most of the twelve cranial nerves.
+stroke: The concentration of glutamate outside the cells of the nervous system is normally kept low by so-called uptake carriers, which are powered by the concentration gradients of ions (mainly Na+) across the cell membrane.
+stroke: Some medical centers have used hyperacute MRI in experimental studies for people initially thought to have a low likelihood of a stroke, and in some of these people, a stroke has been found which was then treated with thrombolytic medication.
+stroke: There is yet no commonly used blood test for the stroke diagnosis itself, though blood tests may be of help in finding out the likely cause.
+stroke: Benefit is greater the earlier it is used.
+stroke: MI does not improve motor function after stroke and does not seem to cause significant adverse events.
+stroke: About 87% of strokes are ischemic, with the rest being hemorrhagic.
+stroke: Damage to the blood vessel lining or endothelium may occur.
+stroke: Psychotherapy sessions may have a small effect on improving mood and preventing depression after stroke.
+stroke: Physical exercises as part of a rehabilitation program following stroke appear safe.
+stroke: Electrical stimulation to the antagonist muscles or vibrations has also been used with some success.
+stroke: Family members may have a genetic tendency for stroke or share a lifestyle that contributes to stroke.
+stroke: As a result, the transmembrane ion gradients run down, and glutamate transporters reverse their direction, releasing glutamate into the extracellular space.
+stroke: The symptoms of a stroke can be permanent.
+stroke: Infarcts are more likely to undergo hemorrhagic transformation (leaking of blood into the damaged area) than other types of ischemic stroke.
+stroke: Definitive therapy within the first few hours is aimed at removing the blockage by breaking the clot down (thrombolysis), or by removing it mechanically (thrombectomy).
+stroke: It does not, however, improve chances of survival.
+stroke: The word stroke was used as a synonym for apoplectic seizure as early as 1599, and is a fairly literal translation of the Greek term.
+stroke: Validated instruments such as the Barthel scale may be used to assess the likelihood of a person who has had stroke being able to manage at home with or without support subsequent to discharge from a hospital.
+stroke: Cognitive deficits resulting from stroke include perceptual disorders, aphasia, dementia, and problems with attention and memory.
+stroke: These benefits or lack of benefits occurred regardless of the age of the person treated.
+stroke: FAST is less reliable in the recognition of a posterior circulation stroke.
+stroke: Those with atrial fibrillation have a 5% a year risk of having a stroke, and those with valvular atrial fibrillation have an even higher risk.
+stroke: Having stroke in the past greatly increases one's risk of future stroke.
+stroke: However, if ischemia is mild, the damage will occur slowly and may take up to 6 hours to completely destroy the brain tissue.
+stroke: Nursing care is fundamental in maintaining skin care, feeding, hydration, positioning, and monitoring vital signs such as temperature, pulse, and blood pressure.
+stroke: Those who experience a stroke are at risk of paralysis, which could result in a self-disturbed body image, which may also lead to other social issues.
+stroke: Blood flow to these areas does not necessarily stop, but instead it may lessen to the point where brain damage can occur.
+stroke: The most improvement happens when 2–5 hours of therapy is provided each week over 4–5 days.
+stroke: Certain cases may benefit from thrombectomy up to 24 hours after the onset of symptoms.
+stroke: In 2023, 15 million people worldwide had a stroke.
+stroke: The diagnosis is clinical, with assistance from the imaging techniques.

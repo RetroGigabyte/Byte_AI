@@ -1,0 +1,172 @@
+github: Users are able to choose from a range of LLMs for some features.
+github: GitHub is integrated with the Jekyll static website and blog generator and GitHub continuous integration pipelines.
+github: GitHub renamed Octopuss to Octocat, and trademarked the character along with the new name.
+github: According to Microsoft, GitHub continued to operate independently as a community, platform and business.
+github: Gists' URLs use hexadecimal IDs, and edits to Gists are recorded in a revision history, which can show the text difference of thirty revisions per page with an option between a "split" and "unified" view.
+github: GitHub Actions, which allows building continuous integration and continuous deployment pipelines for testing, releasing and deploying software without the use of third-party websites/platforms.
+github: On December 4, 2014, Russia blacklisted GitHub.com because GitHub initially refused to take down user-posted suicide manuals.
+github: That same year, the site was used by over 100,000 users, according to GitHub, and had grown to host 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.
+github: It is commonly used to host open source software development projects.
+github: Over five billion developer contributions were made to more than 500 million open source projects in 2024.
+github: GitHub is subject to US trade control laws, and is committed to full compliance with applicable law.
+github: Since GitHub wanted Octopuss for their logo (a use that the iStock license disallows), they negotiated with Oxley to buy exclusive rights to the image.
+github: User requests to block the Copilot features have been the #1 and #2 most popular topics of the past 12 months on GitHub's organization community page as of September 2025.
+github: A year later, this number doubled.
+github: There have been concerns from developers Kyle Simpson, JavaScript trainer and author, and Rafael Laguna, CEO at Open-Xchange over Microsoft's purchase, citing uneasiness over Microsoft's handling of previous acquisitions, such as Nokia's mobile business and Skype.
+github: At that time, about 6,200 repositories had been forked at least once, and 4,600 had been merged.
+github: ReadWriteWeb reported that GitHub had surpassed SourceForge and Google Code in total number of commits for the period of January to May 2011.
+github: In 2010, GitHub was hosting 1 million repositories.
+github: This announcement was made during GitHub Universe 2019, with the apps being released in beta for iOS initially, followed by an Android beta and full public release in early 2020.
+github: However, following an internal investigation, GitHub confirmed the claims.
+github: As a result, we take seriously our responsibility to examine government mandates thoroughly to be certain that users and customers are not impacted beyond what is required by law.
+github: The ICE contract dispute came into focus again in June 2020 due to the company's decision to abandon "master/slave" branch terminology, spurred by the George Floyd protests and Black Lives Matter movement.
+github: On June 19, 2018, GitHub expanded its GitHub Education by offering free education bundles to all schools.
+github: They've done a good job on that.
+github: one that pulses a quadrillion (1,000,000,000,000,000) times per second.
+github: The preview launched in 2021 for VSCode users and was based on OpenAI's Codex model.
+github: The leak was first reported by the New York Times and was part of a legal filing Twitter submitted to the United States District Court for the Northern District of California.
+github: GitLocalize: provides utilities to manage project translation and internationalization.
+github: The Campus Experts program is open to university students 18 years and older worldwide.
+github: GitHub Campus Experts are one of the primary ways that GitHub funds student-oriented events and communities, Campus Experts are given access to training, funding, and additional resources to run events and grow their communities.
+github: In 2014, the company added a layer of middle management in response to harassment allegations against its co-founder and then-CEO, Thomas Preston-Werner, and his wife Theresa.
+github: On December 31, 2014, India blocked GitHub.com along with 31 other websites over pro-ISIS content posted by users; the block was lifted three days later.
+github: In 2015, GitHub opened an office in Japan, its first outside of the U.S.
+github: Harvard Business Review argued that Microsoft was intending to acquire GitHub to get access to its user base, so it can be used as a loss leader to encourage the use of its other development products and services.
+github: Tom Preston-Werner débuted the feature at a Ruby conference in 2008.
+github: On February 28, 2018, GitHub fell victim to the third-largest distributed denial-of-service (DDoS) attack in history, with incoming traffic reaching a peak of about 1.35 terabits per second.
+github: As a result of the scandal, Preston-Werner resigned from his position as CEO.
+github: On June 4, 2018, Microsoft announced its intent to acquire GitHub for US$7.5 billion (~$9.2 billion in 2024).
+github: Detractors of GitHub describe the branch renaming to be a form of performative activism and have urged GitHub to cancel its ICE contract instead.
+github: Furthermore, users can still use similar services like Patreon and Open Collective and link to their websites.
+github: It uses Git to provide distributed version control and GitHub itself provides access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
+github: GitHub also allows users to browse public repositories on the site.
+github: The attack, which appeared to originate from China, primarily targeted GitHub-hosted user content describing methods of circumventing Internet censorship.
+github: Concerns over the sale bolstered interest in competitors: Bitbucket (owned by Atlassian), SourceForge (owned by Slashdot) and GitLab reported that they had seen spikes in new users intending to migrate projects from GitHub to their respective services.
+github: As of 2023, GitHub was estimated to generate $1 billion in revenue annually.
+github: The character was created by graphic designer Simon Oxley as clip art to sell on iStock, a website that enables designers to market royalty-free digital images.
+github: In April 2014, GitHub released a statement denying Horvath's allegations.
+github: Twitter claimed that the postings infringed on copyright property owned by them, and asked the court for information to identify the user who posted the source code to GitHub, under the username "FreeSpeechEnthusiast".
+github: Because each "gist" is its own Git repository, multiple code snippets can be contained in a single page, and they can be pushed and pulled using Git.
+github: On January 16, 2013, GitHub passed the 3 million users mark and was then hosting more than 5 million repositories.
+github: These include curated lists of recommended software which have become known as awesome lists.
+github: On October 8, 2016, Turkey blocked GitHub to prevent email leakage of a hacked account belonging to the country's energy minister.
+github: The GitHub Archive Program is also working with partners on Project Silica, in an attempt to store all public repositories for 10,000 years.
+github: The deal closed on October 26, 2018.
+github: In November 2020, source code for GitHub Enterprise Server was leaked online in an apparent protest against DMCA takedown of youtube-dl.
+github: GitHub partnered with Bitnami, Crowdflower, DigitalOcean, DNSimple, HackHands, Namecheap, Orchestrate, Screen hero, SendGrid, Stripe, Travis CI, and Unreal Engine to launch the program.
+github: Employees could choose to work on projects that interested them (open allocation), but the chief executive set salaries.
+github: Waffle.io: project management for software teams, which allows users to automatically see pull requests, automated builds, reviews, and deployments across repositories.
+github: The additional software that provides the GitHub user interface was written using Ruby on Rails and Erlang by GitHub, Inc.
+github: To become a Campus Expert, applicants must complete an online training course with multiple modules to develop community leadership skills.
+github: The public beta was announced on May 23, 2019, and the project accepts waitlist registrations.
+github: Rollbar: provides real-time debugging tools and full-stack exception reporting.
+github: Soon after, GitHub confirmed that it was now blocking developers in Iran, Crimea, Cuba, North Korea, and Syria from accessing private repositories.
+github: This includes keeping public repositories services, including those for open source projects, available and accessible to support personal communications involving developers in sanctioned regions.
+github: GitHub Pages supports HTTPS encryption.
+github: Gist builds on the traditional simple concept of a pastebin by adding version control for code snippets, easy forking, and TLS encryption for private pastes.
+github: The terms of service state, "By setting your repositories to be viewed publicly, you agree to allow others to view and fork your repositories."
+github: In February 2020, GitHub launched in India under the name GitHub India Private Limited.
+github: The lead investor was Sequoia Capital, and other investors were Andreessen Horowitz, Thrive Capital, IVP (Institutional Venture Partners), and other venture capital funds.
+github: It is the world's largest source code host as of June 2023.
+github: Anyone can browse and download public repositories, but only registered users can contribute content to repositories.
+github: The 21TB of data was stored on piqlFilm archival film reels as matrix (2D) barcode (Boxing barcode), and is expected to last 500–1,000 years.
+github: In June 2025, the amount of repositories on GitHub surpassed one billion.
+github: All GitHub Pages content is stored in a Git repository as files served to visitors verbatim or in Markdown format.
+github: As a result, I consider GitHub useless for these kinds of things.
+github: By the end of the year, the number of repositories was twice as great, reaching 10 million repositories.
+github: For version control, Git (and, by extension, GitHub) allows pull requests to propose changes to the source code.
+github: GitHub Copilot was one of the first widely adopted AI-assisted software development tools.
+github: Previously, only public repositories were free.
+github: Immigration and Customs Enforcement (ICE) for the use of their on-site product GitHub Enterprise Server.
+github: Documentation, including automatically rendered README files in a variety of Markdown-like file formats (see README § On GitHub)
+Wikis, with some repositories consisting solely of wiki content.
+github: Those services include:
+github: Collaborative innovation network
+Collaborative intelligence
+Commons-based peer production
+Comparison of source code hosting facilities
+DevOps
+Gitea
+GitLab
+Codeberg
+Timeline of GitHub
+GitHub Copilot
+Replit
+github: On November 3, 2021, GitHub announced that CEO Nat Friedman, who became CEO when Microsoft acquired GitHub, was stepping down as CEO and GitHub's chief product officer, Thomas Dohmke, would become CEO on November 15.
+github: The letter has been signed by more than 700 people.
+github: Each time the content source is updated, Jekyll regenerates the website and automatically serves it via GitHub Pages infrastructure.
+github: The company was then valued at approximately $2 billion.
+github: The count of revisions, stars, and forks is indicated on the gist page.
+github: Julio Avalos, then general counsel and administrative officer, assumed control over GitHub's business operations and day-to-day management.
+github: As of January 2023, GitHub reported having over 100 million developers and more than 420 million repositories, including at least 28 million public repositories.
+github: In addition, GitHub supports the following formats and features:
+github: GitHub wanted to reduce reliance on third-party services and keep developers within the GitHub ecosystem.
+github: In Git terminology, this action is called "committing" and one instance of it is a "commit." A history of all commits is kept and can be viewed at a later time.
+github: developers Wanstrath, Hyett, and Preston-Werner.
+github: It was also revealed that using GitHub while visiting sanctioned countries could result in similar actions occurring on a user's account.
+github: Unlike many other CI/CD tools, GitHub Actions launched with a marketplace where developers could share and reuse prebuilt actions (e.g., testing, linting, deployments).
+github: The archive contained the code of all active public repositories, as well as that of dormant but significant public repositories.
+github: In July 2012, four years after the company was founded, Andreessen Horowitz invested $100 million in venture capital with a $750 million valuation.
+github: This contract was renewed in 2019, despite internal opposition from many GitHub employees.
+github: Co-founder and product lead, Chris Wanstrath, became CEO.
+github: Websites generated through this service are hosted either as subdomains of the github.io domain or can be connected to custom domains bought through a third-party domain name registrar.
+github: With a registered user account, users can have discussions, manage repositories, submit contributions to others' repositories, and review changes to code.
+github: It was first announced in October 2018 at GitHub Universe as a way to automate workflows, but the full general availability (GA) release came a year later in 2019.
+github: Developers who feel that they should not have restrictions can appeal for the removal of said restrictions, including those who only travel to, and do not reside in, those countries.
+github: This acquisition was in line with Microsoft's business strategy under CEO Satya Nadella, which has seen a larger focus on cloud computing services, alongside the development of and contributions to open-source software.
+github: However, GitHub reopened access to GitHub Pages days later, for public repositories regardless of location.
+github: At the same time, GitHub's vision is to be the global platform for developer collaboration, no matter where developers reside.
+github: On March 26, 2015, a large-scale DDoS attack was launched against GitHub.com that lasted for just under five days.
+github: Emojis
+Nested task-lists within files
+Visualization of geospatial data
+3D render files can be previewed using an integrated STL file viewer that displays the files on a "3D canvas." The viewer is powered by WebGL and Three.js.
+github: On June 11, 2019, it was announced that former Bitnami chief operating officer (COO) and co-founder, Erica Brescia, would be GitHub's COO.
+github: Unregistered users could upload Gists until March 19, 2018, when uploading Gists was restricted to logged-in users, reportedly to mitigate spamming on the page of recent Gists.
+github: GitHub, headquartered in San Francisco, is operated by Github, Inc., a subsidiary of Microsoft since 2018.
+github: After a day, Russia withdrew its block, and GitHub began blocking specific content and pages in Russia.
+github: The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P.
+github: On April 14, 2020, GitHub made "all of the core GitHub features" free for everyone, including "private repositories with unlimited collaborators." In May 2019 Github, Inc.
+github: began encrypting source code on github.com by default.
+github: GitHub ( ) is a proprietary developer platform that allows developers to create, store, manage, and share their code.
+github: As a result of the investigation, GitHub reached out to the employee, and the company's head of human resources resigned.
+github: Like the rest of GitHub, it includes free and paid service tiers.
+github: The firm then announced it would implement new initiatives and trainings "to make sure employee concerns and conflicts are taken seriously and dealt with appropriately."
+github: Under Microsoft, the service was led by Xamarin's Nat Friedman, reporting to Scott Guthrie, executive vice president of Microsoft Cloud and AI.
+github: Some users and projects have moved to open source alternatives such as Codeberg.
+github: Later, GitHub hired illustrator Cameron McEfee to adapt Octocat for different purposes on the website and promotional materials; McEfee and various GitHub users have since created hundreds of variations of the character, which are available on The Octodex.
+github: On August 11, 2025 Thomas Dohmke announced that he was to step down as CEO at the end of 2025, to pursue entrepreneurial endeavors; Microsoft did not immediately share its intention to find a direct replacement.
+github: The company, GitHub, Inc., was formed in 2007 and is located in San Francisco.
+github: In July 2020, GitHub stored a February archive of the site in an abandoned mountain mine in Svalbard, Norway, part of the Arctic World Archive and not far from the Svalbard Global Seed Vault.
+github: Hyett, and Scott Chacon after it had been available for a few months as a beta release.
+github: The topics remain unanswered.
+github: Travis CI: continuous integration service.
+github: The fundamental software that underpins GitHub is Git, written by Linus Torvalds, creator of Linux.
+github: GitHub has a $200,000 contract with U.S.
+github: It's fine for hosting, but the pull requests and the online commit editing, are just pure garbage."
+github: It aims to write archives into the molecular structure of quartz glass platters, using a high-precision petahertz pulse laser, i.e.
+github: On February 24, 2009, GitHub announced that within the first year of being online, GitHub had accumulated over 46,000 public repositories, 17,000 of which were formed in the previous month.
+github: Multiple desktop clients and Git plugins are also available.
+github: Users who can review the proposed changes can see a diff between the requested changes and approve them.
+github: The illustration GitHub chose was a character that Oxley had named Octopuss.
+github: According to GitHub, the source code came from GitHub accidentally sharing the code with Enterprise customers themselves, not from an attack on GitHub servers.
+github: GitHub has forbidden the use of VPNs and IP proxies to access the site from sanctioned countries, as purchase history and IP addresses are how it flags users, among other sources.
+github: In March 2020, GitHub announced that it was acquiring npm, a JavaScript packaging vendor, for an undisclosed sum of money.
+github: Hyett, Tom Preston-Werner, and Scott Chacon using Ruby on Rails, and started in February 2008.
+github: In 2016, GitHub announced the launch of the GitHub Campus Experts program to train and encourage students to grow technology communities at their universities.
+github: In September 2019, GitHub acquired Semmle, a code analysis tool.
+github: Like repositories, Gists can be forked, "starred", i.e., publicly bookmarked, and commented on.
+github: GitHub Copilot is now available to use on GitHub.com directly, on the command line, as well as in several IDEs.
+github: After an investigation, GitHub's COO said there were "significant errors of judgment and procedure" with the company's decision to fire the employee.
+github: It can be run on an organization's hardware or a cloud provider and has been available as of November 2011.
+github: Labels, milestones, responsibility assignment, and a search engine are available for issue tracking.
+github: The deal was closed on April 15, 2020.
+github: GitHub Actions provided hosted runners (Linux, Windows, macOS) that could dynamically scale, eliminating the need for self-managed build servers.
+github: An open letter from members of the open source community was shared on GitHub in December 2019, demanding that the company drop its contract with ICE and provide more transparency into how it conducts business and partnerships.
+github: In early July 2020, the GitHub Archive Program was established to archive its open-source code in perpetuity.
+github: Notably, the billionth repository contained nothing but the word "shit".
+github: In July 2015 GitHub raised another $250 million (~$322 million in 2024) of venture capital in a series B round.
+github: GitHub began offering limited private repositories at no cost in January 2019 (limited to three contributors per project).
+github: As of November 13, 2019, five workers had resigned over the contract.
+github: GitHub responded to complaints and the media through a spokesperson, saying:
+github: In addition, the site provides social networking-like functions such as feeds, followers, wikis (using wiki software called Gollum), and a social network graph to display how developers work on their versions ("forks") of a repository and what fork (and branch within that fork) is newest.

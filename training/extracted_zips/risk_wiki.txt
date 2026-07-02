@@ -1,0 +1,437 @@
+risk: Mild risk follows normal or near-normal probability distributions, is subject to regression to the mean and the law of large numbers, and is therefore relatively predictable.
+risk: R
+        =
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle R=p(x)}
+risk: Against the Gods ISBN 0-471-29563-9.
+risk: Bernstein P.
+risk: Woodhead, N.
+risk: "Cognitive risk taking after frontal or temporal lobectomy I.
+risk: Unacceptable risks – only permitted in exceptional circumstances.
+risk: PMID 4022303.
+risk: 21 (1): 119–30.
+risk: A paper exploring the foundations of risk.
+risk: ISBN 978-0-7821-4411-6.
+risk: Other general definitions include:
+risk: S2CID 11617465.
+risk: Wild risk follows fat-tailed distributions, e.g., Pareto or power-law distributions, is subject to regression to the tail (infinite mean or variance, rendering the law of large numbers invalid or ineffective), and is therefore difficult or impossible to predict.
+risk: With slight rewording it became the definition in ISO Guide 73.
+risk: Early uses of the word 'risk' coincided with an erosion of belief in divinely ordained fate.
+risk: Kogan-Page (2012) ISBN 978-0-7494-6539-1
+risk: doi:10.1177/0146167285114007.
+risk: AMACOM/American Management Association.
+risk: On realism and constructivism in the social sciences research on risk, technology and the environment" (PDF).
+risk: The international standard for risk management, ISO 31000, provides general guidelines and principles on managing risks faced by organizations.
+risk: Then a measure 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  
+ is a risk-neutral measure if
+risk: Especially in domains where we lack predictive power, such approaches allow us to consider risk without relying on unknown probabilities, as illustrated by the normic account of suicide risk.
+risk: Michael Fischer and Ewan Ferlie (2013) find that contradictions between formal risk controls and the role of subjective factors in human services (such as the role of emotions and ideology) can undermine service values, so producing tensions and even intractable and 'heated' conflict.
+risk: J.; Robbins, T.
+risk: Many ancient societies believed in divinely determined fates, and attempts to influence the gods can be seen as early forms of risk management.
+risk: Uncertainty must be taken in a sense radically distinct from the familiar notion of Risk, from which it has never been properly separated.
+risk: (PDF file).
+risk: P
+      
+    
+    {\displaystyle P}
+  
+ is a knowledge-based probability of the event
+risk: For example, one experiment showed that belief in competence correlated with risk-taking behavior.
+risk: 2nd Edition.
+risk: doi:10.1016/j.futures.2008.09.017.
+risk: Ebert et al.
+risk: Further, intuitive responses have been found to be less risk-averse than subsequent reflective response.
+risk: The synthesis of phonemic and semantic information".
+risk: PMID 16060321.
+risk: "Uncertainty of outcome"
+This definition was adopted by the UK Cabinet Office (2002) to encourage innovation to improve public services.
+risk: It comprises the assessment of risk as regards an organisation's objectives and strategies, as well as risk mitigation options, such as risk transformation, risk transfer, risk avoidance, risk reduction, and risk retention.
+risk: (2020) suggest distinguishing risk monists from risk pluralists: risk monists argue that there is just one correct way to understand risk.
+risk: A risk-neutral person's utility is proportional to the expected value of the payoff.
+risk: Porteous, Bruce T.; Pradip Tapadar (December 2005).
+risk: Anthony Giddens and Ulrich Beck argued that whilst humans have always been subjected to a level of risk – such as natural disasters – these have usually been perceived as produced by non-human forces.
+risk: Typical outcomes expressed this way include:
+risk: 23 (3): 359–369.
+risk: The Cambridge Advanced Learner's Dictionary defines risk as "the possibility of something bad happening".
+risk: PMID 12849765.
+risk: People also show risk aversion, such that they reject fair risky offers because of the perception of loss.
+risk: These qualitative data helped investors and underwriters judge how dicey a proposed voyage felt.
+risk: S2CID 45154180.
+risk: They may be quantitative or qualitative, and can include positive as well as negative consequences.
+risk: ISO 31000 defines it in terms of its components as "the overall process of risk identification, risk analysis and risk evaluation":
+risk: This definition comes from Blount's "Glossographia" (1661) and was the main definition in the OED 1st (1914) and 2nd (1989) editions.
+risk: Instead of relying on numbers, people used narratives and letters.
+risk: Pascal's mugging is a philosophical thought experiment that demonstrates issues in assessing risk solely by the expected value of loss or return.
+risk: Risk identification is "the process of finding, recognizing and recording risks".
+risk: 11 (4): 409–417.
+risk: 28 (2): 131–139.
+risk: Kim Heldman (2005).
+risk: OCLC 237794267.
+risk: (1921) Risk, Uncertainty and Profit, Chicago: Houghton Mifflin Company.
+risk: Global Society.
+risk: Wildavsky, Aaron; Wildavsky, Adam (2008).
+risk: John Handmer; Paul James (2005).
+risk: Miller, L.; Milner, B.
+risk: Dirk Proske (2008).
+risk: Paul Slovic's "psychometric paradigm" assumes that risk is subjectively defined by individuals, influenced by factors such as lack of control, catastrophic potential, and severity of consequences, such that risk perception can be psychometrically measured by surveys.
+risk: "Cognitive risk taking after frontal or temporal lobectomy II.
+risk: It can be positive, negative or both, and can address, create or result in opportunities and threats.
+risk: Bibcode:2009EOSTr..90...18E.
+risk: "Potential returns from an event ['a thing that happens or takes place'], where the returns are any changes, effects, consequences, and so on, of the event"
+This definition from Newsome (2014) expands the neutrality of 'risk' akin to the UK Cabinet Office (2002) and Knight (1921).
+risk: "Trust Us and Be Scared: The Changing Nature of Risk".
+risk: By contrast, pluralists claim that there are different, valid notions of risk.
+risk: Contemporary Social Psychology.
+risk: doi:10.1016/0028-3932(85)90022-3.
+risk: Practical Project Risk Management: The Atom Methodology.
+risk: In particular, because of bounded rationality, the risk of extreme events is discounted because the probability is too low to evaluate intuitively.
+risk: S2CID 13018991.
+risk: Extreme value methods with applications to finance.
+risk: N
+      
+    
+    {\displaystyle N}
+  
+ is the number of scenarios chosen to describe the risk
+Risks expressed in this way can be shown in a risk register or a risk matrix.
+risk: Miller, L (1985).
+risk: ISBN 978-1-56726-202-5.
+risk: Risk tracks the closeness of such bad outcomes rather than their probability; hence a low-chance disaster may still count as high risk if only a small change would have led to it.
+risk: Identifying and Managing Project Risk: Essential Tools for Failure-Proofing Your Project.
+risk: Q
+      
+    
+    {\displaystyle Q}
+  
+ 
+  
+    
+      
+        ∀
+        
+        i
+        =
+        1
+        ,
+        …
+        ,
+        d
+      
+    
+    {\displaystyle \forall \,i=1,\dots ,d}
+  
+.
+risk: In particular, the accuracy of risk perception can be adversely affected by the affect heuristic, which relies on emotion to make decisions.
+risk: This theory has received support from retrospective studies and evolutionary psychology.
+risk: ISBN 978-0-8144-0761-5.
+risk: Economic Capital and Financial Risk Management for Financial Services Firms and Conglomerates.
+risk: Risk is the possibility of something bad happening, comprising a level of uncertainty about the effects and implications of an activity, particularly negative and undesirable consequences.
+risk: It will appear that a measurable uncertainty, or "risk" proper, as we shall use the term, is so far different from an unmeasurable one that it is not in effect an uncertainty at all.
+risk: It allowed "risk" to describe either "positive opportunity or negative threat of actions and events".
+risk: Risk analysis often uses data on the probabilities and consequences of previous events.
+risk: In finance, an elementary measure of risk for financial asset prices is with volatility, the degree of variation of a trading price over time, usually measured by the standard deviation of logarithmic returns.
+risk: The right prefrontal cortex has been shown to take a more global perspective, while greater left prefrontal activity relates to local or focal processing.
+risk: Available from: https://web.archive.org/web/20090218231745/http://networks.csip.org.uk/Personalisation/Topics/Browse/Risk/ [Accessed 21 July 2008].
+risk: "Measuring risk literacy: The Berlin Numeracy Test" (PDF).
+risk: The term Risk society was coined in the 1980s and its popularity during the 1990s was both as a consequence of its links to trends in thinking about wider modernity, and also to its links to popular discourse, in particular the growing environmental concerns during the period.
+risk: Divus Thomas.
+risk: Risk is assessed through system functions and norms rather than bare probability.
+risk: "Uncertain events affecting objectives"
+This definition was adopted by the Association for Project Management (1997).
+risk: In safety contexts, where risk sources are known as hazards, this step is known as "hazard identification".
+risk: Adults have an intuitive understanding of risk, which may not be exclusive to humans.
+risk: Holton, Glyn A.
+risk: "Human interaction with uncertainty"
+This definition comes from Cline (2015) in the context of adventure education.
+risk: Giddens defines these two types of risks as external risks and manufactured risks.
+risk: Despite the difficulty of thinking statistically, people are typically subject to the overconfidence effect in their judgements, tending to overestimate their understanding of the world and underestimate the role of chance, with even experts subject to this effect.
+risk: Captains and merchants shared voyage stories at coffeehouses, comparing notes about hazards on new routes and seasonal patterns.
+risk: 41 (3): 156–170.
+risk: 41 (11): 1474–1483.
+risk: Risk: The Science and Politics of Fear, Random House Inc.
+risk: "The contributions of lesion laterality and lesion volume to decision-making impairment following frontal lobe damage".
+risk: It often refers to the expected annual probability of death, and is then comparable to the mortality rate.
+risk: The model implies this 'systematic' source of risk should be the only factor considered, as all other sources of risk can be diversified away.
+risk: Fundamentals of Risk Management.
+risk: Hansson, Sven Ove.
+risk: 11: 149–152.
+risk: Another way of summarizing the size of the distribution's tail is the loss with a certain probability of exceedance, that is, the value at risk.
+risk: On the normic account of risk, a situation is risky when the bad outcome would be normal or unsurprising.
+risk: accordingly restrict the term "uncertainty" to cases of the non-quantitive type.
+risk: This combines the probabilities and consequences into a single value.
+risk: On this view, people who lived before statistics were developed may have been doing something legitimate when they estimated risks—even if those estimates conflict with a statistical notion.
+risk: U
+      
+    
+    {\displaystyle U}
+  
+ is an assessment of uncertainties
+risk: A Philosophical Introduction to the Theory of Risk Evaluation and Measurement.
+risk: "Source of harm"
+The earliest use of the word "risk" was as a synonym for the much older word "hazard", meaning a potential source of harm.
+risk: x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+  
+ is the consequence of the scenario
+risk: This can also be expressed as a cumulative distribution function (CDF) (or S curve).
+risk: However, most decision-makers are not actually risk-neutral and would not consider these equivalent choices.
+risk: 118 (1): 221–249.
+risk: "Risk", The Stanford Encyclopedia of Philosophy (Summer 2007 Edition), Edward N.
+risk: Thus, Knightian uncertainty is immeasurable, not possible to calculate, while in the Knightian sense risk is measurable.
+risk: Rescher, Nicholas (1983).
+risk: doi:10.1016/s0028-3932(03)00081-2.
+risk: One's attitude may be described as risk-averse, risk-neutral, or risk-seeking.
+risk: While including several other definitions, the OED 3rd edition defines risk as "(Exposure to) the possibility of loss, injury, or other adverse or unwelcome circumstance; a chance or situation involving such a possibility".
+risk: Cultural theory can be used to explain why it can be difficult for people with different world-views to agree about whether a hazard is acceptable, and why risk assessments may be more persuasive for some people than others.
+risk: Henderson (ed.).
+risk: Niklas Luhmann, 1996: Modern Society Shocked by its Risks (= University of Hong Kong, Department of Sociology Occasional Papers 17), Hong Kong, available via HKU Scholars HUB
+risk: A
+      
+    
+    {\displaystyle A}
+  
+ is an event that might occur
+risk: T.; Galesic, M.; Schulz, E.; Ghazal, S.; Garcia-Retamero, R.
+risk: Some have argued that the definition of risk is subjective and context-specific.
+risk: Risk criteria are intended to guide decisions on these issues.
+risk: ISBN 978-1-4039-3608-0.
+risk: Frequencies of property damage or total loss.
+risk: Clark, L.; Manes, F.; Antoun, N.; Sahakian, B.
+risk: At its most basic, the perception of risk is an intuitive form of risk analysis.
+risk: In decision theory, regret (and anticipation of regret) can play a significant part in decision-making, distinct from risk aversion.
+risk: However, there is little quantitative evidence that shows cultural biases are strongly predictive of risk perception.
+risk: When small, frequencies are numerically similar to probabilities, but have dimensions of ⁠1/t⁠ and can sum to more than 1.
+risk: Tom Kendrick (2003).
+risk: (Cited at: [2], § I.I.26.).
+risk: The synthesis of fragmented visual information".
+risk: 23 (3): 371–379.
+risk: ISBN 978-3-540-79554-4.
+risk: London: CRC.
+risk: Sanderson, H.
+risk: Modern equivalents refer to "unwanted events" or "something bad that might happen".
+risk: Gregory, Kent J.; Bibbo, Giovanni; Pattison, John E.
+risk: Other biases that affect the perception of risk include ambiguity aversion.
+risk: Zalta (ed.), forthcoming [1].
+risk: ISBN 978-0-86597-665-8.
+risk: "Defining Risk", Financial Analysts Journal, 60 (6), 19–25.
+risk: The Oxford English Dictionary (OED) cites the earliest use of the word in English (in the spelling of risque from its French original, 'risque') as of 1621, and the spelling as risk from 1655.
+risk: S2CID 46447795.
+risk: As an example, one of the leading causes of death is road accidents caused by drunk driving – partly because any given driver frames the problem by largely or totally ignoring the risk of a serious or fatal accident.
+risk: The associated formula for calculating risk is then:
+risk: The simplest case is a binary possibility of Accident or No accident.
+risk: Judgment and Decision Making.
+risk: Theoretical models, such as Monte Carlo simulation and Quantitative risk assessment software.
+risk: doi:10.1007/bf03178705.
+risk: K
+      
+    
+    {\displaystyle K}
+  
+ is the background knowledge that U and P are based on
+risk: The theory outlines two categories, the degree of binding to social groups, the degree of social regulation.
+risk: "Contradictory approaches?
+risk: Risk evaluation involves comparing estimated levels of risk against risk criteria to determine the significance of the risk and make decisions about risk treatment actions.
+risk: Tolerable risks – to be kept as low as reasonably practicable (ALARP), taking into account the costs and benefits of further risk reduction.
+risk: PMID 4022304.
+risk: Management Concepts.
+risk: Jossey-Bass.
+risk: Hazards with high perceived risk are therefore, in general, seen as less acceptable and more in need of reduction.
+risk: Catalogue of risks – Natural, Technical, Social and Health Risks.
+risk: Indianapolis: Library of Economics and Liberty.
+risk: For example, frequency-number diagrams show the annual frequency of exceeding given numbers of fatalities.
+risk: Palgrave Macmillan.
+risk: It is rarely possible to eliminate risks altogether without discontinuing the activity.
+risk: Modern portfolio theory tells us an optimal combination of weights creates an optimal portfolio - known as the tangency portfolio - that still has undiversifiable risk.
+risk: s
+          
+            i
+          
+        
+      
+    
+    {\displaystyle s_{i}}
+  
+ is a scenario describing a possible event
+risk: where 
+  
+    
+      
+        
+          R
+          
+            i
+          
+        
+      
+    
+    {\displaystyle R_{i}}
+  
+ denotes the return of asset 
+  
+    
+      
+        i
+        =
+        1
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle i=1,\dots ,n}
+  
+.
+risk: "Chance of harm"
+This definition comes from Johnson's "Dictionary of the English Language" (1755), and has been widely paraphrased, including "possibility of loss" or "probability of unwanted events".
+risk: For example, a risk-neutral person would consider 20% chance of winning $1 million exactly as desirable as getting a certain $200,000.
+risk: Note 3: Risk is usually expressed in terms of risk sources, potential events, their consequences and their likelihood.
+risk: "People's autonomy used to be compromised by institution walls, now it's too often our risk management practices", according to John O'Brien.
+risk: Modern societies, however, are exposed to risks such as pollution, that are the result of the modernization process itself.
+risk: "Lateral asymmetry of risky recommendations".
+risk: Australasian Physical and Engineering Sciences in Medicine.
+risk: Risk – The entry of the Stanford Encyclopedia of Philosophy
+risk: (2008) ISBN 0-7710-3299-4.
+risk: A harm counts as high risk when it would occur in the most normal continuations of the present setup; the less departure from normality needed for the harm, the greater the risk.
+risk: {{cite book}}: |journal= ignored (help)
+Gardner D.
+risk: Individual risk - the frequency of a given level of harm to an individual.
+risk: Reference class forecasting is a forecasting method by which biases associated with risks can be mitigated.
+risk: 2008 "A Positive Approach to Risk Requires Person Centred Thinking" London, CSIP Personalisation Network, Department of Health.
+risk: Risk compensation is a theory that suggests that people typically adjust their behavior in response to the perceived level of risk, becoming more careful where they sense greater risk and less careful if they feel more protected.
+risk: C
+      
+    
+    {\displaystyle C}
+  
+ is the consequences of the event
+risk: The ISO defines risk analysis as "the process to comprehend the nature of risk and to determine the level of risk".
+risk: S2CID 143899523.
+risk: Risk management operates at the strategic, operational, and individual level, and may form part of an overarching governance, risk, and compliance strategy.
+risk: Notwithstanding, intuitive perceptions of risk are often inaccurate owing to reliance on psychological heuristics, which are subject to systematic cognitive biases.
+risk: ""Tempo e decisione.
+risk: Bernstein (2012) showed that people used risk estimates before statistics and probability calculations were developed.
+risk: (2011) ISBN 978-1-43983-574-6.
+risk: doi:10.1029/2009EO020009.
+risk: This kind of evidence has led philosophers to think there is more to (objective) risk than the likelihood of an undesirable outcome.
+risk: Tversky and Kahneman can be considered monists in this sense; probability judgments that diverged from the probability calculus were deemed incorrect or biased.
+risk: Frequencies of environmental damage such as oil spills.
+risk: In statistical decision theory, the risk function is defined as the expected value of a given loss function as a function of the decision rule used to make decisions in the face of uncertainty.
+risk: In a situation with several possible accident scenarios, total risk is the sum of the risks for each scenario, provided that the outcomes are comparable:
+risk: S2CID 31082509.
+risk: A common error in risk assessment and analysis is to underestimate the wildness of risk, assuming risk to be mild when in fact it is wild, which must be avoided if risk assessment and analysis are to be valid and reliable, according to Mandelbrot.
+risk: "Decision making and risk taking: Neurological manipulation with a proposed consistency mediation".
+risk: Personality and Social Psychology Bulletin.
+risk: University Press of America.
+risk: In David R.
+risk: Project Manager's Spotlight on Risk Management.
+risk: Metzner-Szigeth, Andreas (2009).
+risk: The availability heuristic is the process of judging the probability of an event by the ease with which instances come to mind.
+risk: It "involves the identification of risk sources, events, their causes and their potential consequences." ISO 31000 describes it as the first step in a risk assessment process, preceding risk analysis and risk evaluation.
+risk: doi:10.1017/S1930297500001819.
+risk: A disadvantage of defining risk as the product of impact and probability is that it presumes, unrealistically, that decision-makers are risk-neutral.
+risk: The term "risk," as loosely used in everyday speech and in economic discussion, really covers two things which, functionally at least, in their causal relations to the phenomena of economic organization, are categorically different.
+risk: Neuropsychologia.
+risk: Risk theory, assessment, and management are applied but substantially differ in different practice areas, such as business, economics, environment, finance, information technology, health, insurance, safety, security, and privacy.
+risk: doi:10.1016/0028-3932(85)90023-5.
+risk: One way of highlighting the tail of this distribution is by showing the probability of exceeding given losses, known as a complementary cumulative distribution function, plotted on logarithmic scales.
+risk: Cultural theory of risk views risk perception as a collective phenomenon by which different cultures select some risks for attention and ignore others, with the aim of maintaining their particular way of life.
+risk: Risk transfer is the shifting of risks from one party to another, typically an insurer.
+risk: Logical models, such as Bayesian networks, fault tree analysis and event tree analysis
+Expert judgement, such as absolute probability judgement or the Delphi method.
+risk: Slovic argues that intuitive emotional reactions are the predominant method by which humans evaluate risk, and that a purely statistical approach to disasters lacks emotion and thus fails to convey the true meaning of disasters and fails to motivate proper action to prevent them.
+risk: Through a web of correspondents, letters became increasingly important as people could update their beliefs about weather, wars, or piracy over long distances.
+risk: The International Organization for Standardization (ISO) 31073 defines risk as:effect of uncertainty on objectives
+Note 1: An effect is a deviation from the expected.
+risk: Hence risk perception varies according to the preoccupations of the culture.
+risk: Risk explained and its appreciation by man traced from earliest times through all the major figures of their ages in mathematical circles.
+risk: Framing is also a fundamental problem with all forms of risk assessment.
+risk: According to the modal account of risk, a situation is risky when nearby possible worlds—differing only slightly from the actual one—contain serious harm.
+risk: R
+        =
+        (
+        
+          A
+          ,
+          C
+          ,
+          U
+          ,
+          P
+          ,
+          K
+        
+        )
+      
+    
+    {\displaystyle R=({A,C,U,P,K})}
+risk: This is heavily used in the pricing of financial derivatives due to the fundamental theorem of asset pricing.
+risk: Group (or societal risk) – the relationship between the frequency and the number of people suffering harm.
+risk: An updated version recommends the following general description of risk:
+risk: In a CAPM world, 
+  
+    
+      
+        
+          β
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \beta _{i}}
+  
+ can be interpreted as the contribution of systemic risk to the risk of asset 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+.
+risk: For example, the tolerability of risk framework, developed by the UK Health and Safety Executive, divides risks into three bands:
+risk: Sometimes it is desirable to increase risks to secure valued benefits.
+risk: Perché Aristotele non-ha un concetto di rischio?" PDF".
+risk: "Risk and Safety".
+risk: In most activities, risks can be reduced by adding further controls or other treatment options, but typically this increases cost or inconvenience.
+risk: Without statistics, what else could they have done?
+risk: Broadly acceptable risks – not normally requiring further reduction.
+risk: Moss' book When All Else Fails explains the US government's historical role as risk manager of last resort.
+risk: Kruger, Daniel J., Wang, X.T., & Wilke, Andreas (2007) "Towards the development of an evolutionarily valid domain-specific risk-taking scale" Evolutionary Psychology (PDF file).
+risk: Concise Encyclopedia of Economics (2nd ed.).
+risk: Note 2: Objectives can have different aspects and categories, and can be applied at different levels.
+risk: "A Standard Approach to Measurement Uncertainties for Scientists and Engineers in Medicine".
+risk: An extension of this is the Capital asset pricing model (CAPM), where this optimal portfolio becomes known as the market portfolio.
+risk: In the ISO 31000 risk assessment process, risk analysis follows risk identification and precedes risk evaluation.
+risk: p
+          
+            i
+          
+        
+      
+    
+    {\displaystyle p_{i}}
+  
+ is the probability of the scenario

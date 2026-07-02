@@ -1,0 +1,401 @@
+ontology: They suggested that a first principle, such as water or fire, is the primal source of all things.
+ontology: Since the end of the 20th century, interest in applied ontology has risen in computer and information science with the development of conceptual frameworks for specific domains.
+ontology: Intentional objects are entities that exist within mental states, like perceptions, beliefs, and desires.
+ontology: It is closely related to metaphysical grounding, which is the relation between a ground and the facts it explains.
+ontology: The problem of universals was an influential topic in medieval ontology.
+ontology: Bundle theories are an example of this position: they state that objects are bundles of properties.
+ontology: Arthur Schopenhauer (1788–1860) rejected Hegel's philosophy and proposed that the world is an expression of a blind and irrational will.
+ontology: In one sense, being is unchanging and permanent, in contrast to becoming, which implies change.
+ontology: Two entities are qualitatively identical if they have exactly the same features, such as perfect identical twins.
+ontology: Facts are truthmakers of statements, meaning that whether a statement is true or false depends on the underlying facts.
+ontology: This is also called exact similarity and indiscernibility.
+ontology: It aims to determine the nature and essential features of these concepts while also examining their mode of existence.
+ontology: In the following review phase, the validity of the ontology is assessed using test data.
+ontology: Another conception says that metaphysics is about real being while ontology examines possible being or the concept of being.
+ontology: Mathematical realism, a closely related view in the philosophy of mathematics, says that mathematical facts exist independently of human language, thought, and practices and are discovered rather than invented.
+ontology: They usually involve some kind of change, like the lawn becoming dry.
+ontology: For instance, a person who believes in God has an ontological commitment to God.
+ontology: The principle of Ockham's Razor says that simple theories are preferable.
+ontology: John Duns Scotus (1266–1308) argued that all entities, including God, exist in the same way and that each entity has a unique essence, called haecceity.
+ontology: Quine's student David Lewis (1941–2001) formulated the position of modal realism, which says that possible worlds are as real and concrete as the actual world.
+ontology: For example, if a person thinks about the Loch Ness Monster then the Loch Ness Monster is the intentional object of this thought.
+ontology: The primary difference is that the actual world is inhabited by us while other possible worlds are inhabited by our counterparts.
+ontology: In some cases, no change occurs, like the lawn staying wet.
+ontology: Ontic structural realism agrees with this basic idea and focuses on how these relations form complex structures.
+ontology: This means that the world is entirely composed of particular objects.
+ontology: From this definition it concludes that God must exist since God would not be the greatest conceivable being if God lacked existence.
+ontology: Heidegger criticized this approach, terming it ontotheology.
+ontology: They are often considered the fundamental building blocks of reality that can exist on their own, while entities like properties and relations cannot exist without substances.
+ontology: This idea inspired his student Martin Heidegger (1889–1976) to clarify the meaning of being by exploring the mode of human existence.
+ontology: For example, the Quine–Putnam indispensability argument defends mathematical Platonism, asserting that numbers exist because the best scientific theories are ontologically committed to numbers.
+ontology: Relations are often divided into internal and external relations.
+ontology: Differential ontology is a poststructuralist approach interested in the relation between the concepts of identity and difference.
+ontology: They say that the universe has a divine foundation and discuss the sense in which ultimate reality is one or many.
+ontology: They proceed by varying the imagined features to determine which ones cannot be changed, meaning they are essential.
+ontology: Dualists state that mind and matter exist as independent principles, either as distinct substances or different types of properties.
+ontology: According to traditional bundle theory, the bundled properties are universals, meaning that the same property may belong to several different bundles.
+ontology: Concrete objects encountered in everyday life are complex entities composed of various parts.
+ontology: Ontologists often employ logical systems to express their insights, specifically in the field of formal ontology.
+ontology: They include the Cyc method, Grüninger and Fox's methodology, and so-called METHONTOLOGY.
+ontology: Phenomenologists start by imagining an example of the investigated type.
+ontology: A different conception understands ontology as a preliminary discipline that provides a complete inventory of reality while metaphysics examines the features and structure of the entities in this inventory.
+ontology: Moral realists claim that there exist mind-independent moral facts.
+ontology: Meta-ontology studies the underlying concepts, assumptions, and methods of ontology.
+ontology: According to process ontology, processes or events are the fundamental entities.
+ontology: It can also mean an inventory or a conceptual scheme of a particular domain, such as the ontology of genes.
+ontology: It divides objects into different categories based on the forms they exemplify.
+ontology: In this regard, ontology contrasts with individual sciences like biology and astronomy, which restrict themselves to a limited domain of entities, such as living entities and celestial phenomena.
+ontology: Idealists take the converse perspective, arguing that everything is mental.
+ontology: Ontological realism is the view that there are objective facts about what exists and what the nature and categories of being are.
+ontology: According to mathematical Platonism, this is the case because of the existence of mathematical objects, like numbers and sets.
+ontology: They use general categories that apply to most or all domains, like Suggested Upper Merged Ontology and Basic Formal Ontology.
+ontology: The topic of ontology has received increased attention in anthropology since the 1990s, sometimes termed the "ontological turn".
+ontology: According to relationalism, all of reality is relational at its most fundamental level.
+ontology: One proposal understands being as a property possessed by every entity.
+ontology: 1287–1347 CE) proposed that one can decide between competing ontological theories by assessing which one uses the smallest number of elements, a principle known as Ockham's razor.
+ontology: Moral anti-realists either claim that moral principles are subjective and differ between persons and cultures, a position known as moral relativism, or outright deny the existence of moral facts, a view referred to as moral nihilism.
+ontology: They remain the same even when they gain or lose properties as they change.
+ontology: An entity depends ontologically on another entity if the first entity cannot exist without the second entity.
+ontology: There is no single standard method; the diverse approaches are studied by metaontology.
+ontology: It is controversial whether a more substantial analysis of the concept or meaning of being is possible.
+ontology: Possibility and necessity contrast with actuality, which describes what is the case, as in "Doha is the capital of Qatar".
+ontology: According to the Eleatic principle, "power is the mark of being", meaning that only entities with causal influence truly exist.
+ontology: For them, the main question is only whether something exists rather than identifying the level at which it exists.
+ontology: In the modern period, philosophers conceived ontology as a distinct academic discipline and coined its name.
+ontology: According to monism, there is only one kind of thing or substance on the most basic level.
+ontology: According to Platonic realists, universals exist not only independent of the mind but also independent of particular objects that exemplify them.
+ontology: He had a strong influence on Willard Van Orman Quine (1908–2000), who analyzed the ontological commitments of scientific theories to solve ontological problems.
+ontology: Modal realism is the theory that in addition to the actual world, there are countless possible worlds as real and concrete as the actual world.
+ontology: Descriptive ontology aims to articulate the conceptual scheme underlying how people ordinarily think about the world.
+ontology: Entities on all levels are real but low-level entities are more fundamental than high-level entities.
+ontology: Relational ontologies are common in certain forms of nominalism that reject the existence of universal properties.
+ontology: For example, some ontologists examine the relation between mind and matter by imagining creatures identical to humans but without consciousness.
+ontology: Ontological dependence plays a central role in ontology and its attempt to describe reality on its most fundamental level.
+ontology: A central distinction in ontology is between particular and universal entities.
+ontology: The philosophical movement of Xuanxue emerged in the 3rd century CE and explored the relation between being and non-being.
+ontology: Arguing against this theory, Bertrand Russell (1872–1970) formulated a fact ontology known as logical atomism.
+ontology: This view is rejected by relational ontologies, which say that objects have no internal structure, meaning that properties do not inhere in them but are externally related to them.
+ontology: Gottfried Wilhelm Leibniz (1646–1716), by contrast, said that the universe is made up of many simple substances, which are synchronized but do not interact with one another.
+ontology: In some contexts, being expresses the fact that something is while essence expresses its qualities or what it is like.
+ontology: One of the first theories of categories was suggested by Aristotle, whose system includes ten categories: substance, quantity, quality, relation, place, date, posture, state, action, and passion.
+ontology: Necessity describes what must be the case, as in "it is necessary that three plus two equals five".
+ontology: The notion of identity also has a number of philosophical implications in terms of how it interacts with the aforementioned necessity and possibility.
+ontology: Some philosophers, like Aristotle, say that entities belonging to different categories exist in distinct ways.
+ontology: He identified God as a necessary being that is the source of everything else, which only has contingent existence.
+ontology: Ontology is closely related to theology and its interest in the existence of God as an ultimate entity.
+ontology: According to perdurantists, change means that an earlier part exhibits different qualities than a later part.
+ontology: Internal relations depend only on the properties of the objects they connect, like the relation of resemblance.
+ontology: According to a common view, social kinds are useful constructions to describe the complexities of social life.
+ontology: Formal ontologists often rely on the tools of formal logic to express their findings in an abstract and general manner.
+ontology: External relations express characteristics that go beyond what the connected objects are like, such as spatial relations.
+ontology: Materialism posits that fundamentally only matter exists, whereas dualism asserts that mind and matter are independent principles.
+ontology: George Berkeley (1685–1753) developed an idealist ontology according to which material objects are ideas perceived by minds.
+ontology: They can be used to provide systems of categories, which offer a comprehensive inventory of reality in which every entity belongs to exactly one category.
+ontology: Universals can take the form of properties or relations.
+ontology: 515–450 BCE) is sometimes considered the founder of ontology because of his explicit discussion of the concepts of being and non-being.
+ontology: This is usually done in a formal language to ensure precision and, in some cases, automatic computability.
+ontology: Flat ontologies, by contrast, deny that any entity has a privileged status, meaning that all entities exist on the same level.
+ontology: Various alternative ontological theories have been proposed that deny the role of substances as the foundational building blocks of reality.
+ontology: Some philosophers use both terms as synonyms.
+ontology: Formal ontology investigates the most abstract features of objects, while applied ontology utilizes ontological theories and principles to study entities within specific domains.
+ontology: Some ontologies focus not on distinct objects but on interrelatedness.
+ontology: Ontology is the philosophical study of being.
+ontology: Conceptualism, by contrast, is a form of anti-realism, stating that universals only exist in the mind as concepts that people use to understand and categorize the world.
+ontology: Object-oriented ontology belongs to the school of speculative realism and examines the nature and role of objects.
+ontology: Others, like John Duns Scotus, insist that there are no differences in the mode of being, meaning that everything exists in the same way.
+ontology: Numerical identity, by contrast, means that there is only a single entity.
+ontology: The ancient Greeks did not use the term ontology, which was coined by philosophers in the 17th century.
+ontology: Rudolf Carnap (1891–1970) questioned the objectivity of ontological theories by claiming that what exists depends on one's linguistic framework.
+ontology: Another contrast is between being, as what truly exists, and phenomena, as what appears to exist.
+ontology: People can think about existing and non-existing objects.
+ontology: They have causal powers and can affect each other, like when a car hits a tree and both are deformed in the process.
+ontology: For example, if Fatima is the mother of Leila and Hugo then Leila's mother is numerically identical to Hugo's mother.
+ontology: An ontological commitment of a person or a theory is an entity that exists according to them.
+ontology: Synchronic identity relates an entity to itself at the same time.
+ontology: In more recent philosophy, theories of categories were developed by C.
+ontology: For instance, having three sides is an essential property of a triangle, whereas being red is an accidental property.
+ontology: According to some ontologists, objective answers to ontological questions do not exist, with perspectives shaped by differing linguistic practices.
+ontology: The etymology of the word ontology traces back to the ancient Greek terms ὄντως (ontos, meaning 'being') and λογία (logia, meaning 'study of'), literally, 'the study of being'.
+ontology: Another overlap in the two disciplines is found in ontological theories that use God or an ultimate being as the foundational principle of reality.
+ontology: Examples are ideal spatial beings in the area of geometry and living beings in the area of biology.
+ontology: Analytic ontology examines the types and categories of being to determine what kinds of things could exist and what features they would have.
+ontology: Various more specific instructions for how to carry out the different steps have been suggested.
+ontology: Christian Wolff (1679–1754) was influential in establishing ontology as a distinct discipline, delimiting its scope from other forms of metaphysical inquiry.
+ontology: This means that properties presuppose being and cannot explain it.
+ontology: It is traditionally understood as the subdiscipline of metaphysics focused on the most general features of reality.
+ontology: The state of affairs "Socrates is wise" has two components: the individual Socrates and the property wise.
+ontology: Conceptual analysis is a method to understand ontological concepts and clarify their meaning.
+ontology: These frameworks facilitate the structured storage of information, such as in a college database tracking academic activities.
+ontology: To articulate the basic structure of being, ontology examines the shared characteristics among all things and investigates their classification into basic types, such as the categories of particulars and universals.
+ontology: These principles can be used as the foundation on which an ontological system is built and expanded using deductive reasoning.
+ontology: Ontologists are also interested in the explanatory power of theories and give preference to theories that can explain many observations.
+ontology: It says that only a single all-encompassing entity exists, stating that the impression of a plurality of distinct entities is an illusion.
+ontology: Ontologies are often used in information science to provide a conceptual scheme or inventory of a specific domain, making it possible to classify objects and formally represent information about them.
+ontology: Of particular interest to them is the existential quantifier (
+  
+    
+      
+        ∃
+      
+    
+    {\displaystyle \exists }
+  
+), which is used to express what exists.
+ontology: Unlike properties, they apply to several entities and characterize them as a group.
+ontology: According to trope bundle theory, properties are particular entities that belong to a single bundle.
+ontology: Substances persist through changes as they acquire or lose properties.
+ontology: The existence and nature of abstract objects remain subjects of philosophical debate.
+ontology: Substances play an important role in the history of ontology as the particular entities that underlie and support properties and relations.
+ontology: One position in mereology says that every collection of entities forms a whole.
+ontology: Ontological commitments can be used to analyze which ontologies people explicitly defend or implicitly assume.
+ontology: An early influential system of categories in Indian philosophy, first proposed in the Vaisheshika school, distinguishes between six categories: substance, quality, motion, universal, individuator, and inherence.
+ontology: John Locke (1632–1704) proposed his substratum theory, which says that each object has a featureless substratum that supports the object's properties.
+ontology: Ontology is also pertinent to the fields of logic, theology, and anthropology.
+ontology: Abstract objects are closely related to fictional and intentional objects.
+ontology: In a more narrow sense, realism refers to the existence of certain types of entities.
+ontology: In some contexts, the term ontology refers not to the general study of being but to a specific ontological theory within this discipline.
+ontology: Applied ontology examines the application of ontological theories and principles to specific disciplines and domains, often in the field of science.
+ontology: This idea was further refined by the early Ludwig Wittgenstein (1889–1951) and inspired D.
+ontology: Using this idea, possible world semantics says that a sentence is possibly true if it is true in at least one possible world.
+ontology: In the fields of computer science, information science, and knowledge representation, applied ontology is interested in the development of formal frameworks to encode and store information about a limited domain of entities in a structured way.
+ontology: It says that reality is at its most fundamental level made up of unanalyzable substances that are characterized by universals, such as the properties an individual substance has or relations that exist between substances.
+ontology: According to philosopher Rudolf Carnap, for example, ontological statements are relative to language and depend on the ontological framework of the speaker.
+ontology: They may understand physical phenomena, like rocks, trees, and planets, as ideas or perceptions of conscious minds.
+ontology: Being, or existence, is the main topic of ontology.
+ontology: This view usually emphasizes that nothing in reality is static, meaning that being is dynamic and characterized by constant change.
+ontology: Properties describe the characteristics of things.
+ontology: Another distinction is between synchronic and diachronic identity.
+ontology: According to an influential approach by Willard Van Orman Quine, ontology can be conducted by analyzing the ontological commitments of scientific theories.
+ontology: Thomas Aquinas (1224–1274 CE) developed and refined fundamental ontological distinctions, such as the contrast between existence and essence, between substance and accidents, and between matter and form.
+ontology: This means that they are composed of temporal parts and, at any moment, only one part of them is present but not the others.
+ontology: Environment Ontology is a knowledge representation focused on ecosystems and environmental processes.
+ontology: This can be achieved with the help of upper ontologies, which are not limited to one specific domain.
+ontology: A related dispute is whether some entities have a higher degree of being than others, an idea already found in Plato's work.
+ontology: A further intuition-based method relies on thought experiments to evoke new intuitions.
+ontology: Another contrast is between analytic and speculative ontology.
+ontology: Another distinction exists between concrete objects existing in space and time, such as a tree, and abstract objects existing outside space and time, like the number 7.
+ontology: It distinguishes between unchangeable perfect forms and matter, which has a lower degree of existence and imitates the forms.
+ontology: William of Ockham (c.
+ontology: Differential ontologists, by contrast, privilege difference and say that the identity of a thing is a secondary determination that depends on how this thing differs from other things.
+ontology: Mathematical Platonists say that mathematical objects are as real as physical objects, like atoms and stars, even though they are not accessible to empirical observation.
+ontology: Endurantism is the view that material objects are three-dimensional entities that travel through time while being fully present in each moment.
+ontology: This means that there are no framework-independent ontological facts since different frameworks provide different views while there is no objectively right or wrong framework.
+ontology: Armstrong's (1926–2014) ontology.
+ontology: A controversial proposal by philosopher George Berkeley suggests that all existence is mental.
+ontology: Another approach is based on intuitions in the form of non-inferential impressions about the correctness of general principles.
+ontology: They are features or qualities possessed by an entity.
+ontology: In Indian philosophy, Swami Vivekananda (1863–1902) expanded on Advaita Vedanta, emphasizing the unity of all existence.
+ontology: Systems of categories aim to provide a comprehensive inventory of reality by employing categories such as substance, property, relation, state of affairs, and event.
+ontology: The roots of ontology in ancient philosophy are speculations about the nature of being and the source of the universe.
+ontology: Pure ontology contrasts with applied ontology, also called domain ontology.
+ontology: Starting in the 6th century BCE, Presocratic philosophers in ancient Greece aimed to provide rational explanations of the universe.
+ontology: Modal anti-realists reject this view and argue that possible worlds do not have concrete reality but exist in a different sense, for example, as abstract or fictional objects.
+ontology: Relations are the ways in which two or more entities connect to one another.
+ontology: One hierarchical ontology says that elementary particles are more fundamental than the macroscopic objects they compose, like chairs and tables.
+ontology: It is of particular relevance in regard to things that cannot be directly observed by humans but are assumed to exist by scientific theories, like electrons, forces, and laws of nature.
+ontology: According to one analogy, objects are like pin-cushions and properties are pins that can be stuck to objects and removed again without becoming a real part of objects.
+ontology: In first-order logic, for example, the formula 
+  
+    
+      
+        ∃
+        x
+        
+          Dog
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \exists x{\text{Dog}}(x)}
+  
+ states that dogs exist.
+ontology: The transcendental method begins with a simple observation that a certain entity exists.
+ontology: Ontology is closely related to metaphysics but the exact relation of these two disciplines is disputed.
+ontology: The field of modal logic provides a precise formalization of the concepts of possibility and necessity.
+ontology: This happens by imagining a situation relevant to an ontological issue and then employing counterfactual thinking to assess the consequences of this situation.
+ontology: The problem of material constitution asks whether or in what sense a whole should be considered a new object in addition to the collection of parts composing it.
+ontology: The closely related substratum theory says that each concrete object is made up of properties and a substratum.
+ontology: In Arabic-Persian philosophy, Avicenna (980–1037 CE) combined ontology with theology.
+ontology: It is not restricted to a specific domain of entities and studies existence and the structure of reality as a whole.
+ontology: In applied ontology, ontological engineering is the process of creating and refining conceptual models of specific domains.
+ontology: Events are particular entities that occur in time, like the fall of the Berlin Wall and the first moon landing.
+ontology: Universals express aspects or features shared by particulars.
+ontology: Starting in the 13th century CE, the Navya-Nyāya school built on Vaisheshika ontology with a particular focus on the problem of non-existence and negation.
+ontology: In some cases, it is necessary to exchange information belonging to different domains or to integrate databases using distinct ontologies.
+ontology: According to another view, this is only the case for collections that fulfill certain requirements, for instance, that the entities in the collection touch one another.
+ontology: Depending on the context, the term being is sometimes used with a more limited meaning to refer only to certain aspects of reality.
+ontology: Principles of theory choice offer guidelines for assessing the advantages and disadvantages of ontological theories rather than guiding their construction.
+ontology: Once the foundational concepts within the area have been identified, ontology engineers proceed by defining them and characterizing the relations between them.
+ontology: This is of specific interest to computer science, which builds databases to store this information and defines computational processes to automatically transform and use it.
+ontology: Bundle theories state that there are no regular objects but only bundles of co-present properties.
+ontology: A further factor is how close a theory is to common sense.
+ontology: Concrete objects are entities that exist in space and time, such as a tree, a car, and a planet.
+ontology: They merely state that there are mind-independent facts that determine which ontological theories are true.
+ontology: Influential issues include the status of nonexistent objects and why there is something rather than nothing.
+ontology: This idea is denied by ontological anti-realists, also called ontological deflationists, who say that there are no substantive facts one way or the other.
+ontology: Aristotelian realism, also called moderate realism, rejects this idea and says that universals only exist as long as there are objects that exemplify them.
+ontology: Boethius (477–524 CE) suggested that universals can exist not only in matter but also in the mind.
+ontology: It sees objects as the fundamental building blocks of reality.
+ontology: An entity is ontologically independent if it does not depend on anything else, meaning that it is fundamental and can exist on its own.
+ontology: Some ontologists use this principle as an argument against theories that are very different from how ordinary people think about the issue.
+ontology: Tolkien's book series The Lord of the Rings, and people, like the Monkey King in the novel Journey to the West.
+ontology: It is closely related to fundamental ontology, an approach developed by philosopher Martin Heidegger that seeks to uncover the meaning of being.
+ontology: Materialism is an influential monist view; it says that everything is material.
+ontology: For example, a lemon may be understood as a bundle that includes the properties yellow, sour, and round.
+ontology: Most famously, Saul Kripke contended that discovered identities such as "Water is H2O" are necessarily true because "H2O" is what's known as a rigid designator.
+ontology: The term realism is used for various theories that affirm that some kind of phenomenon is real or has mind-independent existence.
+ontology: Francis Herbert Bradley (1846–1924) saw absolute spirit as the ultimate and all-encompassing reality while denying that there are any external relations.
+ontology: Prescriptive ontology departs from common conceptions of the structure of reality and seeks to formulate a new and better conceptualization.
+ontology: Ontologists often divide being into fundamental classes or highest kinds, called categories of being.
+ontology: Similar disputes pertain to mathematical objects, unobservable objects assumed by scientific theories, and moral facts.
+ontology: Universals are general, repeatable entities, like the color green, the form circularity, and the virtue courage.
+ontology: Properties are often divided into essential and accidental properties.
+ontology: Ontology employs diverse methods of inquiry, including the analysis of concepts and experience, the use of intuitions and thought experiments, and the integration of findings from natural science.
+ontology: A theory can be simple in different respects, for example, by using very few basic types or by describing the world with a small number of fundamental entities.
+ontology: The difference is that the substratum is not characterized by properties: it is a featureless or bare particular that merely supports the properties.
+ontology: Alexius Meinong (1853–1920) articulated a controversial ontological theory that includes nonexistent objects as part of being.
+ontology: Constituent ontologies say that objects have an internal structure with properties as their component parts.
+ontology: Eidetic variation is a related method in phenomenological ontology that aims to identify the essential features of different types of objects.
+ontology: Scientific anti-realism says that scientific theories are not descriptions of reality but instruments to predict observations and the outcomes of experiments.
+ontology: The later Vaisheshika school proposed a comprehensive system of categories.
+ontology: Influenced by Kant's philosophy, Georg Wilhelm Friedrich Hegel (1770–1831) linked ontology and logic.
+ontology: Neutral monism occupies a middle ground by saying that both mind and matter are derivative phenomena.
+ontology: Pure ontology focuses on the most abstract topics associated with the concept and nature of being.
+ontology: Some structural realists state that there is nothing but relations, meaning that individual objects do not exist.
+ontology: Others understand them as artifacts that are created as the works of fiction are written.
+ontology: The relation between being and non-being is a frequent topic in ontology.
+ontology: Developing a new ontology from scratch involves various preparatory steps, such as delineating the scope of the domain one intends to model and specifying the purpose and use cases of the ontology.
+ontology: This outlook is known as animism and is also found in Native American ontologies, which emphasize the interconnectedness of all living entities and the importance of balance and harmony with nature.
+ontology: Similar applications of ontology are found in various fields seeking to manage extensive information within a structured framework.
+ontology: It is one of the most general and fundamental concepts, encompassing all of reality and every entity within it.
+ontology: In this context, an inventory is a comprehensive list of elements.
+ontology: For instance, the surface of an apple cannot exist without the apple.
+ontology: States of affairs that correspond to reality are called facts.
+ontology: Rejecting Descartes's dualism, Baruch Spinoza (1632–1677) proposed a monist ontology according to which there is only a single entity that is identical to God and nature.
+ontology: This information can help ontologists decide whether a certain type of entity, such as numbers, exists.
+ontology: For example, some forms of nominalism state that only concrete particulars exist while some forms of bundle theory state that only properties exist.
+ontology: Facts, also known as states of affairs, are complex entities; for example, the fact that the Earth is a planet consists of the particular object the Earth and the property being a planet.
+ontology: It considers ontological problems in regard to specific entities such as matter, mind, numbers, God, and cultural artifacts.
+ontology: Particulars, also called individuals, are unique, non-repeatable entities, like Socrates, the Taj Mahal, and Mars.
+ontology: A conceptual scheme is a framework of the key concepts and their relationships.
+ontology: As one of the most fundamental concepts, being encompasses all of reality and every entity within it.
+ontology: Some philosophers study ontology by examining the structure of thought and language, saying that they reflect the structure of being.
+ontology: Diachronic identity relates an entity to itself at different times, as in "the woman who bore Leila three years ago is the same woman who bore Hugo this year".
+ontology: Gene Ontology and Sequence Ontology serve a similar purpose in the field of genetics.
+ontology: Another suggestion is that all beings share a set of essential features.
+ontology: Some philosophers say that fictional objects are abstract objects and exist outside space and time.
+ontology: Specific interest has been given to the ontological outlook of Indigenous people and how it differs from a Western perspective.
+ontology: At the beginning of the 20th century, Edmund Husserl (1859–1938) developed phenomenology and employed its method, the description of experience, to address ontological problems.
+ontology: In its broadest sense, being only contrasts with non-being or nothingness.
+ontology: He said that being and thought are identical and examined their foundational structures.
+ontology: This stuff may take various forms and is often conceived as infinitely divisible.
+ontology: Ontologists disagree regarding which entities exist at the most basic level.
+ontology: Hierarchical ontologies state that the world is organized into levels.
+ontology: A related application in genetics is Gene Ontology, which is a comprehensive framework for the standardized representation of gene-related information across species and databases.
+ontology: They take the form of systems of categories, which list the highest genera of being to provide a comprehensive inventory of everything.
+ontology: It proceeds by analyzing their component parts and the necessary and sufficient conditions under which a concept applies to an entity.
+ontology: Nominalists defend a strong form of anti-realism by saying that universals have no existence.
+ontology: This means that the universal red could exist by itself even if there were no red objects in the world.
+ontology: Critics argue that a thing without being cannot have properties.
+ontology: For example, Haruki Murakami was born in 1949 in the actual world but there are possible worlds in which he was born at a different date.
+ontology: It is the branch of philosophy that investigates the nature of existence, the features all entities have in common, and how they are divided into basic categories of being.
+ontology: Pluralism is more commonly accepted and says that several distinct entities exist.
+ontology: In the following step, it studies the ontological repercussions of this observation by examining how it is possible or which conditions are required for this entity to exist.
+ontology: Social ontology, a major subfield of applied ontology, studies social kinds, like money, gender, society, and language.
+ontology: For example, being a city is a property while being east of is a relation, as in "Kathmandu is a city" and "Kathmandu is east of New Delhi".
+ontology: For example, Mount Everest and Mount Fuji are particulars characterized by the universal mountain.
+ontology: Naturalistic methods rely on the insights of the natural sciences to determine what exists.
+ontology: Mereology studies the relation between parts and wholes.
+ontology: Ontological realists do not make claims about what those facts are, for example, whether elementary particles exist.
+ontology: Fact ontologies present a different approach by focusing on how entities belonging to different categories come together to constitute the world.
+ontology: When a tree loses its leaves, for instance, there is an earlier temporal part with leaves and a later temporal part without leaves.
+ontology: According to them, there are objective principles that determine which behavior is morally right.
+ontology: For Kant, ontology does not study external things but provides a system of pure concepts of understanding.
+ontology: For example, a book is made up of two covers and the pages between them.
+ontology: It defines God as the greatest conceivable being.
+ontology: Possibility describes what can be the case, as in "it is possible that extraterrestrial life exists".
+ontology: Stuff ontologies say that the world is not populated by distinct entities but by continuous stuff that fills space.
+ontology: Speculative ontology aims to determine which entities actually exist, for example, whether there are numbers or whether time is an illusion.
+ontology: In 8th-century Indian philosophy, the school of Advaita Vedanta emerged.
+ontology: They are subdivided into four classes: quantity, quality, relation, and modality.
+ontology: Sri Aurobindo (1872–1950) presented a "realistic Advaita" which understands the world not as an illusion, but as a real, evolutionary manifestation of a divine consciousness.
+ontology: The ontological argument, first proposed by Anselm of Canterbury, attempts to prove the existence of the divine.
+ontology: It uses this idea to argue that objects exist independently of human thought and perception.
+ontology: Proposed categories include substance, property, relation, state of affairs, and event.
+ontology: Discussions of the essence of reality are found in the Upanishads, ancient Indian scriptures dating from as early as 700 BCE.
+ontology: Perdurantism is the view that material objects are four-dimensional entities that extend not just through space but also through time.
+ontology: This view inspired Peter Abelard (1079–1142 CE), who proposed that universals exist only in the mind.
+ontology: Immanuel Kant (1724–1804) rejected the idea that humans can have direct knowledge of independently existing things and their nature, limiting knowledge to the field of appearances.
+ontology: In the history of philosophy, various ontological theories based on several fundamental categories have been proposed.
+ontology: The ontological theories of endurantism and perdurantism aim to explain how material objects persist through time.
+ontology: For example, social ontology examines basic concepts used in the social sciences.
+ontology: Ontologists often use the concept of possible worlds to analyze possibility and necessity.
+ontology: Immanuel Kant's transcendental idealism includes a system of twelve categories, which Kant saw as pure concepts of understanding.
+ontology: This means that they are not pure fictions but, at the same time, lack the objective or mind-independent reality of natural phenomena like elementary particles, lions, and stars.
+ontology: States of affairs are complex particular entities that have several other entities as their components.
+ontology: Peirce, Edmund Husserl, Samuel Alexander, Roderick Chisholm, and E.
+ontology: A sentence is necessarily true if it is true in all possible worlds.
+ontology: They play a central role in contemporary metaphysics when trying to decide between competing theories.
+ontology: Complex events, also called processes, are composed of a sequence of events.
+ontology: Realists about universals say that universals have mind-independent existence.
+ontology: Unlike other forms of ontology, it does not ask "what exists" but "what does it mean for something to exist" and "how can people determine what exists".
+ontology: For instance, to encode and store information about clients and employees in a database, an organization may use an ontology with categories such as person, company, address, and name.
+ontology: As an example of this contrast, it has been argued that various indigenous communities ascribe intentionality to non-human entities, like plants, forests, or rivers.
+ontology: They lack causal powers and do not undergo changes.
+ontology: This means that mental phenomena, such as beliefs, emotions, and consciousness, either do not exist or exist as aspects of matter, like brain states.
+ontology: Aristotle (384–322 BCE) suggested an elaborate system of categories that introduced the concept of substance as the primary kind of being.
+ontology: Doubts about the accuracy of natural language have led some ontologists to seek a new formal language, termed ontologese, for a better representation of the fundamental structure of reality.
+ontology: He expressed this immaterialism in his slogan "to be is to be perceived".
+ontology: For example, when a tomato ripens, it loses the property green and acquires the property red.
+ontology: They can be things, like the One Ring in J.
+ontology: In this sense, monism is the controversial position that only a single all-encompassing entity exists in all of reality.
+ontology: Samkhya, the first orthodox school of Indian philosophy, formulated an atheistic dualist ontology based on the Upanishads, identifying pure consciousness and matter as its two foundational principles.
+ontology: Jean-Paul Sartre responded to Heidegger's philosophy by examining the relation between being and nothingness from the perspective of human existence, freedom, and consciousness.
+ontology: This means that they can exist without high-level entities while high-level entities cannot exist without low-level entities.
+ontology: Fact ontologies state that facts are the fundamental constituents of reality, meaning that objects, properties, and relations cannot exist on their own and only form part of reality to the extent that they participate in facts.
+ontology: Polycategorical theories, by contrast, hold that there is more than one basic category, meaning that entities are divided into two or more fundamental classes.
+ontology: The school of Neoplatonism arose in the 3rd century CE and proposed an ineffable source of everything, called the One, which is more basic than being itself.
+ontology: According to this view, metaphysics is the study of various aspects of fundamental reality, whereas ontology restricts itself to the most general features of reality.
+ontology: The origins of ontology lie in the ancient period with speculations about the nature of being and the source of the universe, including ancient Indian, Chinese, and Greek philosophy.
+ontology: This view sees ontology as general metaphysics, which is to be distinguished from special metaphysics focused on more specific subject matters, like God, mind, and value.
+ontology: Protein Ontology is a formal framework for the standardized representation of protein-related entities and their relationships.
+ontology: A traditionally influential characterization asserts that ontology is a subdiscipline of metaphysics.
+ontology: Formal ontology is the study of objects in general while focusing on their abstract structures and features.
+ontology: In a slightly different sense, monism contrasts with pluralism as a view not about the number of basic types but the number of entities.
+ontology: Platonic realism asserts that universals have objective existence, while conceptualism maintains that universals exist only in the mind, and nominalism denies their existence altogether.
+ontology: Applied ontology is particularly relevant to information and computer science, which develop conceptual frameworks of limited domains.
+ontology: Based on the phenomenological method, Nicolai Hartmann (1882–1950) developed a complex hierarchical ontology that divides reality into four levels: inanimate, biological, psychological, and spiritual.
+ontology: In ontology, identity means that two things are the same.
+ontology: Inspired by Presocratic philosophy, Plato (427–347 BCE) developed his theory of forms.
+ontology: A possible world is a complete and consistent way how things could have been.
+ontology: Possibility and necessity are further topics in ontology.
+ontology: René Descartes (1596–1650) formulated a dualist ontology at the beginning of the modern period.
+ontology: Parmenides (c.
+ontology: In some cases, it is feasible to adapt a pre-existing ontology to fit a specific domain and purpose rather than creating a new one from scratch.
+ontology: He also discussed the transcendentals, which are the most general properties or modes of being.
+ontology: Particulars are unique, non-repeatable entities, such as the person Socrates, whereas universals are general, repeatable entities, like the color green.
+ontology: Each of these components is itself constituted of smaller parts, like molecules, atoms, and elementary particles.
+ontology: This type of inquiry is focused on how people from different cultures experience and understand the nature of being.
+ontology: It aims to discover the foundational building blocks of the world and characterize reality as a whole in its most general aspects.
+ontology: It distinguishes between mind and matter as distinct substances that causally interact.
+ontology: This makes it difficult to assess the ontological status of intentional objects.
+ontology: As a flat ontology, it denies that some entities have a more fundamental form of existence than others.
+ontology: Friend of a Friend provides a conceptual framework to represent relations between people and their interests and activities.
+ontology: The more common view in contemporary philosophy is that a thing either exists or not with no intermediary states or degrees.
+ontology: Others say that individual objects exist but depend on the structures in which they participate.
+ontology: Abstract objects, by contrast, are outside space and time, such as the number 7 and the set of integers.
+ontology: Philosophers distinguish between qualitative and numerical identity.
+ontology: It is not universally accepted that there is a clear boundary between metaphysics and ontology.
+ontology: Fictional objects are entities invented in works of fiction.
+ontology: It says that traditional ontology sees identity as the more basic term by first characterizing things in terms of their essential features and then elaborating differences based on this conception.
+ontology: A property is essential if an entity must have it; it is accidental if the entity can exist without it.
+ontology: 9th-century China saw the emergence of Neo-Confucianism, which developed the idea that a rational principle, known as li, is the ground of being and order of the cosmos.
+ontology: Alfred North Whitehead (1861–1947), by contrast, developed a process ontology.
+ontology: Scientific realists say that the scientific description of the world is an accurate representation of reality.
+ontology: Other hierarchical theories assert that substances are more fundamental than their properties and that nature is more fundamental than culture.
+ontology: Formal ontology contrasts with material ontology, which distinguishes between different areas of objects and examines the features characteristic of a specific area.
+ontology: The closely related discussion between monism and dualism is about the most fundamental types that make up reality.
+ontology: This method is based on the idea that scientific theories provide the most reliable description of reality and that their power can be harnessed by investigating the ontological assumptions underlying them.
+ontology: In ancient China, Laozi's (6th century BCE) Taoism examines the underlying order of the universe, known as Tao, and how this order is shaped by the interaction of two basic forces, yin and yang.

@@ -1,0 +1,153 @@
+wireless_network: Wireless networking allows homes, telecommunications networks, and business installations to avoid the costly process of introducing cables into a building, or as a connection between various equipment locations.
+wireless_network: Principles of Wireless Networks – a Unified Approach.
+wireless_network: It is often used in cities to connect networks in two or more buildings without installing a wired link.
+wireless_network: These Earth-orbiting systems are capable of receiving and relaying voice, data, and TV signals.
+wireless_network: ISBN 0-471-10607-0.
+wireless_network: Admin telecommunications networks are generally implemented and administered using radio communication.
+wireless_network: Free-space optical communication uses visible or invisible light for communications.
+wireless_network: Rappaport, Theodore (2002).
+wireless_network: When joined, these cells provide radio coverage over a wide geographic area.
+wireless_network: Wireless Communications: Principles and Practice.
+wireless_network: Various network layer protocols are needed to realize ad hoc mobile networks, such as Distance Sequenced Distance Vector routing, Associativity-Based Routing, Ad hoc on-demand distance-vector routing, and Dynamic Source Routing.
+wireless_network: The satellites are stationed in space, typically in geosynchronous orbit 35,400 km (22,000 mi) above the equator.
+wireless_network: Wireless Information Networks.
+wireless_network: Intel "My WiFi" and Windows 7 "virtual Wi-Fi" capabilities have made Wi-Fi PANs simpler and easier to set up and configure.
+wireless_network: Global System for Mobile Communications (GSM): The GSM network is divided into three major systems: the switching system, the base station system, and the operation and support system.
+wireless_network: The newer GSM networks are replacing the older system.
+wireless_network: Wireless LANs.
+wireless_network: In other cases, particularly with metallic or conductive materials, reflection occurs.
+wireless_network: Zigbee also supports WPAN applications.
+wireless_network: Another example, Intercontinental network systems, use radio satellites to communicate across the world.
+wireless_network: This is used in cities to give network capacity that scales linearly with population density.
+wireless_network: When combined with renewable energy systems such as photovoltaic solar panels or wind systems, they can be stand-alone systems.
+wireless_network: IEEE 802.11 defines a common flavor of open-standards wireless radio-wave technology known as Wi-Fi.
+wireless_network: GSM is the most common standard and is used for the majority of cell phones.
+wireless_network: Goldsmith, Andrea (2005).
+wireless_network: Wireless LANs use spread-spectrum technology to enable communication between multiple devices in a limited area.
+wireless_network: Advances in MOSFET (MOS transistor) wireless technology enabled the development of digital wireless networks.
+wireless_network: What are especially important are the NEs that are located on the cell tower to the base station (BS) cabinet.
+wireless_network: These NEs can be stand-alone systems or products that are either supplied by a single manufacturer or are assembled by the service provider (user) or system integrator with parts from several different manufacturers.
+wireless_network: Wi-Fi PANs are becoming commonplace (2010) as equipment designers start to integrate Wi-Fi into a variety of consumer electronic devices.
+wireless_network: ISSN 0733-8716.
+wireless_network: Ad hoc networks can "self-heal", automatically re-routing around a node that has lost power.
+wireless_network: Space is also created in homes as a result of eliminating clutter from wiring.
+wireless_network: User-in-the-loop (UIL) may be an alternative solution to ever upgrading to newer technologies for over-provisioning.
+wireless_network: A wireless network is a computer network that uses wireless data connections between network nodes.
+wireless_network: Wireless NEs are the products and devices used by a wireless carrier to provide support for the backhaul network as well as a mobile switching center (MSC).
+wireless_network: "Now, the industry accepts a handful of different wireless technologies.
+wireless_network: Each wireless technology is defined by a standard that describes unique functions at both the Physical and the Data Link layers of the OSI model.
+wireless_network: Rhoton, John (2001).
+wireless_network: A wireless local area network (WLAN) links two or more devices over a short distance using a wireless distribution method, usually providing a connection through an access point for internet access.
+wireless_network: Cambridge University Press.
+wireless_network: IEEE Communications Society: 1153–1163.
+wireless_network: ISBN 0-672-32058-4.
+wireless_network: It also saw “...no reason why schools and others should not use WiFi equipment".
+wireless_network: This enables a large number of portable transceivers (e.g., mobile phones, pagers, etc.) to communicate with each other and with fixed transceivers and telephones anywhere in the network, via base stations, even if some of the transceivers are moving through more than one cell during transmission.
+wireless_network: This technology allows for an alternative to installing physical network mediums such as TPs, coaxes, or fiber-optics, which can also be expensive.
+wireless_network: As wireless networking has become commonplace, sophistication increases through configuration of network hardware and software, and greater capacity to send and receive larger amounts of data, faster, is achieved.
+wireless_network: The attachment hardware and the positioning of the antenna and associated closures and cables are required to have adequate strength, robustness, corrosion resistance, and resistance against wind, storms, icing, and other weather conditions.
+wireless_network: Aluminium foiled thermal isolation in modern homes can easily reduce indoor mobile signals by 10 dB, frequently leading to complaints about the bad reception of long-distance rural cell signals.
+wireless_network: The use of spread-spectrum or OFDM technologies may allow users to move around within a local coverage area, and still remain connected to the network.
+wireless_network: Bibcode:2001IJSAC..19.1153L.
+wireless_network: Wiley-IEEE Press.
+wireless_network: A cellular network or mobile network is a radio network distributed over land areas called cells, each served by at least one fixed-location transceiver, known as a cell site or base station.
+wireless_network: In October 2007, the HPA launched a new "systematic" study into the effects of WiFi networks on behalf of the UK government, in order to calm fears that had appeared in the media in a recent period up to that time".
+wireless_network: The performance of wireless networks satisfies a variety of applications, such as voice and video.
+wireless_network: Lenzini, L.; Luise, M.; Reggiannini, R.
+wireless_network: This can cause dead zones where no reception is available.
+wireless_network: Most of the essential elements of wireless networks are built from MOSFETs, including the mobile transceivers, base station modules, routers, RF power amplifiers, telecommunication circuits, RF circuits, and radio transceivers, in networks such as 2G, 3G, and 4G.
+wireless_network: The Wireless Internet Explained.
+wireless_network: 1973 – Ethernet 802.3
+1991 – 2G cell phone network
+June 1997 – 802.11 "Wi-Fi" protocol first release
+1999 – 803.11 VoIP integration
+wireless_network: "Wireless Data Networks".
+wireless_network: Tse, David; Viswanath, Pramod (2005).
+wireless_network: This leads to difficulties in medium access control (collisions).
+wireless_network: Requirements for individual components, such as hardware, cables, connectors, and closures, shall take into consideration the structure to which they are attached.
+wireless_network: ISBN 978-0-470-99290-6.
+wireless_network: Now the wireless network has been running on LTE, which is a 4G mobile communication standard.
+wireless_network: ISBN 0-521-83716-2.
+wireless_network: Interference can degrade the signal or cause the system to fail.
+wireless_network: ISBN 0-521-84527-0.
+wireless_network: Radio and spread spectrum technologies – Wireless local area networks use a high-frequency radio technology similar to digital cellular and a low-frequency radio technology.
+wireless_network: The wide adoption of RF CMOS (radio frequency CMOS), power MOSFET and LDMOS (lateral diffused MOS) devices led to the development and proliferation of digital wireless networks by the 1990s, with further advances in MOSFET technology leading to increasing bandwidth in the 2000s (Edholm's law).
+wireless_network: Each area has a low-power transmitter or radio relay antenna device to relay calls from one area to the next area.
+wireless_network: The exposed terminal problem is when a node on one network is unable to send because of co-channel interference from a node that is on a different network.
+wireless_network: Digital Press.
+wireless_network: In IEEE Project 802, this involves a succession of terrestrial wireless LANs.
+wireless_network: Molisch, Andreas (2005).
+wireless_network: Reliable wireless service depends on the network elements at the physical layer to be protected against all operational environments and applications (see GR-3171, Generic Requirements for Network Elements Used in Wireless Networks – Physical Layer Criteria).
+wireless_network: Cellular wireless networks generally have good capacity, due to their use of directional aerials and their ability to reuse radio channels in non-adjacent cells.
+wireless_network: Pahlavan, Kaveh; Krishnamurthy, Prashant (2009).
+wireless_network: Wireless networks are simple and require as few as one single wireless access point connected directly to the Internet via a router.
+wireless_network: Shannon's theorem can describe the maximum data rate of any single wireless link, which relates to the bandwidth in hertz and to the noise on the channel.
+wireless_network: Kostas Pentikousis (March 2005).
+wireless_network: doi:10.1109/49.926371.
+wireless_network: Wireless access points are also often close to humans, but the drop off in power over distance is fast, following the inverse-square law.
+wireless_network: ISBN 0-13-042232-0.
+wireless_network: ISBN 0-470-84888-X.
+wireless_network: Internet Protocol Journal.
+wireless_network: Prentice Hall.
+wireless_network: Often users are not aware that advertised numbers (e.g., for IEEE 802.11 equipment or LTE networks) are not their capacity, but shared with all other users and thus the individual user rate is far lower.
+wireless_network: Communications satellites – Satellites communicate via microwave radio waves, which are not deflected by the Earth's atmosphere.
+wireless_network: Pahlavan, Kaveh; Levesque, Allen H (1995).
+wireless_network: ISBN 0-13-093003-2.
+wireless_network: D-AMPS: Digital Advanced Mobile Phone Service, an upgraded version of AMPS, is being phased out due to advancements in technology.
+wireless_network: Relay stations are spaced approximately 48 km (30 mi) apart.
+wireless_network: Although originally intended for cell phones, with the development of smartphones, cellular telephone networks routinely carry data in addition to telephone conversations:
+wireless_network: Terrestrial microwave – Terrestrial microwave communication uses Earth-based transmitters and receivers resembling satellite dishes.
+wireless_network: Fundamentals of Wireless Communication.
+wireless_network: IEEE Journal on Selected Areas in Communications.
+wireless_network: The position of the United Kingdom's Health Protection Agency (HPA) is that “...radio frequency (RF) exposures from WiFi are likely to be lower than those from mobile phones".
+wireless_network: Each node forwards messages on behalf of the other nodes and each node performs routing.
+wireless_network: (June 2001).
+wireless_network: Users of an LTE network should have data speeds that are 10x faster than a 3G network.
+wireless_network: Emergency services such as the police utilize wireless networks to communicate effectively as well.
+wireless_network: The systems divide the region covered into multiple geographic areas.
+wireless_network: Products using the IEEE 802.11 WLAN standards are marketed under the Wi-Fi brand name.
+wireless_network: These networks can be used to connect branch offices of a business or as a public Internet access system.
+wireless_network: This can be caused by other networks or other types of equipment that generate radio waves that are within, or close to, the radio bands used for communication.
+wireless_network: The key challenge in mobile communications is handing off user communications from one local coverage area to the next.
+wireless_network: In a cellular network, each cell characteristically uses a different set of radio frequencies from all its immediate neighbouring cells to avoid any interference.
+wireless_network: Wireless networks offer many advantages when it comes to difficult-to-wire areas trying to communicate, such as across a street or river, a warehouse on the other side of the premises or buildings that are physically separated but operate as one.
+wireless_network: The example of this is NASA's Space Network.
+wireless_network: 3GPP defines 5G private networks as non-public networks that typically employ a smaller-scale deployment to meet an organization's needs for reliability, accessibility, and maintainability.
+wireless_network: The wireless connections between access points are usually point to point microwave links using parabolic dishes on the 2.4 GHz and 5.8 GHz band, rather than omnidirectional antennas used with smaller networks.
+wireless_network: Dr Michael Clark, of the HPA, says published research on mobile phones and masts does not add up to an indictment of WiFi.
+wireless_network: Examples of wireless networks include cell phone networks, wireless local area networks (WLANs), wireless sensor networks, satellite communication networks, and terrestrial microwave networks.
+wireless_network: The hidden node problem occurs in some types of network when a node is visible from a wireless access point (AP), but not from other nodes communicating with that AP.
+wireless_network: Retrieved 29 August 2011.
+wireless_network: Wireless Communications.
+wireless_network: Individuals and businesses use wireless networks to send and share data rapidly, whether it be in a small office building or across the world.
+wireless_network: These standards differ in their specified signaling methods, geographic ranges, and frequency usages, among other things.
+wireless_network: Fixed wireless technology implements point-to-point links between computers or networks at two distant locations, often using dedicated microwave or modulated laser light beams over line of sight paths.
+wireless_network: John Wiley & Sons.
+wireless_network: Networking Fundamentals – Wide, Local and Personal Area Communications.
+wireless_network: This implementation takes place at the physical level (layer) of the OSI model network structure.
+wireless_network: Such differences can make certain technologies better suited to home networks and others better suited to network larger organizations."
+wireless_network: In most cases, line-of-sight propagation is used, which limits the physical positioning of communicating devices.
+wireless_network: To connect to Wi-Fi using a mobile device, one can use a device like a wireless router or the private hotspot capability of another mobile device.
+wireless_network: Terrestrial microwaves are in the low gigahertz range, which limits all communications to line-of-sight.
+wireless_network: Geier, Jim (2001).
+wireless_network: Pahlavan, Kaveh; Krishnamurthy, Prashant (2002).
+wireless_network: Sprint happened to be the first service to set up a PCS.
+wireless_network: Under Linux, the Central Regulatory Domain Agent (CRDA) controls the setting of channels.
+wireless_network: The use of this technology also gives room for expansions, such as from 2G to 3G, 4G and 5G technologies, which stand for the fourth and fifth generation of cell phone mobile communications standards.
+wireless_network: One can greatly increase channel capacity by using MIMO techniques, where multiple aerials or multiple frequencies can exploit multiple paths to the receiver to achieve much higher throughput – by a factor of the product of the frequency and aerial diversity at each end.
+wireless_network: ISBN 1-55558-257-5.
+wireless_network: "CRDA: A Collision Resolution and Dynamic Allocation MAC Protocol to Integrate Date and Voice in Wireless Networks".
+wireless_network: A typical system contains base station gateways, access points and wireless bridging relays.
+wireless_network: For example, both Bluetooth radio and invisible infrared light provide a WPAN for interconnecting a headset to a laptop.
+wireless_network: Wireless networks allow users to designate a certain space that the network will be able to communicate with other devices through that network.
+wireless_network: Bandwidth allocation becomes complex with multiple participating users.
+wireless_network: The first commercial wireless network was the WaveLAN product family, developed by NCR in 1986.
+wireless_network: The cell phone connects to the base system station, which then connects to the operation and support station; it then connects to the switching station, where the call is transferred to where it needs to go.
+wireless_network: With increasing demand, the capacity crunch is more and more likely to happen.
+wireless_network: WLANs help save the cost of installation of cable mediums, save time from physical installation, and also create mobility for devices connected to the network.
+wireless_network: Hacker Friendly LLC.
+wireless_network: WiMAX is a type of Wireless MAN and is described by the IEEE 802.16 standard.
+wireless_network: Personal Communications Service (PCS): PCS is a radio band that can be used by mobile phones in North America and South Asia.
+wireless_network: Additionally, cells can be made very small using low-power transmitters.
+wireless_network: Cellular and PCS systems use several radio communications technologies.
+wireless_network: Other configurations are mesh systems where each access point acts as a relay, also.

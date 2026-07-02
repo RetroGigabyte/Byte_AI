@@ -1,0 +1,70 @@
+metaverse: It has been adopted by Microsoft for HoloLens 2, Meta Platforms for the Oculus Quest, HTC for the HTC Vive, Qualcomm for the Snapdragon Spaces XR Developer Platform, and Valve for SteamVR.
+metaverse: In August 2022, it was announced that glTF 2.0 had been released as the ISO/IEC 12113:2022 International Standard.
+metaverse: Facebook whistleblower Frances Haugen criticised the move, adding that Meta Platforms' continued focus on growth-oriented projects is largely done to the detriment of ensuring safety on their platforms.
+metaverse: Users of the metaverse access it through personal terminals that project a high-quality virtual reality display onto goggles worn by the user, or from grainy black and white public terminals in booths.
+metaverse: The first novel was released in 2011, with a 2018 film adaptation, and second novel in 2020.
+metaverse: Many of the virtual reality technologies advertised by Meta Platforms remain to be developed.
+metaverse: Universal Scene Description is a specification for 3D computer graphics interchange created by Pixar and supported by Blender, Apple's SceneKit and Autodesk 3ds Max.
+metaverse: In February 2022, investigations by BBC News and The Washington Post found minors engaging in adult activities in applications such as VRChat and Horizon Worlds despite an age requirement of 13 years or older.
+metaverse: Meta said it plans to continue development of the mobile version.
+metaverse: Information privacy, user addiction, and user safety are concerns within the metaverse, stemming from challenges facing the social media and video game industries as a whole.
+metaverse: People with physical disabilities like deafness or blindness are disadvantaged without technologies addressed to accessibility.
+metaverse: Stephenson used the term to describe a virtual-reality-based successor to the internet.
+metaverse: Current hardware development is focused on overcoming limitations of VR headsets, glasses, sensors, and increasing immersion with haptic technology.
+metaverse: The technology company NVIDIA announced in 2021 they would adopt USD for their metaverse development tools.
+metaverse: In a January 2022 interview with Wired, Second Life creator Philip Rosedale described the metaverse as a three-dimensional Internet that is populated with live people.
+metaverse: Experts are also concerned that the metaverse could be used as an 'escape' from reality in a similar fashion to existing internet technologies.
+metaverse: Lightweight wireless headsets have struggled to achieve retina display pixel density needed for visual immersion.
+metaverse: The term has been used as a buzzword by companies to exaggerate the development progress of various related technologies and projects for public relations purposes.
+metaverse: In an October 2022 interview, Roblox Chief Scientist Morgan McGuire stated that it is "a challenge to moderate 3D", and also compared moderating Roblox to shutting down speakeasies.
+metaverse: The decision was said to impact more than 1,000 employees,  which amounted to about 10 percent of employees in that division.
+metaverse: The franchise depicts the year 2045 as being gripped by an energy crisis and global warming, causing widespread social problems and economic stagnation.
+metaverse: Dependence on VR technology has limited metaverse development and wide-scale adoption.
+metaverse: Neal Stephenson's metaverse appears to its users as an urban environment developed along a 100-meter-wide road, called the Street, which spans the entire 65,536 km (216 km) circumference of a featureless, black, perfectly spherical planet.
+metaverse: Meta Platforms has also faced user safety criticism regarding Horizon Worlds due to sexual harassment occurring on the platform.
+metaverse: Congressional Research Service.
+metaverse: OpenXR is an open standard for access to virtual and augmented reality devices and experiences.
+metaverse: Social interaction and 3D virtual worlds are often an integral feature in many massively multiplayer online games.
+metaverse: Limitations of portable hardware and the need to balance cost and design have caused a lack of high-quality graphics and mobility.
+metaverse: In 2021, the company was renamed "Meta Platforms" and its chairman Mark Zuckerberg declared a company commitment to developing a metaverse.
+metaverse: In 2026, Meta laid off 1,000 employees from Reality Labs, shuttering several of its studios, and froze support for Horizon Worlds for the Quest VR, meaning no new VR games will be added to the platform.
+metaverse: Some metaverse implementations rely on digital currencies, and often cryptocurrency.
+metaverse: Virtual crimes like sex abuse, child grooming, and harassment are significant challenges within existing virtual reality social platforms, and may be similarly prevalent in the metaverse.
+metaverse: Within the metaverse, individual users appear as avatars of any form, with the sole restriction of height, "to prevent people from walking around a mile high".
+metaverse: In 2019, the social network company Facebook launched a social VR world called Facebook Horizon, later rebranded as Horizon Worlds.
+metaverse: The term metaverse originated in the 1992 science fiction novel Snow Crash as a portmanteau of "meta" and "universe".
+metaverse: Transport within the metaverse is limited to analogs of reality by foot or vehicle, such as the monorail that runs the entire length of the Street, stopping at 256 Express Ports, located evenly at 256 km intervals, and Local Ports, one kilometer apart.
+metaverse: In 2017, Microsoft acquired the VR company AltspaceVR, and implemented virtual avatars and meetings held in virtual reality into Microsoft Teams.
+metaverse: In 2021, Meta made a loss of over $10 billion on its metaverse development department, with Mark Zuckerberg saying he expected operating losses to "increase meaningfully" in 2022.
+metaverse: glTF is a specification for the efficient transmission and loading of 3D scenes and models by engines and applications created by the Khronos Group, an industry consortium developing royalty free open standards.
+metaverse: Keza MacDonald of The Guardian criticized the utopianism of technology companies who claim that a metaverse could be a reprieve from worker exploitation, prejudice, and discrimination.
+metaverse: Another issue for wide-scale adoption of the technology is cost, with consumer VR headsets ranging in price from $300 to $3,500 as of 2022.
+metaverse: Ed Zitron in Business Insider and Marc Olinga in The Street declared the Metaverse a fad that was "dead", having been displaced by artificial intelligence as the current hot new trend in computing.
+metaverse: A metaverse is a virtual world in which users interact while represented by avatars, typically in a 3D display, with the experience focused on social and economic connection.
+metaverse: Early projects included Active Worlds and The Palace.
+metaverse: Interoperability is a major concern in metaverse development, stemming from concerns about transparency and privacy.
+metaverse: The virtual real estate is owned by the Global Multimedia Protocol Group, a fictional part of the real Association for Computing Machinery, and is available to be bought and buildings developed thereupon.
+metaverse: Meta Platforms (previously Facebook) planned on employing targeted advertising within their metaverse, raising further worries related to the spread of misinformation and loss of personal privacy.
+metaverse: Assets within the metaverse are sometimes traded as non-fungible tokens (NFTs) and track ownership using blockchain technology.
+metaverse: Cyberspace
+Multiverse (video games)
+Massively multiplayer online role-playing game
+Nvidia Omniverse
+Spatial computing
+metaverse: Popular games described as part of the metaverse include Habbo Hotel, World of Warcraft, Minecraft, Fortnite, VRChat, and game creation platform Roblox.
+metaverse: The users experience it from a first-person perspective.
+metaverse: Components of metaverse technology have already been developed within online video games.
+metaverse: The term metaverse was coined by Neal Stephenson in his 1992 science fiction novel Snow Crash, where humans, represented by computer-generated avatars, interact with each other and software agents, in a three-dimensional virtual space that uses the metaphor of the real world.
+metaverse: The term "metaverse" is often linked to virtual reality technology, and beginning in the early 2020s, with Web3.
+metaverse: Microsoft shut-down AltspaceVR in March 2023.
+metaverse: August 26, 2022.
+metaverse: In Snow Crash, the metaverse is envisioned as a version of the Internet that is a single, universal, and immersive virtual world, facilitated by the use of virtual reality (VR) and augmented reality (AR) headsets.
+metaverse: He has yet to succeed.
+metaverse: Abdulsattar Jaber, a professor at Iraq's Middle Technical University, found that the new technology used by the metaverse may cause many problems related to the security and privacy of system users.
+metaverse: Stephenson describes a sub-culture of people choosing to remain continuously connected to the metaverse; they are given the sobriquet "gargoyles" due to their grotesque appearance.
+metaverse: The primary escape for people is a shared VR landscape called "the OASIS" which is accessed with a VR headset and wired gloves.
+metaverse: There have been several virtual environment standardization projects.
+metaverse: The OASIS functions both as a massively multiplayer online role-playing game and as a virtual society.
+metaverse: In January 2026, Meta began laying offs in its Reality Labs division which focused on virtual reality and shut down a few of its studios working on VR titles.
+metaverse: In February 2023, Zuckerberg wrote a Facebook post announcing the company's pivot away from the metaverse to focus on AI.
+metaverse: Proposed applications for metaverse technology include improving work productivity, interactive learning environments, e-commerce, mass-audience interaction, healthcare and real estate.
