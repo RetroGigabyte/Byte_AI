@@ -175,7 +175,7 @@ python3 Killo_2.75_DAT.py "tell me about python programming"
 ## Rate Limiting
 
 Killo smartly handles Wikipedia's rate limits:
-- **500 rotating user agents** - distribute requests
+- **2000+ rotating user agents** - distribute requests
 - **0.5s base delay** - respectful pacing
 - **Smart jitter** - avoid pattern detection
 - **429 handling** - instant agent switch
