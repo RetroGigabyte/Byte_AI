@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Killo 2.75 DAT - Web Chat</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>🧠 Killo 2.75 DAT</h1>
+            <p>Knowledge Bot with Dynamic Automatic Training</p>
+        </div>
+
+        <!-- Chat Container -->
+        <div class="chat-container">
+            <div id="messages" class="messages"></div>
+        </div>
+
+        <!-- Input Area -->
+        <div class="input-area">
+            <div class="input-group">
+                <input 
+                    type="text" 
+                    id="queryInput" 
+                    placeholder="Ask anything... (greetings, math, questions, etc.)"
+                    autocomplete="off"
+                >
+                <button id="sendBtn" class="send-btn">Send</button>
+            </div>
+            <div class="controls">
+                <button id="clearBtn" class="control-btn" title="Clear history">🗑️ Clear</button>
+                <button id="statsBtn" class="control-btn" title="Show stats">📊 Stats</button>
+                <button id="historyBtn" class="control-btn" title="Show history">📜 History</button>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>Killo 2.75 DAT • Built with C++ & Python • <a href="https://github.com/RetroGigabyte/Byte_AI" target="_blank">GitHub</a></p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
