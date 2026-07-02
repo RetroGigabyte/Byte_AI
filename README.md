@@ -1,262 +1,311 @@
-# Byte AI - Knowledge Bot
+# Killo 2.75 DAT - Knowledge Bot with Dynamic Automatic Training
 
-<div align="center">
-  <img src="assets/Byte_AI.png" alt="Byte AI Logo" width="300">
-  
-  **By: RetroGigabyte**
-</div>
+![Version](https://img.shields.io/badge/version-2.75-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Python](https://img.shields.io/badge/python-3.6%2B-blue) ![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
 
-Open-source AI bot framework - Killo (Byte 2.0):
-
-**Killo** - LLM-like generative knowledge bot (current)
-- Built in C++ with intelligent category matching
-- 500,000+ training lines across 2,300+ categories
-- Generates natural language responses from training data
-- Multi-threaded loading, Wikipedia integration, NTP time functions
-- Context-aware synthesis engine
-- Conversational memory and pattern learning
-
-## Features
-
-### Killo Core Capabilities
-- ✅ **Multi-threaded Loading** - 4 parallel threads load 4,500+ training lines in 0.7 seconds
-- ✅ **Recursive Zip Extraction** - Automatically extracts and loads compressed training data
-- ✅ **Wikipedia Integration** - Recursive article downloading with linked article following
-- ✅ **Real-time Time/Date** - NTP-synchronized current time and date queries
-- ✅ **Training Collection** - Interactive Q&A pair collection with Groq AI enhancement
-- ✅ **Auto-Training Pipeline** - Automatic processing and compilation of new training data
-- ✅ **Category Matching** - Intelligent query-to-category classification
-- ✅ **Query History** - Tracks recent queries for context
-
-### Knowledge Base
-- 1,200+ Wikipedia articles indexed
-- 4,500+ training sentences
-- 781+ dictionary definitions
-- 30+ news articles
-- 9+ pet-related Q&A pairs
-- 50+ knowledge categories
+**Killo** is an intelligent knowledge bot powered by:
+- 🧠 **C++ engine** with 2.8M training lines across 1000+ Wikipedia articles
+- 🔄 **Dynamic Automatic Training (DAT)** - auto-learns from Wikipedia when needed
+- 🧮 **Math evaluation** - instant calculation support
+- ⚡ **Hardcoded responses** - fast answers for common queries
+- 💾 **Smart caching** - persistent knowledge learning
 
 ## Quick Start
 
-### 1. Clone & Setup
 ```bash
-git clone https://github.com/RetroGigabyte/Byte_AI.git
-cd Byte_AI
+# Install dependencies
+pip install requests
+
+# Extract and compile
+unzip Killo_2.75_DAT.zip
+cd chatbot
+g++ -std=c++17 -O2 Killo.cpp -o Killo
+
+# Run interactive chat
+python3 Killo_2.75_DAT.py
+
+# Or ask single questions
+python3 Killo_2.75_DAT.py "What is machine learning?"
 ```
 
-### 2. Install Dependencies
+## Features
+
+### 🧠 Three-Tier Intelligence System
+
+**1. Hardcoded Responses (< 1ms)**
+- Greetings: "hello", "hi", "hey"
+- Time/Date: "what time is it", "what date is it"  
+- Math: "2+3", "what is 10 divided by 2"
+- Help: "who are you", "how can you help"
+
+**2. Killo C++ Training (10-100ms)**
+- 1000+ Wikipedia articles as training data
+- 2.8M training lines
+- Conversation memory
+- Smart pattern matching
+
+**3. DAT Wikipedia (1-3 seconds)**
+- Auto-searches Wikipedia for unknown topics
+- Extracts 5 key sentences
+- Caches learning for future queries
+- Never forgets what it learns
+
+### 🧮 Math Engine
+
 ```bash
-pip install -r url_lists/requirements.txt
+# Direct expressions
+./Killo "2+3"              # 5
+./Killo "2^10"             # 1024
+./Killo "(2+3)*4"          # 20
+./Killo "sqrt(16)"         # 4.0
+
+# Word-based
+./Killo "what is 5 plus 3"        # 8
+./Killo "calculate 100 / 5"       # 20
+./Killo "what is sqrt(16)"        # 4.0
+./Killo "what is pi"              # 3.14
 ```
 
-### 3. Compile
-```bash
-g++ -std=c++17 Killo.cpp -o Killo
-```
+Supported: `+ - * / % ^ sqrt() sin() cos() tan() pi e`
 
-### 4. Run
-```bash
-./Killo
-```
+### 📚 Knowledge Base
 
-## Usage Examples
+**4,726 curated Wikipedia articles** across 12 domains:
 
-### Chat with Killo
-```
-You: What is machine learning?
-Killo [ai]: Machine learning is a subset of artificial intelligence...
-
-You: Tell me about dogs
-Killo [pets]: Labrador Retrievers are one of the most popular dog breeds...
-
-You: What time is it?
-Killo [time]: Current time: Monday, June 30, 2026 at 10:40 AM
-```
-
-### Train Killo (Simple Workflow)
-```bash
-# 1. Collect Q&A pairs (interactive)
-python3 training_mode.py interactive
-
-# 2. it auto-loads all training data!
-./Killo
-```
-
-**That's it!** The bot automatically:
-- Loads all .txt files from `training/`
-- Extracts and reads from .zip files
-- Finds and indexes all training data
-- Applies multi-threaded recursive loading
-
-### Advanced: Download Wikipedia Articles
-```bash
-# Download Machine Learning + linked articles recursively
-python3 wiki.py -r "Machine learning" ai 2
-
-#Move all .txt(s) from "Wiki" folder to "training" folder
-
-# Run Killo!
-./Killo
-```
-
-### Optional: Use Groq AI for Better Answers
-(API KEY IS NEEDED)
-```bash
-# During training, select "Generate with Groq"
-python3 training_mode.py interactive
-# Choose option 2 to have Groq generate better answers
-```
+| Domain | Count | Examples |
+|--------|-------|----------|
+| Technology & Computing | 150+ | AI, ML, Python, Blockchain, Cloud |
+| Science | 250+ | Physics, Chemistry, Biology, Astronomy |
+| History | 200+ | Ancient Egypt, WWI, WWII, Cold War |
+| Geography | 150+ | Countries, Continents, Mountains, Rivers |
+| Business & Economics | 100+ | Markets, Banking, Crypto, Investing |
+| Culture & Society | 200+ | Art, Music, Literature, Philosophy |
+| Sports | 100+ | Football, Basketball, Olympics, Tennis |
+| Health & Medicine | 150+ | Diseases, Treatments, Anatomy, Nutrition |
+| Nature & Wildlife | 100+ | Animals, Plants, Ecology, Conservation |
+| Education | 150+ | Schools, Universities, Learning Methods |
+| Law & Government | 200+ | Democracy, Laws, Politics, Systems |
+| Energy & Transportation | 150+ | Oil, Solar, Trains, Planes, Ships |
 
 ## Architecture
 
-### Three-Layer System
 ```
-┌─────────────────────────────────┐
-│     Interface Layer             │
-│  CLI | Time Queries | Training  │
-└──────────────┬──────────────────┘
-               │
-┌──────────────▼──────────────────┐
-│     Knowledge Layer             │
-│  Category Matching              │
-│  Query Classification           │
-│  Response Retrieval             │
-└──────────────┬──────────────────┘
-               │
-┌──────────────▼──────────────────┐
-│     Training Layer              │
-│  Multi-threaded Loading         │
-│  Recursive Zip Extraction       │
-│  Wikipedia Integration          │
-└─────────────────────────────────┘
+┌─────────────────────┐
+│   User Input        │
+└──────────┬──────────┘
+           │
+┌──────────▼──────────────────────────┐
+│   Killo_2.75_DAT.py (Python)       │
+│   ├─ Hardcoded Responses (instant)  │
+│   ├─ Killo C++ (training data)      │
+│   └─ DAT Wikipedia (auto-learn)     │
+└──────────┬──────────────────────────┘
+           │
+┌──────────▼──────────────────────────┐
+│   Response with Source & Cache      │
+└─────────────────────────────────────┘
 ```
 
-### Key Files
-- `Killo.cpp` - Main C++ bot engine (800+ lines)
-- `Killo` - Compiled executable
-- `training_mode.py` - Interactive Q&A collection (with Groq support)
-- `wiki.py` - Wikipedia article extraction (recursive)
-- `url.py` - URL extraction tool (recursive crawling)
-- `groq_enhancer.py` - Groq API integration (optional)
+## Installation
 
-## Training Data
+### Requirements
+- Python 3.6 or higher
+- C++ compiler (g++, clang, or MSVC)
+- `requests` library
+- 500MB disk space
 
-### Included Categories
-- **2,300+** total categories across domains
-- **500,000+** training lines (from Wikipedia, news, user data)
-- Including: AI, pets, history, news, dictionary, and more
-
-### Add Your Own Training
+### Setup
 ```bash
-# Option 1: Use interactive training (easiest)
-python3 training_mode.py interactive
+# Clone or extract
+git clone https://github.com/RetroGigabyte/Byte_AI.git -b killo-dev
+cd chatbot
 
-# Option 2: Create manual training file
-training/my_category.txt
+# Install Python dependencies
+pip install -r requirements.txt  # or: pip install requests
 
-# Format: category: sentence
-# Example:
-# cooking: Preheat oven to 350 degrees
-# cooking: Add flour and sugar to bowl
+# Compile C++ engine
+g++ -std=c++17 -O2 Killo.cpp -o Killo
 
-# Compile and run - bot auto-loads everything!
-g++ -std=c++17 Killo.cpp -o Killo
-./Killo
+# Run
+python3 Killo_2.75_DAT.py
 ```
 
-**The bot automatically:**
-- Scans `training/` directory
-- Loads all `.txt` files
-- Extracts and reads from `.zip` files
-- Uses multi-threaded loading for speed
+## Usage
 
-
-## Advanced Features
-
-### Recursive Wikipedia Download
+### Interactive Mode
 ```bash
-# Download topic + all linked articles (depth 2)
-python3 wiki.py -r "Artificial Intelligence" ai 2
-
-# Deeper recursion (depth 3)
-python3 wiki.py -r "Python (programming language)" python 3
+python3 Killo_2.75_DAT.py
 ```
 
-### Batch URL Extraction
+Examples:
+```
+You: hello
+Killo: Hi there! How can I help you?
+
+You: what time is it
+Killo: It's 09:35 PM on Tuesday, July 01, 2025
+
+You: 2+3
+Killo: 5
+
+You: what is quantum computing
+Killo: [Answers from training data or Wikipedia]
+```
+
+### Single Query Mode
 ```bash
-cd extractors
-bash batch_extract.sh
+python3 Killo_2.75_DAT.py "your question here"
 ```
 
-### Optional: Schedule Auto-Training
-For automated daily backups and recompilation (optional):
+Examples:
 ```bash
-# Auto-train & backup every 24 hours
-python3 auto_train.py schedule 24
+python3 Killo_2.75_DAT.py "what is machine learning?"
+python3 Killo_2.75_DAT.py "2^8"
+python3 Killo_2.75_DAT.py "tell me about python programming"
 ```
-
-**Note:** This is optional! The bot auto-loads training data on startup regardless.
 
 ## Performance
 
-- **Startup Time**: < 2 seconds (with 500K training lines)
-- **Threading**: 4 parallel loaders
-- **Training Lines Loaded**: 500,000+
-- **Categories**: 2,300+
-- **Response Time**: Instant synthesis
+| Operation | Time | Notes |
+|-----------|------|-------|
+| Hardcoded response | < 1ms | Instant answer |
+| Killo C++ query | 10-100ms | From training data |
+| DAT Wikipedia lookup | 1-3s | Auto-learn & cache |
+| DAT cache hit | < 50ms | Cached knowledge |
 
-## System Requirements
+## Rate Limiting
 
-- C++17 compiler (g++)
-- Python 3.7+
-- 200 MB disk space (with all training data)
-- Internet connection (for Wikipedia/News extraction)
+Killo smartly handles Wikipedia's rate limits:
+- **500 rotating user agents** - distribute requests
+- **0.5s base delay** - respectful pacing
+- **Smart jitter** - avoid pattern detection
+- **429 handling** - instant agent switch
+- **Exponential backoff** - for repeated limits
+
+## Extending Killo
+
+### Add More Training Articles
+```bash
+# Create articles.txt with one article per line
+echo "Quantum Physics" > my_articles.txt
+echo "Machine Learning" >> my_articles.txt
+
+# Download and train
+python3 wiki.py -l my_articles.txt
+cp Wiki/*.txt training/
+python3 Killo_2.75_DAT.py  # Uses new training
+```
+
+### Add Custom Hardcoded Responses
+Edit `Killo_2.75_DAT.py` and add to `self.simple_responses`:
+```python
+'custom query': "Your custom answer"
+```
+
+## File Structure
+
+```
+Killo_2.75_DAT/
+├── Killo_2.75_DAT.py          # Main Python wrapper
+├── Killo.cpp                  # C++ engine source
+├── Killo                       # Compiled binary
+├── user_agent_rotator.py       # User agent system
+├── web_agents.txt              # 500 user agents
+├── articles.txt                # 4,726 article list
+├── wiki.py                     # Wikipedia scraper
+├── training/                   # Knowledge base
+│   ├── extracted_zips/         # 1000+ .txt files
+│   ├── dat_cache.json          # Learned knowledge
+│   └── Wikipedia_Batch_1.zip   # Reference batch
+├── README.md                   # This file
+├── RELEASE_NOTES.md            # Detailed docs
+├── LICENSE                     # MIT License
+└── CLAUDE.md                   # Architecture docs
+```
+
+## How DAT Works
+
+1. **User asks a question** that Killo doesn't have in training
+2. **DAT activates** - searches Wikipedia for the topic
+3. **Extracts key sentences** - picks 5 most relevant
+4. **Caches the learning** - stores in `dat_cache.json`
+5. **Returns the answer** - with Wikipedia attribution
+6. **Remembers forever** - next time is instant!
+
+## Performance Optimization Tips
+
+- **Cache warming**: Run common queries once to pre-cache
+- **Offline mode**: Disconnect internet to use training data only
+- **Batch queries**: Run multiple queries to amortize startup time
+- **Local compilation**: Compile on your machine for best performance
+
+## Troubleshooting
+
+### "Killo: command not found"
+```bash
+# Compile first
+g++ -std=c++17 -O2 Killo.cpp -o Killo
+```
+
+### "requests module not found"
+```bash
+pip install requests
+```
+
+### "Wikipedia lookup is slow"
+- Normal: 1-3 seconds first time, < 50ms cached
+- Check internet connection
+- Try a simpler query
+
+### "Math gives wrong answer"
+- Check operator precedence: `(2+3)*4` not `2+3*4`
+- Use `^` or `**` for exponents
+- Functions: `sqrt()`, `sin()`, `cos()`, `tan()`
+
+## Development
+
+### Update Training Data
+```bash
+python3 wiki.py -l articles.txt     # Download articles
+cp Wiki/*.txt training/              # Add to training
+```
+
+### Add New Features
+1. Edit `Killo_2.75_DAT.py`
+2. Test locally
+3. Commit and push to `killo-dev` branch
+4. Create pull request
+
+## Known Limitations
+
+- DAT requires internet connection
+- Wikipedia sometimes rate-limits (handled automatically)
+- Math limited to standard operations
+- Training data is static (expand by adding articles)
 
 ## License
 
-**100% Open Source** - MIT License
+MIT License - See [LICENSE](LICENSE) file for details
 
-Copyright (c) 2026 RetroGigabyte
+## Contributors
 
-This project is completely free to use, modify, and distribute. You are free to:
-- ✅ Use the code for any purpose (commercial or personal)
-- ✅ Modify and distribute the code
-- ✅ Use it in your own projects
-- ✅ Fork and build your own version
-- ✅ Rename, rebrand, and customize everything
+- **Claude AI** (Anthropic) - Original Byte Bot architecture
+- **RetroGigabyte** - Killo development & DAT feature
+- **Claude Haiku 4.5** - Dynamic Automatic Training system
 
-See [LICENSE](LICENSE) file for details.
+## Repository
 
-**Fork-based model:** This repository accepts no pull requests. Fork it and build your own version instead!
+**GitHub**: [RetroGigabyte/Byte_AI](https://github.com/RetroGigabyte/Byte_AI)  
+**Branch**: `killo-dev`  
+**Latest Version**: 2.75 DAT (July 2026)
 
-## Architecture Credits
+## Support & Feedback
 
-**Built by:** RetroGigabyte  
-**AI Architecture & Implementation:** Claude AI (Claude 3.5 Sonnet)  
-**Training Data:** Wikipedia, News APIs, User-Contributed Q&A
-
-## Customizing & Forking
-
-Byte AI is **100% open source**! This repository is the base version, but we encourage you to **fork it and build your own version**.
-
-**No pull requests** — this keeps the main project focused. Instead:
-
-1. **Fork** the repository on GitHub
-2. **Clone** your fork and make it your own
-3. **Customize** everything: features, behavior, training data, branding
-4. **Publish** your fork and share what you built!
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for:
-- How to fork and customize
-- Ideas for your own version
-- How to share your fork
-- MIT License freedom
-
-## Contact
-
-- **GitHub**: https://github.com/RetroGigabyte/Byte_AI
-- **Email**: retrogigabyteyt@gmail.com
+- **Issues**: Report on [GitHub Issues](https://github.com/RetroGigabyte/Byte_AI/issues)
+- **Discussion**: Use [GitHub Discussions](https://github.com/RetroGigabyte/Byte_AI/discussions)
+- **Contributing**: See [CLAUDE.md](CLAUDE.md) for architecture details
 
 ---
 
-**Happy chatting with Killo! 🤖**
+**Made with ❤️ by RetroGigabyte & Claude AI**
+
+*"The future of AI is collaborative. Humans provide direction. AI provides implementation. Together, we create amazing things."*
