@@ -1,4 +1,5 @@
-const CACHE_NAME = 'byte-ai-v1';
+const CACHE_NAME = 'byte-ai-v2.8';
+const VERSION = '2.8.0';
 const URLS_TO_CACHE = [
   '/',
   '/index.html'
@@ -9,7 +10,6 @@ self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME).then(cache => {
       return cache.addAll(URLS_TO_CACHE).catch(() => {
-        // Gracefully handle missing files
         return Promise.resolve();
       });
     })
@@ -17,7 +17,7 @@ self.addEventListener('install', event => {
   self.skipWaiting();
 });
 
-// Activate: Clean up old caches
+// Activate: Clean up old caches and notify clients of update
 self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys().then(cacheNames => {
@@ -31,39 +31,46 @@ self.addEventListener('activate', event => {
     })
   );
   self.clients.claim();
+
+  // Notify all clients about the update
+  self.clients.matchAll().then(clients => {
+    clients.forEach(client => {
+      client.postMessage({
+        type: 'UPDATE_AVAILABLE',
+        version: VERSION
+      });
+    });
+  });
 });
 
-// Fetch: Network first, fall back to cache
+// Fetch: Network first for Wikipedia, cache first for static
 self.addEventListener('fetch', event => {
   const { request } = event;
 
-  // Skip non-GET requests
   if (request.method !== 'GET') {
     return;
   }
 
-  // For Wikipedia API calls, use network first
+  // Wikipedia API: Network first
   if (request.url.includes('wikipedia.org')) {
     event.respondWith(
       fetch(request)
         .then(response => {
           if (response.ok) {
-            // Cache successful API responses
-            const cache = caches.open(CACHE_NAME).then(c => {
+            caches.open(CACHE_NAME).then(c => {
               c.put(request, response.clone());
             });
           }
           return response;
         })
         .catch(() => {
-          // Fall back to cache if offline
           return caches.match(request);
         })
     );
     return;
   }
 
-  // For everything else, try cache first, then network
+  // Static content: Cache first
   event.respondWith(
     caches.match(request)
       .then(response => {
@@ -82,7 +89,6 @@ self.addEventListener('fetch', event => {
         });
       })
       .catch(() => {
-        // Offline fallback
         return new Response('Offline - cached content not available', {
           status: 503,
           statusText: 'Service Unavailable',
@@ -94,9 +100,36 @@ self.addEventListener('fetch', event => {
   );
 });
 
-// Handle messages from client
+// Check for updates periodically
 self.addEventListener('message', event => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
+  if (event.data && event.data.type === 'CHECK_UPDATE') {
+    checkForUpdate();
   }
 });
+
+function checkForUpdate() {
+  fetch('/index.html', { cache: 'no-store' })
+    .then(response => response.text())
+    .then(html => {
+      const versionMatch = html.match(/const APP_VERSION = ['"]([^'"]+)['"]/);
+      if (versionMatch && versionMatch[1] !== VERSION) {
+        // New version available, update the cache
+        caches.open(CACHE_NAME).then(cache => {
+          cache.add('/index.html');
+
+          // Notify all clients
+          self.clients.matchAll().then(clients => {
+            clients.forEach(client => {
+              client.postMessage({
+                type: 'UPDATE_AVAILABLE',
+                version: versionMatch[1]
+              });
+            });
+          });
+        });
+      }
+    })
+    .catch(() => {
+      // Offline, skip update check
+    });
+}
