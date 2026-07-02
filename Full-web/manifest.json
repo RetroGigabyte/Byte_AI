@@ -1,13 +1,17 @@
 {
-  "name": "Byte AI 2.75 Killo DAT",
+  "name": "Byte AI 2.8 - Killo DAT Knowledge Bot",
   "short_name": "Byte AI",
-  "description": "Knowledge Bot with Dynamic Automatic Training. Learn from Wikipedia, hardcoded responses, and math evaluation.",
-  "start_url": "/Byte_AI/",
-  "scope": "/Byte_AI/",
+  "description": "Chat with Wikipedia learning, math evaluation, and conversation memory. Works offline.",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
+  "dir": "ltr",
+  "lang": "en-US",
   "theme_color": "#000000",
   "background_color": "#000000",
+  "prefer_related_applications": false,
+  "categories": ["productivity", "utilities"],
   "icons": [
     {
       "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%23000' width='192' height='192'/><rect x='24' y='24' width='48' height='48' fill='%2300ff00'/><rect x='108' y='24' width='48' height='48' fill='%2300ff00' opacity='0.6'/><rect x='24' y='108' width='48' height='48' fill='%2300ff00' opacity='0.6'/><rect x='108' y='108' width='48' height='48' fill='%2300ff00'/></svg>",
@@ -19,13 +23,18 @@
       "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%23000' width='512' height='512'/><rect x='64' y='64' width='128' height='128' fill='%2300ff00'/><rect x='288' y='64' width='128' height='128' fill='%2300ff00' opacity='0.6'/><rect x='64' y='288' width='128' height='128' fill='%2300ff00' opacity='0.6'/><rect x='288' y='288' width='128' height='128' fill='%2300ff00'/></svg>",
       "sizes": "512x512",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%23000' width='512' height='512'/><rect x='64' y='64' width='128' height='128' fill='%2300ff00'/><rect x='288' y='64' width='128' height='128' fill='%2300ff00' opacity='0.6'/><rect x='64' y='288' width='128' height='128' fill='%2300ff00' opacity='0.6'/><rect x='288' y='288' width='128' height='128' fill='%2300ff00'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
     }
   ],
-  "categories": ["productivity"],
   "screenshots": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect fill='%23000' width='540' height='720'/><text x='50' y='100' font-size='32' fill='%2300ff00' font-family='monospace'>Byte AI Chat</text><rect x='30' y='150' width='480' height='80' rx='40' fill='%2300ff00'/><text x='60' y='200' fill='%23000' font-family='monospace'>Hello!</text><rect x='30' y='280' width='480' height='60' rx='30' fill='%23333'/><text x='60' y='320' fill='%2300ff00' font-family='monospace'>Type Here!</text></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect fill='%23000' width='540' height='720'/><rect x='30' y='60' width='480' height='60' rx='8' fill='%231a4d2e' stroke='%2300ff00' stroke-width='2'/><text x='270' y='95' font-size='18' fill='%2300ff00' font-family='monospace' text-anchor='middle' font-weight='bold'>Byte AI 2.8</text><rect x='30' y='150' width='480' height='80' rx='40' fill='%2300ff00'/><text x='270' y='205' fill='%23000' font-family='monospace' text-anchor='middle' font-size='24'>Hello!</text><rect x='30' y='260' width='480' height='60' rx='30' fill='%232d5a3d' stroke='%2300ff00' stroke-width='2'/><text x='270' y='300' fill='%2300ff00' font-family='monospace' text-anchor='middle' font-size='14'>Type Here!</text></svg>",
       "sizes": "540x720",
       "type": "image/svg+xml",
       "form_factor": "narrow"
@@ -33,13 +42,26 @@
   ],
   "shortcuts": [
     {
-      "name": "Chat",
+      "name": "Start Chat",
       "short_name": "Chat",
       "description": "Open chat interface",
-      "url": "/Byte_AI/?mode=chat",
+      "url": "./index.html?mode=chat",
       "icons": [
         {
-          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><rect fill='%23000' width='96' height='96'/><circle cx='48' cy='40' r='20' fill='%2300ff00'/><path d='M20 70 L30 60 L66 60 Q76 60 76 70 L76 80 Q76 90 66 90 L30 90 Q20 90 20 80 Z' fill='%2300ff00'/></svg>",
+          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><rect fill='%23000' width='96' height='96'/><path d='M20 25 L76 25 Q86 25 86 35 L86 60 Q86 70 76 70 L50 70 L30 85 L35 70 L20 70 Q10 70 10 60 L10 35 Q10 25 20 25 Z' fill='%2300ff00'/></svg>",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "View History",
+      "short_name": "History",
+      "description": "View chat history",
+      "url": "./index.html?mode=history",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><rect fill='%23000' width='96' height='96'/><circle cx='48' cy='35' r='24' fill='none' stroke='%2300ff00' stroke-width='3'/><line x1='48' y1='17' x2='48' y2='27' stroke='%2300ff00' stroke-width='2'/><line x1='48' y1='35' x2='60' y2='47' stroke='%2300ff00' stroke-width='2'/></svg>",
           "sizes": "96x96",
           "type": "image/svg+xml"
         }
