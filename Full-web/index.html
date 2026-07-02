@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Byte AI 2.75 "Killo" (DAT)</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Courier New', monospace;
+            background: #000;
+            color: #fff;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .app {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            background: #000;
+        }
+
+        /* Header */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 16px 24px;
+            border-bottom: 1px solid #1a4d2e;
+            background: #000;
+        }
+
+        .header-left {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .header-logo {
+            width: 32px;
+            height: 32px;
+            object-fit: contain;
+            filter: drop-shadow(0 0 6px rgba(0, 255, 0, 0.3));
+        }
+
+        .app-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #fff;
+            letter-spacing: 0.5px;
+        }
+
+        .header-right {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .mode-switch {
+            background: none;
+            border: none;
+            color: #00ff00;
+            font-size: 18px;
+            cursor: pointer;
+            padding: 4px 8px;
+            border-radius: 4px;
+            transition: background 0.2s;
+        }
+
+        .mode-switch:hover {
+            background: rgba(0, 255, 0, 0.1);
+        }
+
+        .user-profile {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 14px;
+            color: #fff;
+        }
+
+        .avatar {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background: #555;
+            border: 2px solid #00ff00;
+        }
+
+        /* Chat Area */
+        .chat-area {
+            flex: 1;
+            overflow-y: auto;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            background: #000;
+        }
+
+        .messages {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        /* Message Styles */
+        .message {
+            display: flex;
+            align-items: flex-end;
+            gap: 12px;
+            animation: slideIn 0.3s ease-out;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .message.user {
+            justify-content: flex-end;
+        }
+
+        .message.user .label {
+            order: 2;
+        }
+
+        .message.user .bubble {
+            order: 1;
+        }
+
+        .message.bot .label {
+            order: 1;
+        }
+
+        .message.bot .bubble {
+            order: 2;
+        }
+
+        .label {
+            font-size: 12px;
+            font-weight: 600;
+            color: #888;
+            min-width: 40px;
+            text-align: center;
+            font-style: italic;
+        }
+
+        .bubble {
+            max-width: 60%;
+            padding: 12px 20px;
+            border-radius: 24px;
+            word-wrap: break-word;
+            line-height: 1.4;
+            font-size: 15px;
+        }
+
+        .message.bot .bubble {
+            background: linear-gradient(135deg, #2d5a3d 0%, #1a4d2e 100%);
+            color: #fff;
+            border: 1px solid #00ff00;
+        }
+
+        .message.user .bubble {
+            background: linear-gradient(135deg, #00ff00 0%, #00cc00 100%);
+            color: #000;
+            font-weight: 500;
+        }
+
+        /* Input Area */
+        .input-area {
+            padding: 16px 24px 24px;
+            background: #000;
+            border-top: 1px solid #1a4d2e;
+        }
+
+        #queryInput {
+            width: 100%;
+            padding: 14px 20px;
+            border: 2px solid #1a4d2e;
+            border-radius: 24px;
+            background: rgba(26, 77, 46, 0.5);
+            color: #fff;
+            font-size: 15px;
+            font-family: inherit;
+            transition: border-color 0.2s, background 0.2s;
+        }
+
+        #queryInput::placeholder {
+            color: #666;
+            font-style: italic;
+        }
+
+        #queryInput:focus {
+            outline: none;
+            border-color: #00ff00;
+            background: rgba(26, 77, 46, 0.8);
+            box-shadow: 0 0 8px rgba(0, 255, 0, 0.2);
+        }
+
+        /* Scrollbar Styling */
+        .chat-area::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .chat-area::-webkit-scrollbar-track {
+            background: #000;
+        }
+
+        .chat-area::-webkit-scrollbar-thumb {
+            background: #1a4d2e;
+            border-radius: 3px;
+        }
+
+        .chat-area::-webkit-scrollbar-thumb:hover {
+            background: #2d5a3d;
+        }
+
+        /* Loading Animation */
+        .loading {
+            display: flex;
+            gap: 4px;
+            align-items: center;
+        }
+
+        .loading span {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #00ff00;
+            animation: bounce 1.4s infinite;
+        }
+
+        .loading span:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .loading span:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+        @keyframes bounce {
+            0%, 80%, 100% {
+                opacity: 0.5;
+            }
+            40% {
+                opacity: 1;
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header {
+                padding: 12px 16px;
+            }
+
+            .app-title {
+                font-size: 16px;
+            }
+
+            .chat-area {
+                padding: 16px;
+            }
+
+            .bubble {
+                max-width: 85%;
+            }
+
+            .input-area {
+                padding: 12px 16px 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <div class="header">
+            <div class="header-left">
+                <svg class="header-logo" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <!-- Simple Byte logo -->
+                    <rect x="10" y="10" width="30" height="30" fill="#00ff00" opacity="0.8"/>
+                    <rect x="45" y="10" width="30" height="30" fill="#00ff00" opacity="0.6"/>
+                    <rect x="10" y="45" width="30" height="30" fill="#00ff00" opacity="0.6"/>
+                    <rect x="45" y="45" width="30" height="30" fill="#00ff00" opacity="0.8"/>
+                </svg>
+                <span class="app-title">Byte AI 2.75 "Killo" (DAT)</span>
+            </div>
+            <div class="header-right">
+                <button class="mode-switch" title="Switch Modes">⚙️</button>
+                <div class="user-profile">
+                    <div class="avatar"></div>
+                    <span>User</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chat Area -->
+        <div class="chat-area">
+            <div id="messages" class="messages"></div>
+        </div>
+
+        <!-- Input Area -->
+        <div class="input-area">
+            <input
+                type="text"
+                id="queryInput"
+                placeholder="Type Here!"
+                autocomplete="off"
+            >
+        </div>
+    </div>
+
+    <script>
+        // Killo 2.75 DAT - Browser Version
+
+        const messagesDiv = document.getElementById('messages');
+        const queryInput = document.getElementById('queryInput');
+
+        // DAT Cache (localStorage)
+        const DAT_CACHE_KEY = 'killo_dat_cache';
+        let datCache = JSON.parse(localStorage.getItem(DAT_CACHE_KEY)) || {};
+
+        // Hardcoded responses
+        const simpleResponses = {
+            'hello': "Hi there! How can I help you?",
+            'hi': "Hey! What would you like to know?",
+            'hey': "Hello! What's on your mind?",
+            'greetings': "Greetings! Ask me anything.",
+            'good morning': "Good morning! What can I assist with?",
+            'good afternoon': "Good afternoon! What do you need?",
+            'good evening': "Good evening! How can I help?",
+            'good night': "Good night! Sleep well.",
+            'goodbye': "Goodbye! See you later!",
+            'bye': "Bye! Take care!",
+            'see you': "See you later!",
+            'farewell': "Farewell! Come back soon!",
+            'quit': "Goodbye!",
+            'exit': "Goodbye!",
+            'help': "I'm Killo 2.75 DAT! Ask me about anything. If I don't know, I'll learn from Wikipedia!",
+            'who are you': "I'm Killo 2.75, an AI knowledge bot with Dynamic Automatic Training (DAT)!",
+            'what are you': "I'm Killo 2.75, an AI knowledge bot with Dynamic Automatic Training (DAT)!",
+            'who am i': "You're a curious person! What would you like to learn?",
+            'how are you': "I'm doing great! How can I help you?",
+            'thanks': "You're welcome!",
+            'thank you': "You're welcome!",
+            'ok': "Great! Anything else?",
+            'okay': "Great! Anything else?",
+            'yes': "Excellent! What else?",
+            'no': "No problem! Ask me anything else.",
+            'sure': "Absolutely! What would you like to know?"
+        };
+
+        // Math evaluation
+        function evaluateMath(query) {
+            const queryLower = query.toLowerCase().trim();
+
+            // Word-based math
+            const mathWords = {
+                'plus': '+',
+                'add': '+',
+                'minus': '-',
+                'subtract': '-',
+                'times': '*',
+                'multiply': '*',
+                'divided by': '/',
+                'divide': '/',
+                'to the power of': '**',
+                'power': '**',
+                'squared': '**2',
+                'cubed': '**3',
+                'modulo': '%',
+                'mod': '%'
+            };
+
+            let expr = null;
+
+            // "what is X" pattern
+            if (queryLower.startsWith('what is ') || queryLower.startsWith('calculate ')) {
+                expr = queryLower.replace('what is ', '').replace('calculate ', '');
+
+                for (const [word, symbol] of Object.entries(mathWords)) {
+                    expr = expr.replace(word, symbol);
+                }
+                expr = expr.replace(/\^/g, '**').trim();
+            }
+
+            // Direct expression
+            else if (/[+\-*/%^()]/.test(query)) {
+                expr = query.replace(/\^/g, '**');
+            }
+
+            if (expr) {
+                try {
+                    // Safe evaluation with Math functions
+                    const result = Function('"use strict"; return (' + expr + ')')();
+                    if (typeof result === 'number') {
+                        return result % 1 === 0 ? String(result) : result.toFixed(2);
+                    }
+                } catch (e) {
+                    // Invalid expression
+                }
+            }
+
+            return null;
+        }
+
+        // Check simple response
+        function checkSimpleResponse(query) {
+            const queryLower = query.toLowerCase().trim();
+
+            // 1. Math first
+            const mathResult = evaluateMath(query);
+            if (mathResult) return mathResult;
+
+            // 2. Exact match
+            if (queryLower in simpleResponses) {
+                return simpleResponses[queryLower];
+            }
+
+            // 3. Word boundary match for single words, substring for multi-word
+            for (const [key, response] of Object.entries(simpleResponses)) {
+                const words = key.split(' ');
+                if (words.length > 1) {
+                    // Multi-word: substring match
+                    if (queryLower.includes(key)) return response;
+                } else {
+                    // Single word: word boundary match
+                    const regex = new RegExp(`\\b${key}\\b`);
+                    if (regex.test(queryLower)) return response;
+                }
+            }
+
+            return null;
+        }
+
+        // Time & date responses
+        function getTimeDate(query) {
+            const queryLower = query.toLowerCase();
+            const now = new Date();
+            const timeStr = now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' });
+            const dateStr = now.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
+
+            if (queryLower.includes('time') && queryLower.includes('date')) {
+                return `It's ${timeStr} on ${dateStr}`;
+            } else if (queryLower.includes('time') || queryLower === 'time') {
+                return `It's ${timeStr}`;
+            } else if (queryLower.includes('date') || queryLower === 'date' || queryLower === 'today') {
+                return `Today is ${dateStr}`;
+            }
+            return null;
+        }
+
+        // Learn from Wikipedia
+        async function learnFromWikipedia(query) {
+            const cacheKey = query.toLowerCase().replace(/\s+/g, '_').replace(/[()]/g, '');
+
+            // Check cache first
+            if (cacheKey in datCache) {
+                return datCache[cacheKey];
+            }
+
+            try {
+                // Search Wikipedia
+                const searchUrl = new URL('https://en.wikipedia.org/w/api.php');
+                searchUrl.searchParams.set('action', 'query');
+                searchUrl.searchParams.set('format', 'json');
+                searchUrl.searchParams.set('list', 'search');
+                searchUrl.searchParams.set('srsearch', query);
+                searchUrl.searchParams.set('srlimit', '1');
+
+                const searchRes = await fetch(searchUrl, { method: 'GET' });
+                const searchData = await searchRes.json();
+
+                if (!searchData.query?.search?.[0]) return null;
+
+                const title = searchData.query.search[0].title;
+
+                // Fetch article
+                const fetchUrl = new URL('https://en.wikipedia.org/w/api.php');
+                fetchUrl.searchParams.set('action', 'query');
+                fetchUrl.searchParams.set('format', 'json');
+                fetchUrl.searchParams.set('titles', title);
+                fetchUrl.searchParams.set('prop', 'extracts');
+                fetchUrl.searchParams.set('explaintext', 'true');
+
+                const fetchRes = await fetch(fetchUrl, { method: 'GET' });
+                const fetchData = await fetchRes.json();
+
+                const page = Object.values(fetchData.query.pages)[0];
+                if (!page.extract) return null;
+
+                // Extract sentences
+                const sentences = [];
+                const text = page.extract;
+                const paragraphs = text.split('\n\n');
+
+                for (const para of paragraphs) {
+                    if (para.length < 20) continue;
+                    const sent = para.split(/(?<=[.!?])\s+/);
+
+                    for (const s of sent) {
+                        if (s.length > 10 && s.length < 300) {
+                            if (!s.startsWith('See also') && !s.startsWith('References')) {
+                                sentences.push(s);
+                                if (sentences.length >= 5) break;
+                            }
+                        }
+                    }
+                    if (sentences.length >= 5) break;
+                }
+
+                if (sentences.length === 0) return null;
+
+                // Cache result
+                const result = { title, sentences, learned_at: new Date().toISOString() };
+                datCache[cacheKey] = result;
+                localStorage.setItem(DAT_CACHE_KEY, JSON.stringify(datCache));
+
+                return result;
+            } catch (error) {
+                console.error('Wikipedia error:', error);
+                return null;
+            }
+        }
+
+        // Send message
+        async function sendMessage() {
+            const message = queryInput.value.trim();
+            if (!message) return;
+
+            queryInput.value = '';
+            queryInput.focus();
+
+            // Add user message
+            addMessage(message, 'user');
+
+            // Show loading
+            const loadingDiv = document.createElement('div');
+            loadingDiv.className = 'message bot';
+            loadingDiv.innerHTML = '<div class="label">Byte</div><div class="bubble"><div class="loading"><span></span><span></span><span></span></div></div>';
+            messagesDiv.appendChild(loadingDiv);
+            scrollToBottom();
+
+            try {
+                // 1. Simple response
+                let response = checkSimpleResponse(message);
+                if (!response) {
+                    response = getTimeDate(message);
+                }
+
+                if (response) {
+                    loadingDiv.remove();
+                    addMessage(response, 'bot');
+                } else {
+                    // 2. Wikipedia DAT
+                    const learned = await learnFromWikipedia(message);
+                    loadingDiv.remove();
+
+                    if (learned) {
+                        const answer = learned.sentences.join('\n\n');
+                        addMessage(answer, 'bot');
+                    } else {
+                        addMessage("❌ I don't know that. Try asking something else!", 'bot');
+                    }
+                }
+            } catch (error) {
+                loadingDiv.remove();
+                addMessage('❌ Error: ' + error.message, 'bot');
+            }
+
+            scrollToBottom();
+        }
+
+        // Add message to chat
+        function addMessage(content, type) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${type}`;
+
+            const label = document.createElement('div');
+            label.className = 'label';
+            label.textContent = type === 'user' ? 'You' : 'Byte';
+
+            const bubble = document.createElement('div');
+            bubble.className = 'bubble';
+            bubble.textContent = content;
+
+            messageDiv.appendChild(label);
+            messageDiv.appendChild(bubble);
+            messagesDiv.appendChild(messageDiv);
+        }
+
+        function scrollToBottom() {
+            setTimeout(() => {
+                messagesDiv.scrollTop = messagesDiv.scrollHeight;
+            }, 0);
+        }
+
+        // Event listeners
+        queryInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                sendMessage();
+            }
+        });
+
+        // Welcome message
+        window.addEventListener('load', () => {
+            addMessage("Hi! I'm Killo 2.75 DAT\n\nTry: math expressions, \"what time is it\", or ask me anything!", 'bot');
+            queryInput.focus();
+        });
+    </script>
+</body>
+</html>
